@@ -1,0 +1,1934 @@
+[
+  [
+    "206",
+    "Flashbang"
+  ],
+  [
+    "207",
+    "Fire Shot"
+  ],
+  [
+    "208",
+    "Poison Shot"
+  ],
+  [
+    "215",
+    "Flare"
+  ],
+  [
+    "504",
+    "Melee AP Enhancer"
+  ],
+  [
+    "505",
+    "Ranged AP Enhancer"
+  ],
+  [
+    "506",
+    "Magic AP Enhancer"
+  ],
+  [
+    "507",
+    "Melee Damage Reducer"
+  ],
+  [
+    "508",
+    "Ranged Damage Reducer"
+  ],
+  [
+    "509",
+    "Magic Damage Reducer"
+  ],
+  [
+    "512",
+    "Grapple Resistance Enhancer"
+  ],
+  [
+    "513",
+    "Instant HP Potion (Small)"
+  ],
+  [
+    "514",
+    "Instant HP Potion (Medium)"
+  ],
+  [
+    "515",
+    "Instant MP Potion (Small)"
+  ],
+  [
+    "516",
+    "Instant MP Potion (Medium)"
+  ],
+  [
+    "517",
+    "HP Potion (Small)"
+  ],
+  [
+    "518",
+    "HP Potion (Medium)"
+  ],
+  [
+    "519",
+    "HP Potion (Large)"
+  ],
+  [
+    "520",
+    "MP Potion (Small)"
+  ],
+  [
+    "521",
+    "MP Potion (Medium)"
+  ],
+  [
+    "522",
+    "MP Potion (Large)"
+  ],
+  [
+    "523",
+    "Accuracy Enhancer"
+  ],
+  [
+    "524",
+    "HP Potion (Extra Large)"
+  ],
+  [
+    "526",
+    "MP Potion (Extra Large)"
+  ],
+  [
+    "528",
+    "Instant HP Potion (Large)"
+  ],
+  [
+    "529",
+    "Instant HP Potion (Extra Large)"
+  ],
+  [
+    "531",
+    "Instant MP Potion (Large)"
+  ],
+  [
+    "532",
+    "Instant MP Potion (Extra Large)"
+  ],
+  [
+    "566",
+    "Grain Juice"
+  ],
+  [
+    "567",
+    "Concentrated Grain Juice"
+  ],
+  [
+    "568",
+    "Highly Concentrated Grain Juice"
+  ],
+  [
+    "569",
+    "Herbal Juice"
+  ],
+  [
+    "570",
+    "Concentrated Herbal Juice"
+  ],
+  [
+    "571",
+    "Highly Concentrated Herbal Juice"
+  ],
+  [
+    "575",
+    "Whale Tendon Potion"
+  ],
+  [
+    "576",
+    "Superior Whale Tendon Potion"
+  ],
+  [
+    "578",
+    "Refined Grain Juice"
+  ],
+  [
+    "579",
+    "Refined Herbal Juice"
+  ],
+  [
+    "586",
+    "Energy Potion (Small)"
+  ],
+  [
+    "587",
+    "Energy Potion (Medium)"
+  ],
+  [
+    "588",
+    "Energy Potion (Large)"
+  ],
+  [
+    "589",
+    "Energy Potion (Extra Large)"
+  ],
+  [
+    "591",
+    "WP Potion (Small)"
+  ],
+  [
+    "592",
+    "WP Potion (Medium)"
+  ],
+  [
+    "593",
+    "WP Potion (Large)"
+  ],
+  [
+    "594",
+    "WP Potion (Extra Large)"
+  ],
+  [
+    "595",
+    "SP Potion (Small)"
+  ],
+  [
+    "596",
+    "SP Potion (Medium)"
+  ],
+  [
+    "597",
+    "SP Potion (Large)"
+  ],
+  [
+    "598",
+    "SP Potion (Extra Large)"
+  ],
+  [
+    "601",
+    "[Party] Elixir of Amity"
+  ],
+  [
+    "602",
+    "[Party] Improved Elixir of Amity"
+  ],
+  [
+    "605",
+    "[Party] Resurrection Elixir"
+  ],
+  [
+    "606",
+    "[Party] Strong Resurrection Elixir"
+  ],
+  [
+    "607",
+    "[Party] Elixir of Human Hunt"
+  ],
+  [
+    "608",
+    "[Party] Elixir of Perfect Human Hunt"
+  ],
+  [
+    "609",
+    "[Party] Elixir of Frenzy"
+  ],
+  [
+    "610",
+    "[Party] Elixir of Endless Frenzy"
+  ],
+  [
+    "611",
+    "[Party] Golden Hand Elixir"
+  ],
+  [
+    "612",
+    "[Party] Glorious Golden Hand Elixir"
+  ],
+  [
+    "613",
+    "[Party] Elixir of Draining"
+  ],
+  [
+    "614",
+    "[Party] Elixir of Strong Draining"
+  ],
+  [
+    "615",
+    "[Party] Elixir of Demihuman Hunt"
+  ],
+  [
+    "616",
+    "[Party] Fierce Demihuman Hunting Elixir"
+  ],
+  [
+    "617",
+    "[Party] Elixir of Perforation"
+  ],
+  [
+    "618",
+    "[Party] Elixir of Brutal Perforation"
+  ],
+  [
+    "619",
+    "[Party] Elixir of Energy"
+  ],
+  [
+    "620",
+    "[Party] Surging Energy Elixir"
+  ],
+  [
+    "621",
+    "[Party] Elixir of Wings"
+  ],
+  [
+    "622",
+    "[Party] Soaring Wings Elixir"
+  ],
+  [
+    "623",
+    "[Party] Elixir of Death"
+  ],
+  [
+    "624",
+    "[Party] Brutal Death Elixir"
+  ],
+  [
+    "625",
+    "[Party] Elixir of Wind"
+  ],
+  [
+    "626",
+    "[Party] Elixir of Flowing Wind"
+  ],
+  [
+    "627",
+    "[Party] Elixir of Swiftness"
+  ],
+  [
+    "628",
+    "[Party] Elixir of Intrepid Swiftness"
+  ],
+  [
+    "629",
+    "[Party] Elixir of Spells"
+  ],
+  [
+    "630",
+    "[Party] Elixir of Agile Spells"
+  ],
+  [
+    "631",
+    "[Party] Elixir of Seal"
+  ],
+  [
+    "632",
+    "[Party] Agile Seal Elixir"
+  ],
+  [
+    "633",
+    "[Party] Elixir of Assassination"
+  ],
+  [
+    "634",
+    "[Party] Elixir of Lethal Assassin"
+  ],
+  [
+    "635",
+    "[Party] Elixir of Detection"
+  ],
+  [
+    "636",
+    "[Party] Elixir of Sharp Detection"
+  ],
+  [
+    "637",
+    "[Party] Elixir of Concentration"
+  ],
+  [
+    "638",
+    "[Party] Elixir of Advanced Concentration"
+  ],
+  [
+    "639",
+    "[Party] Elixir of Will"
+  ],
+  [
+    "640",
+    "[Party] Elixir of Remarkable Will"
+  ],
+  [
+    "641",
+    "[Party] Elixir of Fury"
+  ],
+  [
+    "642",
+    "[Party] Elixir of Endless Fury"
+  ],
+  [
+    "643",
+    "[Party] Elixir of Resistance"
+  ],
+  [
+    "644",
+    "[Party] Elixir of Sharp Resistance"
+  ],
+  [
+    "645",
+    "[Party] Elixir of Life"
+  ],
+  [
+    "646",
+    "[Party] Elixir of Strong Life"
+  ],
+  [
+    "647",
+    "[Party] Elixir of Mentality"
+  ],
+  [
+    "648",
+    "[Party] Elixir of Clear Mentality"
+  ],
+  [
+    "649",
+    "[Party] Grim Reaper's Elixir"
+  ],
+  [
+    "650",
+    "[Party] Grim Soul Reaper's Elixir"
+  ],
+  [
+    "651",
+    "[Party] EXP Elixir"
+  ],
+  [
+    "652",
+    "[Party] Splendid EXP Elixir"
+  ],
+  [
+    "653",
+    "[Party] Defense Elixir"
+  ],
+  [
+    "654",
+    "[Party] Elixir of Steel Defense"
+  ],
+  [
+    "655",
+    "[Party] Elixir of Carnage"
+  ],
+  [
+    "656",
+    "[Party] Elixir of Brutal Carnage"
+  ],
+  [
+    "657",
+    "[Party] Elixir of Sky"
+  ],
+  [
+    "658",
+    "[Party] Merciless Sky Elixir"
+  ],
+  [
+    "659",
+    "[Party] Elixir of Endurance"
+  ],
+  [
+    "660",
+    "[Party] Elixir of Overwhelming Endurance"
+  ],
+  [
+    "661",
+    "[Party] Worker's Elixir"
+  ],
+  [
+    "662",
+    "[Party] Skilled Worker's Elixir"
+  ],
+  [
+    "663",
+    "[Party] Fisher's Elixir"
+  ],
+  [
+    "664",
+    "Elixir of Amity"
+  ],
+  [
+    "665",
+    "Improved Elixir of Amity"
+  ],
+  [
+    "668",
+    "Resurrection Elixir"
+  ],
+  [
+    "669",
+    "Strong Resurrection Elixir"
+  ],
+  [
+    "670",
+    "Elixir of Human Hunt"
+  ],
+  [
+    "671",
+    "Elixir of Perfect Human Hunt"
+  ],
+  [
+    "672",
+    "Elixir of Frenzy"
+  ],
+  [
+    "673",
+    "Elixir of Endless Frenzy"
+  ],
+  [
+    "674",
+    "Golden Hand Elixir"
+  ],
+  [
+    "675",
+    "Glorious Golden Hand Elixir"
+  ],
+  [
+    "676",
+    "Elixir of Draining"
+  ],
+  [
+    "677",
+    "Elixir of Strong Draining"
+  ],
+  [
+    "678",
+    "Elixir of Demihuman Hunt"
+  ],
+  [
+    "679",
+    "Fierce Demihuman Hunting Elixir"
+  ],
+  [
+    "680",
+    "Elixir of Perforation"
+  ],
+  [
+    "681",
+    "Elixir of Brutal Perforation"
+  ],
+  [
+    "682",
+    "Elixir of Energy"
+  ],
+  [
+    "683",
+    "Surging Energy Elixir"
+  ],
+  [
+    "684",
+    "Elixir of Wings"
+  ],
+  [
+    "685",
+    "Soaring Wings Elixir"
+  ],
+  [
+    "686",
+    "Elixir of Death"
+  ],
+  [
+    "687",
+    "Brutal Death Elixir"
+  ],
+  [
+    "688",
+    "Elixir of Wind"
+  ],
+  [
+    "689",
+    "Elixir of Flowing Wind"
+  ],
+  [
+    "690",
+    "Elixir of Swiftness"
+  ],
+  [
+    "691",
+    "Elixir of Intrepid Swiftness"
+  ],
+  [
+    "692",
+    "Elixir of Spells"
+  ],
+  [
+    "693",
+    "Elixir of Agile Spells"
+  ],
+  [
+    "694",
+    "Elixir of Seal"
+  ],
+  [
+    "695",
+    "Agile Seal Elixir"
+  ],
+  [
+    "696",
+    "Elixir of Assassination"
+  ],
+  [
+    "697",
+    "Elixir of Lethal Assassin"
+  ],
+  [
+    "698",
+    "Elixir of Detection"
+  ],
+  [
+    "699",
+    "Elixir of Sharp Detection"
+  ],
+  [
+    "700",
+    "Elixir of Concentration"
+  ],
+  [
+    "701",
+    "Elixir of Advanced Concentration"
+  ],
+  [
+    "702",
+    "Elixir of Will"
+  ],
+  [
+    "703",
+    "Elixir of Remarkable Will"
+  ],
+  [
+    "704",
+    "Elixir of Fury"
+  ],
+  [
+    "705",
+    "Elixir of Endless Fury"
+  ],
+  [
+    "706",
+    "Elixir of Resistance"
+  ],
+  [
+    "707",
+    "Elixir of Sharp Resistance"
+  ],
+  [
+    "708",
+    "Elixir of Life"
+  ],
+  [
+    "709",
+    "Elixir of Strong Life"
+  ],
+  [
+    "710",
+    "Elixir of Mentality"
+  ],
+  [
+    "711",
+    "Elixir of Clear Mentality"
+  ],
+  [
+    "712",
+    "Grim Reaper's Elixir"
+  ],
+  [
+    "713",
+    "Grim Soul Reaper's Elixir"
+  ],
+  [
+    "714",
+    "EXP Elixir"
+  ],
+  [
+    "715",
+    "Splendid EXP Elixir"
+  ],
+  [
+    "716",
+    "Defense Elixir"
+  ],
+  [
+    "717",
+    "Elixir of Steel Defense"
+  ],
+  [
+    "718",
+    "Elixir of Carnage"
+  ],
+  [
+    "719",
+    "Elixir of Brutal Carnage"
+  ],
+  [
+    "720",
+    "Elixir of Sky"
+  ],
+  [
+    "721",
+    "Merciless Sky Elixir"
+  ],
+  [
+    "722",
+    "Elixir of Endurance"
+  ],
+  [
+    "723",
+    "Elixir of Overwhelming Endurance"
+  ],
+  [
+    "724",
+    "Worker's Elixir"
+  ],
+  [
+    "725",
+    "Skilled Worker's Elixir"
+  ],
+  [
+    "726",
+    "Fisher's Elixir"
+  ],
+  [
+    "727",
+    "Skilled Fisher's Elixir"
+  ],
+  [
+    "728",
+    "Elixir of Burn Removal"
+  ],
+  [
+    "729",
+    "Antidote Elixir"
+  ],
+  [
+    "730",
+    "Elixir of Hemostasis"
+  ],
+  [
+    "732",
+    "Whale Tendon Elixir"
+  ],
+  [
+    "733",
+    "Tough Whale Tendon Elixir"
+  ],
+  [
+    "734",
+    "Perfume of Courage"
+  ],
+  [
+    "735",
+    "Perfume of Swiftness"
+  ],
+  [
+    "736",
+    "[Party] Skilled Fisher's Elixir"
+  ],
+  [
+    "737",
+    "[Party] Elixir of Burn Removal"
+  ],
+  [
+    "738",
+    "[Party] Antidote Elixir"
+  ],
+  [
+    "739",
+    "[Party] Elixir of Hemostasis"
+  ],
+  [
+    "740",
+    "Griffon's Elixir"
+  ],
+  [
+    "741",
+    "Strong Griffon's Elixir"
+  ],
+  [
+    "744",
+    "[Party] Griffon's Elixir"
+  ],
+  [
+    "745",
+    "[Party] Strong Griffon's Elixir"
+  ],
+  [
+    "748",
+    "Khalk's Elixir"
+  ],
+  [
+    "749",
+    "Elixir of Time"
+  ],
+  [
+    "750",
+    "Elixir of Flowing Time"
+  ],
+  [
+    "751",
+    "[Party] Elixir of Time"
+  ],
+  [
+    "752",
+    "[Party] Elixir of Flowing Time"
+  ],
+  [
+    "753",
+    "Elixir of Training"
+  ],
+  [
+    "754",
+    "Elixir of Expert Training"
+  ],
+  [
+    "755",
+    "[Party] Elixir of Training"
+  ],
+  [
+    "756",
+    "[Party] Elixir of Expert Training"
+  ],
+  [
+    "761",
+    "Marking Reagent"
+  ],
+  [
+    "762",
+    "Elixir of Shock"
+  ],
+  [
+    "763",
+    "Elixir of Strong Shock"
+  ],
+  [
+    "764",
+    "[Party] Elixir of Shock"
+  ],
+  [
+    "765",
+    "[Party] Elixir of Strong Shock"
+  ],
+  [
+    "766",
+    "[Mix] EXP-Reaper Elixir"
+  ],
+  [
+    "767",
+    "[Mix] Time-Training Elixir"
+  ],
+  [
+    "768",
+    "[Mix] Swiftness-Wind-Spell Elixir"
+  ],
+  [
+    "769",
+    "[Mix] Manhunt-Rage Elixir"
+  ],
+  [
+    "770",
+    "[Mix] Thorn-Defense Elixir"
+  ],
+  [
+    "771",
+    "Elixir of Deep Sea"
+  ],
+  [
+    "773",
+    "Weenie Elixir"
+  ],
+  [
+    "774",
+    "Surging Weenie Elixir"
+  ],
+  [
+    "775",
+    "[Party] Weenie Elixir"
+  ],
+  [
+    "776",
+    "[Party] Surging Weenie Elixir"
+  ],
+  [
+    "777",
+    "Looney Elixir"
+  ],
+  [
+    "778",
+    "Reliable Looney Elixir"
+  ],
+  [
+    "779",
+    "[Party] Looney Elixir"
+  ],
+  [
+    "780",
+    "[Party] Reliable Looney Elixir"
+  ],
+  [
+    "781",
+    "Spirit Perfume Elixir"
+  ],
+  [
+    "782",
+    "Helix Elixir"
+  ],
+  [
+    "783",
+    "Splendid Helix Elixir"
+  ],
+  [
+    "784",
+    "[Party] Helix Elixir"
+  ],
+  [
+    "785",
+    "[Party] Splendid Helix Elixir"
+  ],
+  [
+    "791",
+    "Verdure Draught"
+  ],
+  [
+    "792",
+    "Beast's Draught"
+  ],
+  [
+    "793",
+    "Giant's Draught"
+  ],
+  [
+    "794",
+    "Savage Draught"
+  ],
+  [
+    "795",
+    "Frenzy Draught"
+  ],
+  [
+    "796",
+    "Celerity Draught"
+  ],
+  [
+    "797",
+    "Unbridled Celerity Draught"
+  ],
+  [
+    "798",
+    "Armor Draught"
+  ],
+  [
+    "1152",
+    "Elixir of Skill"
+  ],
+  [
+    "1154",
+    "Elixir of Infinite Skill"
+  ],
+  [
+    "1155",
+    "Elixir of Mastery"
+  ],
+  [
+    "1156",
+    "Elixir of Labor"
+  ],
+  [
+    "1157",
+    "Elixir of Armor"
+  ],
+  [
+    "1158",
+    "Elixir of Improved Mastery"
+  ],
+  [
+    "1159",
+    "Elixir of Rough Labor"
+  ],
+  [
+    "1160",
+    "Elixir of Corrupted Armor"
+  ],
+  [
+    "1161",
+    "Perfume of Charm"
+  ],
+  [
+    "6394",
+    "Chowder"
+  ],
+  [
+    "6395",
+    "Elixir of Regeneration"
+  ],
+  [
+    "7918",
+    "Fragrant Jerky"
+  ],
+  [
+    "7919",
+    "Well-Dried Jerky"
+  ],
+  [
+    "7920",
+    "Rare Jerky"
+  ],
+  [
+    "9201",
+    "Fruit Wine"
+  ],
+  [
+    "9202",
+    "Pickled Vegetables"
+  ],
+  [
+    "9203",
+    "Cheese Gratin"
+  ],
+  [
+    "9204",
+    "Aloe Yogurt"
+  ],
+  [
+    "9205",
+    "Aloe Cookie"
+  ],
+  [
+    "9206",
+    "Honey Wine"
+  ],
+  [
+    "9207",
+    "Sute Tea"
+  ],
+  [
+    "9208",
+    "Fish Fillet Chips"
+  ],
+  [
+    "9209",
+    "Assorted Side Dishes"
+  ],
+  [
+    "9210",
+    "High-Quality Carrot Juice"
+  ],
+  [
+    "9211",
+    "Special Carrot Juice"
+  ],
+  [
+    "9213",
+    "Beer"
+  ],
+  [
+    "9214",
+    "Teff Bread"
+  ],
+  [
+    "9215",
+    "Freekeh Snake Stew"
+  ],
+  [
+    "9216",
+    "Fig Pie"
+  ],
+  [
+    "9217",
+    "Pistachio Fried Rice"
+  ],
+  [
+    "9218",
+    "Teff Sandwich"
+  ],
+  [
+    "9219",
+    "Date Palm Wine"
+  ],
+  [
+    "9220",
+    "Couscous"
+  ],
+  [
+    "9241",
+    "Stir-Fried Vegetables"
+  ],
+  [
+    "9255",
+    "Grain Soup"
+  ],
+  [
+    "9256",
+    "Fried Vegetables"
+  ],
+  [
+    "9257",
+    "Fruit Juice"
+  ],
+  [
+    "9258",
+    "Fruit and Vegetable Salad"
+  ],
+  [
+    "9259",
+    "Fruit Pudding"
+  ],
+  [
+    "9260",
+    "Soft Bread"
+  ],
+  [
+    "9261",
+    "Oatmeal"
+  ],
+  [
+    "9262",
+    "Exotic Herbal Wine"
+  ],
+  [
+    "9263",
+    "Milk Tea"
+  ],
+  [
+    "9264",
+    "Fruit Pie"
+  ],
+  [
+    "9265",
+    "Meat Pie"
+  ],
+  [
+    "9266",
+    "Honeycomb Cookie"
+  ],
+  [
+    "9267",
+    "Ham Sandwich"
+  ],
+  [
+    "9268",
+    "Cheese Pie"
+  ],
+  [
+    "9269",
+    "Omelet"
+  ],
+  [
+    "9270",
+    "Tea With Fine Scent"
+  ],
+  [
+    "9271",
+    "Crispy Fried Vegetables"
+  ],
+  [
+    "9273",
+    "High-Quality Cheese Pie"
+  ],
+  [
+    "9274",
+    "Special Fruit Pudding"
+  ],
+  [
+    "9275",
+    "Special Grain Soup"
+  ],
+  [
+    "9276",
+    "Refined Oatmeal"
+  ],
+  [
+    "9277",
+    "Smooth Milk Tea"
+  ],
+  [
+    "9278",
+    "Thick Fruit Juice"
+  ],
+  [
+    "9279",
+    "Full-bodied Exotic Herbal Wine"
+  ],
+  [
+    "9280",
+    "Luscious Fruit Wine"
+  ],
+  [
+    "9281",
+    "Sweet and Sour Pickled Vegetable"
+  ],
+  [
+    "9282",
+    "Chewy Cheese Gratin"
+  ],
+  [
+    "9283",
+    "Cold Draft Beer"
+  ],
+  [
+    "9284",
+    "Crispy Stir-Fried Vegetables"
+  ],
+  [
+    "9285",
+    "Fresh Fruit and Vegetable Salad"
+  ],
+  [
+    "9286",
+    "Moist Milk Bread"
+  ],
+  [
+    "9287",
+    "Sweet Fruit Pie"
+  ],
+  [
+    "9288",
+    "Lean Meat Pie"
+  ],
+  [
+    "9289",
+    "Crispy Honeycomb Cookie"
+  ],
+  [
+    "9290",
+    "High-Quality Ham Sandwich"
+  ],
+  [
+    "9291",
+    "Soft Omelet"
+  ],
+  [
+    "9292",
+    "Tea with Strong Scent"
+  ],
+  [
+    "9293",
+    "Thick Aloe Yogurt"
+  ],
+  [
+    "9294",
+    "Sweet Aloe Cookie"
+  ],
+  [
+    "9295",
+    "Tangy Honey Wine"
+  ],
+  [
+    "9296",
+    "Healthy Sute Tea"
+  ],
+  [
+    "9297",
+    "Mouth-watering Fish Fillet Chips"
+  ],
+  [
+    "9298",
+    "Plentiful Assorted Side Dishes"
+  ],
+  [
+    "9299",
+    "Spongy Teff Bread"
+  ],
+  [
+    "9300",
+    "Thick Freekeh Snake Stew"
+  ],
+  [
+    "9301",
+    "Sweet Fig Pie"
+  ],
+  [
+    "9302",
+    "Savory Pistachio Fried Rice"
+  ],
+  [
+    "9303",
+    "Spicy Teff Sandwich"
+  ],
+  [
+    "9304",
+    "Mild Date Palm Wine"
+  ],
+  [
+    "9305",
+    "Classic Couscous"
+  ],
+  [
+    "9306",
+    "Star Anise Tea"
+  ],
+  [
+    "9307",
+    "Coconut Cocktail"
+  ],
+  [
+    "9308",
+    "Coconut Pasta"
+  ],
+  [
+    "9309",
+    "Coconut Fried Fish"
+  ],
+  [
+    "9310",
+    "Chilled Coconut Cocktail"
+  ],
+  [
+    "9311",
+    "Sweet Coconut Pasta"
+  ],
+  [
+    "9312",
+    "Crispy Coconut Fried Fish"
+  ],
+  [
+    "9313",
+    "Spirit Essence of Wind"
+  ],
+  [
+    "9314",
+    "Spirit Essence of Earth"
+  ],
+  [
+    "9315",
+    "Spirit Essence of Water"
+  ],
+  [
+    "9316",
+    "Rainbow Button Mushroom Sandwich"
+  ],
+  [
+    "9317",
+    "Sweet Rainbow Button Mushroom Sandwich"
+  ],
+  [
+    "9318",
+    "Stir-Fried Bracken"
+  ],
+  [
+    "9319",
+    "Savory Stir-Fried Bracken"
+  ],
+  [
+    "9321",
+    "Carrot Confit"
+  ],
+  [
+    "9323",
+    "Delotia Tart"
+  ],
+  [
+    "9324",
+    "High-Quality Delotia Tart"
+  ],
+  [
+    "9325",
+    "Delotia Pudding"
+  ],
+  [
+    "9326",
+    "Blood Red Delotia Pudding"
+  ],
+  [
+    "9327",
+    "Delotia Juice"
+  ],
+  [
+    "9328",
+    "Chilled Delotia Juice"
+  ],
+  [
+    "9329",
+    "Delotia Milk Tea"
+  ],
+  [
+    "9330",
+    "Fragrant Delotia Milk Tea"
+  ],
+  [
+    "9331",
+    "Stir-Fried Bird"
+  ],
+  [
+    "9332",
+    "Savory Stir-Fried Bird"
+  ],
+  [
+    "9333",
+    "Stir-Fried Bracken and Meat"
+  ],
+  [
+    "9334",
+    "Light Stir-Fried Bracken and Meat"
+  ],
+  [
+    "9335",
+    "Chicken Breast Salad"
+  ],
+  [
+    "9336",
+    "Fresh Chicken Breast Salad"
+  ],
+  [
+    "9337",
+    "Frank Sandwich"
+  ],
+  [
+    "9338",
+    "High-Quality Frank Sandwich"
+  ],
+  [
+    "9401",
+    "Steak"
+  ],
+  [
+    "9402",
+    "Boiled Bird Eggs"
+  ],
+  [
+    "9403",
+    "Fried Bird"
+  ],
+  [
+    "9404",
+    "Meat Croquette"
+  ],
+  [
+    "9405",
+    "Steamed Bird"
+  ],
+  [
+    "9406",
+    "Lizard Kebab"
+  ],
+  [
+    "9407",
+    "Fried Fish"
+  ],
+  [
+    "9408",
+    "Borscht"
+  ],
+  [
+    "9409",
+    "Steamed Fish"
+  ],
+  [
+    "9410",
+    "Desert Dumpling"
+  ],
+  [
+    "9411",
+    "Steamed Seafood"
+  ],
+  [
+    "9412",
+    "Pickled Fish"
+  ],
+  [
+    "9413",
+    "Seafood Pasta"
+  ],
+  [
+    "9414",
+    "Meat Stew"
+  ],
+  [
+    "9415",
+    "Meat Sandwich"
+  ],
+  [
+    "9416",
+    "Meat Pasta"
+  ],
+  [
+    "9417",
+    "Smoked Fish Steak"
+  ],
+  [
+    "9418",
+    "Fish Soup"
+  ],
+  [
+    "9419",
+    "Seafood Mushroom Salad"
+  ],
+  [
+    "9420",
+    "Stir-Fried Seafood"
+  ],
+  [
+    "9421",
+    "Seafood Grilled with Butter"
+  ],
+  [
+    "9422",
+    "Dark Pudding"
+  ],
+  [
+    "9423",
+    "Fish Fillet Salad"
+  ],
+  [
+    "9424",
+    "Meat Soup"
+  ],
+  [
+    "9425",
+    "Lean Meat Salad"
+  ],
+  [
+    "9426",
+    "Stir-Fried Meat"
+  ],
+  [
+    "9427",
+    "Grilled Sausage"
+  ],
+  [
+    "9428",
+    "Special Fish Soup"
+  ],
+  [
+    "9429",
+    "Crispy Fried Fish"
+  ],
+  [
+    "9430",
+    "Juicy Steak"
+  ],
+  [
+    "9431",
+    "Smoked Sausage"
+  ],
+  [
+    "9432",
+    "Special Stir-Fried Meat"
+  ],
+  [
+    "9433",
+    "Savory Seafood Grilled with Butter"
+  ],
+  [
+    "9434",
+    "Special Meat Soup"
+  ],
+  [
+    "9435",
+    "Top Grade Lean Meat Salad"
+  ],
+  [
+    "9436",
+    "Appealing Boiled Bird Egg"
+  ],
+  [
+    "9437",
+    "Divine Fried Bird"
+  ],
+  [
+    "9438",
+    "Crispy Meat Croquette"
+  ],
+  [
+    "9439",
+    "Lean Steamed Fish"
+  ],
+  [
+    "9440",
+    "Plentiful Steamed Seafood"
+  ],
+  [
+    "9441",
+    "High-Quality Seafood Pasta"
+  ],
+  [
+    "9442",
+    "Thick Meat Stew"
+  ],
+  [
+    "9443",
+    "High-Quality Meat Sandwich"
+  ],
+  [
+    "9444",
+    "Spaghetti alla Bolognese"
+  ],
+  [
+    "9445",
+    "Golden Smoked Fish Steak"
+  ],
+  [
+    "9446",
+    "Special Seafood Mushroom Salad"
+  ],
+  [
+    "9447",
+    "Special Stir-Fried Seafood"
+  ],
+  [
+    "9448",
+    "Bloody Dark Pudding"
+  ],
+  [
+    "9449",
+    "Fresh Fish Fillet Salad"
+  ],
+  [
+    "9450",
+    "Well-aged Steamed Bird"
+  ],
+  [
+    "9451",
+    "Lean Lizard Kebab"
+  ],
+  [
+    "9452",
+    "Fragrant Borscht"
+  ],
+  [
+    "9453",
+    "Chewy Desert Dumpling"
+  ],
+  [
+    "9454",
+    "Sour Pickled Fish"
+  ],
+  [
+    "9455",
+    "Steamed Whale Meat"
+  ],
+  [
+    "9456",
+    "Whale Meat Salad"
+  ],
+  [
+    "9457",
+    "Chewy Steamed Whale Meat"
+  ],
+  [
+    "9458",
+    "Fresh Whale Meat Salad"
+  ],
+  [
+    "9459",
+    "Hunter's Salad"
+  ],
+  [
+    "9460",
+    "Fresh Hunter's Salad"
+  ],
+  [
+    "9461",
+    "Grilled Scorpion"
+  ],
+  [
+    "9462",
+    "Crispy Grilled Scorpion"
+  ],
+  [
+    "9463",
+    "King of Jungle Hamburg"
+  ],
+  [
+    "9464",
+    "Jumbo King of Jungle Hamburg"
+  ],
+  [
+    "9469",
+    "Khalk's Fermented Wine"
+  ],
+  [
+    "9470",
+    "Khalk's Strong Fermented Wine"
+  ],
+  [
+    "9471",
+    "Prawn Salad"
+  ],
+  [
+    "9472",
+    "Sweet and Sour Prawn Salad"
+  ],
+  [
+    "9473",
+    "Steamed Prawn"
+  ],
+  [
+    "9474",
+    "Hearty Steamed Prawn"
+  ],
+  [
+    "9475",
+    "Pan-Fried Oyster"
+  ],
+  [
+    "9476",
+    "Aromatic Pan-Fried Oyster"
+  ],
+  [
+    "9477",
+    "Butter-Roasted Lobster"
+  ],
+  [
+    "9478",
+    "Golden Butter-Roasted Lobster"
+  ],
+  [
+    "9479",
+    "Hard-Boiled Shellfish"
+  ],
+  [
+    "9480",
+    "Big Hard-Boiled Shellfish"
+  ],
+  [
+    "9483",
+    "Rainbow Button Mushroom Cheese Melt"
+  ],
+  [
+    "9484",
+    "Mild Rainbow Button Mushroom Cheese Melt"
+  ],
+  [
+    "9486",
+    "Ghormeh Sabzi"
+  ],
+  [
+    "9487",
+    "Thick Ghormeh Sabzi"
+  ],
+  [
+    "9488",
+    "Roast Marmot"
+  ],
+  [
+    "9489",
+    "Golden Roast Marmot"
+  ],
+  [
+    "9490",
+    "Skewered Llama Cheese Melt"
+  ],
+  [
+    "9491",
+    "Spicy Skewered Llama Cheese Melt"
+  ],
+  [
+    "9492",
+    "Grilled Bird Meat"
+  ],
+  [
+    "9493",
+    "Steaming Hot Grilled Bird Meat"
+  ],
+  [
+    "9494",
+    "Five-Grain Chicken Porridge"
+  ],
+  [
+    "9495",
+    "Thick Five-Grain Chicken Porridge"
+  ],
+  [
+    "9496",
+    "Savory Steak"
+  ],
+  [
+    "9601",
+    "Balenos Meal"
+  ],
+  [
+    "9602",
+    "Special Balenos Meal"
+  ],
+  [
+    "9603",
+    "Serendia Meal"
+  ],
+  [
+    "9604",
+    "Special Serendia Meal"
+  ],
+  [
+    "9605",
+    "Calpheon Meal"
+  ],
+  [
+    "9606",
+    "Special Calpheon Meal"
+  ],
+  [
+    "9607",
+    "Mediah Meal"
+  ],
+  [
+    "9608",
+    "Special Mediah Meal"
+  ],
+  [
+    "9609",
+    "Valencia Meal"
+  ],
+  [
+    "9610",
+    "Special Valencia Meal"
+  ],
+  [
+    "9631",
+    "Knight Combat Rations"
+  ],
+  [
+    "9632",
+    "Special Arehaza Meal"
+  ],
+  [
+    "9634",
+    "Margoria Seafood Meal"
+  ],
+  [
+    "9635",
+    "Kamasylvia Meal"
+  ],
+  [
+    "9636",
+    "Special Kamasylvia Meal"
+  ],
+  [
+    "9637",
+    "Special Drieghanese Meal"
+  ],
+  [
+    "9638",
+    "O'dyllita Meal"
+  ],
+  [
+    "9639",
+    "Special O'dyllita Meal"
+  ],
+  [
+    "9691",
+    "Seafood Cron Meal"
+  ],
+  [
+    "9692",
+    "Simple Cron Meal"
+  ],
+  [
+    "9693",
+    "Exquisite Cron Meal"
+  ],
+  [
+    "9701",
+    "Paste Bait"
+  ],
+  [
+    "9702",
+    "High-Quality Paste Bait"
+  ],
+  [
+    "16017",
+    "Traveler's Map"
+  ],
+  [
+    "16242",
+    "Sealed Golden Treasure Chest"
+  ],
+  [
+    "16380",
+    "[Combat] Trina Lead Bullet"
+  ],
+  [
+    "40218",
+    "Ancient Relic Crystal Shard"
+  ],
+  [
+    "40220",
+    "Forbidden Book"
+  ],
+  [
+    "40228",
+    "Scroll Written in Ancient Language"
+  ],
+  [
+    "40258",
+    "Black Spirit's Claw Piece"
+  ],
+  [
+    "40383",
+    "Manshaum Voodoo Doll"
+  ],
+  [
+    "40543",
+    "Fragment of the Deep Sea"
+  ],
+  [
+    "40545",
+    "Ancient Creature's Scale"
+  ],
+  [
+    "40547",
+    "Ancient Seal – Red Shard"
+  ],
+  [
+    "40548",
+    "Ancient Seal – Black Shard"
+  ],
+  [
+    "43786",
+    "Remnants of the Rift"
+  ],
+  [
+    "44165",
+    "Silver Key"
+  ],
+  [
+    "44280",
+    "Ancient Power - Red Shard"
+  ],
+  [
+    "44281",
+    "Ancient Power - Black Shard"
+  ],
+  [
+    "44286",
+    "Part for Explorer's Compass"
+  ],
+  [
+    "56001",
+    "Sturdy Barricade"
+  ],
+  [
+    "56003",
+    "Cannonball"
+  ],
+  [
+    "56007",
+    "Flame Cannonball"
+  ],
+  [
+    "56009",
+    "Bomb"
+  ],
+  [
+    "56014",
+    "Stun Trap"
+  ],
+  [
+    "56015",
+    "Flame Trap"
+  ],
+  [
+    "56016",
+    "Venom Trap"
+  ],
+  [
+    "56017",
+    "Ankle Trap"
+  ],
+  [
+    "757031",
+    "Fiery Celerity Draught"
+  ],
+  [
+    "757032",
+    "Stonetail Wind's Meal"
+  ]
+]

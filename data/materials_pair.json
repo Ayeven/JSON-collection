@@ -1,0 +1,3826 @@
+[
+  [
+    "212",
+    "Capturing Rope"
+  ],
+  [
+    "1178",
+    "Corrupt Oil of Immortality"
+  ],
+  [
+    "4001",
+    "Iron Ore"
+  ],
+  [
+    "4002",
+    "Lead Ore"
+  ],
+  [
+    "4003",
+    "Copper Ore"
+  ],
+  [
+    "4004",
+    "Tin Ore"
+  ],
+  [
+    "4005",
+    "Zinc Ore"
+  ],
+  [
+    "4006",
+    "Rough Stone"
+  ],
+  [
+    "4007",
+    "Coal"
+  ],
+  [
+    "4008",
+    "Vanadium Ore"
+  ],
+  [
+    "4009",
+    "Titanium Ore"
+  ],
+  [
+    "4010",
+    "Sulfur"
+  ],
+  [
+    "4011",
+    "Noc Ore"
+  ],
+  [
+    "4013",
+    "Nickel Ore"
+  ],
+  [
+    "4051",
+    "Melted Iron Shard"
+  ],
+  [
+    "4052",
+    "Iron Ingot"
+  ],
+  [
+    "4053",
+    "Pure Iron Crystal"
+  ],
+  [
+    "4054",
+    "Melted Lead Shard"
+  ],
+  [
+    "4055",
+    "Lead Ingot"
+  ],
+  [
+    "4056",
+    "Pure Lead Crystal"
+  ],
+  [
+    "4057",
+    "Melted Copper Shard"
+  ],
+  [
+    "4058",
+    "Copper Ingot"
+  ],
+  [
+    "4059",
+    "Pure Copper Crystal"
+  ],
+  [
+    "4060",
+    "Melted Tin Shard"
+  ],
+  [
+    "4061",
+    "Tin Ingot"
+  ],
+  [
+    "4062",
+    "Pure Tin Crystal"
+  ],
+  [
+    "4063",
+    "Melted Zinc Shard"
+  ],
+  [
+    "4064",
+    "Zinc Ingot"
+  ],
+  [
+    "4065",
+    "Pure Zinc Crystal"
+  ],
+  [
+    "4066",
+    "Brass Ingot"
+  ],
+  [
+    "4067",
+    "Bronze Ingot"
+  ],
+  [
+    "4068",
+    "Polished Stone"
+  ],
+  [
+    "4070",
+    "Processed Coal"
+  ],
+  [
+    "4076",
+    "Metal Solvent"
+  ],
+  [
+    "4077",
+    "Steel"
+  ],
+  [
+    "4078",
+    "Melted Vanadium Shard"
+  ],
+  [
+    "4079",
+    "Vanadium Ingot"
+  ],
+  [
+    "4080",
+    "Pure Vanadium Crystal"
+  ],
+  [
+    "4081",
+    "Melted Titanium Shard"
+  ],
+  [
+    "4082",
+    "Titanium Ingot"
+  ],
+  [
+    "4083",
+    "Pure Titanium Crystal"
+  ],
+  [
+    "4084",
+    "Margoria Dark Iron"
+  ],
+  [
+    "4085",
+    "Melted Noc Shard"
+  ],
+  [
+    "4086",
+    "Noc Ingot"
+  ],
+  [
+    "4087",
+    "Pure Noc Crystal"
+  ],
+  [
+    "4088",
+    "Melted Nickel Shard"
+  ],
+  [
+    "4089",
+    "Nickel Ingot"
+  ],
+  [
+    "4090",
+    "Pure Nickel Crystal"
+  ],
+  [
+    "4201",
+    "Silver Ore"
+  ],
+  [
+    "4202",
+    "Gold Ore"
+  ],
+  [
+    "4203",
+    "Platinum Ore"
+  ],
+  [
+    "4204",
+    "Rough Opal"
+  ],
+  [
+    "4206",
+    "Mythril"
+  ],
+  [
+    "4251",
+    "Melted Silver Shard"
+  ],
+  [
+    "4252",
+    "Silver Ingot"
+  ],
+  [
+    "4253",
+    "Pure Silver Crystal"
+  ],
+  [
+    "4254",
+    "Melted Gold Shard"
+  ],
+  [
+    "4255",
+    "Gold Ingot"
+  ],
+  [
+    "4256",
+    "Pure Gold Crystal"
+  ],
+  [
+    "4257",
+    "Melted Platinum Shard"
+  ],
+  [
+    "4258",
+    "Platinum Ingot"
+  ],
+  [
+    "4259",
+    "Pure Platinum Crystal"
+  ],
+  [
+    "4260",
+    "Polished Opal"
+  ],
+  [
+    "4262",
+    "Melted Mythril Shard"
+  ],
+  [
+    "4263",
+    "Mythril Ingot"
+  ],
+  [
+    "4264",
+    "Pure Mythril Crystal"
+  ],
+  [
+    "4265",
+    "Brilliant Opal"
+  ],
+  [
+    "4266",
+    "Moonlight Opal"
+  ],
+  [
+    "4267",
+    "Black Gold Ingot"
+  ],
+  [
+    "4269",
+    "Jade Coral Ingot"
+  ],
+  [
+    "4401",
+    "Rough Ruby"
+  ],
+  [
+    "4402",
+    "Rough Sapphire"
+  ],
+  [
+    "4403",
+    "Rough Topaz"
+  ],
+  [
+    "4404",
+    "Rough Emerald"
+  ],
+  [
+    "4405",
+    "Rough Diamond"
+  ],
+  [
+    "4406",
+    "Rough Translucent Crystal"
+  ],
+  [
+    "4407",
+    "Rough Mud Crystal"
+  ],
+  [
+    "4408",
+    "Rough Red Crystal"
+  ],
+  [
+    "4409",
+    "Rough Green Crystal"
+  ],
+  [
+    "4410",
+    "Rough Black Crystal"
+  ],
+  [
+    "4411",
+    "Rough Blue Crystal"
+  ],
+  [
+    "4412",
+    "Rough Violet Crystal"
+  ],
+  [
+    "4413",
+    "Rough Lapis Lazuli"
+  ],
+  [
+    "4451",
+    "Ruby"
+  ],
+  [
+    "4452",
+    "Resplendent Ruby"
+  ],
+  [
+    "4453",
+    "Blood Ruby"
+  ],
+  [
+    "4454",
+    "Sapphire"
+  ],
+  [
+    "4455",
+    "Resplendent Sapphire"
+  ],
+  [
+    "4456",
+    "Ocean Sapphire"
+  ],
+  [
+    "4457",
+    "Topaz"
+  ],
+  [
+    "4458",
+    "Resplendent Topaz"
+  ],
+  [
+    "4459",
+    "Gold Topaz"
+  ],
+  [
+    "4460",
+    "Emerald"
+  ],
+  [
+    "4461",
+    "Resplendent Emerald"
+  ],
+  [
+    "4462",
+    "Forest Emerald"
+  ],
+  [
+    "4463",
+    "Diamond"
+  ],
+  [
+    "4464",
+    "Resplendent Diamond"
+  ],
+  [
+    "4465",
+    "Star Diamond"
+  ],
+  [
+    "4466",
+    "Translucent Crystal"
+  ],
+  [
+    "4467",
+    "Mud Crystal"
+  ],
+  [
+    "4468",
+    "Red Crystal"
+  ],
+  [
+    "4469",
+    "Green Crystal"
+  ],
+  [
+    "4470",
+    "Black Crystal"
+  ],
+  [
+    "4476",
+    "Red Coral"
+  ],
+  [
+    "4477",
+    "Blue Coral"
+  ],
+  [
+    "4478",
+    "Twilight Red Coral"
+  ],
+  [
+    "4479",
+    "Daybreak Blue Coral"
+  ],
+  [
+    "4481",
+    "Gem Polisher"
+  ],
+  [
+    "4483",
+    "Blue Crystal"
+  ],
+  [
+    "4485",
+    "Violet Crystal"
+  ],
+  [
+    "4490",
+    "Lapis Lazuli"
+  ],
+  [
+    "4491",
+    "Resplendent Lapis Lazuli"
+  ],
+  [
+    "4492",
+    "Indigo Lapis Lazuli"
+  ],
+  [
+    "4601",
+    "Ash Timber"
+  ],
+  [
+    "4602",
+    "Maple Timber"
+  ],
+  [
+    "4603",
+    "Pine Timber"
+  ],
+  [
+    "4604",
+    "Birch Timber"
+  ],
+  [
+    "4605",
+    "Log"
+  ],
+  [
+    "4606",
+    "Fir Timber"
+  ],
+  [
+    "4607",
+    "Cedar Timber"
+  ],
+  [
+    "4608",
+    "White Cedar Timber"
+  ],
+  [
+    "4609",
+    "Acacia Timber"
+  ],
+  [
+    "4610",
+    "Palm Timber"
+  ],
+  [
+    "4611",
+    "Elder Tree Timber"
+  ],
+  [
+    "4612",
+    "Cactus Rind"
+  ],
+  [
+    "4613",
+    "Old Tree Branch"
+  ],
+  [
+    "4614",
+    "Moss Tree Timber"
+  ],
+  [
+    "4615",
+    "Loopy Tree Timber"
+  ],
+  [
+    "4616",
+    "Thuja Timber"
+  ],
+  [
+    "4619",
+    "Thornwood Timber"
+  ],
+  [
+    "4651",
+    "Ash Plank"
+  ],
+  [
+    "4652",
+    "Ash Plywood"
+  ],
+  [
+    "4653",
+    "Sturdy Ash Plywood"
+  ],
+  [
+    "4654",
+    "Maple Plank"
+  ],
+  [
+    "4655",
+    "Maple Plywood"
+  ],
+  [
+    "4656",
+    "Sturdy Maple Plywood"
+  ],
+  [
+    "4657",
+    "Pine Plank"
+  ],
+  [
+    "4658",
+    "Pine Plywood"
+  ],
+  [
+    "4659",
+    "Sturdy Pine Plywood"
+  ],
+  [
+    "4660",
+    "Birch Plank"
+  ],
+  [
+    "4661",
+    "Birch Plywood"
+  ],
+  [
+    "4662",
+    "Sturdy Birch Plywood"
+  ],
+  [
+    "4663",
+    "Fir Plank"
+  ],
+  [
+    "4664",
+    "Fir Plywood"
+  ],
+  [
+    "4665",
+    "Sturdy Fir Plywood"
+  ],
+  [
+    "4666",
+    "Cedar Plank"
+  ],
+  [
+    "4667",
+    "Cedar Plywood"
+  ],
+  [
+    "4668",
+    "Sturdy Cedar Plywood"
+  ],
+  [
+    "4669",
+    "Usable Scantling"
+  ],
+  [
+    "4670",
+    "Palm Plank"
+  ],
+  [
+    "4671",
+    "Palm Plywood"
+  ],
+  [
+    "4672",
+    "Sturdy Palm Plywood"
+  ],
+  [
+    "4673",
+    "Elder Tree Plank"
+  ],
+  [
+    "4674",
+    "Elder Tree Plywood"
+  ],
+  [
+    "4675",
+    "Sturdy Elder Tree Plywood"
+  ],
+  [
+    "4676",
+    "White Cedar Plank"
+  ],
+  [
+    "4677",
+    "White Cedar Plywood"
+  ],
+  [
+    "4678",
+    "Sturdy White Cedar Plywood"
+  ],
+  [
+    "4680",
+    "Acacia Plank"
+  ],
+  [
+    "4681",
+    "Acacia Plywood"
+  ],
+  [
+    "4682",
+    "Sturdy Acacia Plywood"
+  ],
+  [
+    "4683",
+    "Cactus Thorn"
+  ],
+  [
+    "4684",
+    "Plywood Hardener"
+  ],
+  [
+    "4685",
+    "Standardized Timber Square"
+  ],
+  [
+    "4686",
+    "Sturdy Timber Square"
+  ],
+  [
+    "4687",
+    "Hard Pillar"
+  ],
+  [
+    "4688",
+    "Ship Repair Material"
+  ],
+  [
+    "4689",
+    "Ship Repair Kit"
+  ],
+  [
+    "4691",
+    "Pine Coated Plywood"
+  ],
+  [
+    "4694",
+    "Moss Tree Plank"
+  ],
+  [
+    "4695",
+    "Moss Tree Plywood"
+  ],
+  [
+    "4696",
+    "Sturdy Moss Tree Plywood"
+  ],
+  [
+    "4697",
+    "Loopy Tree Plank"
+  ],
+  [
+    "4698",
+    "Loopy Tree Plywood"
+  ],
+  [
+    "4699",
+    "Sturdy Loopy Tree Plywood"
+  ],
+  [
+    "4700",
+    "Emergency Ship Repair Kit"
+  ],
+  [
+    "4701",
+    "Thuja Plank"
+  ],
+  [
+    "4702",
+    "Thuja Plywood"
+  ],
+  [
+    "4703",
+    "Sturdy Thuja Plywood"
+  ],
+  [
+    "4710",
+    "Thornwood Plank"
+  ],
+  [
+    "4711",
+    "Thornwood Plywood"
+  ],
+  [
+    "4712",
+    "Sturdy Thornwood Plywood"
+  ],
+  [
+    "4801",
+    "Powder of Darkness"
+  ],
+  [
+    "4802",
+    "Powder of Flame"
+  ],
+  [
+    "4803",
+    "Powder of Crevice"
+  ],
+  [
+    "4804",
+    "Powder of Earth"
+  ],
+  [
+    "4805",
+    "Powder of Time"
+  ],
+  [
+    "4901",
+    "Black Stone Powder"
+  ],
+  [
+    "4902",
+    "Alluvial Gold"
+  ],
+  [
+    "4903",
+    "Empty Crystal"
+  ],
+  [
+    "4917",
+    "Forest Fury"
+  ],
+  [
+    "5001",
+    "Ash Sap"
+  ],
+  [
+    "5002",
+    "Maple Sap"
+  ],
+  [
+    "5003",
+    "Pine Sap"
+  ],
+  [
+    "5004",
+    "Birch Sap"
+  ],
+  [
+    "5005",
+    "Bloody Tree Knot"
+  ],
+  [
+    "5006",
+    "Spirit's Leaf"
+  ],
+  [
+    "5007",
+    "Monk's Branch"
+  ],
+  [
+    "5008",
+    "Old Tree Bark"
+  ],
+  [
+    "5009",
+    "Fir Sap"
+  ],
+  [
+    "5010",
+    "Cedar Sap"
+  ],
+  [
+    "5011",
+    "Red Tree Lump"
+  ],
+  [
+    "5012",
+    "White Cedar Sap"
+  ],
+  [
+    "5013",
+    "Acacia Sap"
+  ],
+  [
+    "5014",
+    "Elder Tree Sap"
+  ],
+  [
+    "5015",
+    "Palm Sap"
+  ],
+  [
+    "5016",
+    "Cactus Sap"
+  ],
+  [
+    "5017",
+    "Moss Tree Sap"
+  ],
+  [
+    "5018",
+    "Loopy Tree Sap"
+  ],
+  [
+    "5019",
+    "Dead Tree Essence"
+  ],
+  [
+    "5020",
+    "Thuja Sap"
+  ],
+  [
+    "5023",
+    "Thornwood Sap"
+  ],
+  [
+    "5201",
+    "Fruit of Crimson Flame"
+  ],
+  [
+    "5202",
+    "Essence of Crimson Flame"
+  ],
+  [
+    "5203",
+    "Fruit of Abundance"
+  ],
+  [
+    "5204",
+    "Essence of Abundance"
+  ],
+  [
+    "5205",
+    "Fruit of Nature"
+  ],
+  [
+    "5206",
+    "Essence of Nature"
+  ],
+  [
+    "5207",
+    "Fruit of the Sun"
+  ],
+  [
+    "5208",
+    "Essence of the Sun"
+  ],
+  [
+    "5209",
+    "Fruit of Enchantment"
+  ],
+  [
+    "5210",
+    "Essence of Enchantment"
+  ],
+  [
+    "5211",
+    "Fruit of Magic Power"
+  ],
+  [
+    "5212",
+    "Essence of Magic Power"
+  ],
+  [
+    "5213",
+    "Fruit of Perfection"
+  ],
+  [
+    "5214",
+    "Essence of Perfection"
+  ],
+  [
+    "5215",
+    "Fruit of Destruction"
+  ],
+  [
+    "5216",
+    "Essence of Destruction"
+  ],
+  [
+    "5217",
+    "Deep Sea Fruit"
+  ],
+  [
+    "5301",
+    "Clear Liquid Reagent"
+  ],
+  [
+    "5302",
+    "Pure Powder Reagent"
+  ],
+  [
+    "5401",
+    "Sunrise Herb"
+  ],
+  [
+    "5402",
+    "Silver Azalea"
+  ],
+  [
+    "5403",
+    "Fire Flake Flower"
+  ],
+  [
+    "5404",
+    "Dry Mane Grass"
+  ],
+  [
+    "5405",
+    "Silk Honey Grass"
+  ],
+  [
+    "5406",
+    "Everlasting Herb"
+  ],
+  [
+    "5407",
+    "Fortune Teller Mushroom"
+  ],
+  [
+    "5408",
+    "Arrow Mushroom"
+  ],
+  [
+    "5409",
+    "Dwarf Mushroom"
+  ],
+  [
+    "5410",
+    "Cloud Mushroom"
+  ],
+  [
+    "5411",
+    "Sky Mushroom"
+  ],
+  [
+    "5412",
+    "Tiger Mushroom"
+  ],
+  [
+    "5413",
+    "Emperor Mushroom"
+  ],
+  [
+    "5414",
+    "Ghost Mushroom"
+  ],
+  [
+    "5415",
+    "Fog Mushroom"
+  ],
+  [
+    "5416",
+    "Hump Mushroom"
+  ],
+  [
+    "5417",
+    "Bluffer Mushroom"
+  ],
+  [
+    "5418",
+    "Ancient Mushroom"
+  ],
+  [
+    "5419",
+    "Amanita Mushroom"
+  ],
+  [
+    "5420",
+    "Truffle Mushroom"
+  ],
+  [
+    "5421",
+    "Pile of Sunrise Herbs"
+  ],
+  [
+    "5422",
+    "Bunch of Silver Azaleas"
+  ],
+  [
+    "5423",
+    "Bunch of Fire Flake Flowers"
+  ],
+  [
+    "5424",
+    "Bunch of Dry Mane Grass"
+  ],
+  [
+    "5425",
+    "Bunch of Silk Honey Grass"
+  ],
+  [
+    "5426",
+    "Big Fortune Teller Mushroom"
+  ],
+  [
+    "5427",
+    "Big Arrow Mushroom"
+  ],
+  [
+    "5428",
+    "Big Dwarf Mushroom"
+  ],
+  [
+    "5429",
+    "Big Cloud Mushroom"
+  ],
+  [
+    "5430",
+    "Big Sky Mushroom"
+  ],
+  [
+    "5431",
+    "Big Tiger Mushroom"
+  ],
+  [
+    "5432",
+    "Big Emperor Mushroom"
+  ],
+  [
+    "5433",
+    "Big Ghost Mushroom"
+  ],
+  [
+    "5434",
+    "Big Fog Mushroom"
+  ],
+  [
+    "5435",
+    "Big Hump Mushroom"
+  ],
+  [
+    "5436",
+    "Big Bluffer Mushroom"
+  ],
+  [
+    "5437",
+    "Big Ancient Mushroom"
+  ],
+  [
+    "5438",
+    "Big Amanita Mushroom"
+  ],
+  [
+    "5439",
+    "Wild Grass"
+  ],
+  [
+    "5440",
+    "Insectivore Plant Flower"
+  ],
+  [
+    "5441",
+    "Insectivore Plant Leaf"
+  ],
+  [
+    "5442",
+    "Insectivore Plant Stalk"
+  ],
+  [
+    "5443",
+    "Insectivore Plant Root"
+  ],
+  [
+    "5444",
+    "High-Quality Sunrise Herb"
+  ],
+  [
+    "5445",
+    "High-Quality Silver Azalea"
+  ],
+  [
+    "5446",
+    "High-Quality Fire Flake Flower"
+  ],
+  [
+    "5447",
+    "High-Quality Dry Mane Grass"
+  ],
+  [
+    "5448",
+    "High-Quality Silk Honey Grass"
+  ],
+  [
+    "5450",
+    "High-Quality Fortune Teller Mushroom"
+  ],
+  [
+    "5451",
+    "High-Quality Arrow Mushroom"
+  ],
+  [
+    "5452",
+    "High-Quality Dwarf Mushroom"
+  ],
+  [
+    "5453",
+    "High-Quality Cloud Mushroom"
+  ],
+  [
+    "5454",
+    "High-Quality Sky Mushroom"
+  ],
+  [
+    "5455",
+    "High-Quality Tiger Mushroom"
+  ],
+  [
+    "5456",
+    "High-Quality Emperor Mushroom"
+  ],
+  [
+    "5457",
+    "High-Quality Ghost Mushroom"
+  ],
+  [
+    "5458",
+    "High-Quality Fog Mushroom"
+  ],
+  [
+    "5459",
+    "High-Quality Hump Mushroom"
+  ],
+  [
+    "5460",
+    "High-Quality Bluffer Mushroom"
+  ],
+  [
+    "5461",
+    "High-Quality Ancient Mushroom"
+  ],
+  [
+    "5462",
+    "High-Quality Amanita Mushroom"
+  ],
+  [
+    "5464",
+    "Special Sunrise Herb"
+  ],
+  [
+    "5465",
+    "Special Silver Azalea"
+  ],
+  [
+    "5466",
+    "Special Fire Flake Flower"
+  ],
+  [
+    "5467",
+    "Special Dry Mane Grass"
+  ],
+  [
+    "5468",
+    "Special Silk Honey Grass"
+  ],
+  [
+    "5470",
+    "Special Fortune Teller Mushroom"
+  ],
+  [
+    "5471",
+    "Special Arrow Mushroom"
+  ],
+  [
+    "5472",
+    "Special Dwarf Mushroom"
+  ],
+  [
+    "5473",
+    "Special Cloud Mushroom"
+  ],
+  [
+    "5474",
+    "Special Sky Mushroom"
+  ],
+  [
+    "5475",
+    "Special Tiger Mushroom"
+  ],
+  [
+    "5476",
+    "Special Emperor Mushroom"
+  ],
+  [
+    "5477",
+    "Special Ghost Mushroom"
+  ],
+  [
+    "5478",
+    "Special Fog Mushroom"
+  ],
+  [
+    "5479",
+    "Special Hump Mushroom"
+  ],
+  [
+    "5480",
+    "Special Bluffer Mushroom"
+  ],
+  [
+    "5481",
+    "Special Ancient Mushroom"
+  ],
+  [
+    "5482",
+    "Special Amanita Mushroom"
+  ],
+  [
+    "5484",
+    "Nolina"
+  ],
+  [
+    "5485",
+    "Penestraria"
+  ],
+  [
+    "5486",
+    "Dalvenia Alrea"
+  ],
+  [
+    "5487",
+    "Toxic Watermelon"
+  ],
+  [
+    "5488",
+    "Glossy Bone Piece"
+  ],
+  [
+    "5489",
+    "Bouquet Mushroom"
+  ],
+  [
+    "5490",
+    "Leccinum"
+  ],
+  [
+    "5491",
+    "Purple Mushroom"
+  ],
+  [
+    "5492",
+    "Pie Mushroom"
+  ],
+  [
+    "5493",
+    "Eyelash Cup"
+  ],
+  [
+    "5494",
+    "Star Anise Mushroom"
+  ],
+  [
+    "5495",
+    "Desert Herb"
+  ],
+  [
+    "5496",
+    "High-Quality Nolina"
+  ],
+  [
+    "5497",
+    "High-Quality Penestraria"
+  ],
+  [
+    "5498",
+    "High-Quality Dalvenia Alrea"
+  ],
+  [
+    "5499",
+    "High-Quality Bouquet Mushroom"
+  ],
+  [
+    "5500",
+    "High-Quality Leccinum"
+  ],
+  [
+    "5501",
+    "High-Quality Purple Mushroom"
+  ],
+  [
+    "5502",
+    "High-Quality Pie Mushroom"
+  ],
+  [
+    "5503",
+    "Special Nolina"
+  ],
+  [
+    "5504",
+    "Special Penestraria"
+  ],
+  [
+    "5505",
+    "Special Dalvenia Alrea"
+  ],
+  [
+    "5506",
+    "Special Bouquet Mushroom"
+  ],
+  [
+    "5507",
+    "Special Leccinum"
+  ],
+  [
+    "5508",
+    "Special Purple Mushroom"
+  ],
+  [
+    "5509",
+    "Special Pie Mushroom"
+  ],
+  [
+    "5515",
+    "Rainbow Button Mushroom"
+  ],
+  [
+    "5516",
+    "Blue Umbrella Mushroom"
+  ],
+  [
+    "5517",
+    "Volcanic Umbrella Mushroom"
+  ],
+  [
+    "5518",
+    "Pink Trumpet Mushroom"
+  ],
+  [
+    "5519",
+    "White Umbrella Mushroom"
+  ],
+  [
+    "5520",
+    "Green Pendulous Mushroom"
+  ],
+  [
+    "5521",
+    "White Flower Mushroom"
+  ],
+  [
+    "5522",
+    "Vedelona"
+  ],
+  [
+    "5523",
+    "Purple Pink Flower"
+  ],
+  [
+    "5524",
+    "Yellow Flower"
+  ],
+  [
+    "5525",
+    "Sky Blue Flower"
+  ],
+  [
+    "5526",
+    "Violet Flower"
+  ],
+  [
+    "5527",
+    "Blue Flower"
+  ],
+  [
+    "5528",
+    "Audria"
+  ],
+  [
+    "5529",
+    "Saffron"
+  ],
+  [
+    "5530",
+    "Hazel Tree Fruit"
+  ],
+  [
+    "5531",
+    "Mimosa Stalk"
+  ],
+  [
+    "5532",
+    "Bracken"
+  ],
+  [
+    "5536",
+    "High Quality Delotia"
+  ],
+  [
+    "5537",
+    "Special Delotia"
+  ],
+  [
+    "5538",
+    "Delotia"
+  ],
+  [
+    "5600",
+    "Weeds"
+  ],
+  [
+    "5601",
+    "Insectivore Plant Powder"
+  ],
+  [
+    "5602",
+    "Insectivore Plant Sap"
+  ],
+  [
+    "5603",
+    "Herbal Poison"
+  ],
+  [
+    "5604",
+    "Herbal Gunpowder"
+  ],
+  [
+    "5605",
+    "Delotia Powder"
+  ],
+  [
+    "5606",
+    "Refined Delotia Reagent"
+  ],
+  [
+    "5801",
+    "Cotton"
+  ],
+  [
+    "5802",
+    "Flax"
+  ],
+  [
+    "5803",
+    "Silkworm Cocoon"
+  ],
+  [
+    "5804",
+    "Fleece"
+  ],
+  [
+    "5851",
+    "Cotton Yarn"
+  ],
+  [
+    "5852",
+    "Flax Thread"
+  ],
+  [
+    "5853",
+    "Silk Thread"
+  ],
+  [
+    "5854",
+    "Knitting Yarn"
+  ],
+  [
+    "5855",
+    "Cotton Fabric"
+  ],
+  [
+    "5856",
+    "Flax Fabric"
+  ],
+  [
+    "5857",
+    "Silk"
+  ],
+  [
+    "5858",
+    "Wool"
+  ],
+  [
+    "5859",
+    "Tough Flax Fabric"
+  ],
+  [
+    "5860",
+    "Enhanced Flax Fabric"
+  ],
+  [
+    "5861",
+    "Sunset Dyed Wool"
+  ],
+  [
+    "5862",
+    "Scorched Fragment"
+  ],
+  [
+    "5863",
+    "Dusk Laden Cotton Fabric"
+  ],
+  [
+    "5864",
+    "Tear of the Great Ocean"
+  ],
+  [
+    "5865",
+    "Dawn Fallen Silk"
+  ],
+  [
+    "5870",
+    "Enlightened One's Cotton Fabric"
+  ],
+  [
+    "5951",
+    "Trace of Chaos"
+  ],
+  [
+    "5952",
+    "Trace of Despair"
+  ],
+  [
+    "5953",
+    "Trace of Wave"
+  ],
+  [
+    "5954",
+    "Trace of the Earth"
+  ],
+  [
+    "5955",
+    "Trace of Ascension"
+  ],
+  [
+    "5956",
+    "Trace of Savagery"
+  ],
+  [
+    "5957",
+    "Trace of Origin"
+  ],
+  [
+    "5958",
+    "Trace of Battle"
+  ],
+  [
+    "5959",
+    "Trace of Hunting"
+  ],
+  [
+    "5960",
+    "Trace of Forest"
+  ],
+  [
+    "5961",
+    "Trace of Violence"
+  ],
+  [
+    "5962",
+    "Trace of Death"
+  ],
+  [
+    "5963",
+    "Trace of Memory"
+  ],
+  [
+    "6001",
+    "Deer Hide"
+  ],
+  [
+    "6002",
+    "Sheep Hide"
+  ],
+  [
+    "6003",
+    "Fox Hide"
+  ],
+  [
+    "6004",
+    "Rhino Hide"
+  ],
+  [
+    "6005",
+    "Pig Hide"
+  ],
+  [
+    "6006",
+    "Ox Hide"
+  ],
+  [
+    "6008",
+    "Lizard Hide"
+  ],
+  [
+    "6009",
+    "Worm Hide"
+  ],
+  [
+    "6010",
+    "Raccoon Hide"
+  ],
+  [
+    "6012",
+    "Weasel Hide"
+  ],
+  [
+    "6013",
+    "Bear Hide"
+  ],
+  [
+    "6014",
+    "Wolf Hide"
+  ],
+  [
+    "6015",
+    "Waragon Hide"
+  ],
+  [
+    "6016",
+    "Cheetah Dragon Hide"
+  ],
+  [
+    "6017",
+    "Soft Kuku Bird Plume"
+  ],
+  [
+    "6018",
+    "Flamingo Plume"
+  ],
+  [
+    "6019",
+    "Snake Skin"
+  ],
+  [
+    "6020",
+    "Lion Hide"
+  ],
+  [
+    "6021",
+    "Feather Wolf Hide"
+  ],
+  [
+    "6022",
+    "Black Leopard Hide"
+  ],
+  [
+    "6023",
+    "Gazelle Hide"
+  ],
+  [
+    "6024",
+    "Griffon Feather"
+  ],
+  [
+    "6025",
+    "Soft Ferri Feather"
+  ],
+  [
+    "6026",
+    "Belladonna Elephant Hide"
+  ],
+  [
+    "6027",
+    "Yak Hide"
+  ],
+  [
+    "6028",
+    "Marmot Hide"
+  ],
+  [
+    "6029",
+    "Llama Hide"
+  ],
+  [
+    "6030",
+    "Goat Hide"
+  ],
+  [
+    "6031",
+    "Griffon Leather"
+  ],
+  [
+    "6151",
+    "Soft Hide"
+  ],
+  [
+    "6152",
+    "Tough Hide"
+  ],
+  [
+    "6153",
+    "Hard Hide"
+  ],
+  [
+    "6154",
+    "Thin Hide"
+  ],
+  [
+    "6155",
+    "Thick Fur"
+  ],
+  [
+    "6156",
+    "Fancy Reptile Skin"
+  ],
+  [
+    "6157",
+    "Lightweight Plume"
+  ],
+  [
+    "6158",
+    "Fancy Feather"
+  ],
+  [
+    "6159",
+    "Fine Soft Hide"
+  ],
+  [
+    "6160",
+    "Fine Tough Hide"
+  ],
+  [
+    "6161",
+    "Fine Hard Hide"
+  ],
+  [
+    "6162",
+    "Fine Thin Hide"
+  ],
+  [
+    "6163",
+    "Fine Thick Fur"
+  ],
+  [
+    "6164",
+    "Fine Fancy Reptile Skin"
+  ],
+  [
+    "6165",
+    "Fine Lightweight Plume"
+  ],
+  [
+    "6166",
+    "Fine Fancy Feather"
+  ],
+  [
+    "6167",
+    "Supreme Soft Hide"
+  ],
+  [
+    "6168",
+    "Supreme Tough Hide"
+  ],
+  [
+    "6169",
+    "Supreme Hard Hide"
+  ],
+  [
+    "6170",
+    "Supreme Thin Hide"
+  ],
+  [
+    "6171",
+    "Supreme Thick Fur"
+  ],
+  [
+    "6172",
+    "Supreme Fancy Reptile Skin"
+  ],
+  [
+    "6173",
+    "Supreme Lightweight Plume"
+  ],
+  [
+    "6174",
+    "Supreme Fancy Feather"
+  ],
+  [
+    "6183",
+    "Leather Glaze"
+  ],
+  [
+    "6185",
+    "Fire Horn"
+  ],
+  [
+    "6201",
+    "Deer Blood"
+  ],
+  [
+    "6202",
+    "Sheep Blood"
+  ],
+  [
+    "6203",
+    "Fox Blood"
+  ],
+  [
+    "6204",
+    "Rhino Blood"
+  ],
+  [
+    "6205",
+    "Pig Blood"
+  ],
+  [
+    "6206",
+    "Ox Blood"
+  ],
+  [
+    "6208",
+    "Lizard Blood"
+  ],
+  [
+    "6209",
+    "Worm Blood"
+  ],
+  [
+    "6210",
+    "Raccoon Blood"
+  ],
+  [
+    "6212",
+    "Weasel Blood"
+  ],
+  [
+    "6213",
+    "Bear Blood"
+  ],
+  [
+    "6214",
+    "Wolf Blood"
+  ],
+  [
+    "6215",
+    "Waragon Blood"
+  ],
+  [
+    "6216",
+    "Cheetah Dragon Blood"
+  ],
+  [
+    "6217",
+    "Kuku Bird Blood"
+  ],
+  [
+    "6218",
+    "Flamingo Blood"
+  ],
+  [
+    "6219",
+    "Bat Blood"
+  ],
+  [
+    "6220",
+    "Troll Blood"
+  ],
+  [
+    "6221",
+    "Ogre Blood"
+  ],
+  [
+    "6222",
+    "Cobra Blood"
+  ],
+  [
+    "6223",
+    "Lion Blood"
+  ],
+  [
+    "6224",
+    "Scorpion Blood"
+  ],
+  [
+    "6225",
+    "Yak Blood"
+  ],
+  [
+    "6226",
+    "Marmot Blood"
+  ],
+  [
+    "6227",
+    "Llama Blood"
+  ],
+  [
+    "6228",
+    "Goat Blood"
+  ],
+  [
+    "6351",
+    "Legendary Beast's Blood"
+  ],
+  [
+    "6352",
+    "Tyrant's Blood"
+  ],
+  [
+    "6353",
+    "Clown's Blood"
+  ],
+  [
+    "6354",
+    "Sinner's Blood"
+  ],
+  [
+    "6355",
+    "Wise Man's Blood"
+  ],
+  [
+    "6501",
+    "Coral Piece"
+  ],
+  [
+    "6504",
+    "Green Coral"
+  ],
+  [
+    "6505",
+    "Golden Coral"
+  ],
+  [
+    "6506",
+    "White Coral"
+  ],
+  [
+    "6515",
+    "Oyster"
+  ],
+  [
+    "6516",
+    "Shrimp"
+  ],
+  [
+    "6520",
+    "Dried Pearl Oyster Flesh"
+  ],
+  [
+    "6521",
+    "Dried Lobster"
+  ],
+  [
+    "6524",
+    "Prairie Green Coral"
+  ],
+  [
+    "6525",
+    "Golden Sun Coral"
+  ],
+  [
+    "6526",
+    "Breezy White Coral"
+  ],
+  [
+    "6527",
+    "Golden Pearl"
+  ],
+  [
+    "6528",
+    "Glue"
+  ],
+  [
+    "6533",
+    "Coral Crystal"
+  ],
+  [
+    "6535",
+    "Tridana Giant Clam Shellfish"
+  ],
+  [
+    "6601",
+    "Oil of Regeneration"
+  ],
+  [
+    "6602",
+    "Oil of Storms"
+  ],
+  [
+    "6603",
+    "Oil of Fortitude"
+  ],
+  [
+    "6604",
+    "Oil of Corruption"
+  ],
+  [
+    "6605",
+    "Oil of Tranquility"
+  ],
+  [
+    "6606",
+    "Oil of the Abyss"
+  ],
+  [
+    "6651",
+    "Distilled Water"
+  ],
+  [
+    "6652",
+    "Bottle of Sea Water"
+  ],
+  [
+    "6653",
+    "Bottle of River Water"
+  ],
+  [
+    "6656",
+    "Purified Water"
+  ],
+  [
+    "6657",
+    "Bag of Muddy Water"
+  ],
+  [
+    "6701",
+    "Pepper Seed"
+  ],
+  [
+    "6702",
+    "Garlic Seed"
+  ],
+  [
+    "6703",
+    "Onion Seed"
+  ],
+  [
+    "6704",
+    "Strawberry Seed"
+  ],
+  [
+    "6705",
+    "Hot Pepper Seed"
+  ],
+  [
+    "6706",
+    "Pumpkin Seed"
+  ],
+  [
+    "6707",
+    "Carrot Seed"
+  ],
+  [
+    "6708",
+    "High-Quality Strawberry Seed"
+  ],
+  [
+    "6709",
+    "Special Strawberry Seed"
+  ],
+  [
+    "6710",
+    "High-Quality Pepper Seed"
+  ],
+  [
+    "6711",
+    "High-Quality Garlic Seed"
+  ],
+  [
+    "6712",
+    "High-Quality Onion Seed"
+  ],
+  [
+    "6714",
+    "High-Quality Hot Pepper Seed"
+  ],
+  [
+    "6715",
+    "High-Quality Pumpkin Seed"
+  ],
+  [
+    "6716",
+    "High-Quality Carrot Seed"
+  ],
+  [
+    "6717",
+    "Special Pepper Seed"
+  ],
+  [
+    "6718",
+    "Special Garlic Seed"
+  ],
+  [
+    "6719",
+    "Special Onion Seed"
+  ],
+  [
+    "6721",
+    "Special Hot Pepper Seed"
+  ],
+  [
+    "6722",
+    "Special Pumpkin Seed"
+  ],
+  [
+    "6723",
+    "Special Carrot Seed"
+  ],
+  [
+    "6724",
+    "Flax Seed"
+  ],
+  [
+    "6728",
+    "Delotia Seed"
+  ],
+  [
+    "6729",
+    "High-Quality Delotia Seed"
+  ],
+  [
+    "6730",
+    "Special Delotia Seeds"
+  ],
+  [
+    "6801",
+    "Grape Seed"
+  ],
+  [
+    "6802",
+    "Sunflower Seed"
+  ],
+  [
+    "6803",
+    "Olive Seed"
+  ],
+  [
+    "6804",
+    "Tomato Seed"
+  ],
+  [
+    "6805",
+    "Paprika Seed"
+  ],
+  [
+    "6806",
+    "Seed Potato"
+  ],
+  [
+    "6807",
+    "Barley Seed"
+  ],
+  [
+    "6808",
+    "Wheat Seed"
+  ],
+  [
+    "6809",
+    "Corn Seed"
+  ],
+  [
+    "6810",
+    "Seed Sweet Potato"
+  ],
+  [
+    "6811",
+    "High-Quality Grape Seed"
+  ],
+  [
+    "6812",
+    "High-Quality Sunflower Seed"
+  ],
+  [
+    "6813",
+    "High-Quality Olive Seed"
+  ],
+  [
+    "6814",
+    "High-Quality Tomato Seed"
+  ],
+  [
+    "6815",
+    "High-Quality Paprika Seed"
+  ],
+  [
+    "6816",
+    "High-Quality Seed Potato"
+  ],
+  [
+    "6817",
+    "High-Quality Barley Seed"
+  ],
+  [
+    "6818",
+    "High-Quality Wheat Seed"
+  ],
+  [
+    "6819",
+    "High-Quality Corn Seed"
+  ],
+  [
+    "6820",
+    "High-Quality Seed Sweet Potato"
+  ],
+  [
+    "6821",
+    "Special Grape Seed"
+  ],
+  [
+    "6822",
+    "Special Sunflower Seed"
+  ],
+  [
+    "6823",
+    "Special Olive Seed"
+  ],
+  [
+    "6824",
+    "Special Tomato Seed"
+  ],
+  [
+    "6825",
+    "Special Paprika Seed"
+  ],
+  [
+    "6826",
+    "Special Seed Potato"
+  ],
+  [
+    "6827",
+    "Special Barley Seed"
+  ],
+  [
+    "6828",
+    "Special Wheat Seed"
+  ],
+  [
+    "6829",
+    "Special Corn Seed"
+  ],
+  [
+    "6830",
+    "Special Seed Sweet Potato"
+  ],
+  [
+    "6901",
+    "Sunrise Herb Seed"
+  ],
+  [
+    "6902",
+    "Silver Azalea Seed"
+  ],
+  [
+    "6903",
+    "Fire Flake Flower Seed"
+  ],
+  [
+    "6904",
+    "Dry Mane Grass Seed"
+  ],
+  [
+    "6905",
+    "Silk Honey Grass Seed"
+  ],
+  [
+    "6907",
+    "Fortune Teller Mushroom Hypha"
+  ],
+  [
+    "6908",
+    "Arrow Mushroom Hypha"
+  ],
+  [
+    "6909",
+    "Dwarf Mushroom Hypha"
+  ],
+  [
+    "6910",
+    "Cloud Mushroom Hypha"
+  ],
+  [
+    "6911",
+    "Sky Mushroom Hypha"
+  ],
+  [
+    "6912",
+    "Tiger Mushroom Hypha"
+  ],
+  [
+    "6913",
+    "Emperor Mushroom Hypha"
+  ],
+  [
+    "6914",
+    "Ghost Mushroom Hypha"
+  ],
+  [
+    "6915",
+    "Fog Mushroom Hypha"
+  ],
+  [
+    "6916",
+    "Hump Mushroom Hypha"
+  ],
+  [
+    "6917",
+    "Bluffer Mushroom Hypha"
+  ],
+  [
+    "6918",
+    "Ancient Mushroom Hypha"
+  ],
+  [
+    "6919",
+    "Amanita Mushroom Hypha"
+  ],
+  [
+    "6921",
+    "Withered Wheat Seed"
+  ],
+  [
+    "6922",
+    "Withered Grape Seed"
+  ],
+  [
+    "6923",
+    "Withered Sunrise Herb Seed"
+  ],
+  [
+    "6924",
+    "Nolina Seed"
+  ],
+  [
+    "6925",
+    "Penestraria Seed"
+  ],
+  [
+    "6926",
+    "Dalvenia Alrea Seed"
+  ],
+  [
+    "6927",
+    "Bouquet Mushroom Hypha"
+  ],
+  [
+    "6928",
+    "Leccinum Hypha"
+  ],
+  [
+    "6929",
+    "Purple Mushroom Hypha"
+  ],
+  [
+    "6930",
+    "Pie Mushroom Hypha"
+  ],
+  [
+    "6931",
+    "High-Quality Nolina Seed"
+  ],
+  [
+    "6932",
+    "High-Quality Penestraria Seed"
+  ],
+  [
+    "6933",
+    "High-Quality Dalvenia Alrea Seed"
+  ],
+  [
+    "6934",
+    "High-Quality Bouquet Mushroom Hypha"
+  ],
+  [
+    "6935",
+    "High-Quality Leccinum Mushroom Hypha"
+  ],
+  [
+    "6936",
+    "High-Quality Purple Mushroom Hypha"
+  ],
+  [
+    "6937",
+    "High-Quality Pie Mushroom Hypha"
+  ],
+  [
+    "6938",
+    "Withered Acacia Seed"
+  ],
+  [
+    "6939",
+    "Acacia Seed"
+  ],
+  [
+    "6940",
+    "Warm Seed"
+  ],
+  [
+    "6941",
+    "Glossy Seed"
+  ],
+  [
+    "6942",
+    "Dried-Up Seed"
+  ],
+  [
+    "6943",
+    "Shelled Seed"
+  ],
+  [
+    "6944",
+    "Shiny Seed"
+  ],
+  [
+    "6945",
+    "Gigantic Seed"
+  ],
+  [
+    "6946",
+    "Small White Seed"
+  ],
+  [
+    "6947",
+    "Half-Moon Seed"
+  ],
+  [
+    "6948",
+    "Bumpy Seed"
+  ],
+  [
+    "6949",
+    "Contorted Seed"
+  ],
+  [
+    "6950",
+    "Black Seed"
+  ],
+  [
+    "6952",
+    "High-Quality Sunrise Herb Seed"
+  ],
+  [
+    "6953",
+    "High-Quality Silver Azalea Seed"
+  ],
+  [
+    "6954",
+    "High-Quality Fire Flake Flower Seed"
+  ],
+  [
+    "6955",
+    "High-Quality Dry Mane Grass Seed"
+  ],
+  [
+    "6956",
+    "High-Quality Silk Honey Grass Seed"
+  ],
+  [
+    "6958",
+    "High-Quality Fortune Teller Mushroom Hypha"
+  ],
+  [
+    "6959",
+    "High-Quality Arrow Mushroom Hypha"
+  ],
+  [
+    "6960",
+    "High-Quality Dwarf Mushroom Hypha"
+  ],
+  [
+    "6961",
+    "High-Quality Cloud Mushroom Hypha"
+  ],
+  [
+    "6962",
+    "High-Quality Sky Mushroom Hypha"
+  ],
+  [
+    "6963",
+    "High-Quality Tiger Mushroom Hypha"
+  ],
+  [
+    "6964",
+    "High-Quality Emperor Mushroom Hypha"
+  ],
+  [
+    "6965",
+    "High-Quality Ghost Mushroom Hypha"
+  ],
+  [
+    "6966",
+    "High-Quality Fog Mushroom Hypha"
+  ],
+  [
+    "6967",
+    "High-Quality Hump Mushroom Hypha"
+  ],
+  [
+    "6968",
+    "High-Quality Bluffer Mushroom Hypha"
+  ],
+  [
+    "6969",
+    "High-Quality Ancient Mushroom Hypha"
+  ],
+  [
+    "6970",
+    "High-Quality Amanita Mushroom Hypha"
+  ],
+  [
+    "6972",
+    "Special Sunrise Herb Seed"
+  ],
+  [
+    "6973",
+    "Special Silver Azalea Seed"
+  ],
+  [
+    "6974",
+    "Special Fire Flake Flower Seed"
+  ],
+  [
+    "6975",
+    "Special Dry Mane Grass Seed"
+  ],
+  [
+    "6976",
+    "Special Silk Honey Grass Seed"
+  ],
+  [
+    "6978",
+    "Special Fortune Teller Mushroom Hypha"
+  ],
+  [
+    "6979",
+    "Special Arrow Mushroom Hypha"
+  ],
+  [
+    "6980",
+    "Special Dwarf Mushroom Hypha"
+  ],
+  [
+    "6981",
+    "Special Cloud Mushroom Hypha"
+  ],
+  [
+    "6982",
+    "Special Sky Mushroom Hypha"
+  ],
+  [
+    "6983",
+    "Special Tiger Mushroom Hypha"
+  ],
+  [
+    "6984",
+    "Special Emperor Mushroom Hypha"
+  ],
+  [
+    "6985",
+    "Special Ghost Mushroom Hypha"
+  ],
+  [
+    "6986",
+    "Special Fog Mushroom Hypha"
+  ],
+  [
+    "6987",
+    "Special Hump Mushroom Hypha"
+  ],
+  [
+    "6988",
+    "Special Bluffer Mushroom Hypha"
+  ],
+  [
+    "6989",
+    "Special Ancient Mushroom Hypha"
+  ],
+  [
+    "6990",
+    "Special Amanita Mushroom Hypha"
+  ],
+  [
+    "6992",
+    "Special Nolina Seed"
+  ],
+  [
+    "6993",
+    "Special Penestraria Seed"
+  ],
+  [
+    "6994",
+    "Special Dalvenia Alrea Seed"
+  ],
+  [
+    "6995",
+    "Special Bouquet Mushroom Hypha"
+  ],
+  [
+    "6996",
+    "Special Leccinum Hypha"
+  ],
+  [
+    "6997",
+    "Special Purple Mushroom Hypha"
+  ],
+  [
+    "6998",
+    "Special Pie Mushroom Hypha"
+  ],
+  [
+    "6999",
+    "High-Quality Acacia Seed"
+  ],
+  [
+    "7000",
+    "Special Acacia Seed"
+  ],
+  [
+    "7001",
+    "Wheat"
+  ],
+  [
+    "7002",
+    "Barley"
+  ],
+  [
+    "7003",
+    "Potato"
+  ],
+  [
+    "7004",
+    "Sweet Potato"
+  ],
+  [
+    "7005",
+    "Corn"
+  ],
+  [
+    "7006",
+    "High-Quality Wheat"
+  ],
+  [
+    "7007",
+    "High-Quality Barley"
+  ],
+  [
+    "7008",
+    "High-Quality Potato"
+  ],
+  [
+    "7009",
+    "High-Quality Sweet Potato"
+  ],
+  [
+    "7010",
+    "High-Quality Corn"
+  ],
+  [
+    "7011",
+    "Special Wheat"
+  ],
+  [
+    "7012",
+    "Special Barley"
+  ],
+  [
+    "7013",
+    "Special Potato"
+  ],
+  [
+    "7014",
+    "Special Sweet Potato"
+  ],
+  [
+    "7015",
+    "Special Corn"
+  ],
+  [
+    "7016",
+    "Date Palm"
+  ],
+  [
+    "7017",
+    "Pistachio"
+  ],
+  [
+    "7018",
+    "Fig"
+  ],
+  [
+    "7019",
+    "Star Anise"
+  ],
+  [
+    "7020",
+    "Nutmeg"
+  ],
+  [
+    "7021",
+    "Freekeh"
+  ],
+  [
+    "7022",
+    "Teff"
+  ],
+  [
+    "7023",
+    "Haystack"
+  ],
+  [
+    "7024",
+    "High-Quality Haystack"
+  ],
+  [
+    "7025",
+    "Special Haystack"
+  ],
+  [
+    "7026",
+    "Coconut"
+  ],
+  [
+    "7028",
+    "Chicken Feed"
+  ],
+  [
+    "7029",
+    "Good Chicken Feed"
+  ],
+  [
+    "7030",
+    "Special Chicken Feed"
+  ],
+  [
+    "7101",
+    "Wheat Flour"
+  ],
+  [
+    "7102",
+    "Barley Flour"
+  ],
+  [
+    "7103",
+    "Potato Flour"
+  ],
+  [
+    "7104",
+    "Sweet Potato Flour"
+  ],
+  [
+    "7105",
+    "Corn Flour"
+  ],
+  [
+    "7106",
+    "Teff Flour"
+  ],
+  [
+    "7107",
+    "Freekeh Flour"
+  ],
+  [
+    "7201",
+    "Wheat Dough"
+  ],
+  [
+    "7202",
+    "Barley Dough"
+  ],
+  [
+    "7203",
+    "Potato Dough"
+  ],
+  [
+    "7204",
+    "Sweet Potato Dough"
+  ],
+  [
+    "7205",
+    "Corn Dough"
+  ],
+  [
+    "7206",
+    "Teff Flour Dough"
+  ],
+  [
+    "7207",
+    "Freekeh Flour Dough"
+  ],
+  [
+    "7301",
+    "Pepper"
+  ],
+  [
+    "7302",
+    "Garlic"
+  ],
+  [
+    "7303",
+    "Onion"
+  ],
+  [
+    "7304",
+    "Strawberry"
+  ],
+  [
+    "7305",
+    "Hot Pepper"
+  ],
+  [
+    "7306",
+    "Pumpkin"
+  ],
+  [
+    "7307",
+    "Grape"
+  ],
+  [
+    "7308",
+    "Sunflower"
+  ],
+  [
+    "7309",
+    "Olive"
+  ],
+  [
+    "7311",
+    "Tomato"
+  ],
+  [
+    "7312",
+    "Paprika"
+  ],
+  [
+    "7313",
+    "Apple"
+  ],
+  [
+    "7314",
+    "Cherry"
+  ],
+  [
+    "7315",
+    "Pear"
+  ],
+  [
+    "7316",
+    "Banana"
+  ],
+  [
+    "7317",
+    "Pineapple"
+  ],
+  [
+    "7318",
+    "Cabbage"
+  ],
+  [
+    "7319",
+    "Rose"
+  ],
+  [
+    "7320",
+    "Tulip"
+  ],
+  [
+    "7321",
+    "High-Quality Strawberry"
+  ],
+  [
+    "7322",
+    "Special Strawberry"
+  ],
+  [
+    "7323",
+    "High-Quality Pepper"
+  ],
+  [
+    "7324",
+    "High-Quality Garlic"
+  ],
+  [
+    "7325",
+    "High-Quality Onion"
+  ],
+  [
+    "7327",
+    "High-Quality Hot Pepper"
+  ],
+  [
+    "7328",
+    "High-Quality Pumpkin"
+  ],
+  [
+    "7329",
+    "High-Quality Grape"
+  ],
+  [
+    "7330",
+    "High-Quality Sunflower"
+  ],
+  [
+    "7331",
+    "High-Quality Olive"
+  ],
+  [
+    "7333",
+    "High-Quality Tomato"
+  ],
+  [
+    "7334",
+    "High-Quality Paprika"
+  ],
+  [
+    "7335",
+    "Special Pepper"
+  ],
+  [
+    "7336",
+    "Special Garlic"
+  ],
+  [
+    "7337",
+    "Special Onion"
+  ],
+  [
+    "7339",
+    "Special Hot Pepper"
+  ],
+  [
+    "7340",
+    "Special Pumpkin"
+  ],
+  [
+    "7341",
+    "Special Grape"
+  ],
+  [
+    "7342",
+    "Special Sunflower"
+  ],
+  [
+    "7343",
+    "Special Olive"
+  ],
+  [
+    "7345",
+    "Special Tomato"
+  ],
+  [
+    "7346",
+    "Special Paprika"
+  ],
+  [
+    "7347",
+    "Aloe"
+  ],
+  [
+    "7348",
+    "Cinnamon"
+  ],
+  [
+    "7701",
+    "Wild Beehive"
+  ],
+  [
+    "7702",
+    "Cooking Honey"
+  ],
+  [
+    "7703",
+    "High-Quality Cooking Honey"
+  ],
+  [
+    "7704",
+    "Top-Quality Cooking Honey"
+  ],
+  [
+    "7901",
+    "Deer Meat"
+  ],
+  [
+    "7902",
+    "Lamb Meat"
+  ],
+  [
+    "7903",
+    "Fox Meat"
+  ],
+  [
+    "7904",
+    "Rhino Meat"
+  ],
+  [
+    "7905",
+    "Pork"
+  ],
+  [
+    "7906",
+    "Beef"
+  ],
+  [
+    "7908",
+    "Lizard Meat"
+  ],
+  [
+    "7909",
+    "Worm Meat"
+  ],
+  [
+    "7910",
+    "Raccoon Meat"
+  ],
+  [
+    "7911",
+    "Weasel Meat"
+  ],
+  [
+    "7912",
+    "Bear Meat"
+  ],
+  [
+    "7913",
+    "Wolf Meat"
+  ],
+  [
+    "7914",
+    "Waragon Meat"
+  ],
+  [
+    "7915",
+    "Cheetah Dragon Meat"
+  ],
+  [
+    "7916",
+    "Kuku Bird Meat"
+  ],
+  [
+    "7917",
+    "Flamingo Meat"
+  ],
+  [
+    "7921",
+    "Chicken Meat"
+  ],
+  [
+    "7922",
+    "Snake Meat"
+  ],
+  [
+    "7923",
+    "Lion Meat"
+  ],
+  [
+    "7924",
+    "Scorpion Meat"
+  ],
+  [
+    "7925",
+    "Gazelle Meat"
+  ],
+  [
+    "7953",
+    "Bird Meat"
+  ],
+  [
+    "7954",
+    "Yak Meat"
+  ],
+  [
+    "7955",
+    "Marmot Meat"
+  ],
+  [
+    "7956",
+    "Llama Meat"
+  ],
+  [
+    "7957",
+    "Goat Meat"
+  ],
+  [
+    "7958",
+    "Ground Bird Meat"
+  ],
+  [
+    "8501",
+    "Dried Mudskipper"
+  ],
+  [
+    "8502",
+    "Dried Tuna"
+  ],
+  [
+    "8503",
+    "Dried Beltfish"
+  ],
+  [
+    "8504",
+    "Dried Flounder"
+  ],
+  [
+    "8505",
+    "Dried Salmon"
+  ],
+  [
+    "8506",
+    "Dried Amberjack"
+  ],
+  [
+    "8507",
+    "Dried Porgy"
+  ],
+  [
+    "8508",
+    "Dried Swellfish"
+  ],
+  [
+    "8509",
+    "Dried Saurel"
+  ],
+  [
+    "8510",
+    "Dried Rockfish"
+  ],
+  [
+    "8511",
+    "Dried Squid"
+  ],
+  [
+    "8512",
+    "Dried Octopus"
+  ],
+  [
+    "8513",
+    "Dried Crab"
+  ],
+  [
+    "8514",
+    "Dried Jellyfish"
+  ],
+  [
+    "8515",
+    "Dried Shellfish"
+  ],
+  [
+    "8516",
+    "Dried Carp"
+  ],
+  [
+    "8517",
+    "Dried Crucian Carp"
+  ],
+  [
+    "8518",
+    "Dried Trout"
+  ],
+  [
+    "8519",
+    "Dried Catfish"
+  ],
+  [
+    "8520",
+    "Dried Freshwater Eel"
+  ],
+  [
+    "8521",
+    "Dried Snakehead"
+  ],
+  [
+    "8522",
+    "Dried Cherry Salmon"
+  ],
+  [
+    "8523",
+    "Dried Cuvier"
+  ],
+  [
+    "8524",
+    "Dried Sunfish"
+  ],
+  [
+    "8525",
+    "Dried Sea Bass"
+  ],
+  [
+    "8526",
+    "Dried Angler"
+  ],
+  [
+    "8527",
+    "Dried Swordfish"
+  ],
+  [
+    "8528",
+    "Dried Mackerel"
+  ],
+  [
+    "8529",
+    "Dried Flying Fish"
+  ],
+  [
+    "8530",
+    "Dried Skipjack"
+  ],
+  [
+    "8531",
+    "Dried Ray"
+  ],
+  [
+    "8532",
+    "Dried Seahorse"
+  ],
+  [
+    "8533",
+    "Dried Starfish"
+  ],
+  [
+    "8534",
+    "Dried Filefish"
+  ],
+  [
+    "8535",
+    "Dried Scorpion Fish"
+  ],
+  [
+    "8536",
+    "Dried Mullet"
+  ],
+  [
+    "8537",
+    "Dried Swiri"
+  ],
+  [
+    "8538",
+    "Dried Sturgeon"
+  ],
+  [
+    "8539",
+    "Dried Piranha"
+  ],
+  [
+    "8540",
+    "Dried Mandarin Fish"
+  ],
+  [
+    "8541",
+    "Dried Lenok"
+  ],
+  [
+    "8542",
+    "Dried Arowana"
+  ],
+  [
+    "8543",
+    "Dried Sweetfish"
+  ],
+  [
+    "8544",
+    "Dried Terrapin"
+  ],
+  [
+    "8545",
+    "Dried Bass"
+  ],
+  [
+    "8546",
+    "Dried Crawfish"
+  ],
+  [
+    "8547",
+    "Dried Dace"
+  ],
+  [
+    "8548",
+    "Dried Bluegill"
+  ],
+  [
+    "8549",
+    "Dried Perch"
+  ],
+  [
+    "8550",
+    "Dried Notch Jaw"
+  ],
+  [
+    "8551",
+    "Dried Mudfish"
+  ],
+  [
+    "8552",
+    "Dried Goby Minnow"
+  ],
+  [
+    "8553",
+    "Dried Bitterling"
+  ],
+  [
+    "8554",
+    "Dried Bleeker"
+  ],
+  [
+    "8555",
+    "Dried Yellowfin Sculpin"
+  ],
+  [
+    "8556",
+    "Dried Cero"
+  ],
+  [
+    "8557",
+    "Dried Sea Eel"
+  ],
+  [
+    "8558",
+    "Dried Croaker"
+  ],
+  [
+    "8559",
+    "Dried Greenling"
+  ],
+  [
+    "8560",
+    "Dried Flatfish"
+  ],
+  [
+    "8561",
+    "Dried Grunt"
+  ],
+  [
+    "8562",
+    "Dried Herring"
+  ],
+  [
+    "8563",
+    "Dried Sardine"
+  ],
+  [
+    "8564",
+    "Dried Round Herring"
+  ],
+  [
+    "8565",
+    "Dried Silver Stripe Round Herring"
+  ],
+  [
+    "8566",
+    "Dried Whiting"
+  ],
+  [
+    "8567",
+    "Dried Dolphinfish"
+  ],
+  [
+    "8568",
+    "Dried Striped Catfish"
+  ],
+  [
+    "8569",
+    "Dried Gunnel"
+  ],
+  [
+    "8570",
+    "Dried Golden-Thread"
+  ],
+  [
+    "8571",
+    "Dried Nibbler"
+  ],
+  [
+    "8572",
+    "Dried Siganid"
+  ],
+  [
+    "8573",
+    "Dried Bluefish"
+  ],
+  [
+    "8574",
+    "Dried Surfperch"
+  ],
+  [
+    "8575",
+    "Dried Blackfin Sweeper"
+  ],
+  [
+    "8576",
+    "Dried Smokey Chromis"
+  ],
+  [
+    "8577",
+    "Dried Maomao"
+  ],
+  [
+    "8578",
+    "Dried Pintado"
+  ],
+  [
+    "8579",
+    "Dried Gurnard"
+  ],
+  [
+    "8581",
+    "Dried John Dory"
+  ],
+  [
+    "8582",
+    "Dried Sandfish"
+  ],
+  [
+    "8583",
+    "Dried Rosefish"
+  ],
+  [
+    "8584",
+    "Dried Grouper"
+  ],
+  [
+    "8585",
+    "Dried Bigeye"
+  ],
+  [
+    "8586",
+    "Dried Fourfinger Threadfin"
+  ],
+  [
+    "8587",
+    "Dried Leather Carp"
+  ],
+  [
+    "8588",
+    "Dried Striped Shiner"
+  ],
+  [
+    "8589",
+    "Dried Barbel Steed"
+  ],
+  [
+    "8590",
+    "Dried Soho Bitterling"
+  ],
+  [
+    "8591",
+    "Dried Bubble Eye"
+  ],
+  [
+    "8592",
+    "Dried Pacu"
+  ],
+  [
+    "8593",
+    "Dried Yellow-Head Catfish"
+  ],
+  [
+    "8594",
+    "Dried Smelt"
+  ],
+  [
+    "8595",
+    "Dried Rosy Bitterling"
+  ],
+  [
+    "8596",
+    "Dried Roundtail Paradisefish"
+  ],
+  [
+    "8597",
+    "Dried Grayling"
+  ],
+  [
+    "8598",
+    "Dried Tapertail Anchovy"
+  ],
+  [
+    "8599",
+    "Dried Kuhlia Marginata"
+  ],
+  [
+    "8600",
+    "Dried Rock Hind"
+  ],
+  [
+    "8601",
+    "Dried Butterflyfish"
+  ],
+  [
+    "8602",
+    "Dried Clownfish"
+  ],
+  [
+    "8603",
+    "Dried Blue Tang"
+  ],
+  [
+    "8604",
+    "Dried Checkerboard Wrasse"
+  ],
+  [
+    "8605",
+    "Dried Pomfret"
+  ],
+  [
+    "8629",
+    "Dried Moray"
+  ],
+  [
+    "8630",
+    "Dried Tilefish"
+  ],
+  [
+    "8631",
+    "Dried Porcupine Fish"
+  ],
+  [
+    "8632",
+    "Dried Tongue Sole"
+  ],
+  [
+    "8633",
+    "Dried Atka Mackerel"
+  ],
+  [
+    "8634",
+    "Dried Cuttlefish"
+  ],
+  [
+    "8635",
+    "Dried Mackerel Pike"
+  ],
+  [
+    "8636",
+    "Dried Horn Fish"
+  ],
+  [
+    "8637",
+    "Dried Dollarfish"
+  ],
+  [
+    "8638",
+    "Dried Sandeel"
+  ],
+  [
+    "8639",
+    "Dried Spotted Barbel"
+  ],
+  [
+    "8640",
+    "Dried Miho Spine Loach"
+  ],
+  [
+    "8641",
+    "Dried Diamond Minnow"
+  ],
+  [
+    "8642",
+    "Dried Amur Minnow"
+  ],
+  [
+    "8643",
+    "Dried Common Minnow"
+  ],
+  [
+    "8644",
+    "Dried Stumpy Bullhead"
+  ],
+  [
+    "8645",
+    "Dried Shuttles Hoppfish"
+  ],
+  [
+    "8646",
+    "Dried Oily Shiner"
+  ],
+  [
+    "8647",
+    "Dried Korean Loach"
+  ],
+  [
+    "8648",
+    "Dried Minnow"
+  ],
+  [
+    "8649",
+    "Dried Cherry Icefish"
+  ],
+  [
+    "8650",
+    "Dried Spined Loach"
+  ],
+  [
+    "8651",
+    "Dried Amur Ide"
+  ],
+  [
+    "8652",
+    "Dried Stone Moroko"
+  ],
+  [
+    "8653",
+    "Dried Amur Goby"
+  ],
+  [
+    "8654",
+    "Dried Stickleback"
+  ],
+  [
+    "8655",
+    "Dried Mori"
+  ],
+  [
+    "8656",
+    "Dried Grass Carp"
+  ],
+  [
+    "8657",
+    "Dried Black Shiner"
+  ],
+  [
+    "8658",
+    "Dried Burbot"
+  ],
+  [
+    "8659",
+    "Dried Dark Chub"
+  ],
+  [
+    "8660",
+    "Dried Flower Icefish"
+  ],
+  [
+    "8661",
+    "Dried Charr"
+  ],
+  [
+    "8662",
+    "Dried Yellowfin Sole"
+  ],
+  [
+    "8663",
+    "Dried Stippled Gunnel"
+  ],
+  [
+    "8664",
+    "Dried Red Snow Crab"
+  ],
+  [
+    "8665",
+    "Dried Redbreasted Wrasse"
+  ],
+  [
+    "8666",
+    "Dried Green Sturgeon"
+  ],
+  [
+    "8668",
+    "Dried Tiger Shark"
+  ],
+  [
+    "8669",
+    "Dried Basking Shark"
+  ],
+  [
+    "9003",
+    "White Sauce"
+  ],
+  [
+    "9004",
+    "Red Sauce"
+  ],
+  [
+    "9006",
+    "Dressing"
+  ],
+  [
+    "9057",
+    "Essence of Liquor"
+  ],
+  [
+    "9061",
+    "Cream"
+  ],
+  [
+    "9062",
+    "Cheese"
+  ],
+  [
+    "9063",
+    "Butter"
+  ],
+  [
+    "9064",
+    "Egg"
+  ],
+  [
+    "9065",
+    "Milk"
+  ],
+  [
+    "9066",
+    "Vinegar"
+  ],
+  [
+    "9726",
+    "Blue Whale Meat"
+  ],
+  [
+    "9727",
+    "Blue Whale Oil"
+  ],
+  [
+    "9728",
+    "Blue Whale Molar"
+  ],
+  [
+    "9729",
+    "Blue Whale Tendon"
+  ],
+  [
+    "9731",
+    "Soft Whale Meat"
+  ],
+  [
+    "9732",
+    "Crocodile Meat"
+  ],
+  [
+    "9733",
+    "Shining Powder"
+  ],
+  [
+    "9735",
+    "Fugitive Khalk's Horn"
+  ],
+  [
+    "9736",
+    "Fugitive Khalk's Skin"
+  ],
+  [
+    "9737",
+    "Fugitive Khalk's Shiny Claw"
+  ],
+  [
+    "9741",
+    "Griffon Claw"
+  ],
+  [
+    "9746",
+    "Abyssal Brass Ingot"
+  ],
+  [
+    "9747",
+    "Ferocious Leather"
+  ],
+  [
+    "9748",
+    "Mystical Cleaning Oil"
+  ],
+  [
+    "9768",
+    "Garmoth's Scale"
+  ],
+  [
+    "9773",
+    "Intact Griffon's Beak"
+  ],
+  [
+    "9779",
+    "Oil of Enchantment"
+  ],
+  [
+    "16901",
+    "Inorganic Fertilizer"
+  ],
+  [
+    "16902",
+    "Byproduct Fertilizer"
+  ],
+  [
+    "16903",
+    "Organic Fertilizer"
+  ],
+  [
+    "44084",
+    "Sticky Liquid"
+  ],
+  [
+    "44332",
+    "Vell's Fine Powder"
+  ],
+  [
+    "44335",
+    "Vell's Concentrated Magic"
+  ],
+  [
+    "44336",
+    "Alchemy Stone Shard"
+  ],
+  [
+    "44362",
+    "Garmoth's Heart"
+  ],
+  [
+    "44364",
+    "Dragon Scale Fossil"
+  ],
+  [
+    "44462",
+    "Flame of Despair"
+  ],
+  [
+    "56221",
+    "Breath of Narcion"
+  ]
+]

@@ -1,0 +1,1342 @@
+[
+  [
+    "10809",
+    "Agerian Helmet"
+  ],
+  [
+    "10810",
+    "Agerian Armor"
+  ],
+  [
+    "10811",
+    "Agerian Gloves"
+  ],
+  [
+    "10812",
+    "Agerian Shoes"
+  ],
+  [
+    "10813",
+    "Taritas Helmet"
+  ],
+  [
+    "10814",
+    "Taritas Armor"
+  ],
+  [
+    "10815",
+    "Taritas Gloves"
+  ],
+  [
+    "10816",
+    "Taritas Shoes"
+  ],
+  [
+    "10817",
+    "Zereth Helmet"
+  ],
+  [
+    "10818",
+    "Zereth Armor"
+  ],
+  [
+    "10819",
+    "Zereth Gloves"
+  ],
+  [
+    "10820",
+    "Zereth Shoes"
+  ],
+  [
+    "10821",
+    "Talis Helmet"
+  ],
+  [
+    "10822",
+    "Talis Armor"
+  ],
+  [
+    "10823",
+    "Talis Gloves"
+  ],
+  [
+    "10824",
+    "Talis Shoes"
+  ],
+  [
+    "10889",
+    "Dobart Helmet"
+  ],
+  [
+    "10890",
+    "Dobart Armor"
+  ],
+  [
+    "10891",
+    "Dobart Gloves"
+  ],
+  [
+    "10892",
+    "Dobart Shoes"
+  ],
+  [
+    "10933",
+    "Grunil Helmet"
+  ],
+  [
+    "10934",
+    "Grunil Armor"
+  ],
+  [
+    "10935",
+    "Grunil Gloves"
+  ],
+  [
+    "10936",
+    "Grunil Shoes"
+  ],
+  [
+    "10937",
+    "Rocaba Helmet"
+  ],
+  [
+    "10938",
+    "Rocaba Armor"
+  ],
+  [
+    "10939",
+    "Rocaba Gloves"
+  ],
+  [
+    "10940",
+    "Rocaba Shoes"
+  ],
+  [
+    "11001",
+    "Helmet of Hercules' Might"
+  ],
+  [
+    "11002",
+    "Armor of Hercules' Might"
+  ],
+  [
+    "11003",
+    "Gloves of Hercules' Might"
+  ],
+  [
+    "11004",
+    "Shoes of Hercules' Might"
+  ],
+  [
+    "11005",
+    "Strength Helmet of Heve"
+  ],
+  [
+    "11006",
+    "Strength Armor of Heve"
+  ],
+  [
+    "11007",
+    "Strength Gloves of Heve"
+  ],
+  [
+    "11008",
+    "Strength Shoes of Heve"
+  ],
+  [
+    "11009",
+    "Luck Helmet of Fortuna"
+  ],
+  [
+    "11010",
+    "Luck Armor of Fortuna"
+  ],
+  [
+    "11011",
+    "Luck Gloves of Fortuna"
+  ],
+  [
+    "11012",
+    "Luck Shoes of Fortuna"
+  ],
+  [
+    "11013",
+    "Giath's Helmet"
+  ],
+  [
+    "11014",
+    "Red Nose's Armor"
+  ],
+  [
+    "11015",
+    "Bheg's Gloves"
+  ],
+  [
+    "11016",
+    "Muskan's Shoes"
+  ],
+  [
+    "11017",
+    "Dim Tree Spirit's Armor"
+  ],
+  [
+    "11070",
+    "Lemoria Helmet"
+  ],
+  [
+    "11071",
+    "Lemoria Armor"
+  ],
+  [
+    "11072",
+    "Lemoria Gloves"
+  ],
+  [
+    "11073",
+    "Lemoria Shoes"
+  ],
+  [
+    "11101",
+    "Griffon's Helmet"
+  ],
+  [
+    "11102",
+    "Leebur's Gloves"
+  ],
+  [
+    "11103",
+    "Urugon's Shoes"
+  ],
+  [
+    "12501",
+    "[Warrior] Serendian Smith Garb"
+  ],
+  [
+    "12502",
+    "[Berserker] Serendian Smith Garb"
+  ],
+  [
+    "12503",
+    "[Sorceress] Terrmian Casual Wear"
+  ],
+  [
+    "12504",
+    "[Tamer] Terrmian Casual Wear"
+  ],
+  [
+    "12505",
+    "[Ranger] Terrmian Casual Wear"
+  ],
+  [
+    "12506",
+    "[Musa] Serendian Smith Garb"
+  ],
+  [
+    "12507",
+    "[Valkyrie] Terrmian Casual Wear"
+  ],
+  [
+    "12508",
+    "[Maehwa] Terrmian Casual Wear"
+  ],
+  [
+    "12509",
+    "[Wizard] Serendian Smith Garb"
+  ],
+  [
+    "12510",
+    "[Witch] Terrmian Casual Wear"
+  ],
+  [
+    "12511",
+    "[Kunoichi] Terrmian Casual Wear"
+  ],
+  [
+    "12512",
+    "[Ninja] Serendian Smith Garb"
+  ],
+  [
+    "12525",
+    "[Warrior] Serendian Formal Suit"
+  ],
+  [
+    "12526",
+    "[Berserker] Serendian Formal Suit"
+  ],
+  [
+    "12530",
+    "[Musa] Serendian Formal Suit"
+  ],
+  [
+    "12533",
+    "[Wizard] Serendian Formal Suit"
+  ],
+  [
+    "12536",
+    "[Ninja] Serendian Formal Suit"
+  ],
+  [
+    "12562",
+    "[Dark Knight] Serendian Smith Garb"
+  ],
+  [
+    "12563",
+    "[Dark Knight] Orwen's Travel Wear"
+  ],
+  [
+    "12564",
+    "[Dark Knight] Jarette's Armor"
+  ],
+  [
+    "12565",
+    "[Dark Knight] Delphe Knight Armor"
+  ],
+  [
+    "12567",
+    "[Dark Knight] Terrmian Casual Wear"
+  ],
+  [
+    "12574",
+    "[Sorceress] Ahon Kirus's Armor"
+  ],
+  [
+    "12575",
+    "[Ranger] Ahon Kirus's Armor"
+  ],
+  [
+    "12576",
+    "[Tamer] Ahon Kirus's Armor"
+  ],
+  [
+    "12577",
+    "[Valkyrie] Ahon Kirus's Armor"
+  ],
+  [
+    "12578",
+    "[Witch] Ahon Kirus's Armor"
+  ],
+  [
+    "12579",
+    "[Kunoichi] Ahon Kirus's Armor"
+  ],
+  [
+    "12580",
+    "[Maehwa] Ahon Kirus's Armor"
+  ],
+  [
+    "12581",
+    "[Dark Knight] Ahon Kirus's Armor"
+  ],
+  [
+    "12590",
+    "[Sorceress] Shroud Knight Armor"
+  ],
+  [
+    "12591",
+    "[Ranger] Shroud Knight Armor"
+  ],
+  [
+    "12592",
+    "[Tamer] Shroud Knight Armor"
+  ],
+  [
+    "12593",
+    "[Valkyrie] Shroud Knight Armor"
+  ],
+  [
+    "12594",
+    "[Witch] Shroud Knight Armor"
+  ],
+  [
+    "12595",
+    "[Kunoichi] Shroud Knight Armor"
+  ],
+  [
+    "12596",
+    "[Maehwa] Shroud Knight Armor"
+  ],
+  [
+    "12597",
+    "[Dark Knight] Shroud Knight Armor"
+  ],
+  [
+    "12598",
+    "[Warrior] Shroud Knight Armor"
+  ],
+  [
+    "12599",
+    "[Berserker] Shroud Knight Armor"
+  ],
+  [
+    "12600",
+    "[Musa] Shroud Knight Armor"
+  ],
+  [
+    "12601",
+    "[Wizard] Shroud Knight Armor"
+  ],
+  [
+    "12602",
+    "[Ninja] Shroud Knight Armor"
+  ],
+  [
+    "12619",
+    "[Warrior] Valencian Travel Wear"
+  ],
+  [
+    "12620",
+    "[Berserker] Valencian Travel Wear"
+  ],
+  [
+    "12621",
+    "[Musa] Valencian Travel Wear"
+  ],
+  [
+    "12622",
+    "[Wizard] Valencian Travel Wear"
+  ],
+  [
+    "12623",
+    "[Ninja] Valencian Travel Wear"
+  ],
+  [
+    "12629",
+    "[Sorceress] Black Leopard Armor"
+  ],
+  [
+    "12630",
+    "[Ranger] Black Leopard Armor"
+  ],
+  [
+    "12631",
+    "[Tamer] Black Leopard Armor"
+  ],
+  [
+    "12632",
+    "[Valkyrie] Black Leopard Armor"
+  ],
+  [
+    "12633",
+    "[Witch] Black Leopard Armor"
+  ],
+  [
+    "12634",
+    "[Kunoichi] Black Leopard Armor"
+  ],
+  [
+    "12635",
+    "[Maehwa] Black Leopard Armor"
+  ],
+  [
+    "12636",
+    "[Dark Knight] Black Leopard Armor"
+  ],
+  [
+    "12646",
+    "[Striker] Calpheon Noble Suit"
+  ],
+  [
+    "12647",
+    "[Striker] Garnier Troupe Garb"
+  ],
+  [
+    "12648",
+    "[Striker] Delphe Knight Armor"
+  ],
+  [
+    "12649",
+    "[Striker] Edan's Travel Wear"
+  ],
+  [
+    "12650",
+    "[Striker] Jordine's Casual Wear"
+  ],
+  [
+    "12651",
+    "[Striker] Serendian Soldier Armor"
+  ],
+  [
+    "12652",
+    "[Striker] Serendian Formal Suit"
+  ],
+  [
+    "12653",
+    "[Striker] Valencian Travel Wear"
+  ],
+  [
+    "12654",
+    "[Striker] Shroud Knight Armor"
+  ],
+  [
+    "12664",
+    "[Striker] Serendian Smith Garb"
+  ],
+  [
+    "12667",
+    "[Mystic] Calpheon Noble Dress"
+  ],
+  [
+    "12668",
+    "[Mystic] Garnier Troupe Garb"
+  ],
+  [
+    "12669",
+    "[Mystic] Serendian Smith Garb"
+  ],
+  [
+    "12671",
+    "[Mystic] Terrmian Casual Wear"
+  ],
+  [
+    "12672",
+    "[Mystic] Delphe Knight Armor"
+  ],
+  [
+    "12673",
+    "[Mystic] Orwen's Travel Wear"
+  ],
+  [
+    "12674",
+    "[Mystic] Jarette's Armor"
+  ],
+  [
+    "12675",
+    "[Mystic] Ahon Kirus's Armor"
+  ],
+  [
+    "12676",
+    "[Mystic] Black Leopard Armor"
+  ],
+  [
+    "12677",
+    "[Mystic] Shroud Knight Armor"
+  ],
+  [
+    "12697",
+    "[Archer] Calpheon Noble Suit"
+  ],
+  [
+    "12698",
+    "[Archer] Garnier Troupe Garb"
+  ],
+  [
+    "12699",
+    "[Archer] Delphe Knight Armor"
+  ],
+  [
+    "12700",
+    "[Archer] Edan's Travel Wear"
+  ],
+  [
+    "12701",
+    "[Archer] Jordine's Casual Wear"
+  ],
+  [
+    "12702",
+    "[Archer] Serendian Soldier Armor"
+  ],
+  [
+    "12703",
+    "[Archer] Serendian Formal Suit"
+  ],
+  [
+    "12704",
+    "[Archer] Valencian Travel Wear"
+  ],
+  [
+    "12705",
+    "[Archer] Shroud Knight Armor"
+  ],
+  [
+    "12715",
+    "[Archer] Serendian Smith Garb"
+  ],
+  [
+    "12717",
+    "[Lahn] Calpheon Noble Dress"
+  ],
+  [
+    "12718",
+    "[Lahn] Garnier Troupe Garb"
+  ],
+  [
+    "12719",
+    "[Lahn] Serendian Smith Garb"
+  ],
+  [
+    "12721",
+    "[Lahn] Terrmian Casual Wear"
+  ],
+  [
+    "12722",
+    "[Lahn] Delphe Knight Armor"
+  ],
+  [
+    "12723",
+    "[Lahn] Orwen's Travel Wear"
+  ],
+  [
+    "12724",
+    "[Lahn] Jarette's Armor"
+  ],
+  [
+    "12725",
+    "[Lahn] Ahon Kirus's Armor"
+  ],
+  [
+    "12726",
+    "[Lahn] Black Leopard Armor"
+  ],
+  [
+    "12727",
+    "[Lahn] Shroud Knight Armor"
+  ],
+  [
+    "12734",
+    "[Guardian] Calpheon Noble Dress"
+  ],
+  [
+    "12735",
+    "[Guardian] Garnier Troupe Garb"
+  ],
+  [
+    "12736",
+    "[Guardian] Serendian Smith Garb"
+  ],
+  [
+    "12738",
+    "[Guardian] Terrmian Casual Wear"
+  ],
+  [
+    "12739",
+    "[Guardian] Delphe Knight Armor"
+  ],
+  [
+    "12740",
+    "[Guardian] Orwen's Travel Wear"
+  ],
+  [
+    "12741",
+    "[Guardian] Jarette's Armor"
+  ],
+  [
+    "12742",
+    "[Guardian] Ahon Kirus's Armor"
+  ],
+  [
+    "12743",
+    "[Guardian] Black Leopard Armor"
+  ],
+  [
+    "12744",
+    "[Guardian] Shroud Knight Armor"
+  ],
+  [
+    "12757",
+    "[Hashashin] Calpheon Noble Suit"
+  ],
+  [
+    "12758",
+    "[Hashashin] Garnier Troupe Garb"
+  ],
+  [
+    "12759",
+    "[Hashashin] Delphe Knight Armor"
+  ],
+  [
+    "12760",
+    "[Hashashin] Edan's Travel Wear"
+  ],
+  [
+    "12761",
+    "[Hashashin] Jordine's Casual Wear"
+  ],
+  [
+    "12762",
+    "[Hashashin] Serendian Soldier Armor"
+  ],
+  [
+    "12763",
+    "[Hashashin] Serendian Formal Suit"
+  ],
+  [
+    "12764",
+    "[Hashashin] Valencian Travel Wear"
+  ],
+  [
+    "12765",
+    "[Hashashin] Shroud Knights Armor"
+  ],
+  [
+    "12775",
+    "[Hashashin] Serendian Smith Garb"
+  ],
+  [
+    "12778",
+    "[Nova] Calpheon Noble Dress"
+  ],
+  [
+    "12779",
+    "[Nova] Garnier Troupe Garb"
+  ],
+  [
+    "12780",
+    "[Nova] Serendian Smith Garb"
+  ],
+  [
+    "12782",
+    "[Nova] Terrmian Casual Wear"
+  ],
+  [
+    "12784",
+    "[Nova] Orwen's Travel Wear"
+  ],
+  [
+    "12785",
+    "[Nova] Jarette's Armor"
+  ],
+  [
+    "12786",
+    "[Nova] Ahon Kirus's Armor"
+  ],
+  [
+    "12787",
+    "[Nova] Black Leopard Armor"
+  ],
+  [
+    "12788",
+    "[Nova] Shroud Knight Armor"
+  ],
+  [
+    "12855",
+    "[Sage] Valencian Travel Wear"
+  ],
+  [
+    "12856",
+    "[Sage] The Shroud Knights Armor"
+  ],
+  [
+    "14019",
+    "Silver Embroidered Cook's Clothes"
+  ],
+  [
+    "14020",
+    "Silver Embroidered Fisher's Clothes"
+  ],
+  [
+    "14021",
+    "Silver Embroidered Trader's Clothes"
+  ],
+  [
+    "14022",
+    "Silver Embroidered Gatherer's Clothes"
+  ],
+  [
+    "14023",
+    "Silver Embroidered Trainer's Clothes"
+  ],
+  [
+    "14025",
+    "Silver Embroidered Alchemist's Clothes"
+  ],
+  [
+    "14026",
+    "Silver Embroidered Craftsman's Clothes"
+  ],
+  [
+    "14027",
+    "Fine Horse Trainer's Clothes"
+  ],
+  [
+    "14028",
+    "Silver Embroidered Farmer's Clothes"
+  ],
+  [
+    "14029",
+    "Silver Embroidered Sailor's Clothes"
+  ],
+  [
+    "14101",
+    "Steel Taritas Helmet"
+  ],
+  [
+    "14102",
+    "Steel Taritas Armor"
+  ],
+  [
+    "14103",
+    "Steel Taritas Gloves"
+  ],
+  [
+    "14104",
+    "Steel Taritas Shoes"
+  ],
+  [
+    "14201",
+    "[Warrior] Calpheon Noble Suit"
+  ],
+  [
+    "14202",
+    "[Berserker] Calpheon Noble Suit"
+  ],
+  [
+    "14203",
+    "[Sorceress] Calpheon Noble Dress"
+  ],
+  [
+    "14204",
+    "[Tamer] Calpheon Noble Dress"
+  ],
+  [
+    "14205",
+    "[Ranger] Calpheon Noble Dress"
+  ],
+  [
+    "14206",
+    "[Musa] Calpheon Noble Suit"
+  ],
+  [
+    "14207",
+    "[Valkyrie] Calpheon Noble Dress"
+  ],
+  [
+    "14208",
+    "[Maehwa] Calpheon Noble Dress"
+  ],
+  [
+    "14211",
+    "[Warrior] Garnier Troupe Garb"
+  ],
+  [
+    "14212",
+    "[Berserker] Garnier Troupe Garb"
+  ],
+  [
+    "14213",
+    "[Sorceress] Garnier Troupe Garb"
+  ],
+  [
+    "14214",
+    "[Tamer] Garnier Troupe Garb"
+  ],
+  [
+    "14215",
+    "[Ranger] Garnier Troupe Garb"
+  ],
+  [
+    "14216",
+    "[Musa] Garnier Troupe Garb"
+  ],
+  [
+    "14217",
+    "[Valkyrie] Garnier Troupe Garb"
+  ],
+  [
+    "14218",
+    "[Maehwa] Garnier Troupe Garb"
+  ],
+  [
+    "14219",
+    "[Wizard] Calpheon Noble Suit"
+  ],
+  [
+    "14220",
+    "[Witch] Calpheon Noble Dress"
+  ],
+  [
+    "14221",
+    "[Kunoichi] Calpheon Noble Dress"
+  ],
+  [
+    "14222",
+    "[Kunoichi] Garnier Troupe Garb"
+  ],
+  [
+    "14223",
+    "[Ninja] Calpheon Noble Suit"
+  ],
+  [
+    "14284",
+    "[Warrior] Serendian Soldier Armor"
+  ],
+  [
+    "14285",
+    "[Berserker] Serendian Soldier Armor"
+  ],
+  [
+    "14286",
+    "[Sorceress] Serendian Smith Garb"
+  ],
+  [
+    "14287",
+    "[Tamer] Serendian Smith Garb"
+  ],
+  [
+    "14288",
+    "[Ranger] Serendian Smith Garb"
+  ],
+  [
+    "14289",
+    "[Musa] Serendian Soldier Armor"
+  ],
+  [
+    "14290",
+    "[Valkyrie] Serendian Smith Garb"
+  ],
+  [
+    "14291",
+    "[Maehwa] Serendian Smith Garb"
+  ],
+  [
+    "14292",
+    "[Wizard] Serendian Soldier Armor"
+  ],
+  [
+    "14293",
+    "[Witch] Serendian Smith Garb"
+  ],
+  [
+    "14294",
+    "[Kunoichi] Serendian Smith Garb"
+  ],
+  [
+    "14295",
+    "[Ninja] Serendian Soldier Armor"
+  ],
+  [
+    "14296",
+    "[Warrior] Jordine's Casual Wear"
+  ],
+  [
+    "14297",
+    "[Berserker] Jordine's Casual Wear"
+  ],
+  [
+    "14298",
+    "[Sorceress] Orwen's Travel Wear"
+  ],
+  [
+    "14299",
+    "[Tamer] Orwen's Travel Wear"
+  ],
+  [
+    "14300",
+    "[Ranger] Orwen's Travel Wear"
+  ],
+  [
+    "14339",
+    "[Wizard] Garnier Troupe Garb"
+  ],
+  [
+    "14340",
+    "[Witch] Garnier Troupe Garb"
+  ],
+  [
+    "14341",
+    "[Ninja] Garnier Troupe Garb"
+  ],
+  [
+    "14345",
+    "[Dark Knight] Calpheon Noble Dress"
+  ],
+  [
+    "14346",
+    "[Dark Knight] Garnier Troupe Garb"
+  ],
+  [
+    "14838",
+    "[Musa] Jordine's Casual Wear"
+  ],
+  [
+    "14839",
+    "[Valkyrie] Orwen's Travel Wear"
+  ],
+  [
+    "14840",
+    "[Maehwa] Orwen's Travel Wear"
+  ],
+  [
+    "14841",
+    "[Wizard] Jordine's Casual Wear"
+  ],
+  [
+    "14842",
+    "[Witch] Orwen's Travel Wear"
+  ],
+  [
+    "14843",
+    "[Kunoichi] Orwen's Travel Wear"
+  ],
+  [
+    "14844",
+    "[Ninja] Jordine's Casual Wear"
+  ],
+  [
+    "14845",
+    "[Warrior] Edan's Travel Wear"
+  ],
+  [
+    "14846",
+    "[Berserker] Edan's Travel Wear"
+  ],
+  [
+    "14847",
+    "[Sorceress] Jarette's Armor"
+  ],
+  [
+    "14848",
+    "[Tamer] Jarette's Armor"
+  ],
+  [
+    "14849",
+    "[Ranger] Jarette's Armor"
+  ],
+  [
+    "14850",
+    "[Musa] Edan's Travel Wear"
+  ],
+  [
+    "14851",
+    "[Valkyrie] Jarette's Armor"
+  ],
+  [
+    "14852",
+    "[Maehwa] Jarette's Armor"
+  ],
+  [
+    "14853",
+    "[Wizard] Edan's Travel Wear"
+  ],
+  [
+    "14854",
+    "[Witch] Jarette's Armor"
+  ],
+  [
+    "14855",
+    "[Kunoichi] Jarette's Armor"
+  ],
+  [
+    "14856",
+    "[Ninja] Edan's Travel Wear"
+  ],
+  [
+    "14869",
+    "[Warrior] Delphe Knight Armor"
+  ],
+  [
+    "14870",
+    "[Berserker] Delphe Knight Armor"
+  ],
+  [
+    "14871",
+    "[Sorceress] Delphe Knight Armor"
+  ],
+  [
+    "14872",
+    "[Tamer] Delphe Knight Armor"
+  ],
+  [
+    "14873",
+    "[Ranger] Delphe Knight Armor"
+  ],
+  [
+    "14874",
+    "[Musa] Delphe Knight Armor"
+  ],
+  [
+    "14875",
+    "[Valkyrie] Delphe Knight Armor"
+  ],
+  [
+    "14876",
+    "[Maehwa] Delphe Knight Armor"
+  ],
+  [
+    "14877",
+    "[Wizard] Delphe Knight Armor"
+  ],
+  [
+    "14878",
+    "[Witch] Delphe Knight Armor"
+  ],
+  [
+    "14879",
+    "[Kunoichi] Delphe Knight Armor"
+  ],
+  [
+    "14880",
+    "[Ninja] Delphe Knight Armor"
+  ],
+  [
+    "701011",
+    "Akum Helmet"
+  ],
+  [
+    "701012",
+    "Akum Armor"
+  ],
+  [
+    "701013",
+    "Akum Gloves"
+  ],
+  [
+    "701014",
+    "Akum Shoes"
+  ],
+  [
+    "705015",
+    "Manos Trainer's Clothes"
+  ],
+  [
+    "705022",
+    "Manos Hunter's Clothes"
+  ],
+  [
+    "705032",
+    "Manos Sailor's Clothes"
+  ],
+  [
+    "705037",
+    "Manos Cook's Clothes"
+  ],
+  [
+    "705047",
+    "Manos Alchemist's Clothes"
+  ],
+  [
+    "705052",
+    "Manos Fisher's Clothes"
+  ],
+  [
+    "705074",
+    "Crio Fisher's Clothes"
+  ],
+  [
+    "705075",
+    "Srulk Sailor's Clothes"
+  ],
+  [
+    "705076",
+    "Robeau Hunter's Clothes"
+  ],
+  [
+    "705081",
+    "Gorgath Alchemist's Clothes"
+  ],
+  [
+    "705086",
+    "Roroju Cook's Clothes"
+  ],
+  [
+    "705107",
+    "Loggia Fisher's Clothes"
+  ],
+  [
+    "705108",
+    "Loggia Sailor's Clothes"
+  ],
+  [
+    "705109",
+    "Loggia Hunter's Clothes"
+  ],
+  [
+    "705114",
+    "Loggia Alchemist's Clothes"
+  ],
+  [
+    "705119",
+    "Loggia Cook's Clothes"
+  ],
+  [
+    "705148",
+    "Loggia Trainer's Clothes"
+  ],
+  [
+    "705153",
+    "Izaro Trainer's Clothes"
+  ],
+  [
+    "705513",
+    "Loggia Gatherer's Clothes"
+  ],
+  [
+    "705514",
+    "Loggia Craftsman's Clothes"
+  ],
+  [
+    "705515",
+    "Carta Gatherer's Clothes"
+  ],
+  [
+    "705516",
+    "Carta Craftsman's Clothes"
+  ],
+  [
+    "705517",
+    "Manos Gatherer's Clothes"
+  ],
+  [
+    "705518",
+    "Manos Craftsman's Clothes"
+  ],
+  [
+    "719525",
+    "[Shai] Kanna's Naga Disguise"
+  ],
+  [
+    "719544",
+    "[Shai] Florin Cook's Clothes"
+  ],
+  [
+    "719545",
+    "[Shai] Florin Herb Gatherer Clothes"
+  ],
+  [
+    "719898",
+    "Fallen God's Armor"
+  ],
+  [
+    "719901",
+    "Blackstar Helmet"
+  ],
+  [
+    "719902",
+    "Blackstar Armor"
+  ],
+  [
+    "719903",
+    "Blackstar Gloves"
+  ],
+  [
+    "719904",
+    "Blackstar Shoes"
+  ],
+  [
+    "754003",
+    "[Warrior] Karlstein Longsword"
+  ],
+  [
+    "754005",
+    "[Sorceress] Karlstein Hat"
+  ],
+  [
+    "754006",
+    "[Sorceress] Karlstein Armor"
+  ],
+  [
+    "754007",
+    "[Sorceress] Karlstein Shoes"
+  ],
+  [
+    "754011",
+    "[Ranger] Karlstein Armor"
+  ],
+  [
+    "754024",
+    "[Musa] Karlstein Hat"
+  ],
+  [
+    "754027",
+    "[Musa] Karlstein Horn Bow"
+  ],
+  [
+    "754039",
+    "[Wizard] Karlstein Armor"
+  ],
+  [
+    "754040",
+    "[Wizard] Karlstein Staff"
+  ],
+  [
+    "754043",
+    "[Witch] Karlstein Armor"
+  ],
+  [
+    "754045",
+    "[Witch] Karlstein Staff"
+  ],
+  [
+    "754049",
+    "[Kunoichi] Karlstein Shoes"
+  ],
+  [
+    "754052",
+    "[Ninja] Karlstein Hat"
+  ],
+  [
+    "754053",
+    "[Ninja] Karlstein Armor"
+  ],
+  [
+    "754054",
+    "[Ninja] Karlstein Shortsword"
+  ],
+  [
+    "754057",
+    "[Mystic] Karlstein Armor"
+  ],
+  [
+    "754059",
+    "[Mystic] Karlstein Gauntlet"
+  ],
+  [
+    "754060",
+    "[Mystic] Karlstein Vambrace"
+  ],
+  [
+    "754063",
+    "[Dark Knight] Karlstein Shoes"
+  ],
+  [
+    "754064",
+    "[Dark Knight] Karlstein Kriegsmesser"
+  ],
+  [
+    "754065",
+    "[Dark Knight] Karlstein Ornamental Knot"
+  ],
+  [
+    "754067",
+    "[Striker] Karlstein Armor"
+  ],
+  [
+    "754070",
+    "[Lahn] Karlstein Hat"
+  ],
+  [
+    "754071",
+    "[Lahn] Karlstein Armor"
+  ],
+  [
+    "754072",
+    "[Lahn] Karlstein Shoes"
+  ],
+  [
+    "754073",
+    "[Lahn] Karlstein Crescent Pendulum"
+  ],
+  [
+    "754074",
+    "[Lahn] Karlstein Noble Sword"
+  ],
+  [
+    "754076",
+    "[Archer] Karlstein Armor"
+  ],
+  [
+    "754077",
+    "[Archer] Karlstein Crossbow"
+  ],
+  [
+    "754085",
+    "[Nova] Karlstein Hat"
+  ],
+  [
+    "754087",
+    "[Nova] Karlstein Shoes"
+  ],
+  [
+    "754089",
+    "[Nova] Karlstein Quoratum"
+  ]
+]

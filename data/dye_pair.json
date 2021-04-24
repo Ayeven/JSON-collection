@@ -1,0 +1,338 @@
+[
+  [
+    "17128",
+    "[Basic Dye] Real Red"
+  ],
+  [
+    "17200",
+    "[Basic Dye] Real Yellow"
+  ],
+  [
+    "17272",
+    "[Basic Dye] Real Blue"
+  ],
+  [
+    "17312",
+    "[Basic Dye] Snow White"
+  ],
+  [
+    "17313",
+    "[Basic Dye] Blade Silver"
+  ],
+  [
+    "17315",
+    "[Basic Dye] Deep Bronze"
+  ],
+  [
+    "17316",
+    "[Basic Dye] Dark Black"
+  ],
+  [
+    "46006",
+    "[Olvian Dye] True Red"
+  ],
+  [
+    "46018",
+    "[Olvian Dye] True Orange"
+  ],
+  [
+    "46030",
+    "[Olvian Dye] True Yellow"
+  ],
+  [
+    "46042",
+    "[Olvian Dye] True Lime"
+  ],
+  [
+    "46054",
+    "[Olvian Dye] True Mint"
+  ],
+  [
+    "46066",
+    "[Olvian Dye] True Aqua"
+  ],
+  [
+    "46078",
+    "[Olvian Dye] True Sky"
+  ],
+  [
+    "46090",
+    "[Olvian Dye] True Indigo"
+  ],
+  [
+    "46102",
+    "[Olvian Dye] True Purple"
+  ],
+  [
+    "46114",
+    "[Olvian Dye] True Deep Pink"
+  ],
+  [
+    "46122",
+    "[Olvian Dye] Black"
+  ],
+  [
+    "46128",
+    "[Velian Dye] True Red"
+  ],
+  [
+    "46140",
+    "[Velian Dye] True Orange"
+  ],
+  [
+    "46152",
+    "[Velian Dye] True Yellow"
+  ],
+  [
+    "46164",
+    "[Velian Dye] True Lime"
+  ],
+  [
+    "46176",
+    "[Velian Dye] True Mint"
+  ],
+  [
+    "46188",
+    "[Velian Dye] True Aqua"
+  ],
+  [
+    "46200",
+    "[Velian Dye] True Sky"
+  ],
+  [
+    "46212",
+    "[Velian Dye] True Indigo"
+  ],
+  [
+    "46224",
+    "[Velian Dye] True Purple"
+  ],
+  [
+    "46236",
+    "[Velian Dye] True Deep Pink"
+  ],
+  [
+    "46244",
+    "[Velian Dye] Black"
+  ],
+  [
+    "46250",
+    "[Heidelian Dye] True Red"
+  ],
+  [
+    "46262",
+    "[Heidelian Dye] True Orange"
+  ],
+  [
+    "46274",
+    "[Heidelian Dye] True Yellow"
+  ],
+  [
+    "46286",
+    "[Heidelian Dye] True Lime"
+  ],
+  [
+    "46298",
+    "[Heidelian Dye] True Mint"
+  ],
+  [
+    "46310",
+    "[Heidelian Dye] True Aqua"
+  ],
+  [
+    "46322",
+    "[Heidelian Dye] True Sky"
+  ],
+  [
+    "46334",
+    "[Heidelian Dye] True Indigo"
+  ],
+  [
+    "46346",
+    "[Heidelian Dye] True Purple"
+  ],
+  [
+    "46358",
+    "[Heidelian Dye] True Deep Pink"
+  ],
+  [
+    "46366",
+    "[Heidelian Dye] Black"
+  ],
+  [
+    "46372",
+    "[Keplanian Dye] True Red"
+  ],
+  [
+    "46384",
+    "[Keplanian Dye] True Orange"
+  ],
+  [
+    "46396",
+    "[Keplanian Dye] True Yellow"
+  ],
+  [
+    "46408",
+    "[Keplanian Dye] True Lime"
+  ],
+  [
+    "46420",
+    "[Keplanian Dye] True Mint"
+  ],
+  [
+    "46432",
+    "[Keplanian Dye] True Aqua"
+  ],
+  [
+    "46444",
+    "[Keplanian Dye] True Sky"
+  ],
+  [
+    "46456",
+    "[Keplanian Dye] True Indigo"
+  ],
+  [
+    "46468",
+    "[Keplanian Dye] True Purple"
+  ],
+  [
+    "46480",
+    "[Keplanian Dye] True Deep Pink"
+  ],
+  [
+    "46488",
+    "[Keplanian Dye] Black"
+  ],
+  [
+    "46494",
+    "[Calpheonian Dye] True Red"
+  ],
+  [
+    "46506",
+    "[Calpheonian Dye] True Orange"
+  ],
+  [
+    "46518",
+    "[Calpheonian Dye] True Yellow"
+  ],
+  [
+    "46530",
+    "[Calpheonian Dye] True Lime"
+  ],
+  [
+    "46542",
+    "[Calpheonian Dye] True Mint"
+  ],
+  [
+    "46554",
+    "[Calpheonian Dye] True Aqua"
+  ],
+  [
+    "46566",
+    "[Calpheonian Dye] True Sky"
+  ],
+  [
+    "46578",
+    "[Calpheonian Dye] True Indigo"
+  ],
+  [
+    "46590",
+    "[Calpheonian Dye] True Purple"
+  ],
+  [
+    "46602",
+    "[Calpheonian Dye] True Deep Pink"
+  ],
+  [
+    "46610",
+    "[Calpheonian Dye] Black"
+  ],
+  [
+    "46616",
+    "[Mediahn Dye] True Red"
+  ],
+  [
+    "46628",
+    "[Mediahn Dye] True Orange"
+  ],
+  [
+    "46640",
+    "[Mediahn Dye] True Yellow"
+  ],
+  [
+    "46652",
+    "[Mediahn Dye] True Lime"
+  ],
+  [
+    "46664",
+    "[Mediahn Dye] True Mint"
+  ],
+  [
+    "46676",
+    "[Mediahn Dye] True Aqua"
+  ],
+  [
+    "46688",
+    "[Mediahn Dye] True Sky"
+  ],
+  [
+    "46700",
+    "[Mediahn Dye] True Indigo"
+  ],
+  [
+    "46712",
+    "[Mediahn Dye] True Purple"
+  ],
+  [
+    "46724",
+    "[Mediahn Dye] True Deep Pink"
+  ],
+  [
+    "46732",
+    "[Mediahn Dye] Black"
+  ],
+  [
+    "46738",
+    "[Valencian Dye] True Red"
+  ],
+  [
+    "46750",
+    "[Valencian Dye] True Orange"
+  ],
+  [
+    "46762",
+    "[Valencian Dye] True Yellow"
+  ],
+  [
+    "46774",
+    "[Valencian Dye] True Lime"
+  ],
+  [
+    "46786",
+    "[Valencian Dye] True Mint"
+  ],
+  [
+    "46798",
+    "[Valencian Dye] True Aqua"
+  ],
+  [
+    "46810",
+    "[Valencian Dye] True Sky"
+  ],
+  [
+    "46822",
+    "[Valencian Dye] True Indigo"
+  ],
+  [
+    "46834",
+    "[Valencian Dye] True Purple"
+  ],
+  [
+    "46846",
+    "[Valencian Dye] True Deep Pink"
+  ],
+  [
+    "46854",
+    "[Valencian Dye] Black"
+  ]
+]

@@ -1,0 +1,490 @@
+[
+  [
+    "13901",
+    "Greatbow of Fate"
+  ],
+  [
+    "13902",
+    "Saiphir Greatbow"
+  ],
+  [
+    "13903",
+    "Dandelion Greatbow"
+  ],
+  [
+    "14701",
+    "Mercenary's Steel Great Sword"
+  ],
+  [
+    "14702",
+    "Dandelion Great Sword"
+  ],
+  [
+    "14703",
+    "Mercenary's Great Sword"
+  ],
+  [
+    "14711",
+    "Spell of Seduction Scythe"
+  ],
+  [
+    "14712",
+    "Dandelion Scythe"
+  ],
+  [
+    "14713",
+    "Scythe of Seduction"
+  ],
+  [
+    "14721",
+    "Upgraded Iron Buster"
+  ],
+  [
+    "14722",
+    "Dandelion Iron Buster"
+  ],
+  [
+    "14723",
+    "Rough Iron Buster"
+  ],
+  [
+    "14731",
+    "Heiress's Kamasylven Sword"
+  ],
+  [
+    "14732",
+    "Dandelion Kamasylven Sword"
+  ],
+  [
+    "14733",
+    "Small Tree Spirit's Kamasylven Sword"
+  ],
+  [
+    "14741",
+    "Azure Thunder Celestial Bo Staff"
+  ],
+  [
+    "14742",
+    "Dandelion Celestial Bo Staff"
+  ],
+  [
+    "14743",
+    "Practice Celestial Bo Staff"
+  ],
+  [
+    "14751",
+    "Piece of Purification Lancia"
+  ],
+  [
+    "14752",
+    "Dandelion Lancia"
+  ],
+  [
+    "14753",
+    "Schzeriel Lancia"
+  ],
+  [
+    "14761",
+    "Immaculate Crescent Blade"
+  ],
+  [
+    "14762",
+    "Dandelion Crescent Blade"
+  ],
+  [
+    "14763",
+    "Iron Crescent Blade"
+  ],
+  [
+    "14771",
+    "Frosty Cloud Kerispear"
+  ],
+  [
+    "14772",
+    "Dandelion Kerispear"
+  ],
+  [
+    "14773",
+    "Sundo Kerispear"
+  ],
+  [
+    "14781",
+    "Yagakmu Sura Katana"
+  ],
+  [
+    "14782",
+    "Dandelion Sura Katana"
+  ],
+  [
+    "14783",
+    "Tempest Sura Katana"
+  ],
+  [
+    "14791",
+    "Oeki's Sah Chakram"
+  ],
+  [
+    "14792",
+    "Dandelion Sah Chakram"
+  ],
+  [
+    "14793",
+    "Sonan Sah Chakram"
+  ],
+  [
+    "14801",
+    "Alloria Aad Sphera"
+  ],
+  [
+    "14802",
+    "Dandelion Aad Sphera"
+  ],
+  [
+    "14803",
+    "Pri Aad Sphera"
+  ],
+  [
+    "14811",
+    "Lord Godr Sphera"
+  ],
+  [
+    "14812",
+    "Dandelion Godr Sphera"
+  ],
+  [
+    "14813",
+    "Tati Godr Sphera"
+  ],
+  [
+    "14816",
+    "Light-Swallowing Vediant"
+  ],
+  [
+    "14817",
+    "Dandelion Vediant"
+  ],
+  [
+    "14818",
+    "Thorn Tree Vediant"
+  ],
+  [
+    "14821",
+    "Backflow Gardbrace"
+  ],
+  [
+    "14822",
+    "Dandelion Gardbrace"
+  ],
+  [
+    "14823",
+    "Iron Chain Gardbrace"
+  ],
+  [
+    "14829",
+    "Baconaua Cestus"
+  ],
+  [
+    "14830",
+    "Dandelion Cestus"
+  ],
+  [
+    "14831",
+    "Kamalam Cestus"
+  ],
+  [
+    "550501",
+    "Crimson Glaives of the Sage"
+  ],
+  [
+    "550502",
+    "Dandelion Crimson Glaives"
+  ],
+  [
+    "550503",
+    "Enneadread Crimson Glaives"
+  ],
+  [
+    "691502",
+    "Frost Iron Jordun"
+  ],
+  [
+    "691503",
+    "Dandelion Jordun"
+  ],
+  [
+    "691504",
+    "Frost Jordun"
+  ],
+  [
+    "692801",
+    "Baharom Dual Glaives"
+  ],
+  [
+    "692802",
+    "Dandelion Dual Glaives"
+  ],
+  [
+    "692803",
+    "Sahmarin Dual Glaives"
+  ],
+  [
+    "692812",
+    "Dragon Slayer Dual Glaives"
+  ],
+  [
+    "702501",
+    "Dragon Slayer Great Sword"
+  ],
+  [
+    "702502",
+    "Dragon Slayer Scythe"
+  ],
+  [
+    "702503",
+    "Dragon Slayer Iron Buster"
+  ],
+  [
+    "702504",
+    "Dragon Slayer Kamasylven Sword"
+  ],
+  [
+    "702505",
+    "Dragon Slayer Celestial Bo Staff"
+  ],
+  [
+    "702506",
+    "Dragon Slayer Lancia"
+  ],
+  [
+    "702507",
+    "Dragon Slayer Crescent Blade"
+  ],
+  [
+    "702508",
+    "Dragon Slayer Kerispear"
+  ],
+  [
+    "702509",
+    "Dragon Slayer Sura Katana"
+  ],
+  [
+    "702510",
+    "Dragon Slayer Sah Chakram"
+  ],
+  [
+    "702511",
+    "Dragon Slayer Aad Sphera"
+  ],
+  [
+    "702512",
+    "Dragon Slayer Godr Sphera"
+  ],
+  [
+    "702513",
+    "Dragon Slayer Vediant"
+  ],
+  [
+    "702514",
+    "Dragon Slayer Gardbrace"
+  ],
+  [
+    "702515",
+    "Dragon Slayer Cestus"
+  ],
+  [
+    "702516",
+    "Dragon Slayer Crimson Glaives"
+  ],
+  [
+    "702517",
+    "Hughol's Great Sword"
+  ],
+  [
+    "702518",
+    "Hughol's Scythe"
+  ],
+  [
+    "702519",
+    "Hughol's Iron Buster"
+  ],
+  [
+    "702520",
+    "Hughol's Kamasylven Sword"
+  ],
+  [
+    "702521",
+    "Hughol's Celestial Bo Staff"
+  ],
+  [
+    "702522",
+    "Hughol's Lancia"
+  ],
+  [
+    "702523",
+    "Hughol's Crescent Blade"
+  ],
+  [
+    "702524",
+    "Hughol's Kerispear"
+  ],
+  [
+    "702525",
+    "Hughol's Sura Katana"
+  ],
+  [
+    "702526",
+    "Hughol's Sah Chakram"
+  ],
+  [
+    "702527",
+    "Hughol's Aad Sphera"
+  ],
+  [
+    "702528",
+    "Hughol's Godr Sphera"
+  ],
+  [
+    "702529",
+    "Hughol's Vediant"
+  ],
+  [
+    "702530",
+    "Hughol's Gardbrace"
+  ],
+  [
+    "702531",
+    "Hughol's Cestus"
+  ],
+  [
+    "702532",
+    "Hughol's Crimson Glaives"
+  ],
+  [
+    "702533",
+    "Dragon Slayer Greatbow"
+  ],
+  [
+    "702534",
+    "Hughol's Greatbow"
+  ],
+  [
+    "702535",
+    "Dragon Slayer Jordun"
+  ],
+  [
+    "702536",
+    "Hughol's Jordun"
+  ],
+  [
+    "730902",
+    "Dark Thorn Sting"
+  ],
+  [
+    "730903",
+    "Dandelion Sting"
+  ],
+  [
+    "730904",
+    "Crimson Thorn Sting"
+  ],
+  [
+    "730913",
+    "Dragon Slayer Sting"
+  ],
+  [
+    "731101",
+    "Blackstar Great Sword"
+  ],
+  [
+    "731102",
+    "Blackstar Scythe"
+  ],
+  [
+    "731103",
+    "Blackstar Iron Buster"
+  ],
+  [
+    "731104",
+    "Blackstar Kamasylven Sword"
+  ],
+  [
+    "731105",
+    "Blackstar Celestial Bo Staff"
+  ],
+  [
+    "731106",
+    "Blackstar Lancia"
+  ],
+  [
+    "731107",
+    "Blackstar Crescent Blade"
+  ],
+  [
+    "731108",
+    "Blackstar Kerispear"
+  ],
+  [
+    "731109",
+    "Blackstar Sura Katana"
+  ],
+  [
+    "731110",
+    "Blackstar Sah Chakram"
+  ],
+  [
+    "731111",
+    "Blackstar Aad Sphera"
+  ],
+  [
+    "731112",
+    "Blackstar Godr Sphera"
+  ],
+  [
+    "731113",
+    "Blackstar Vediant"
+  ],
+  [
+    "731114",
+    "Blackstar Gardbrace"
+  ],
+  [
+    "731115",
+    "Blackstar Cestus"
+  ],
+  [
+    "731116",
+    "Blackstar Greatbow"
+  ],
+  [
+    "731117",
+    "Blackstar Crimson Glaives"
+  ],
+  [
+    "731118",
+    "Blackstar Jordun"
+  ],
+  [
+    "731119",
+    "Blackstar Dual Glaives"
+  ],
+  [
+    "731120",
+    "Blackstar Sting"
+  ],
+  [
+    "731121",
+    "Blackstar Kibelius"
+  ],
+  [
+    "732651",
+    "Stura Kibelius"
+  ],
+  [
+    "732652",
+    "Dandelion Kibelius"
+  ],
+  [
+    "732662",
+    "Dragon Slayer Kibelius"
+  ]
+]

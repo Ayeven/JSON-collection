@@ -1,0 +1,490 @@
+[
+  [
+    "3702",
+    "Intermediate Alchemy Tool"
+  ],
+  [
+    "3703",
+    "Advanced Alchemy Tool"
+  ],
+  [
+    "3718",
+    "Intermediate Cooking Utensil"
+  ],
+  [
+    "3719",
+    "Advanced Cooking Utensil"
+  ],
+  [
+    "3731",
+    "Serendia Traditional Alchemy Tool"
+  ],
+  [
+    "3732",
+    "Calpheon Traditional Alchemy Tool"
+  ],
+  [
+    "3741",
+    "Serendia Traditional Cooking Utensil"
+  ],
+  [
+    "3742",
+    "Calpheon Traditional Cooking Utensil"
+  ],
+  [
+    "12831",
+    "Crio's Fishing Chair"
+  ],
+  [
+    "16102",
+    "Transparent Empty Bottle"
+  ],
+  [
+    "16103",
+    "Hardened Empty Bottle"
+  ],
+  [
+    "16104",
+    "Shining Empty Bottle"
+  ],
+  [
+    "16106",
+    "Sharp Lumbering Axe"
+  ],
+  [
+    "16107",
+    "Steel Lumbering Axe"
+  ],
+  [
+    "16108",
+    "Shining Steel Lumbering Axe"
+  ],
+  [
+    "16110",
+    "Sharp Fluid Collector"
+  ],
+  [
+    "16111",
+    "Sturdy Fluid Collector"
+  ],
+  [
+    "16112",
+    "Shining Fluid Collector"
+  ],
+  [
+    "16114",
+    "Bronze Hoe"
+  ],
+  [
+    "16115",
+    "Steel Hoe"
+  ],
+  [
+    "16116",
+    "Shining Steel Hoe"
+  ],
+  [
+    "16118",
+    "Sharp Butcher Knife"
+  ],
+  [
+    "16119",
+    "Steel Butcher Knife"
+  ],
+  [
+    "16120",
+    "Shining Steel Butcher Knife"
+  ],
+  [
+    "16122",
+    "Sharp Tanning Knife"
+  ],
+  [
+    "16123",
+    "Steel Tanning Knife"
+  ],
+  [
+    "16124",
+    "Shining Steel Tanning Knife"
+  ],
+  [
+    "16126",
+    "Sharp Pickaxe"
+  ],
+  [
+    "16127",
+    "Steel Pickaxe"
+  ],
+  [
+    "16128",
+    "Shining Steel Pickaxe"
+  ],
+  [
+    "16147",
+    "Thick Fishing Rod"
+  ],
+  [
+    "16150",
+    "Old Fishing Rod"
+  ],
+  [
+    "16151",
+    "Steel Fishing Rod"
+  ],
+  [
+    "16152",
+    "Golden Fishing Rod"
+  ],
+  [
+    "16153",
+    "Triple-Float Fishing Rod"
+  ],
+  [
+    "16154",
+    "Thin Harpoon"
+  ],
+  [
+    "16155",
+    "Thick Harpoon"
+  ],
+  [
+    "16157",
+    "[Hunting] Beginner Matchlock"
+  ],
+  [
+    "16158",
+    "[Hunting] Apprentice Matchlock"
+  ],
+  [
+    "16159",
+    "[Hunting] Skilled Matchlock"
+  ],
+  [
+    "16160",
+    "[Hunting] Professional Matchlock"
+  ],
+  [
+    "16161",
+    "[Hunting] Artisan Matchlock"
+  ],
+  [
+    "16162",
+    "Balenos Fishing Rod"
+  ],
+  [
+    "16163",
+    "Epheria Fishing Rod"
+  ],
+  [
+    "16164",
+    "Calpheon Fishing Rod"
+  ],
+  [
+    "16165",
+    "Mediah Fishing Rod"
+  ],
+  [
+    "16167",
+    "Ash Tree Float"
+  ],
+  [
+    "16168",
+    "Maple Float"
+  ],
+  [
+    "16479",
+    "Manos Hoe"
+  ],
+  [
+    "16481",
+    "Manos Lumbering Axe"
+  ],
+  [
+    "16482",
+    "Manos Fluid Collector"
+  ],
+  [
+    "16486",
+    "Manos Tanning Knife"
+  ],
+  [
+    "16487",
+    "Manos Butcher Knife"
+  ],
+  [
+    "16540",
+    "Dostter Steel Hoe"
+  ],
+  [
+    "16805",
+    "Lucky Lumbering Axe"
+  ],
+  [
+    "16806",
+    "Lucky Sharp Lumbering Axe"
+  ],
+  [
+    "16807",
+    "Lucky Steel Lumbering Axe"
+  ],
+  [
+    "16808",
+    "Lucky Shining Steel Lumbering Axe"
+  ],
+  [
+    "16809",
+    "Lucky Fluid Collector"
+  ],
+  [
+    "16810",
+    "Lucky Sharp Fluid Collector"
+  ],
+  [
+    "16811",
+    "Lucky Sturdy Fluid Collector"
+  ],
+  [
+    "16812",
+    "Lucky Shining Fluid Collector"
+  ],
+  [
+    "16813",
+    "Lucky Hoe"
+  ],
+  [
+    "16814",
+    "Lucky Bronze Hoe"
+  ],
+  [
+    "16815",
+    "Lucky Steel Hoe"
+  ],
+  [
+    "16816",
+    "Lucky Shining Steel Hoe"
+  ],
+  [
+    "16817",
+    "Lucky Butcher Knife"
+  ],
+  [
+    "16818",
+    "Lucky Sharp Butcher Knife"
+  ],
+  [
+    "16819",
+    "Lucky Steel Butcher Knife"
+  ],
+  [
+    "16820",
+    "Lucky Shining Steel Butcher Knife"
+  ],
+  [
+    "16821",
+    "Lucky Tanning Knife"
+  ],
+  [
+    "16822",
+    "Lucky Sharp Tanning Knife"
+  ],
+  [
+    "16823",
+    "Lucky Steel Tanning Knife"
+  ],
+  [
+    "16824",
+    "Lucky Shining Steel Tanning Knife"
+  ],
+  [
+    "16825",
+    "Lucky Pickaxe"
+  ],
+  [
+    "16826",
+    "Lucky Sharp Pickaxe"
+  ],
+  [
+    "16827",
+    "Lucky Steel Pickaxe"
+  ],
+  [
+    "16828",
+    "Lucky Shining Steel Pickaxe"
+  ],
+  [
+    "16829",
+    "Magic Lumbering Axe"
+  ],
+  [
+    "16830",
+    "Magic Fluid Collector"
+  ],
+  [
+    "16831",
+    "Magic Butcher Knife"
+  ],
+  [
+    "16832",
+    "Magic Pickaxe"
+  ],
+  [
+    "16833",
+    "Magic Hoe"
+  ],
+  [
+    "16834",
+    "Magic Tanning Knife"
+  ],
+  [
+    "16847",
+    "Manos Pickaxe"
+  ],
+  [
+    "49804",
+    "Sealed Old Moon Camping Anvil"
+  ],
+  [
+    "49805",
+    "Old Moon Camping Shop Contract"
+  ],
+  [
+    "49808",
+    "Packaged Old Moon Camping Anvil"
+  ],
+  [
+    "56133",
+    "[Hunting] Sniper Rifle"
+  ],
+  [
+    "56220",
+    "[Hunting] Master Matchlock"
+  ],
+  [
+    "705154",
+    "Loggia Riding Crop"
+  ],
+  [
+    "705155",
+    "Izaro Riding Crop"
+  ],
+  [
+    "705156",
+    "Manos Riding Crop"
+  ],
+  [
+    "720501",
+    "Manos Processing Stone - Lake"
+  ],
+  [
+    "720502",
+    "Manos Processing Stone - Vitality"
+  ],
+  [
+    "720503",
+    "Manos Processing Stone - Energy"
+  ],
+  [
+    "720504",
+    "Manos Processing Stone - Sun"
+  ],
+  [
+    "720505",
+    "Manos Processing Stone - Wind"
+  ],
+  [
+    "720506",
+    "Manos Processing Stone - Lava"
+  ],
+  [
+    "720508",
+    "Dostter Steel Lumbering Axe"
+  ],
+  [
+    "720509",
+    "Dostter Steel Fluid Collector"
+  ],
+  [
+    "720510",
+    "Dostter Steel Tanning Knife"
+  ],
+  [
+    "720511",
+    "Dostter Steel Butcher Knife"
+  ],
+  [
+    "720512",
+    "Dostter Steel Pickaxe"
+  ],
+  [
+    "720513",
+    "Techthon Processing Stone - Lake"
+  ],
+  [
+    "720514",
+    "Techthon Processing Stone - Vitality"
+  ],
+  [
+    "720515",
+    "Techthon Processing Stone - Energy"
+  ],
+  [
+    "720516",
+    "Techthon Processing Stone - Sun"
+  ],
+  [
+    "720517",
+    "Techthon Processing Stone - Wind"
+  ],
+  [
+    "720518",
+    "Techthon Processing Stone - Lava"
+  ],
+  [
+    "720519",
+    "Loggia Hoe"
+  ],
+  [
+    "720520",
+    "Loggia Lumbering Axe"
+  ],
+  [
+    "720521",
+    "Loggia Fluid Collector"
+  ],
+  [
+    "720522",
+    "Loggia Tanning Knife"
+  ],
+  [
+    "720523",
+    "Loggia Butcher Knife"
+  ],
+  [
+    "720524",
+    "Loggia Pickaxe"
+  ],
+  [
+    "720525",
+    "Loggia Processing Stone - Lake"
+  ],
+  [
+    "720526",
+    "Loggia Processing Stone - Vitality"
+  ],
+  [
+    "720527",
+    "Loggia Processing Stone - Energy"
+  ],
+  [
+    "720528",
+    "Loggia Processing Stone - Sun"
+  ],
+  [
+    "720529",
+    "Loggia Processing Stone - Wind"
+  ],
+  [
+    "720530",
+    "Loggia Processing Stone - Lava"
+  ]
+]

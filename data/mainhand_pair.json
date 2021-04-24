@@ -1,0 +1,950 @@
+[
+  [
+    "10003",
+    "Elsh Longsword"
+  ],
+  [
+    "10005",
+    "Azwell Longsword"
+  ],
+  [
+    "10006",
+    "Ain Longsword"
+  ],
+  [
+    "10007",
+    "Seleth Longsword"
+  ],
+  [
+    "10009",
+    "Liverto Longsword"
+  ],
+  [
+    "10010",
+    "Kzarka Longsword"
+  ],
+  [
+    "10012",
+    "Kalis Longsword"
+  ],
+  [
+    "10013",
+    "Bares Longsword"
+  ],
+  [
+    "10014",
+    "Yuria Longsword"
+  ],
+  [
+    "10056",
+    "Krea Longsword"
+  ],
+  [
+    "10057",
+    "Rosar Longsword"
+  ],
+  [
+    "10071",
+    "Styd Longsword"
+  ],
+  [
+    "10072",
+    "Ultimate Styd Longsword"
+  ],
+  [
+    "10086",
+    "Offin Tett's Radiant Longsword"
+  ],
+  [
+    "10203",
+    "Elsh Longbow"
+  ],
+  [
+    "10205",
+    "Azwell Longbow"
+  ],
+  [
+    "10206",
+    "Ain Longbow"
+  ],
+  [
+    "10207",
+    "Seleth Longbow"
+  ],
+  [
+    "10209",
+    "Liverto Longbow"
+  ],
+  [
+    "10210",
+    "Kzarka Longbow"
+  ],
+  [
+    "10212",
+    "Kalis Longbow"
+  ],
+  [
+    "10213",
+    "Bares Longbow"
+  ],
+  [
+    "10214",
+    "Yuria Longbow"
+  ],
+  [
+    "10256",
+    "Krea Longbow"
+  ],
+  [
+    "10257",
+    "Rosar Longbow"
+  ],
+  [
+    "10271",
+    "Styd Longbow"
+  ],
+  [
+    "10272",
+    "Ultimate Styd Longbow"
+  ],
+  [
+    "10286",
+    "Offin Tett's Radiant Longbow"
+  ],
+  [
+    "10403",
+    "Elsh Amulet"
+  ],
+  [
+    "10405",
+    "Azwell Amulet"
+  ],
+  [
+    "10406",
+    "Ain Amulet"
+  ],
+  [
+    "10407",
+    "Seleth Amulet"
+  ],
+  [
+    "10409",
+    "Liverto Amulet"
+  ],
+  [
+    "10410",
+    "Kzarka Amulet"
+  ],
+  [
+    "10412",
+    "Kalis Amulet"
+  ],
+  [
+    "10413",
+    "Bares Amulet"
+  ],
+  [
+    "10414",
+    "Yuria Amulet"
+  ],
+  [
+    "10456",
+    "Krea Amulet"
+  ],
+  [
+    "10457",
+    "Rosar Amulet"
+  ],
+  [
+    "10471",
+    "Styd Amulet"
+  ],
+  [
+    "10472",
+    "Ultimate Styd Amulet"
+  ],
+  [
+    "10486",
+    "Offin Tett's Radiant Amulet"
+  ],
+  [
+    "10603",
+    "Elsh Axe"
+  ],
+  [
+    "10605",
+    "Azwell Axe"
+  ],
+  [
+    "10606",
+    "Ain Axe"
+  ],
+  [
+    "10607",
+    "Seleth Axe"
+  ],
+  [
+    "10609",
+    "Liverto Axe"
+  ],
+  [
+    "10610",
+    "Kzarka Axe"
+  ],
+  [
+    "10612",
+    "Kalis Axe"
+  ],
+  [
+    "10613",
+    "Bares Axe"
+  ],
+  [
+    "10614",
+    "Yuria Axe"
+  ],
+  [
+    "10656",
+    "Krea Axe"
+  ],
+  [
+    "10657",
+    "Rosar Axe"
+  ],
+  [
+    "10671",
+    "Styd Axe"
+  ],
+  [
+    "10672",
+    "Ultimate Styd Axe"
+  ],
+  [
+    "10686",
+    "Offin Tett's Radiant Axe"
+  ],
+  [
+    "11203",
+    "Elsh Gauntlet"
+  ],
+  [
+    "11205",
+    "Azwell Gauntlet"
+  ],
+  [
+    "11206",
+    "Ain Gauntlet"
+  ],
+  [
+    "11207",
+    "Seleth Gauntlet"
+  ],
+  [
+    "11209",
+    "Liverto Gauntlet"
+  ],
+  [
+    "11210",
+    "Kzarka Gauntlet"
+  ],
+  [
+    "11212",
+    "Kalis Gauntlet"
+  ],
+  [
+    "11213",
+    "Bares Gauntlet"
+  ],
+  [
+    "11214",
+    "Yuria Gauntlet"
+  ],
+  [
+    "11220",
+    "Krea Gauntlet"
+  ],
+  [
+    "11221",
+    "Rosar Gauntlet"
+  ],
+  [
+    "11222",
+    "Styd Gauntlet"
+  ],
+  [
+    "11223",
+    "Ultimate Styd Gauntlet"
+  ],
+  [
+    "11287",
+    "Offin Tett's Radiant Gauntlet"
+  ],
+  [
+    "11353",
+    "Elsh Kriegsmesser"
+  ],
+  [
+    "11355",
+    "Azwell Kriegsmesser"
+  ],
+  [
+    "11356",
+    "Ain Kriegsmesser"
+  ],
+  [
+    "11357",
+    "Seleth Kriegsmesser"
+  ],
+  [
+    "11359",
+    "Liverto Kriegsmesser"
+  ],
+  [
+    "11360",
+    "Kzarka Kriegsmesser"
+  ],
+  [
+    "11362",
+    "Kalis Kriegsmesser"
+  ],
+  [
+    "11363",
+    "Bares Kriegsmesser"
+  ],
+  [
+    "11364",
+    "Yuria Kriegsmesser"
+  ],
+  [
+    "11370",
+    "Krea Kriegsmesser"
+  ],
+  [
+    "11371",
+    "Rosar Kriegsmesser"
+  ],
+  [
+    "11372",
+    "Styd Kriegsmesser"
+  ],
+  [
+    "11373",
+    "Ultimate Styd Kriegsmesser"
+  ],
+  [
+    "11436",
+    "Offin Tett's Radiant Kriegsmesser"
+  ],
+  [
+    "13203",
+    "Elsh Shortsword"
+  ],
+  [
+    "13205",
+    "Azwell Shortsword"
+  ],
+  [
+    "13206",
+    "Ain Shortsword"
+  ],
+  [
+    "13207",
+    "Seleth Shortsword"
+  ],
+  [
+    "13209",
+    "Liverto Shortsword"
+  ],
+  [
+    "13210",
+    "Kzarka Shortsword"
+  ],
+  [
+    "13212",
+    "Kalis Shortsword"
+  ],
+  [
+    "13213",
+    "Bares Shortsword"
+  ],
+  [
+    "13214",
+    "Yuria Shortsword"
+  ],
+  [
+    "13256",
+    "Krea Shortsword"
+  ],
+  [
+    "13257",
+    "Rosar Shortsword"
+  ],
+  [
+    "13271",
+    "Styd Shortsword"
+  ],
+  [
+    "13272",
+    "Ultimate Styd Shortsword"
+  ],
+  [
+    "13286",
+    "Offin Tett's Radiant Shortsword"
+  ],
+  [
+    "13303",
+    "Elsh Blade"
+  ],
+  [
+    "13305",
+    "Azwell Blade"
+  ],
+  [
+    "13306",
+    "Ain Blade"
+  ],
+  [
+    "13307",
+    "Seleth Blade"
+  ],
+  [
+    "13309",
+    "Liverto Blade"
+  ],
+  [
+    "13310",
+    "Kzarka Blade"
+  ],
+  [
+    "13312",
+    "Kalis Blade"
+  ],
+  [
+    "13313",
+    "Bares Blade"
+  ],
+  [
+    "13314",
+    "Yuria Blade"
+  ],
+  [
+    "13356",
+    "Krea Blade"
+  ],
+  [
+    "13357",
+    "Rosar Blade"
+  ],
+  [
+    "13371",
+    "Styd Blade"
+  ],
+  [
+    "13372",
+    "Ultimate Styd Blade"
+  ],
+  [
+    "13386",
+    "Offin Tett's Radiant Blade"
+  ],
+  [
+    "13403",
+    "Elsh Crescent Pendulum"
+  ],
+  [
+    "13405",
+    "Azwell Crescent Pendulum"
+  ],
+  [
+    "13406",
+    "Ain Crescent Pendulum"
+  ],
+  [
+    "13407",
+    "Seleth Crescent Pendulum"
+  ],
+  [
+    "13409",
+    "Liverto Crescent Pendulum"
+  ],
+  [
+    "13410",
+    "Kzarka Crescent Pendulum"
+  ],
+  [
+    "13412",
+    "Kalis Crescent Pendulum"
+  ],
+  [
+    "13413",
+    "Bares Crescent Pendulum"
+  ],
+  [
+    "13414",
+    "Yuria Crescent Pendulum"
+  ],
+  [
+    "13420",
+    "Krea Crescent Pendulum"
+  ],
+  [
+    "13421",
+    "Rosar Crescent Pendulum"
+  ],
+  [
+    "13422",
+    "Styd Crescent Pendulum"
+  ],
+  [
+    "13423",
+    "Ultimate Styd Crescent Pendulum"
+  ],
+  [
+    "13487",
+    "Offin Tett's Radiant Crescent Pendulum"
+  ],
+  [
+    "13703",
+    "Elsh Crossbow"
+  ],
+  [
+    "13705",
+    "Azwell Crossbow"
+  ],
+  [
+    "13706",
+    "Ain Crossbow"
+  ],
+  [
+    "13707",
+    "Seleth Crossbow"
+  ],
+  [
+    "13709",
+    "Liverto Crossbow"
+  ],
+  [
+    "13710",
+    "Kzarka Crossbow"
+  ],
+  [
+    "13712",
+    "Kalis Crossbow"
+  ],
+  [
+    "13713",
+    "Bares Crossbow"
+  ],
+  [
+    "13714",
+    "Yuria Crossbow"
+  ],
+  [
+    "13756",
+    "Krea Crossbow"
+  ],
+  [
+    "13757",
+    "Rosar Crossbow"
+  ],
+  [
+    "13771",
+    "Styd Crossbow"
+  ],
+  [
+    "13772",
+    "Ultimate Styd Crossbow"
+  ],
+  [
+    "13786",
+    "Offin Tett's Radiant Crossbow"
+  ],
+  [
+    "14403",
+    "Elsh Staff"
+  ],
+  [
+    "14405",
+    "Azwell Staff"
+  ],
+  [
+    "14406",
+    "Ain Staff"
+  ],
+  [
+    "14407",
+    "Seleth Staff"
+  ],
+  [
+    "14409",
+    "Liverto Staff"
+  ],
+  [
+    "14410",
+    "Kzarka Staff"
+  ],
+  [
+    "14412",
+    "Kalis Staff"
+  ],
+  [
+    "14413",
+    "Bares Staff"
+  ],
+  [
+    "14414",
+    "Yuria Staff"
+  ],
+  [
+    "14456",
+    "Krea Staff"
+  ],
+  [
+    "14457",
+    "Rosar Staff"
+  ],
+  [
+    "14471",
+    "Styd Staff"
+  ],
+  [
+    "14472",
+    "Ultimate Styd Staff"
+  ],
+  [
+    "14486",
+    "Offin Tett's Radiant Staff"
+  ],
+  [
+    "690506",
+    "Elsh Battle Axe"
+  ],
+  [
+    "690508",
+    "Azwell Battle Axe"
+  ],
+  [
+    "690509",
+    "Ain Battle Axe"
+  ],
+  [
+    "690510",
+    "Seleth Battle Axe"
+  ],
+  [
+    "690512",
+    "Liverto Battle Axe"
+  ],
+  [
+    "690513",
+    "Kzarka Battle Axe"
+  ],
+  [
+    "690515",
+    "Kalis Battle Axe"
+  ],
+  [
+    "690516",
+    "Bares Battle Axe"
+  ],
+  [
+    "690517",
+    "Yuria Battle Axe"
+  ],
+  [
+    "690518",
+    "Krea Battle Axe"
+  ],
+  [
+    "690519",
+    "Rosar Battle Axe"
+  ],
+  [
+    "690520",
+    "Styd Battle Axe"
+  ],
+  [
+    "690521",
+    "Ultimate Styd Battle Axe"
+  ],
+  [
+    "690541",
+    "Offin Tett's Radiant Battle Axe"
+  ],
+  [
+    "690563",
+    "Blackstar Battle Axe"
+  ],
+  [
+    "692004",
+    "Elsh Shamshir"
+  ],
+  [
+    "692006",
+    "Azwell Shamshir"
+  ],
+  [
+    "692007",
+    "Ain Shamshir"
+  ],
+  [
+    "692008",
+    "Seleth Shamshir"
+  ],
+  [
+    "692010",
+    "Liverto Shamshir"
+  ],
+  [
+    "692011",
+    "Kzarka Shamshir"
+  ],
+  [
+    "692013",
+    "Kalis Shamshir"
+  ],
+  [
+    "692014",
+    "Bares Shamshir"
+  ],
+  [
+    "692015",
+    "Yuria Shamshir"
+  ],
+  [
+    "692016",
+    "Krea Shamshir"
+  ],
+  [
+    "692017",
+    "Rosar Shamshir"
+  ],
+  [
+    "692018",
+    "Styd Shamshir"
+  ],
+  [
+    "692039",
+    "Offin Tett's Radiant Shamshir"
+  ],
+  [
+    "692045",
+    "Blackstar Shamshir"
+  ],
+  [
+    "715001",
+    "Blackstar Longsword"
+  ],
+  [
+    "715003",
+    "Blackstar Longbow"
+  ],
+  [
+    "715005",
+    "Blackstar Amulet"
+  ],
+  [
+    "715007",
+    "Blackstar Axe"
+  ],
+  [
+    "715009",
+    "Blackstar Shortsword"
+  ],
+  [
+    "715011",
+    "Blackstar Blade"
+  ],
+  [
+    "715013",
+    "Blackstar Staff"
+  ],
+  [
+    "715016",
+    "Blackstar Kriegsmesser"
+  ],
+  [
+    "715017",
+    "Blackstar Gauntlet"
+  ],
+  [
+    "715019",
+    "Blackstar Crescent Pendulum"
+  ],
+  [
+    "715021",
+    "Blackstar Crossbow"
+  ],
+  [
+    "718503",
+    "Elsh Florang"
+  ],
+  [
+    "718505",
+    "Azwell Florang"
+  ],
+  [
+    "718506",
+    "Ain Florang"
+  ],
+  [
+    "718507",
+    "Seleth Florang"
+  ],
+  [
+    "718509",
+    "Liverto Florang"
+  ],
+  [
+    "718510",
+    "Kzarka Florang"
+  ],
+  [
+    "718512",
+    "Kalis Florang"
+  ],
+  [
+    "718513",
+    "Bares Florang"
+  ],
+  [
+    "718514",
+    "Yuria Florang"
+  ],
+  [
+    "718520",
+    "Krea Florang"
+  ],
+  [
+    "718521",
+    "Rosar Florang"
+  ],
+  [
+    "718522",
+    "Styd Florang"
+  ],
+  [
+    "718523",
+    "Ultimate Styd Florang"
+  ],
+  [
+    "718586",
+    "Offin Tett's Radiant Florang"
+  ],
+  [
+    "718616",
+    "Blackstar Florang"
+  ],
+  [
+    "730504",
+    "Elsh Morning Star"
+  ],
+  [
+    "730506",
+    "Azwell Morning Star"
+  ],
+  [
+    "730507",
+    "Ain Morning Star"
+  ],
+  [
+    "730508",
+    "Seleth Morning Star"
+  ],
+  [
+    "730510",
+    "Liverto Morning Star"
+  ],
+  [
+    "730511",
+    "Kzarka Morning Star"
+  ],
+  [
+    "730513",
+    "Kalis Morning Star"
+  ],
+  [
+    "730514",
+    "Bares Morning Star"
+  ],
+  [
+    "730515",
+    "Yuria Morning Star"
+  ],
+  [
+    "730516",
+    "Krea Morning Star"
+  ],
+  [
+    "730517",
+    "Rosar Morning Star"
+  ],
+  [
+    "730518",
+    "Styd Morning Star"
+  ],
+  [
+    "730519",
+    "Ultimate Styd Morning Star"
+  ],
+  [
+    "730539",
+    "Offin Tett's Radiant Morning Star"
+  ],
+  [
+    "730564",
+    "Blackstar Morning Star"
+  ],
+  [
+    "732253",
+    "Elsh Kyve"
+  ],
+  [
+    "732255",
+    "Azwell Kyve"
+  ],
+  [
+    "732257",
+    "Seleth Kyve"
+  ],
+  [
+    "732259",
+    "Liverto Kyve"
+  ],
+  [
+    "732260",
+    "Kzarka Kyve"
+  ],
+  [
+    "732262",
+    "Kalis Kyve"
+  ],
+  [
+    "732263",
+    "Bares Kyve"
+  ],
+  [
+    "732264",
+    "Yuria Kyve"
+  ],
+  [
+    "732265",
+    "Krea Kyve"
+  ],
+  [
+    "732266",
+    "Rosar Kyve"
+  ],
+  [
+    "732267",
+    "Styd Kyve"
+  ],
+  [
+    "732288",
+    "Offin Tett's Radiant Kyve"
+  ],
+  [
+    "732313",
+    "Blackstar Kyve"
+  ]
+]

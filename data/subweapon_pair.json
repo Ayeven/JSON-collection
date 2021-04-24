@@ -1,0 +1,394 @@
+[
+  [
+    "10102",
+    "Vangertz Shield"
+  ],
+  [
+    "10103",
+    "Axion Shield"
+  ],
+  [
+    "10105",
+    "Kite Shield"
+  ],
+  [
+    "10124",
+    "Krea Shield"
+  ],
+  [
+    "10125",
+    "Rosar Shield"
+  ],
+  [
+    "10138",
+    "Nouver Shield"
+  ],
+  [
+    "10140",
+    "Kutum Shield"
+  ],
+  [
+    "10303",
+    "Bronze Dagger"
+  ],
+  [
+    "10304",
+    "Steel Dagger"
+  ],
+  [
+    "10305",
+    "Parrying Dagger"
+  ],
+  [
+    "10324",
+    "Krea Dagger"
+  ],
+  [
+    "10325",
+    "Rosar Dagger"
+  ],
+  [
+    "10338",
+    "Nouver Dagger"
+  ],
+  [
+    "10340",
+    "쿠툼 단검"
+  ],
+  [
+    "10503",
+    "Helrick Talisman"
+  ],
+  [
+    "10504",
+    "Jubre Talisman"
+  ],
+  [
+    "10505",
+    "Rhik Talisman"
+  ],
+  [
+    "10524",
+    "Krea Talisman"
+  ],
+  [
+    "10525",
+    "Rosar Talisman"
+  ],
+  [
+    "10538",
+    "Nouver Talisman"
+  ],
+  [
+    "10540",
+    "Kutum Talisman"
+  ],
+  [
+    "10703",
+    "Saiyer Ornamental Knot"
+  ],
+  [
+    "10704",
+    "Oros Ornamental Knot"
+  ],
+  [
+    "10705",
+    "Theos Ornamental Knot"
+  ],
+  [
+    "10724",
+    "Krea Ornamental Knot"
+  ],
+  [
+    "10725",
+    "Rosar Ornamental Knot"
+  ],
+  [
+    "10738",
+    "Nouver Ornamental Knot"
+  ],
+  [
+    "10740",
+    "Kutum Ornamental Knot"
+  ],
+  [
+    "11303",
+    "Leather Vambrace"
+  ],
+  [
+    "11304",
+    "Scale Vambrace"
+  ],
+  [
+    "11305",
+    "Iron Vambrace"
+  ],
+  [
+    "11324",
+    "Krea Vambrace"
+  ],
+  [
+    "11325",
+    "Rosar Vambrace"
+  ],
+  [
+    "11338",
+    "Nouver Vambrace"
+  ],
+  [
+    "11340",
+    "Kutum Vambrace"
+  ],
+  [
+    "13003",
+    "Incense Trinket"
+  ],
+  [
+    "13004",
+    "Needle Trinket"
+  ],
+  [
+    "13005",
+    "Blade Trinket"
+  ],
+  [
+    "13024",
+    "Krea Trinket"
+  ],
+  [
+    "13025",
+    "Rosar Trinket"
+  ],
+  [
+    "13038",
+    "Nouver Trinket"
+  ],
+  [
+    "13040",
+    "Kutum Trinket"
+  ],
+  [
+    "13103",
+    "Black Warrior Horn Bow"
+  ],
+  [
+    "13104",
+    "White Horn Bow"
+  ],
+  [
+    "13105",
+    "White Warrior Horn Bow"
+  ],
+  [
+    "13124",
+    "Krea Horn Bow"
+  ],
+  [
+    "13125",
+    "Rosar Horn Bow"
+  ],
+  [
+    "13138",
+    "Nouver Horn Bow"
+  ],
+  [
+    "13140",
+    "Kutum Horn Bow"
+  ],
+  [
+    "13503",
+    "Ascending Noble Sword"
+  ],
+  [
+    "13504",
+    "Crow Noble Sword"
+  ],
+  [
+    "13505",
+    "Mistress Noble Sword"
+  ],
+  [
+    "13524",
+    "Krea Noble Sword"
+  ],
+  [
+    "13525",
+    "Rosar Noble Sword"
+  ],
+  [
+    "13538",
+    "Nouver Noble Sword"
+  ],
+  [
+    "13540",
+    "Kutum Noble Sword"
+  ],
+  [
+    "13803",
+    "Bhatu Ra'ghon"
+  ],
+  [
+    "13804",
+    "Ganatte Ra'ghon"
+  ],
+  [
+    "13805",
+    "Sharos Ra'ghon"
+  ],
+  [
+    "13824",
+    "Krea Ra'ghon"
+  ],
+  [
+    "13825",
+    "Rosar Ra'ghon"
+  ],
+  [
+    "13838",
+    "Nouver Ra'ghon"
+  ],
+  [
+    "13840",
+    "Kutum Ra'ghon"
+  ],
+  [
+    "14503",
+    "Quitar Kunai"
+  ],
+  [
+    "14504",
+    "Estique Kunai"
+  ],
+  [
+    "14505",
+    "Tadd Kunai"
+  ],
+  [
+    "14524",
+    "Krea Kunai"
+  ],
+  [
+    "14525",
+    "Rosar Kunai"
+  ],
+  [
+    "14538",
+    "Nouver Kunai"
+  ],
+  [
+    "14540",
+    "Kutum Kunai"
+  ],
+  [
+    "14603",
+    "Quitar Shuriken"
+  ],
+  [
+    "14604",
+    "Estique Shuriken"
+  ],
+  [
+    "14605",
+    "Tadd Shuriken"
+  ],
+  [
+    "14624",
+    "Krea Shuriken"
+  ],
+  [
+    "14625",
+    "Rosar Shuriken"
+  ],
+  [
+    "14638",
+    "Nouver Shuriken"
+  ],
+  [
+    "14640",
+    "Kutum Shuriken"
+  ],
+  [
+    "692504",
+    "Ahin Haladie"
+  ],
+  [
+    "692505",
+    "Baduum Haladie"
+  ],
+  [
+    "692506",
+    "Neshal Haladie"
+  ],
+  [
+    "692510",
+    "Krea Haladie"
+  ],
+  [
+    "692511",
+    "Rosar Haladie"
+  ],
+  [
+    "692514",
+    "Nouver Haladie"
+  ],
+  [
+    "692516",
+    "Kutum Haladie"
+  ],
+  [
+    "719003",
+    "Saiyer Vitclari"
+  ],
+  [
+    "719004",
+    "Oros Vitclari"
+  ],
+  [
+    "719005",
+    "Theos Vitclari"
+  ],
+  [
+    "719024",
+    "Krea Vitclari"
+  ],
+  [
+    "719025",
+    "Rosar Vitclari"
+  ],
+  [
+    "719038",
+    "Nouver Vitclari"
+  ],
+  [
+    "719040",
+    "Kutum Vitclari"
+  ],
+  [
+    "730704",
+    "Pau Quoratum"
+  ],
+  [
+    "730705",
+    "Luka Quoratum"
+  ],
+  [
+    "730706",
+    "Vishur Quoratum"
+  ],
+  [
+    "730710",
+    "Krea Quoratum"
+  ],
+  [
+    "730711",
+    "Rosar Quoratum"
+  ],
+  [
+    "730714",
+    "Nouver Quoratum"
+  ],
+  [
+    "730716",
+    "Kutum Quoratum"
+  ]
+]
