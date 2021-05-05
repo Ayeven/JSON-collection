@@ -8,6 +8,7 @@ config.json
 config.js
 *.sqlite
 test.js
+*.js
 
 # Runtime data
 pids

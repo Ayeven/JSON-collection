@@ -1,0 +1,3610 @@
+[
+  {
+    "id": "1694",
+    "name": "[Combat] Trina Matchlock",
+    "cat": "Manufacture",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/06_pc_equipitem/00_common/00_etc/00016347.png",
+    "m1": {
+      "id": "4077",
+      "name": "Steel",
+      "qty": "5"
+    },
+    "m2": {
+      "id": "4606",
+      "name": "Fir Timber",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "4053",
+      "name": "Pure Iron Crystal",
+      "qty": "1"
+    },
+    "m4": {
+      "id": "6161",
+      "name": "Fine Hard Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "16347",
+      "name": "[Combat] Trina Matchlock"
+    }
+  },
+  {
+    "id": "1695",
+    "name": "[Combat] Trina Lead Bullet",
+    "cat": "Manufacture",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/00016380.png",
+    "m1": {
+      "id": "4055",
+      "name": "Lead Ingot",
+      "qty": "5"
+    },
+    "m2": {
+      "id": "4802",
+      "name": "Powder of Flame",
+      "qty": "10"
+    },
+    "m3": {
+      "id": "4006",
+      "name": "Rough Stone",
+      "qty": "5"
+    },
+    "m4": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "16380",
+      "name": "[Combat] Trina Lead Bullet"
+    }
+  },
+  {
+    "id": "1696",
+    "name": "[Combat] Trina Demolition Axe",
+    "cat": "Manufacture",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/06_pc_equipitem/00_common/00_etc/00016433.png",
+    "m1": {
+      "id": "4077",
+      "name": "Steel",
+      "qty": "5"
+    },
+    "m2": {
+      "id": "4607",
+      "name": "Cedar Timber",
+      "qty": "10"
+    },
+    "m3": {
+      "id": "4053",
+      "name": "Pure Iron Crystal",
+      "qty": "1"
+    },
+    "m4": {
+      "id": "4901",
+      "name": "Black Stone Powder",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "16433",
+      "name": "[Combat] Trina Demolition Axe"
+    }
+  },
+  {
+    "id": "1697",
+    "name": "Sealed Old Moon Camping Anvil",
+    "cat": "Manufacture",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/09_petitem/00049802.png",
+    "m1": {
+      "id": "4922",
+      "name": "Old Moon Anti-Corrosive",
+      "qty": "10"
+    },
+    "m2": {
+      "id": "4077",
+      "name": "Steel",
+      "qty": "20"
+    },
+    "m3": {
+      "id": "4080",
+      "name": "Pure Vanadium Crystal",
+      "qty": "2"
+    },
+    "m4": {
+      "id": "4068",
+      "name": "Polished Stone",
+      "qty": "2"
+    },
+    "m5": {
+      "id": "6527",
+      "name": "Golden Pearl",
+      "qty": "2"
+    },
+    "pd1": {
+      "id": "49804",
+      "name": "Sealed Old Moon Camping Anvil"
+    }
+  },
+  {
+    "id": "1716",
+    "name": "Packaged Old Moon Camping Anvil",
+    "cat": "Manufacture",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/09_petitem/00049802.png",
+    "m1": {
+      "id": "4922",
+      "name": "Old Moon Anti-Corrosive",
+      "qty": "10"
+    },
+    "m2": {
+      "id": "4077",
+      "name": "Steel",
+      "qty": "20"
+    },
+    "m3": {
+      "id": "4080",
+      "name": "Pure Vanadium Crystal",
+      "qty": "2"
+    },
+    "m4": {
+      "id": "4068",
+      "name": "Polished Stone",
+      "qty": "2"
+    },
+    "m5": {
+      "id": "4264",
+      "name": "Pure Mythril Crystal",
+      "qty": "15"
+    },
+    "pd1": {
+      "id": "49808",
+      "name": "Packaged Old Moon Camping Anvil"
+    }
+  },
+  {
+    "id": "1845",
+    "name": "Manos Hoe",
+    "cat": "Manufacture",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/06_pc_equipitem/00_common/00_etc/00016479.png",
+    "m1": {
+      "id": "4076",
+      "name": "Metal Solvent",
+      "qty": "15"
+    },
+    "m2": {
+      "id": "4915",
+      "name": "Manos Stone",
+      "qty": "5"
+    },
+    "m3": {
+      "id": "4918",
+      "name": "Magical Shard",
+      "qty": "50"
+    },
+    "m4": {
+      "id": "16116",
+      "name": "Shining Steel Hoe",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "16479",
+      "name": "Manos Hoe"
+    }
+  },
+  {
+    "id": "1846",
+    "name": "[Hunting] Sniper Rifle",
+    "cat": "Manufacture",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/06_pc_equipitem/00_common/00_etc/00056129.png",
+    "m1": {
+      "id": "4053",
+      "name": "Pure Iron Crystal",
+      "qty": "3"
+    },
+    "m2": {
+      "id": "4077",
+      "name": "Steel",
+      "qty": "20"
+    },
+    "m3": {
+      "id": "4605",
+      "name": "Log",
+      "qty": "1"
+    },
+    "m4": {
+      "id": "6161",
+      "name": "Fine Hard Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "56133",
+      "name": "[Hunting] Sniper Rifle"
+    }
+  },
+  {
+    "id": "1847",
+    "name": "Manos Pickaxe",
+    "cat": "Manufacture",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/06_pc_equipitem/00_common/00_etc/00016847.png",
+    "m1": {
+      "id": "4076",
+      "name": "Metal Solvent",
+      "qty": "15"
+    },
+    "m2": {
+      "id": "4915",
+      "name": "Manos Stone",
+      "qty": "5"
+    },
+    "m3": {
+      "id": "4918",
+      "name": "Magical Shard",
+      "qty": "50"
+    },
+    "m4": {
+      "id": "16128",
+      "name": "Shining Steel Pickaxe",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "16847",
+      "name": "Manos Pickaxe"
+    }
+  },
+  {
+    "id": "1848",
+    "name": "Manos Butcher Knife",
+    "cat": "Manufacture",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/06_pc_equipitem/00_common/00_etc/00016487.png",
+    "m1": {
+      "id": "4076",
+      "name": "Metal Solvent",
+      "qty": "15"
+    },
+    "m2": {
+      "id": "4915",
+      "name": "Manos Stone",
+      "qty": "5"
+    },
+    "m3": {
+      "id": "4918",
+      "name": "Magical Shard",
+      "qty": "50"
+    },
+    "m4": {
+      "id": "16120",
+      "name": "Shining Steel Butcher Knife",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "16487",
+      "name": "Manos Butcher Knife"
+    }
+  },
+  {
+    "id": "1849",
+    "name": "Manos Tanning Knife",
+    "cat": "Manufacture",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/06_pc_equipitem/00_common/00_etc/00016486.png",
+    "m1": {
+      "id": "4076",
+      "name": "Metal Solvent",
+      "qty": "15"
+    },
+    "m2": {
+      "id": "4915",
+      "name": "Manos Stone",
+      "qty": "5"
+    },
+    "m3": {
+      "id": "4918",
+      "name": "Magical Shard",
+      "qty": "50"
+    },
+    "m4": {
+      "id": "16124",
+      "name": "Shining Steel Tanning Knife",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "16486",
+      "name": "Manos Tanning Knife"
+    }
+  },
+  {
+    "id": "1850",
+    "name": "Manos Lumbering Axe",
+    "cat": "Manufacture",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/06_pc_equipitem/00_common/00_etc/00016481.png",
+    "m1": {
+      "id": "4076",
+      "name": "Metal Solvent",
+      "qty": "15"
+    },
+    "m2": {
+      "id": "4915",
+      "name": "Manos Stone",
+      "qty": "5"
+    },
+    "m3": {
+      "id": "4918",
+      "name": "Magical Shard",
+      "qty": "50"
+    },
+    "m4": {
+      "id": "16108",
+      "name": "Shining Steel Lumbering Axe",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "16481",
+      "name": "Manos Lumbering Axe"
+    }
+  },
+  {
+    "id": "1851",
+    "name": "Manos Fluid Collector",
+    "cat": "Manufacture",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/06_pc_equipitem/00_common/00_etc/00016482.png",
+    "m1": {
+      "id": "4076",
+      "name": "Metal Solvent",
+      "qty": "15"
+    },
+    "m2": {
+      "id": "4915",
+      "name": "Manos Stone",
+      "qty": "5"
+    },
+    "m3": {
+      "id": "4918",
+      "name": "Magical Shard",
+      "qty": "50"
+    },
+    "m4": {
+      "id": "16112",
+      "name": "Shining Fluid Collector",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "16482",
+      "name": "Manos Fluid Collector"
+    }
+  },
+  {
+    "id": "1852",
+    "name": "Manos Alchemist's Clothes",
+    "cat": "Manufacture",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/06_pc_equipitem/00_common/09_upperbody/00705047.png",
+    "m1": {
+      "id": "4256",
+      "name": "Pure Gold Crystal",
+      "qty": "200"
+    },
+    "m2": {
+      "id": "4915",
+      "name": "Manos Stone",
+      "qty": "5"
+    },
+    "m3": {
+      "id": "5214",
+      "name": "Essence of Perfection",
+      "qty": "20"
+    },
+    "m4": {
+      "id": "5870",
+      "name": "Enlightened One's Cotton Fabric",
+      "qty": "15"
+    },
+    "pd1": {
+      "id": "705047",
+      "name": "Manos Alchemist's Clothes"
+    }
+  },
+  {
+    "id": "1853",
+    "name": "Manos Cook's Clothes",
+    "cat": "Manufacture",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/06_pc_equipitem/00_common/09_upperbody/00705037.png",
+    "m1": {
+      "id": "4492",
+      "name": "Indigo Lapis Lazuli",
+      "qty": "15"
+    },
+    "m2": {
+      "id": "4915",
+      "name": "Manos Stone",
+      "qty": "10"
+    },
+    "m3": {
+      "id": "5865",
+      "name": "Dawn Fallen Silk",
+      "qty": "15"
+    },
+    "m4": {
+      "id": "5867",
+      "name": "Fundamentals of Cooking",
+      "qty": "10"
+    },
+    "pd1": {
+      "id": "705037",
+      "name": "Manos Cook's Clothes"
+    }
+  },
+  {
+    "id": "1854",
+    "name": "Manos Hunter's Clothes",
+    "cat": "Manufacture",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/06_pc_equipitem/00_common/09_upperbody/00705022.png",
+    "m1": {
+      "id": "4459",
+      "name": "Gold Topaz",
+      "qty": "30"
+    },
+    "m2": {
+      "id": "4915",
+      "name": "Manos Stone",
+      "qty": "5"
+    },
+    "m3": {
+      "id": "4918",
+      "name": "Magical Shard",
+      "qty": "50"
+    },
+    "m4": {
+      "id": "5863",
+      "name": "Dusk Laden Cotton Fabric",
+      "qty": "15"
+    },
+    "m5": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "50"
+    },
+    "pd1": {
+      "id": "705022",
+      "name": "Manos Hunter's Clothes"
+    }
+  },
+  {
+    "id": "1855",
+    "name": "Manos Fisher's Clothes",
+    "cat": "Manufacture",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/06_pc_equipitem/00_common/09_upperbody/00705052.png",
+    "m1": {
+      "id": "4456",
+      "name": "Ocean Sapphire",
+      "qty": "30"
+    },
+    "m2": {
+      "id": "4915",
+      "name": "Manos Stone",
+      "qty": "5"
+    },
+    "m3": {
+      "id": "4918",
+      "name": "Magical Shard",
+      "qty": "50"
+    },
+    "m4": {
+      "id": "5864",
+      "name": "Tear of the Great Ocean",
+      "qty": "30"
+    },
+    "pd1": {
+      "id": "705052",
+      "name": "Manos Fisher's Clothes"
+    }
+  },
+  {
+    "id": "1856",
+    "name": "Manos Sailor's Clothes",
+    "cat": "Manufacture",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/06_pc_equipitem/00_common/09_upperbody/00705032.png",
+    "m1": {
+      "id": "4456",
+      "name": "Ocean Sapphire",
+      "qty": "30"
+    },
+    "m2": {
+      "id": "4478",
+      "name": "Twilight Red Coral",
+      "qty": "3"
+    },
+    "m3": {
+      "id": "4915",
+      "name": "Manos Stone",
+      "qty": "5"
+    },
+    "m4": {
+      "id": "4918",
+      "name": "Magical Shard",
+      "qty": "50"
+    },
+    "pd1": {
+      "id": "705032",
+      "name": "Manos Sailor's Clothes"
+    }
+  },
+  {
+    "id": "1857",
+    "name": "Manos Sailor's Clothes",
+    "cat": "Manufacture",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/06_pc_equipitem/00_common/09_upperbody/00705032.png",
+    "m1": {
+      "id": "4456",
+      "name": "Ocean Sapphire",
+      "qty": "30"
+    },
+    "m2": {
+      "id": "4479",
+      "name": "Daybreak Blue Coral",
+      "qty": "3"
+    },
+    "m3": {
+      "id": "4915",
+      "name": "Manos Stone",
+      "qty": "5"
+    },
+    "m4": {
+      "id": "4918",
+      "name": "Magical Shard",
+      "qty": "50"
+    },
+    "pd1": {
+      "id": "705032",
+      "name": "Manos Sailor's Clothes"
+    }
+  },
+  {
+    "id": "1858",
+    "name": "Emergency Ship Repair Kit",
+    "cat": "Manufacture",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/07_productmaterial/00004689.png",
+    "m1": {
+      "id": "4077",
+      "name": "Steel",
+      "qty": "5"
+    },
+    "m2": {
+      "id": "4684",
+      "name": "Plywood Hardener",
+      "qty": "10"
+    },
+    "m3": {
+      "id": "4688",
+      "name": "Ship Repair Material",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "4700",
+      "name": "Emergency Ship Repair Kit"
+    }
+  },
+  {
+    "id": "1859",
+    "name": "Eye of Desolation",
+    "cat": "Manufacture",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/03_quest_item/00043780.png",
+    "m1": {
+      "id": "752014",
+      "name": "Concentrated Boss's Aura",
+      "qty": "3"
+    },
+    "m2": {
+      "id": "43782",
+      "name": "Eye of Anguish",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "43780",
+      "name": "Eye of Desolation"
+    }
+  },
+  {
+    "id": "1863",
+    "name": "Abyssal Brass Ingot",
+    "cat": "Manufacture",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/07_productmaterial/00009746.png",
+    "m1": {
+      "id": "4066",
+      "name": "Brass Ingot",
+      "qty": "2"
+    },
+    "m2": {
+      "id": "4901",
+      "name": "Black Stone Powder",
+      "qty": "10"
+    },
+    "m3": {
+      "id": "5956",
+      "name": "Trace of Savagery",
+      "qty": "7"
+    },
+    "pd1": {
+      "id": "9746",
+      "name": "Abyssal Brass Ingot"
+    }
+  },
+  {
+    "id": "1869",
+    "name": "Griffon's Helmet",
+    "cat": "Manufacture",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/06_pc_equipitem/00_common/13_hel/00011101.png",
+    "m1": {
+      "id": "4065",
+      "name": "Pure Zinc Crystal",
+      "qty": "100"
+    },
+    "m2": {
+      "id": "6031",
+      "name": "Griffon Leather",
+      "qty": "10"
+    },
+    "m3": {
+      "id": "6169",
+      "name": "Supreme Hard Hide",
+      "qty": "120"
+    },
+    "m4": {
+      "id": "6174",
+      "name": "Supreme Fancy Feather",
+      "qty": "120"
+    },
+    "m5": {
+      "id": "9773",
+      "name": "Intact Griffon's Beak",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "11101",
+      "name": "Griffon's Helmet"
+    }
+  },
+  {
+    "id": "1892",
+    "name": "Mass of Pure Magic",
+    "cat": "Manufacture",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/00752023.png",
+    "m1": {
+      "id": "16008",
+      "name": "Black Spirit's Claw",
+      "qty": "1"
+    },
+    "m2": {
+      "id": "43786",
+      "name": "Remnants of the Rift",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "752023",
+      "name": "Mass of Pure Magic"
+    }
+  },
+  {
+    "id": "1897",
+    "name": "Manos Trainer's Clothes",
+    "cat": "Manufacture",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/06_pc_equipitem/00_common/09_upperbody/00705015.png",
+    "m1": {
+      "id": "4915",
+      "name": "Manos Stone",
+      "qty": "5"
+    },
+    "m2": {
+      "id": "4918",
+      "name": "Magical Shard",
+      "qty": "40"
+    },
+    "m3": {
+      "id": "5863",
+      "name": "Dusk Laden Cotton Fabric",
+      "qty": "1"
+    },
+    "m4": {
+      "id": "50801",
+      "name": "Krogdalo's Origin Stone",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "705015",
+      "name": "Manos Trainer's Clothes"
+    }
+  },
+  {
+    "id": "1898",
+    "name": "Manos Riding Crop",
+    "cat": "Manufacture",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/06_pc_equipitem/00_common/00_etc/00705156.png",
+    "m1": {
+      "id": "4915",
+      "name": "Manos Stone",
+      "qty": "5"
+    },
+    "m2": {
+      "id": "4918",
+      "name": "Magical Shard",
+      "qty": "50"
+    },
+    "m3": {
+      "id": "6169",
+      "name": "Supreme Hard Hide",
+      "qty": "15"
+    },
+    "m4": {
+      "id": "50801",
+      "name": "Krogdalo's Origin Stone",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "705156",
+      "name": "Manos Riding Crop"
+    }
+  },
+  {
+    "id": "1899",
+    "name": "Manos Necklace",
+    "cat": "Manufacture",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/06_pc_equipitem/00_common/15_necklace/00705001.png",
+    "m1": {
+      "id": "4083",
+      "name": "Pure Titanium Crystal",
+      "qty": "100"
+    },
+    "m2": {
+      "id": "4915",
+      "name": "Manos Stone",
+      "qty": "5"
+    },
+    "m3": {
+      "id": "5208",
+      "name": "Essence of the Sun",
+      "qty": "10"
+    },
+    "m4": {
+      "id": "5862",
+      "name": "Scorched Fragment",
+      "qty": "10"
+    },
+    "pd1": {
+      "id": "705509",
+      "name": "Manos Necklace"
+    }
+  },
+  {
+    "id": "1900",
+    "name": "Manos Necklace",
+    "cat": "Manufacture",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/06_pc_equipitem/00_common/15_necklace/00705001.png",
+    "m1": {
+      "id": "4083",
+      "name": "Pure Titanium Crystal",
+      "qty": "100"
+    },
+    "m2": {
+      "id": "4915",
+      "name": "Manos Stone",
+      "qty": "5"
+    },
+    "m3": {
+      "id": "4918",
+      "name": "Magical Shard",
+      "qty": "40"
+    },
+    "m4": {
+      "id": "5208",
+      "name": "Essence of the Sun",
+      "qty": "10"
+    },
+    "pd1": {
+      "id": "705509",
+      "name": "Manos Necklace"
+    }
+  },
+  {
+    "id": "1901",
+    "name": "Manos Earring",
+    "cat": "Manufacture",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/06_pc_equipitem/00_common/17_earring/00705002.png",
+    "m1": {
+      "id": "4080",
+      "name": "Pure Vanadium Crystal",
+      "qty": "100"
+    },
+    "m2": {
+      "id": "4915",
+      "name": "Manos Stone",
+      "qty": "5"
+    },
+    "m3": {
+      "id": "5210",
+      "name": "Essence of Enchantment",
+      "qty": "10"
+    },
+    "m4": {
+      "id": "5862",
+      "name": "Scorched Fragment",
+      "qty": "10"
+    },
+    "pd1": {
+      "id": "705510",
+      "name": "Manos Earring"
+    }
+  },
+  {
+    "id": "1902",
+    "name": "Manos Earring",
+    "cat": "Manufacture",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/06_pc_equipitem/00_common/17_earring/00705002.png",
+    "m1": {
+      "id": "4080",
+      "name": "Pure Vanadium Crystal",
+      "qty": "100"
+    },
+    "m2": {
+      "id": "4915",
+      "name": "Manos Stone",
+      "qty": "5"
+    },
+    "m3": {
+      "id": "4918",
+      "name": "Magical Shard",
+      "qty": "40"
+    },
+    "m4": {
+      "id": "5210",
+      "name": "Essence of Enchantment",
+      "qty": "10"
+    },
+    "pd1": {
+      "id": "705510",
+      "name": "Manos Earring"
+    }
+  },
+  {
+    "id": "1903",
+    "name": "Manos Ring",
+    "cat": "Manufacture",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/06_pc_equipitem/00_common/16_ring/00705003.png",
+    "m1": {
+      "id": "4080",
+      "name": "Pure Vanadium Crystal",
+      "qty": "100"
+    },
+    "m2": {
+      "id": "4915",
+      "name": "Manos Stone",
+      "qty": "5"
+    },
+    "m3": {
+      "id": "5204",
+      "name": "Essence of Abundance",
+      "qty": "10"
+    },
+    "m4": {
+      "id": "5862",
+      "name": "Scorched Fragment",
+      "qty": "10"
+    },
+    "pd1": {
+      "id": "705511",
+      "name": "Manos Ring"
+    }
+  },
+  {
+    "id": "1904",
+    "name": "Manos Ring",
+    "cat": "Manufacture",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/06_pc_equipitem/00_common/16_ring/00705003.png",
+    "m1": {
+      "id": "4080",
+      "name": "Pure Vanadium Crystal",
+      "qty": "100"
+    },
+    "m2": {
+      "id": "4915",
+      "name": "Manos Stone",
+      "qty": "5"
+    },
+    "m3": {
+      "id": "4918",
+      "name": "Magical Shard",
+      "qty": "40"
+    },
+    "m4": {
+      "id": "5204",
+      "name": "Essence of Abundance",
+      "qty": "10"
+    },
+    "pd1": {
+      "id": "705511",
+      "name": "Manos Ring"
+    }
+  },
+  {
+    "id": "1905",
+    "name": "Manos Belt",
+    "cat": "Manufacture",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/06_pc_equipitem/00_common/18_belt/00705004.png",
+    "m1": {
+      "id": "4083",
+      "name": "Pure Titanium Crystal",
+      "qty": "100"
+    },
+    "m2": {
+      "id": "4915",
+      "name": "Manos Stone",
+      "qty": "5"
+    },
+    "m3": {
+      "id": "5202",
+      "name": "Essence of Crimson Flame",
+      "qty": "10"
+    },
+    "m4": {
+      "id": "5862",
+      "name": "Scorched Fragment",
+      "qty": "10"
+    },
+    "pd1": {
+      "id": "705512",
+      "name": "Manos Belt"
+    }
+  },
+  {
+    "id": "1906",
+    "name": "Manos Belt",
+    "cat": "Manufacture",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/06_pc_equipitem/00_common/18_belt/00705004.png",
+    "m1": {
+      "id": "4083",
+      "name": "Pure Titanium Crystal",
+      "qty": "100"
+    },
+    "m2": {
+      "id": "4915",
+      "name": "Manos Stone",
+      "qty": "5"
+    },
+    "m3": {
+      "id": "4918",
+      "name": "Magical Shard",
+      "qty": "40"
+    },
+    "m4": {
+      "id": "5202",
+      "name": "Essence of Crimson Flame",
+      "qty": "10"
+    },
+    "pd1": {
+      "id": "705512",
+      "name": "Manos Belt"
+    }
+  },
+  {
+    "id": "1907",
+    "name": "Manos Gatherer's Clothes",
+    "cat": "Manufacture",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/06_pc_equipitem/00_common/09_upperbody/00705010.png",
+    "m1": {
+      "id": "4266",
+      "name": "Moonlight Opal",
+      "qty": "30"
+    },
+    "m2": {
+      "id": "4915",
+      "name": "Manos Stone",
+      "qty": "5"
+    },
+    "m3": {
+      "id": "4918",
+      "name": "Magical Shard",
+      "qty": "50"
+    },
+    "m4": {
+      "id": "5863",
+      "name": "Dusk Laden Cotton Fabric",
+      "qty": "15"
+    },
+    "pd1": {
+      "id": "705517",
+      "name": "Manos Gatherer's Clothes"
+    }
+  },
+  {
+    "id": "1908",
+    "name": "Manos Craftsman's Clothes",
+    "cat": "Manufacture",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/06_pc_equipitem/00_common/09_upperbody/00014082.png",
+    "m1": {
+      "id": "4453",
+      "name": "Blood Ruby",
+      "qty": "30"
+    },
+    "m2": {
+      "id": "4915",
+      "name": "Manos Stone",
+      "qty": "5"
+    },
+    "m3": {
+      "id": "4918",
+      "name": "Magical Shard",
+      "qty": "50"
+    },
+    "m4": {
+      "id": "5861",
+      "name": "Sunset Dyed Wool",
+      "qty": "15"
+    },
+    "pd1": {
+      "id": "705518",
+      "name": "Manos Craftsman's Clothes"
+    }
+  },
+  {
+    "id": "1909",
+    "name": "Manos Processing Stone - Lake",
+    "cat": "Manufacture",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/06_pc_equipitem/00_common/00_etc/00720501.png",
+    "m1": {
+      "id": "4456",
+      "name": "Ocean Sapphire",
+      "qty": "30"
+    },
+    "m2": {
+      "id": "4481",
+      "name": "Gem Polisher",
+      "qty": "15"
+    },
+    "m3": {
+      "id": "4915",
+      "name": "Manos Stone",
+      "qty": "5"
+    },
+    "m4": {
+      "id": "4918",
+      "name": "Magical Shard",
+      "qty": "50"
+    },
+    "pd1": {
+      "id": "720501",
+      "name": "Manos Processing Stone - Lake"
+    }
+  },
+  {
+    "id": "1910",
+    "name": "Manos Processing Stone - Vitality",
+    "cat": "Manufacture",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/06_pc_equipitem/00_common/00_etc/00720502.png",
+    "m1": {
+      "id": "4462",
+      "name": "Forest Emerald",
+      "qty": "30"
+    },
+    "m2": {
+      "id": "4481",
+      "name": "Gem Polisher",
+      "qty": "15"
+    },
+    "m3": {
+      "id": "4915",
+      "name": "Manos Stone",
+      "qty": "5"
+    },
+    "m4": {
+      "id": "4918",
+      "name": "Magical Shard",
+      "qty": "50"
+    },
+    "pd1": {
+      "id": "720502",
+      "name": "Manos Processing Stone - Vitality"
+    }
+  },
+  {
+    "id": "1911",
+    "name": "Manos Processing Stone - Energy",
+    "cat": "Manufacture",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/06_pc_equipitem/00_common/00_etc/00720503.png",
+    "m1": {
+      "id": "4266",
+      "name": "Moonlight Opal",
+      "qty": "30"
+    },
+    "m2": {
+      "id": "4481",
+      "name": "Gem Polisher",
+      "qty": "15"
+    },
+    "m3": {
+      "id": "4915",
+      "name": "Manos Stone",
+      "qty": "5"
+    },
+    "m4": {
+      "id": "4918",
+      "name": "Magical Shard",
+      "qty": "50"
+    },
+    "pd1": {
+      "id": "720503",
+      "name": "Manos Processing Stone - Energy"
+    }
+  },
+  {
+    "id": "1912",
+    "name": "Manos Processing Stone - Sun",
+    "cat": "Manufacture",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/06_pc_equipitem/00_common/00_etc/00720504.png",
+    "m1": {
+      "id": "4459",
+      "name": "Gold Topaz",
+      "qty": "30"
+    },
+    "m2": {
+      "id": "4481",
+      "name": "Gem Polisher",
+      "qty": "15"
+    },
+    "m3": {
+      "id": "4915",
+      "name": "Manos Stone",
+      "qty": "5"
+    },
+    "m4": {
+      "id": "4918",
+      "name": "Magical Shard",
+      "qty": "50"
+    },
+    "pd1": {
+      "id": "720504",
+      "name": "Manos Processing Stone - Sun"
+    }
+  },
+  {
+    "id": "1913",
+    "name": "Manos Processing Stone - Wind",
+    "cat": "Manufacture",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/06_pc_equipitem/00_common/00_etc/00720505.png",
+    "m1": {
+      "id": "4465",
+      "name": "Star Diamond",
+      "qty": "30"
+    },
+    "m2": {
+      "id": "4481",
+      "name": "Gem Polisher",
+      "qty": "15"
+    },
+    "m3": {
+      "id": "4915",
+      "name": "Manos Stone",
+      "qty": "5"
+    },
+    "m4": {
+      "id": "4918",
+      "name": "Magical Shard",
+      "qty": "50"
+    },
+    "pd1": {
+      "id": "720505",
+      "name": "Manos Processing Stone - Wind"
+    }
+  },
+  {
+    "id": "1914",
+    "name": "Manos Processing Stone - Lava",
+    "cat": "Manufacture",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/06_pc_equipitem/00_common/00_etc/00720506.png",
+    "m1": {
+      "id": "4453",
+      "name": "Blood Ruby",
+      "qty": "30"
+    },
+    "m2": {
+      "id": "4481",
+      "name": "Gem Polisher",
+      "qty": "15"
+    },
+    "m3": {
+      "id": "4915",
+      "name": "Manos Stone",
+      "qty": "5"
+    },
+    "m4": {
+      "id": "4918",
+      "name": "Magical Shard",
+      "qty": "50"
+    },
+    "pd1": {
+      "id": "720506",
+      "name": "Manos Processing Stone - Lava"
+    }
+  },
+  {
+    "id": "1920",
+    "name": "Kutum Lamp",
+    "cat": "Manufacture",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_kutum_01.png",
+    "m1": {
+      "id": "4465",
+      "name": "Star Diamond",
+      "qty": "50"
+    },
+    "m2": {
+      "id": "5952",
+      "name": "Trace of Despair",
+      "qty": "500"
+    },
+    "m3": {
+      "id": "6391",
+      "name": "Ancient Kutum's Fragment",
+      "qty": "3"
+    },
+    "m4": {
+      "id": "50803",
+      "name": "Rumbling Earth Shard",
+      "qty": "100"
+    },
+    "m5": {
+      "id": "752014",
+      "name": "Concentrated Boss's Aura",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3538",
+      "name": "Kutum Lamp"
+    }
+  },
+  {
+    "id": "1921",
+    "name": "Nouver Statue",
+    "cat": "Manufacture",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_nouver_01.png",
+    "m1": {
+      "id": "4453",
+      "name": "Blood Ruby",
+      "qty": "50"
+    },
+    "m2": {
+      "id": "5952",
+      "name": "Trace of Despair",
+      "qty": "500"
+    },
+    "m3": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "100"
+    },
+    "m4": {
+      "id": "6392",
+      "name": "Nouver's Hide",
+      "qty": "3"
+    },
+    "m5": {
+      "id": "752014",
+      "name": "Concentrated Boss's Aura",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3539",
+      "name": "Nouver Statue"
+    }
+  },
+  {
+    "id": "1922",
+    "name": "Capotia Ring",
+    "cat": "Manufacture",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/06_pc_equipitem/00_common/16_ring/00012053.png",
+    "m1": {
+      "id": "44350",
+      "name": "Yona's Fragment",
+      "qty": "325"
+    },
+    "m2": {
+      "id": "42435",
+      "name": "Kzarka's Latent Aura",
+      "qty": "3"
+    },
+    "m3": {
+      "id": "6603",
+      "name": "Oil of Fortitude",
+      "qty": "5"
+    },
+    "pd1": {
+      "id": "12053",
+      "name": "Capotia Ring"
+    }
+  },
+  {
+    "id": "1923",
+    "name": "Capotia Earring",
+    "cat": "Manufacture",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/06_pc_equipitem/00_common/17_earring/00011847.png",
+    "m1": {
+      "id": "44350",
+      "name": "Yona's Fragment",
+      "qty": "300"
+    },
+    "m2": {
+      "id": "42436",
+      "name": "Nouver's Latent Aura",
+      "qty": "3"
+    },
+    "m3": {
+      "id": "6604",
+      "name": "Oil of Corruption",
+      "qty": "5"
+    },
+    "pd1": {
+      "id": "11847",
+      "name": "Capotia Earring"
+    }
+  },
+  {
+    "id": "1924",
+    "name": "Capotia Belt",
+    "cat": "Manufacture",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/06_pc_equipitem/00_common/18_belt/00012245.png",
+    "m1": {
+      "id": "44350",
+      "name": "Yona's Fragment",
+      "qty": "350"
+    },
+    "m2": {
+      "id": "42450",
+      "name": "Kutum's Latent Aura",
+      "qty": "3"
+    },
+    "m3": {
+      "id": "6605",
+      "name": "Oil of Tranquility",
+      "qty": "5"
+    },
+    "pd1": {
+      "id": "12245",
+      "name": "Capotia Belt"
+    }
+  },
+  {
+    "id": "1925",
+    "name": "Capotia Necklace",
+    "cat": "Manufacture",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/06_pc_equipitem/00_common/15_necklace/00011648.png",
+    "m1": {
+      "id": "44350",
+      "name": "Yona's Fragment",
+      "qty": "400"
+    },
+    "m2": {
+      "id": "42437",
+      "name": "Karanda's Latent Aura",
+      "qty": "3"
+    },
+    "m3": {
+      "id": "6602",
+      "name": "Oil of Storms",
+      "qty": "5"
+    },
+    "pd1": {
+      "id": "11648",
+      "name": "Capotia Necklace"
+    }
+  },
+  {
+    "id": "2010",
+    "name": "Artisan's Stuffed Bear Head",
+    "cat": "Manufacture",
+    "sk": "Artisan 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_bearhead_01.png",
+    "m1": {
+      "id": "3002",
+      "name": "Stuffed Bear Head",
+      "qty": "20"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7751",
+      "name": "Damaged Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3401",
+      "name": "Artisan's Stuffed Bear Head"
+    }
+  },
+  {
+    "id": "2011",
+    "name": "Artisan's Bear Hide Carpet",
+    "cat": "Manufacture",
+    "sk": "Artisan 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_bearskin_01.png",
+    "m1": {
+      "id": "3003",
+      "name": "Bear Hide Carpet",
+      "qty": "20"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7751",
+      "name": "Damaged Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3402",
+      "name": "Artisan's Bear Hide Carpet"
+    }
+  },
+  {
+    "id": "2012",
+    "name": "Artisan's Stuffed Boar Head",
+    "cat": "Manufacture",
+    "sk": "Artisan 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_boar_01.png",
+    "m1": {
+      "id": "3005",
+      "name": "Stuffed Boar Head",
+      "qty": "20"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7751",
+      "name": "Damaged Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3404",
+      "name": "Artisan's Stuffed Boar Head"
+    }
+  },
+  {
+    "id": "2013",
+    "name": "Artisan's Stuffed Fox Head",
+    "cat": "Manufacture",
+    "sk": "Artisan 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_foxhead_01.png",
+    "m1": {
+      "id": "3006",
+      "name": "Stuffed Fox Head",
+      "qty": "25"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7751",
+      "name": "Damaged Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3405",
+      "name": "Artisan's Stuffed Fox Head"
+    }
+  },
+  {
+    "id": "2014",
+    "name": "Artisan's Stuffed Weasel",
+    "cat": "Manufacture",
+    "sk": "Artisan 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_weasel_01.png",
+    "m1": {
+      "id": "3017",
+      "name": "Stuffed Weasel",
+      "qty": "25"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7751",
+      "name": "Damaged Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3406",
+      "name": "Artisan's Stuffed Weasel"
+    }
+  },
+  {
+    "id": "2015",
+    "name": "Artisan's Stuffed Gray Wolf Head",
+    "cat": "Manufacture",
+    "sk": "Artisan 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_wolfhead_01.png",
+    "m1": {
+      "id": "3018",
+      "name": "Stuffed Gray Wolf Head",
+      "qty": "25"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7751",
+      "name": "Damaged Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3407",
+      "name": "Artisan's Stuffed Gray Wolf Head"
+    }
+  },
+  {
+    "id": "2016",
+    "name": "Artisan's Stuffed Wolf Head",
+    "cat": "Manufacture",
+    "sk": "Artisan 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_wolfhead_02.png",
+    "m1": {
+      "id": "3019",
+      "name": "Stuffed Wolf Head",
+      "qty": "20"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7751",
+      "name": "Damaged Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3408",
+      "name": "Artisan's Stuffed Wolf Head"
+    }
+  },
+  {
+    "id": "2017",
+    "name": "Artisan's Stuffed Giant Boar Head",
+    "cat": "Manufacture",
+    "sk": "Artisan 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_boar_02.png",
+    "m1": {
+      "id": "3053",
+      "name": "Stuffed Giant Boar Head",
+      "qty": "20"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7751",
+      "name": "Damaged Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3409",
+      "name": "Artisan's Stuffed Giant Boar Head"
+    }
+  },
+  {
+    "id": "2018",
+    "name": "Artisan's Stuffed Elk Head",
+    "cat": "Manufacture",
+    "sk": "Artisan 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_deer_01.png",
+    "m1": {
+      "id": "3054",
+      "name": "Stuffed Elk Head",
+      "qty": "20"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7751",
+      "name": "Damaged Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3410",
+      "name": "Artisan's Stuffed Elk Head"
+    }
+  },
+  {
+    "id": "2019",
+    "name": "Artisan's Stuffed Valencia Mountain Sheep Head",
+    "cat": "Manufacture",
+    "sk": "Artisan 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_goralhead_01.png",
+    "m1": {
+      "id": "3061",
+      "name": "Stuffed Valencia Mountain Sheep Head",
+      "qty": "30"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7751",
+      "name": "Damaged Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3411",
+      "name": "Artisan's Stuffed Valencia Mountain Sheep Head"
+    }
+  },
+  {
+    "id": "2020",
+    "name": "Artisan's Stuffed Giant Lion Head",
+    "cat": "Manufacture",
+    "sk": "Artisan 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_lionhead_01.png",
+    "m1": {
+      "id": "3062",
+      "name": "Stuffed Giant Lion Head",
+      "qty": "35"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7751",
+      "name": "Damaged Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3412",
+      "name": "Artisan's Stuffed Giant Lion Head"
+    }
+  },
+  {
+    "id": "2021",
+    "name": "Artisan's Stuffed Valencian Lioness Head",
+    "cat": "Manufacture",
+    "sk": "Artisan 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_lionhead_02.png",
+    "m1": {
+      "id": "3063",
+      "name": "Stuffed Valencian Lioness Head",
+      "qty": "30"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7751",
+      "name": "Damaged Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3413",
+      "name": "Artisan's Stuffed Valencian Lioness Head"
+    }
+  },
+  {
+    "id": "2022",
+    "name": "Artisan's Stuffed Drieghan Male Goat Head",
+    "cat": "Manufacture",
+    "sk": "Artisan 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_goat_01.png",
+    "m1": {
+      "id": "3073",
+      "name": "Stuffed Drieghan Male Goat Head",
+      "qty": "35"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7751",
+      "name": "Damaged Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3416",
+      "name": "Artisan's Stuffed Drieghan Male Goat Head"
+    }
+  },
+  {
+    "id": "2023",
+    "name": "Artisan's Stuffed Drieghan Female Goat Head",
+    "cat": "Manufacture",
+    "sk": "Artisan 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_goat_02.png",
+    "m1": {
+      "id": "3074",
+      "name": "Stuffed Drieghan Female Goat Head",
+      "qty": "35"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7751",
+      "name": "Damaged Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3417",
+      "name": "Artisan's Stuffed Drieghan Female Goat Head"
+    }
+  },
+  {
+    "id": "2024",
+    "name": "Artisan's Stuffed Yak Head",
+    "cat": "Manufacture",
+    "sk": "Artisan 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_horncow_01.png",
+    "m1": {
+      "id": "3075",
+      "name": "Stuffed Yak Head",
+      "qty": "40"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7751",
+      "name": "Damaged Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3418",
+      "name": "Artisan's Stuffed Yak Head"
+    }
+  },
+  {
+    "id": "2025",
+    "name": "Artisan's Stuffed Llama",
+    "cat": "Manufacture",
+    "sk": "Artisan 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_alpaca_01.png",
+    "m1": {
+      "id": "3076",
+      "name": "Stuffed Llama",
+      "qty": "50"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7751",
+      "name": "Damaged Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3419",
+      "name": "Artisan's Stuffed Llama"
+    }
+  },
+  {
+    "id": "2026",
+    "name": "Master's Stuffed Bear Head",
+    "cat": "Manufacture",
+    "sk": "Master 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_bearhead_01.png",
+    "m1": {
+      "id": "3401",
+      "name": "Artisan's Stuffed Bear Head",
+      "qty": "15"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7752",
+      "name": "Usable Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3501",
+      "name": "Master's Stuffed Bear Head"
+    }
+  },
+  {
+    "id": "2027",
+    "name": "Master's Bear Hide Carpet",
+    "cat": "Manufacture",
+    "sk": "Master 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_bearskin_01.png",
+    "m1": {
+      "id": "3402",
+      "name": "Artisan's Bear Hide Carpet",
+      "qty": "15"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7752",
+      "name": "Usable Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3502",
+      "name": "Master's Bear Hide Carpet"
+    }
+  },
+  {
+    "id": "2028",
+    "name": "Master's Stuffed Boar Head",
+    "cat": "Manufacture",
+    "sk": "Master 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_boar_01.png",
+    "m1": {
+      "id": "3404",
+      "name": "Artisan's Stuffed Boar Head",
+      "qty": "15"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7752",
+      "name": "Usable Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3504",
+      "name": "Master's Stuffed Boar Head"
+    }
+  },
+  {
+    "id": "2029",
+    "name": "Master's Stuffed Fox Head",
+    "cat": "Manufacture",
+    "sk": "Master 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_foxhead_01.png",
+    "m1": {
+      "id": "3405",
+      "name": "Artisan's Stuffed Fox Head",
+      "qty": "20"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7752",
+      "name": "Usable Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3505",
+      "name": "Master's Stuffed Fox Head"
+    }
+  },
+  {
+    "id": "2030",
+    "name": "Master's Stuffed Weasel",
+    "cat": "Manufacture",
+    "sk": "Master 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_weasel_01.png",
+    "m1": {
+      "id": "3406",
+      "name": "Artisan's Stuffed Weasel",
+      "qty": "20"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7752",
+      "name": "Usable Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3506",
+      "name": "Master's Stuffed Weasel"
+    }
+  },
+  {
+    "id": "2031",
+    "name": "Master's Stuffed Gray Wolf Head",
+    "cat": "Manufacture",
+    "sk": "Master 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_wolfhead_01.png",
+    "m1": {
+      "id": "3407",
+      "name": "Artisan's Stuffed Gray Wolf Head",
+      "qty": "15"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7752",
+      "name": "Usable Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3507",
+      "name": "Master's Stuffed Gray Wolf Head"
+    }
+  },
+  {
+    "id": "2032",
+    "name": "Master's Stuffed Wolf Head",
+    "cat": "Manufacture",
+    "sk": "Master 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_wolfhead_02.png",
+    "m1": {
+      "id": "3408",
+      "name": "Artisan's Stuffed Wolf Head",
+      "qty": "15"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7752",
+      "name": "Usable Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3508",
+      "name": "Master's Stuffed Wolf Head"
+    }
+  },
+  {
+    "id": "2033",
+    "name": "Master's Stuffed Giant Boar Head",
+    "cat": "Manufacture",
+    "sk": "Master 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_boar_02.png",
+    "m1": {
+      "id": "3409",
+      "name": "Artisan's Stuffed Giant Boar Head",
+      "qty": "15"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7752",
+      "name": "Usable Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3509",
+      "name": "Master's Stuffed Giant Boar Head"
+    }
+  },
+  {
+    "id": "2034",
+    "name": "Master's Stuffed Elk Head",
+    "cat": "Manufacture",
+    "sk": "Master 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_deer_01.png",
+    "m1": {
+      "id": "3410",
+      "name": "Artisan's Stuffed Elk Head",
+      "qty": "1"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7752",
+      "name": "Usable Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3510",
+      "name": "Master's Stuffed Elk Head"
+    }
+  },
+  {
+    "id": "2035",
+    "name": "Master's Stuffed Valencia Mountain Sheep Head",
+    "cat": "Manufacture",
+    "sk": "Master 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_goralhead_01.png",
+    "m1": {
+      "id": "3411",
+      "name": "Artisan's Stuffed Valencia Mountain Sheep Head",
+      "qty": "25"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7752",
+      "name": "Usable Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3511",
+      "name": "Master's Stuffed Valencia Mountain Sheep Head"
+    }
+  },
+  {
+    "id": "2036",
+    "name": "Master's Stuffed Giant Lion Head",
+    "cat": "Manufacture",
+    "sk": "Master 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_lionhead_01.png",
+    "m1": {
+      "id": "3412",
+      "name": "Artisan's Stuffed Giant Lion Head",
+      "qty": "30"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7752",
+      "name": "Usable Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3512",
+      "name": "Master's Stuffed Giant Lion Head"
+    }
+  },
+  {
+    "id": "2037",
+    "name": "Master's Stuffed Valencian Lioness Head",
+    "cat": "Manufacture",
+    "sk": "Master 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_lionhead_02.png",
+    "m1": {
+      "id": "3413",
+      "name": "Artisan's Stuffed Valencian Lioness Head",
+      "qty": "25"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7752",
+      "name": "Usable Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3513",
+      "name": "Master's Stuffed Valencian Lioness Head"
+    }
+  },
+  {
+    "id": "2038",
+    "name": "Master's Stuffed Drieghan Male Goat Head",
+    "cat": "Manufacture",
+    "sk": "Master 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_goat_01.png",
+    "m1": {
+      "id": "3416",
+      "name": "Artisan's Stuffed Drieghan Male Goat Head",
+      "qty": "20"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7752",
+      "name": "Usable Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3516",
+      "name": "Master's Stuffed Drieghan Male Goat Head"
+    }
+  },
+  {
+    "id": "2039",
+    "name": "Master's Stuffed Drieghan Female Goat Head",
+    "cat": "Manufacture",
+    "sk": "Master 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_goat_02.png",
+    "m1": {
+      "id": "3417",
+      "name": "Artisan's Stuffed Drieghan Female Goat Head",
+      "qty": "20"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7752",
+      "name": "Usable Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3517",
+      "name": "Master's Stuffed Drieghan Female Goat Head"
+    }
+  },
+  {
+    "id": "2040",
+    "name": "Master's Stuffed Yak Head",
+    "cat": "Manufacture",
+    "sk": "Master 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_horncow_01.png",
+    "m1": {
+      "id": "3418",
+      "name": "Artisan's Stuffed Yak Head",
+      "qty": "30"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7752",
+      "name": "Usable Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3518",
+      "name": "Master's Stuffed Yak Head"
+    }
+  },
+  {
+    "id": "2041",
+    "name": "Master's Stuffed Llama",
+    "cat": "Manufacture",
+    "sk": "Master 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_alpaca_01.png",
+    "m1": {
+      "id": "3419",
+      "name": "Artisan's Stuffed Llama",
+      "qty": "40"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7752",
+      "name": "Usable Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3519",
+      "name": "Master's Stuffed Llama"
+    }
+  },
+  {
+    "id": "2042",
+    "name": "Artisan's Stuffed Belladonna Elephant Head",
+    "cat": "Manufacture",
+    "sk": "Artisan 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_elephanthead_01.png",
+    "m1": {
+      "id": "3077",
+      "name": "Stuffed Belladonna Elephant Head",
+      "qty": "70"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7751",
+      "name": "Damaged Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3520",
+      "name": "Artisan's Stuffed Belladonna Elephant Head"
+    }
+  },
+  {
+    "id": "2043",
+    "name": "Artisan's Stuffed Baby Belladonna Elephant Head",
+    "cat": "Manufacture",
+    "sk": "Artisan 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_elephanthead_02.png",
+    "m1": {
+      "id": "3078",
+      "name": "Stuffed Baby Belladonna Elephant Head",
+      "qty": "60"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7751",
+      "name": "Damaged Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3521",
+      "name": "Artisan's Stuffed Baby Belladonna Elephant Head"
+    }
+  },
+  {
+    "id": "2044",
+    "name": "Artisan's Stuffed Gazelle Head",
+    "cat": "Manufacture",
+    "sk": "Artisan 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_gazellehead_01.png",
+    "m1": {
+      "id": "3079",
+      "name": "Stuffed Gazelle Head",
+      "qty": "30"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7751",
+      "name": "Damaged Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3522",
+      "name": "Artisan's Stuffed Gazelle Head"
+    }
+  },
+  {
+    "id": "2045",
+    "name": "Artisan's Stuffed Black Leopard Head",
+    "cat": "Manufacture",
+    "sk": "Artisan 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_blackhead_01.png",
+    "m1": {
+      "id": "3080",
+      "name": "Stuffed Black Leopard Head",
+      "qty": "55"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7751",
+      "name": "Damaged Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3523",
+      "name": "Artisan's Stuffed Black Leopard Head"
+    }
+  },
+  {
+    "id": "2046",
+    "name": "Artisan's Stuffed Feather Wolf Head",
+    "cat": "Manufacture",
+    "sk": "Artisan 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_featherwolfhead_01.png",
+    "m1": {
+      "id": "3081",
+      "name": "Stuffed Feather Wolf Head",
+      "qty": "30"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7751",
+      "name": "Damaged Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3524",
+      "name": "Artisan's Stuffed Feather Wolf Head"
+    }
+  },
+  {
+    "id": "2047",
+    "name": "Artisan's Stuffed Phnyl Head",
+    "cat": "Manufacture",
+    "sk": "Artisan 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_fnillhead_01.png",
+    "m1": {
+      "id": "3082",
+      "name": "Stuffed Phnyl Head",
+      "qty": "60"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7751",
+      "name": "Damaged Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3525",
+      "name": "Artisan's Stuffed Phnyl Head"
+    }
+  },
+  {
+    "id": "2048",
+    "name": "Artisan's Stuffed Ferrica Head",
+    "cat": "Manufacture",
+    "sk": "Artisan 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_ferica_01.png",
+    "m1": {
+      "id": "3083",
+      "name": "Stuffed Ferrica Head",
+      "qty": "30"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7751",
+      "name": "Damaged Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3526",
+      "name": "Artisan's Stuffed Ferrica Head"
+    }
+  },
+  {
+    "id": "2049",
+    "name": "Artisan's Stuffed Ferrina Head",
+    "cat": "Manufacture",
+    "sk": "Artisan 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_ferina_01.png",
+    "m1": {
+      "id": "3084",
+      "name": "Stuffed Ferrina Head",
+      "qty": "30"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7751",
+      "name": "Damaged Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3527",
+      "name": "Artisan's Stuffed Ferrina Head"
+    }
+  },
+  {
+    "id": "2050",
+    "name": "Artisan's Stuffed Kamasylvia Weasel",
+    "cat": "Manufacture",
+    "sk": "Artisan 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_weasel_02.png",
+    "m1": {
+      "id": "3086",
+      "name": "Stuffed Kamasylvia Weasel",
+      "qty": "60"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7751",
+      "name": "Damaged Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3528",
+      "name": "Artisan's Stuffed Kamasylvia Weasel"
+    }
+  },
+  {
+    "id": "2051",
+    "name": "Master's Stuffed Belladonna Elephant Head",
+    "cat": "Manufacture",
+    "sk": "Master 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_elephanthead_01.png",
+    "m1": {
+      "id": "3520",
+      "name": "Artisan's Stuffed Belladonna Elephant Head",
+      "qty": "70"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7752",
+      "name": "Usable Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3529",
+      "name": "Master's Stuffed Belladonna Elephant Head"
+    }
+  },
+  {
+    "id": "2052",
+    "name": "Master's Stuffed Baby Belladonna Elephant Head",
+    "cat": "Manufacture",
+    "sk": "Master 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_elephanthead_02.png",
+    "m1": {
+      "id": "3521",
+      "name": "Artisan's Stuffed Baby Belladonna Elephant Head",
+      "qty": "60"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7752",
+      "name": "Usable Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3530",
+      "name": "Master's Stuffed Baby Belladonna Elephant Head"
+    }
+  },
+  {
+    "id": "2053",
+    "name": "Master's Stuffed Gazelle Head",
+    "cat": "Manufacture",
+    "sk": "Master 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_gazellehead_01.png",
+    "m1": {
+      "id": "3522",
+      "name": "Artisan's Stuffed Gazelle Head",
+      "qty": "30"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7752",
+      "name": "Usable Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3531",
+      "name": "Master's Stuffed Gazelle Head"
+    }
+  },
+  {
+    "id": "2054",
+    "name": "Master's Stuffed Black Leopard Head",
+    "cat": "Manufacture",
+    "sk": "Master 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_blackhead_01.png",
+    "m1": {
+      "id": "3523",
+      "name": "Artisan's Stuffed Black Leopard Head",
+      "qty": "60"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7752",
+      "name": "Usable Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3532",
+      "name": "Master's Stuffed Black Leopard Head"
+    }
+  },
+  {
+    "id": "2055",
+    "name": "Master's Stuffed Feather Wolf Head",
+    "cat": "Manufacture",
+    "sk": "Master 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_featherwolfhead_01.png",
+    "m1": {
+      "id": "3524",
+      "name": "Artisan's Stuffed Feather Wolf Head",
+      "qty": "30"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7752",
+      "name": "Usable Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3533",
+      "name": "Master's Stuffed Feather Wolf Head"
+    }
+  },
+  {
+    "id": "2056",
+    "name": "Master's Stuffed Phnyl Head",
+    "cat": "Manufacture",
+    "sk": "Master 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_fnillhead_01.png",
+    "m1": {
+      "id": "3525",
+      "name": "Artisan's Stuffed Phnyl Head",
+      "qty": "50"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7752",
+      "name": "Usable Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3534",
+      "name": "Master's Stuffed Phnyl Head"
+    }
+  },
+  {
+    "id": "2057",
+    "name": "Master's Stuffed Ferrica Head",
+    "cat": "Manufacture",
+    "sk": "Master 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_ferica_01.png",
+    "m1": {
+      "id": "3526",
+      "name": "Artisan's Stuffed Ferrica Head",
+      "qty": "40"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7752",
+      "name": "Usable Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3535",
+      "name": "Master's Stuffed Ferrica Head"
+    }
+  },
+  {
+    "id": "2058",
+    "name": "Master's Stuffed Ferrina Head",
+    "cat": "Manufacture",
+    "sk": "Master 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_ferina_01.png",
+    "m1": {
+      "id": "3527",
+      "name": "Artisan's Stuffed Ferrina Head",
+      "qty": "40"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7752",
+      "name": "Usable Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3536",
+      "name": "Master's Stuffed Ferrina Head"
+    }
+  },
+  {
+    "id": "2059",
+    "name": "Master's Stuffed Kamasylvia Weasel",
+    "cat": "Manufacture",
+    "sk": "Master 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_weasel_02.png",
+    "m1": {
+      "id": "3528",
+      "name": "Artisan's Stuffed Kamasylvia Weasel",
+      "qty": "100"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7752",
+      "name": "Usable Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3537",
+      "name": "Master's Stuffed Kamasylvia Weasel"
+    }
+  },
+  {
+    "id": "2371",
+    "name": "Crow's Trade Voucher",
+    "cat": "Manufacture",
+    "sk": "Beginner 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/09_petitem/00320105.png",
+    "m1": {
+      "id": "17572",
+      "name": "Item Collection Increase Scroll (60 min)",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "320106",
+      "name": "Crow's Trade Voucher"
+    }
+  },
+  {
+    "id": "2401",
+    "name": "Delicately Polished Support",
+    "cat": "Manufacture",
+    "sk": "Beginner 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/07_productmaterial/00008020.png",
+    "m1": {
+      "id": "8008",
+      "name": "Violent Sea Monster's Bone",
+      "qty": "10"
+    },
+    "m2": {
+      "id": "8023",
+      "name": "Starlight Hardener",
+      "qty": "10"
+    },
+    "m3": {
+      "id": "8022",
+      "name": "Starlight Powder",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "8020",
+      "name": "Delicately Polished Support"
+    }
+  },
+  {
+    "id": "2402",
+    "name": "Violent Wave Plywood",
+    "cat": "Manufacture",
+    "sk": "Beginner 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/07_productmaterial/00008019.png",
+    "m1": {
+      "id": "8009",
+      "name": "Violent Sea Monster's Scale",
+      "qty": "10"
+    },
+    "m2": {
+      "id": "8025",
+      "name": "Saltwater Crocodile's Scale",
+      "qty": "10"
+    },
+    "m3": {
+      "id": "8022",
+      "name": "Starlight Powder",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "8019",
+      "name": "Violent Wave Plywood"
+    }
+  },
+  {
+    "id": "2404",
+    "name": "Delicately Polished Support",
+    "cat": "Manufacture",
+    "sk": "Beginner 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/07_productmaterial/00008020.png",
+    "m1": {
+      "id": "8008",
+      "name": "Violent Sea Monster's Bone",
+      "qty": "1"
+    },
+    "m2": {
+      "id": "8023",
+      "name": "Starlight Hardener",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "8020",
+      "name": "Delicately Polished Support"
+    }
+  },
+  {
+    "id": "2405",
+    "name": "Violent Wave Plywood",
+    "cat": "Manufacture",
+    "sk": "Beginner 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/07_productmaterial/00008019.png",
+    "m1": {
+      "id": "8009",
+      "name": "Violent Sea Monster's Scale",
+      "qty": "1"
+    },
+    "m2": {
+      "id": "8025",
+      "name": "Saltwater Crocodile's Scale",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "8019",
+      "name": "Violent Wave Plywood"
+    }
+  },
+  {
+    "id": "2427",
+    "name": "Black Caphras Stone",
+    "cat": "Manufacture",
+    "sk": "Beginner 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/00752072.png",
+    "m1": {
+      "id": "721003",
+      "name": "Caphras Stone",
+      "qty": "8.26k"
+    },
+    "m2": {
+      "id": "43786",
+      "name": "Remnants of the Rift",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "752072",
+      "name": "Black Caphras Stone"
+    }
+  },
+  {
+    "id": "2429",
+    "name": "Coral Frame Mold",
+    "cat": "Manufacture",
+    "sk": "Beginner 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/07_productmaterial/00008101.png",
+    "m1": {
+      "id": "6153",
+      "name": "Hard Hide",
+      "qty": "100"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "10"
+    },
+    "m3": {
+      "id": "6528",
+      "name": "Glue",
+      "qty": "1"
+    },
+    "m4": {
+      "id": "8100",
+      "name": "Coral Handicraft",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "8101",
+      "name": "Coral Frame Mold"
+    }
+  },
+  {
+    "id": "2430",
+    "name": "Breath Imbued Whale Figurine",
+    "cat": "Manufacture",
+    "sk": "Beginner 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/07_productmaterial/00008099.png",
+    "m1": {
+      "id": "8096",
+      "name": "Blue Whale's Cranial Bone",
+      "qty": "1"
+    },
+    "m2": {
+      "id": "8097",
+      "name": "Blue Whale's Chest Bone",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "8098",
+      "name": "Blue Whale's Tail Bone",
+      "qty": "1"
+    },
+    "m4": {
+      "id": "56221",
+      "name": "Breath of Narcion",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "8099",
+      "name": "Breath Imbued Whale Figurine"
+    }
+  },
+  {
+    "id": "2431",
+    "name": "Master's Special Stuffed Grass Rhino Head",
+    "cat": "Manufacture",
+    "sk": "Beginner 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_rhinohead_01.png",
+    "m1": {
+      "id": "3550",
+      "name": "Master's Stuffed Grass Rhino Head",
+      "qty": "10"
+    },
+    "m2": {
+      "id": "5023",
+      "name": "Thornwood Sap",
+      "qty": "10"
+    },
+    "m3": {
+      "id": "5605",
+      "name": "Delotia Powder",
+      "qty": "2"
+    },
+    "m4": {
+      "id": "56221",
+      "name": "Breath of Narcion",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3560",
+      "name": "Master's Special Stuffed Grass Rhino Head"
+    }
+  },
+  {
+    "id": "2432",
+    "name": "Master's Special Stuffed Verdure Buck",
+    "cat": "Manufacture",
+    "sk": "Beginner 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_maledeer_01.png",
+    "m1": {
+      "id": "3551",
+      "name": "Master's Stuffed Verdure Buck",
+      "qty": "10"
+    },
+    "m2": {
+      "id": "5023",
+      "name": "Thornwood Sap",
+      "qty": "10"
+    },
+    "m3": {
+      "id": "5605",
+      "name": "Delotia Powder",
+      "qty": "2"
+    },
+    "m4": {
+      "id": "56221",
+      "name": "Breath of Narcion",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3561",
+      "name": "Master's Special Stuffed Verdure Buck"
+    }
+  },
+  {
+    "id": "2433",
+    "name": "Master's Special Stuffed Verdure Doe",
+    "cat": "Manufacture",
+    "sk": "Beginner 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_femaledeer_01.png",
+    "m1": {
+      "id": "3552",
+      "name": "Master's Stuffed Verdure Doe",
+      "qty": "10"
+    },
+    "m2": {
+      "id": "5023",
+      "name": "Thornwood Sap",
+      "qty": "10"
+    },
+    "m3": {
+      "id": "5605",
+      "name": "Delotia Powder",
+      "qty": "2"
+    },
+    "m4": {
+      "id": "56221",
+      "name": "Breath of Narcion",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3562",
+      "name": "Master's Special Stuffed Verdure Doe"
+    }
+  },
+  {
+    "id": "2434",
+    "name": "Master's Special Stuffed Shadow Wolf Head",
+    "cat": "Manufacture",
+    "sk": "Beginner 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_blacknesswolfhead_01.png",
+    "m1": {
+      "id": "3553",
+      "name": "Master's Stuffed Shadow Wolf Head",
+      "qty": "10"
+    },
+    "m2": {
+      "id": "5023",
+      "name": "Thornwood Sap",
+      "qty": "10"
+    },
+    "m3": {
+      "id": "5605",
+      "name": "Delotia Powder",
+      "qty": "2"
+    },
+    "m4": {
+      "id": "56221",
+      "name": "Breath of Narcion",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3563",
+      "name": "Master's Special Stuffed Shadow Wolf Head"
+    }
+  },
+  {
+    "id": "2435",
+    "name": "Master's Special Stuffed Shadow Lion Head",
+    "cat": "Manufacture",
+    "sk": "Beginner 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_blacknessleopardhead_01.png",
+    "m1": {
+      "id": "3554",
+      "name": "Master's Stuffed Shadow Lion Head",
+      "qty": "10"
+    },
+    "m2": {
+      "id": "5023",
+      "name": "Thornwood Sap",
+      "qty": "10"
+    },
+    "m3": {
+      "id": "5605",
+      "name": "Delotia Powder",
+      "qty": "2"
+    },
+    "m4": {
+      "id": "56221",
+      "name": "Breath of Narcion",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3564",
+      "name": "Master's Special Stuffed Shadow Lion Head"
+    }
+  },
+  {
+    "id": "2436",
+    "name": "Master's Stuffed Grass Rhino Head",
+    "cat": "Manufacture",
+    "sk": "Beginner 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_rhinohead_01.png",
+    "m1": {
+      "id": "3545",
+      "name": "Artisan's Stuffed Grass Rhino Head",
+      "qty": "3"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "10"
+    },
+    "m3": {
+      "id": "7752",
+      "name": "Usable Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3550",
+      "name": "Master's Stuffed Grass Rhino Head"
+    }
+  },
+  {
+    "id": "2437",
+    "name": "Master's Stuffed Verdure Buck",
+    "cat": "Manufacture",
+    "sk": "Beginner 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_maledeer_01.png",
+    "m1": {
+      "id": "3546",
+      "name": "Artisan's Stuffed Verdure Buck",
+      "qty": "3"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "20"
+    },
+    "m3": {
+      "id": "7752",
+      "name": "Usable Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3551",
+      "name": "Master's Stuffed Verdure Buck"
+    }
+  },
+  {
+    "id": "2438",
+    "name": "Master's Stuffed Verdure Doe",
+    "cat": "Manufacture",
+    "sk": "Beginner 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_femaledeer_01.png",
+    "m1": {
+      "id": "3547",
+      "name": "Artisan's Stuffed Verdure Doe",
+      "qty": "3"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "20"
+    },
+    "m3": {
+      "id": "7752",
+      "name": "Usable Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3552",
+      "name": "Master's Stuffed Verdure Doe"
+    }
+  },
+  {
+    "id": "2439",
+    "name": "Master's Stuffed Shadow Wolf Head",
+    "cat": "Manufacture",
+    "sk": "Beginner 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_blacknesswolfhead_01.png",
+    "m1": {
+      "id": "3548",
+      "name": "Artisan's Stuffed Shadow Wolf Head",
+      "qty": "3"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "30"
+    },
+    "m3": {
+      "id": "7752",
+      "name": "Usable Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3553",
+      "name": "Master's Stuffed Shadow Wolf Head"
+    }
+  },
+  {
+    "id": "2440",
+    "name": "Master's Stuffed Shadow Lion Head",
+    "cat": "Manufacture",
+    "sk": "Beginner 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_blacknessleopardhead_01.png",
+    "m1": {
+      "id": "3549",
+      "name": "Artisan's Stuffed Shadow Lion Head",
+      "qty": "3"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "50"
+    },
+    "m3": {
+      "id": "7752",
+      "name": "Usable Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3554",
+      "name": "Master's Stuffed Shadow Lion Head"
+    }
+  },
+  {
+    "id": "2441",
+    "name": "Artisan's Special Stuffed Grass Rhino Head",
+    "cat": "Manufacture",
+    "sk": "Beginner 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_rhinohead_01.png",
+    "m1": {
+      "id": "3545",
+      "name": "Artisan's Stuffed Grass Rhino Head",
+      "qty": "10"
+    },
+    "m2": {
+      "id": "5023",
+      "name": "Thornwood Sap",
+      "qty": "10"
+    },
+    "m3": {
+      "id": "5605",
+      "name": "Delotia Powder",
+      "qty": "1"
+    },
+    "m4": {
+      "id": "56221",
+      "name": "Breath of Narcion",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3555",
+      "name": "Artisan's Special Stuffed Grass Rhino Head"
+    }
+  },
+  {
+    "id": "2442",
+    "name": "Artisan's Special Stuffed Verdure Buck",
+    "cat": "Manufacture",
+    "sk": "Beginner 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_maledeer_01.png",
+    "m1": {
+      "id": "3546",
+      "name": "Artisan's Stuffed Verdure Buck",
+      "qty": "10"
+    },
+    "m2": {
+      "id": "5023",
+      "name": "Thornwood Sap",
+      "qty": "10"
+    },
+    "m3": {
+      "id": "5605",
+      "name": "Delotia Powder",
+      "qty": "1"
+    },
+    "m4": {
+      "id": "56221",
+      "name": "Breath of Narcion",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3556",
+      "name": "Artisan's Special Stuffed Verdure Buck"
+    }
+  },
+  {
+    "id": "2443",
+    "name": "Artisan's Special Stuffed Verdure Doe",
+    "cat": "Manufacture",
+    "sk": "Beginner 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_femaledeer_01.png",
+    "m1": {
+      "id": "3547",
+      "name": "Artisan's Stuffed Verdure Doe",
+      "qty": "10"
+    },
+    "m2": {
+      "id": "5023",
+      "name": "Thornwood Sap",
+      "qty": "10"
+    },
+    "m3": {
+      "id": "5605",
+      "name": "Delotia Powder",
+      "qty": "1"
+    },
+    "m4": {
+      "id": "56221",
+      "name": "Breath of Narcion",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3557",
+      "name": "Artisan's Special Stuffed Verdure Doe"
+    }
+  },
+  {
+    "id": "2444",
+    "name": "Artisan's Special Stuffed Shadow Wolf Head",
+    "cat": "Manufacture",
+    "sk": "Beginner 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_blacknesswolfhead_01.png",
+    "m1": {
+      "id": "3548",
+      "name": "Artisan's Stuffed Shadow Wolf Head",
+      "qty": "10"
+    },
+    "m2": {
+      "id": "5023",
+      "name": "Thornwood Sap",
+      "qty": "10"
+    },
+    "m3": {
+      "id": "5605",
+      "name": "Delotia Powder",
+      "qty": "1"
+    },
+    "m4": {
+      "id": "56221",
+      "name": "Breath of Narcion",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3558",
+      "name": "Artisan's Special Stuffed Shadow Wolf Head"
+    }
+  },
+  {
+    "id": "2445",
+    "name": "Artisan's Special Stuffed Shadow Lion Head",
+    "cat": "Manufacture",
+    "sk": "Beginner 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_blacknessleopardhead_01.png",
+    "m1": {
+      "id": "3549",
+      "name": "Artisan's Stuffed Shadow Lion Head",
+      "qty": "10"
+    },
+    "m2": {
+      "id": "5023",
+      "name": "Thornwood Sap",
+      "qty": "10"
+    },
+    "m3": {
+      "id": "5605",
+      "name": "Delotia Powder",
+      "qty": "1"
+    },
+    "m4": {
+      "id": "56221",
+      "name": "Breath of Narcion",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3559",
+      "name": "Artisan's Special Stuffed Shadow Lion Head"
+    }
+  },
+  {
+    "id": "2446",
+    "name": "Artisan's Stuffed Grass Rhino Head",
+    "cat": "Manufacture",
+    "sk": "Beginner 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_rhinohead_01.png",
+    "m1": {
+      "id": "3540",
+      "name": "Stuffed Grass Rhino Head",
+      "qty": "20"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7751",
+      "name": "Damaged Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3545",
+      "name": "Artisan's Stuffed Grass Rhino Head"
+    }
+  },
+  {
+    "id": "2447",
+    "name": "Artisan's Stuffed Verdure Buck",
+    "cat": "Manufacture",
+    "sk": "Beginner 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_maledeer_01.png",
+    "m1": {
+      "id": "3541",
+      "name": "Stuffed Verdure Buck",
+      "qty": "30"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7751",
+      "name": "Damaged Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3546",
+      "name": "Artisan's Stuffed Verdure Buck"
+    }
+  },
+  {
+    "id": "2448",
+    "name": "Artisan's Stuffed Verdure Doe",
+    "cat": "Manufacture",
+    "sk": "Beginner 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_femaledeer_01.png",
+    "m1": {
+      "id": "3542",
+      "name": "Stuffed Verdure Doe",
+      "qty": "30"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7751",
+      "name": "Damaged Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3547",
+      "name": "Artisan's Stuffed Verdure Doe"
+    }
+  },
+  {
+    "id": "2449",
+    "name": "Artisan's Stuffed Shadow Wolf Head",
+    "cat": "Manufacture",
+    "sk": "Beginner 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_blacknesswolfhead_01.png",
+    "m1": {
+      "id": "3543",
+      "name": "Stuffed Shadow Wolf Head",
+      "qty": "40"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7751",
+      "name": "Damaged Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3548",
+      "name": "Artisan's Stuffed Shadow Wolf Head"
+    }
+  },
+  {
+    "id": "2450",
+    "name": "Artisan's Stuffed Shadow Lion Head",
+    "cat": "Manufacture",
+    "sk": "Beginner 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/06_housing/inhouse_z_booty_blacknessleopardhead_01.png",
+    "m1": {
+      "id": "3544",
+      "name": "Stuffed Shadow Lion Head",
+      "qty": "60"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "1"
+    },
+    "m3": {
+      "id": "7751",
+      "name": "Damaged Hide",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "3549",
+      "name": "Artisan's Stuffed Shadow Lion Head"
+    }
+  },
+  {
+    "id": "2458",
+    "name": "Mythical Censer",
+    "cat": "Manufacture",
+    "sk": "Beginner 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/00757008.png",
+    "m1": {
+      "id": "4802",
+      "name": "Powder of Flame",
+      "qty": "10"
+    },
+    "m2": {
+      "id": "6185",
+      "name": "Fire Horn",
+      "qty": "10"
+    },
+    "m3": {
+      "id": "757005",
+      "name": "Mythical Powder",
+      "qty": "10"
+    },
+    "m4": {
+      "id": "757007",
+      "name": "Old Moon Censer",
+      "qty": "10"
+    },
+    "m5": {
+      "id": "757010",
+      "name": "Mythical Feather",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "757008",
+      "name": "Mythical Censer"
+    }
+  },
+  {
+    "id": "2459",
+    "name": "Old Moon Censer",
+    "cat": "Manufacture",
+    "sk": "Beginner 1",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/00757007.png",
+    "m1": {
+      "id": "4059",
+      "name": "Pure Copper Crystal",
+      "qty": "100"
+    },
+    "m2": {
+      "id": "4062",
+      "name": "Pure Tin Crystal",
+      "qty": "100"
+    },
+    "m3": {
+      "id": "4259",
+      "name": "Pure Platinum Crystal",
+      "qty": "100"
+    },
+    "m4": {
+      "id": "4266",
+      "name": "Moonlight Opal",
+      "qty": "100"
+    },
+    "m5": {
+      "id": "757006",
+      "name": "Old Moon Censer Mold",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "757007",
+      "name": "Old Moon Censer"
+    }
+  },
+  {
+    "id": "2528",
+    "name": "Coral Handicraft",
+    "cat": "Manufacture",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/07_productmaterial/00008100.png",
+    "m1": {
+      "id": "4476",
+      "name": "Red Coral",
+      "qty": "10"
+    },
+    "m2": {
+      "id": "4477",
+      "name": "Blue Coral",
+      "qty": "10"
+    },
+    "m3": {
+      "id": "6501",
+      "name": "Coral Piece",
+      "qty": "100"
+    },
+    "m4": {
+      "id": "6504",
+      "name": "Green Coral",
+      "qty": "10"
+    },
+    "m5": {
+      "id": "6528",
+      "name": "Glue",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "8100",
+      "name": "Coral Handicraft"
+    }
+  }
+]

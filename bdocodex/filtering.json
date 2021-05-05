@@ -1,0 +1,206 @@
+[
+  {
+    "id": "869",
+    "name": "Lightweight Plume",
+    "cat": "Filtering",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/07_productmaterial/00006157.png",
+    "m1": {
+      "id": "6017",
+      "name": "Soft Kuku Bird Plume",
+      "qty": "5"
+    },
+    "pd1": {
+      "id": "6157",
+      "name": "Lightweight Plume"
+    },
+    "pd2": {
+      "id": "6165",
+      "name": "Fine Lightweight Plume"
+    }
+  },
+  {
+    "id": "870",
+    "name": "Lightweight Plume",
+    "cat": "Filtering",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/07_productmaterial/00006157.png",
+    "m1": {
+      "id": "6025",
+      "name": "Soft Ferri Feather",
+      "qty": "5"
+    },
+    "pd1": {
+      "id": "6157",
+      "name": "Lightweight Plume"
+    },
+    "pd2": {
+      "id": "6165",
+      "name": "Fine Lightweight Plume"
+    }
+  },
+  {
+    "id": "871",
+    "name": "Fancy Feather",
+    "cat": "Filtering",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/07_productmaterial/00006158.png",
+    "m1": {
+      "id": "6018",
+      "name": "Flamingo Plume",
+      "qty": "5"
+    },
+    "pd1": {
+      "id": "6158",
+      "name": "Fancy Feather"
+    },
+    "pd2": {
+      "id": "6166",
+      "name": "Fine Fancy Feather"
+    }
+  },
+  {
+    "id": "872",
+    "name": "Fancy Feather",
+    "cat": "Filtering",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/07_productmaterial/00006158.png",
+    "m1": {
+      "id": "6024",
+      "name": "Griffon Feather",
+      "qty": "5"
+    },
+    "pd1": {
+      "id": "6158",
+      "name": "Fancy Feather"
+    },
+    "pd2": {
+      "id": "6166",
+      "name": "Fine Fancy Feather"
+    }
+  },
+  {
+    "id": "879",
+    "name": "Fine Lightweight Plume",
+    "cat": "Filtering",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/07_productmaterial/00006165.png",
+    "m1": {
+      "id": "6157",
+      "name": "Lightweight Plume",
+      "qty": "10"
+    },
+    "pd1": {
+      "id": "6165",
+      "name": "Fine Lightweight Plume"
+    }
+  },
+  {
+    "id": "880",
+    "name": "Fine Fancy Feather",
+    "cat": "Filtering",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/07_productmaterial/00006166.png",
+    "m1": {
+      "id": "6158",
+      "name": "Fancy Feather",
+      "qty": "10"
+    },
+    "pd1": {
+      "id": "6166",
+      "name": "Fine Fancy Feather"
+    }
+  },
+  {
+    "id": "1432",
+    "name": "Purified Water",
+    "cat": "Filtering",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/07_productmaterial/00006656.png",
+    "m1": {
+      "id": "6653",
+      "name": "Bottle of River Water",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "6656",
+      "name": "Purified Water"
+    },
+    "pd2": {
+      "id": "4902",
+      "name": "Alluvial Gold"
+    }
+  },
+  {
+    "id": "1433",
+    "name": "Purified Water",
+    "cat": "Filtering",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/07_productmaterial/00006656.png",
+    "m1": {
+      "id": "6654",
+      "name": "Bottle of Turbid Water",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "6656",
+      "name": "Purified Water"
+    },
+    "pd2": {
+      "id": "4902",
+      "name": "Alluvial Gold"
+    }
+  },
+  {
+    "id": "1434",
+    "name": "Purified Water",
+    "cat": "Filtering",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/07_productmaterial/00006656.png",
+    "m1": {
+      "id": "6655",
+      "name": "Bottle of Clean Water",
+      "qty": "1"
+    },
+    "pd1": {
+      "id": "6656",
+      "name": "Purified Water"
+    },
+    "pd2": {
+      "id": "4902",
+      "name": "Alluvial Gold"
+    }
+  },
+  {
+    "id": "1435",
+    "name": "Purified Water",
+    "cat": "Filtering",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/07_productmaterial/00006656.png",
+    "m1": {
+      "id": "6657",
+      "name": "Bag of Muddy Water",
+      "qty": "5"
+    },
+    "pd1": {
+      "id": "6656",
+      "name": "Purified Water"
+    }
+  },
+  {
+    "id": "1436",
+    "name": "Purified Water",
+    "cat": "Filtering",
+    "sk": "Beginner 0",
+    "icn": "https://bdocodex.com/items/new_icon/03_etc/07_productmaterial/00006656.png",
+    "m1": {
+      "id": "5016",
+      "name": "Cactus Sap",
+      "qty": "5"
+    },
+    "pd1": {
+      "id": "6656",
+      "name": "Purified Water"
+    }
+  }
+]
