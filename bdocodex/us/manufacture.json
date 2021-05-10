@@ -1,0 +1,3994 @@
+[
+  {
+    "id": "1694",
+    "name": "[Combat] Trina Matchlock",
+    "cat": "Manufacture",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4077",
+        "name": "Steel",
+        "qty": "5"
+      },
+      {
+        "id": "4606",
+        "name": "Fir Timber",
+        "qty": "1"
+      },
+      {
+        "id": "4053",
+        "name": "Pure Iron Crystal",
+        "qty": "1"
+      },
+      {
+        "id": "6161",
+        "name": "Fine Hard Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "16347",
+        "name": "[Combat] Trina Matchlock"
+      }
+    ]
+  },
+  {
+    "id": "1695",
+    "name": "[Combat] Trina Lead Bullet",
+    "cat": "Manufacture",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4055",
+        "name": "Lead Ingot",
+        "qty": "5"
+      },
+      {
+        "id": "4802",
+        "name": "Powder of Flame",
+        "qty": "10"
+      },
+      {
+        "id": "4006",
+        "name": "Rough Stone",
+        "qty": "5"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "16380",
+        "name": "[Combat] Trina Lead Bullet"
+      }
+    ]
+  },
+  {
+    "id": "1696",
+    "name": "[Combat] Trina Demolition Axe",
+    "cat": "Manufacture",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4077",
+        "name": "Steel",
+        "qty": "5"
+      },
+      {
+        "id": "4607",
+        "name": "Cedar Timber",
+        "qty": "10"
+      },
+      {
+        "id": "4053",
+        "name": "Pure Iron Crystal",
+        "qty": "1"
+      },
+      {
+        "id": "4901",
+        "name": "Black Stone Powder",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "16433",
+        "name": "[Combat] Trina Demolition Axe"
+      }
+    ]
+  },
+  {
+    "id": "1697",
+    "name": "Sealed Old Moon Camping Anvil",
+    "cat": "Manufacture",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4922",
+        "name": "Old Moon Anti-Corrosive",
+        "qty": "10"
+      },
+      {
+        "id": "4077",
+        "name": "Steel",
+        "qty": "20"
+      },
+      {
+        "id": "4080",
+        "name": "Pure Vanadium Crystal",
+        "qty": "2"
+      },
+      {
+        "id": "4068",
+        "name": "Polished Stone",
+        "qty": "2"
+      },
+      {
+        "id": "6527",
+        "name": "Golden Pearl",
+        "qty": "2"
+      }
+    ],
+    "prod": [
+      {
+        "id": "49804",
+        "name": "Sealed Old Moon Camping Anvil"
+      }
+    ]
+  },
+  {
+    "id": "1716",
+    "name": "Packaged Old Moon Camping Anvil",
+    "cat": "Manufacture",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4922",
+        "name": "Old Moon Anti-Corrosive",
+        "qty": "10"
+      },
+      {
+        "id": "4077",
+        "name": "Steel",
+        "qty": "20"
+      },
+      {
+        "id": "4080",
+        "name": "Pure Vanadium Crystal",
+        "qty": "2"
+      },
+      {
+        "id": "4068",
+        "name": "Polished Stone",
+        "qty": "2"
+      },
+      {
+        "id": "4264",
+        "name": "Pure Mythril Crystal",
+        "qty": "15"
+      }
+    ],
+    "prod": [
+      {
+        "id": "49808",
+        "name": "Packaged Old Moon Camping Anvil"
+      }
+    ]
+  },
+  {
+    "id": "1845",
+    "name": "Manos Hoe",
+    "cat": "Manufacture",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4076",
+        "name": "Metal Solvent",
+        "qty": "15"
+      },
+      {
+        "id": "4915",
+        "name": "Manos Stone",
+        "qty": "5"
+      },
+      {
+        "id": "4918",
+        "name": "Magical Shard",
+        "qty": "50"
+      },
+      {
+        "id": "16116",
+        "name": "Shining Steel Hoe",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "16479",
+        "name": "Manos Hoe"
+      }
+    ]
+  },
+  {
+    "id": "1846",
+    "name": "[Hunting] Sniper Rifle",
+    "cat": "Manufacture",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4053",
+        "name": "Pure Iron Crystal",
+        "qty": "3"
+      },
+      {
+        "id": "4077",
+        "name": "Steel",
+        "qty": "20"
+      },
+      {
+        "id": "4605",
+        "name": "Log",
+        "qty": "1"
+      },
+      {
+        "id": "6161",
+        "name": "Fine Hard Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "56133",
+        "name": "[Hunting] Sniper Rifle"
+      }
+    ]
+  },
+  {
+    "id": "1847",
+    "name": "Manos Pickaxe",
+    "cat": "Manufacture",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4076",
+        "name": "Metal Solvent",
+        "qty": "15"
+      },
+      {
+        "id": "4915",
+        "name": "Manos Stone",
+        "qty": "5"
+      },
+      {
+        "id": "4918",
+        "name": "Magical Shard",
+        "qty": "50"
+      },
+      {
+        "id": "16128",
+        "name": "Shining Steel Pickaxe",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "16847",
+        "name": "Manos Pickaxe"
+      }
+    ]
+  },
+  {
+    "id": "1848",
+    "name": "Manos Butcher Knife",
+    "cat": "Manufacture",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4076",
+        "name": "Metal Solvent",
+        "qty": "15"
+      },
+      {
+        "id": "4915",
+        "name": "Manos Stone",
+        "qty": "5"
+      },
+      {
+        "id": "4918",
+        "name": "Magical Shard",
+        "qty": "50"
+      },
+      {
+        "id": "16120",
+        "name": "Shining Steel Butcher Knife",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "16487",
+        "name": "Manos Butcher Knife"
+      }
+    ]
+  },
+  {
+    "id": "1849",
+    "name": "Manos Tanning Knife",
+    "cat": "Manufacture",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4076",
+        "name": "Metal Solvent",
+        "qty": "15"
+      },
+      {
+        "id": "4915",
+        "name": "Manos Stone",
+        "qty": "5"
+      },
+      {
+        "id": "4918",
+        "name": "Magical Shard",
+        "qty": "50"
+      },
+      {
+        "id": "16124",
+        "name": "Shining Steel Tanning Knife",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "16486",
+        "name": "Manos Tanning Knife"
+      }
+    ]
+  },
+  {
+    "id": "1850",
+    "name": "Manos Lumbering Axe",
+    "cat": "Manufacture",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4076",
+        "name": "Metal Solvent",
+        "qty": "15"
+      },
+      {
+        "id": "4915",
+        "name": "Manos Stone",
+        "qty": "5"
+      },
+      {
+        "id": "4918",
+        "name": "Magical Shard",
+        "qty": "50"
+      },
+      {
+        "id": "16108",
+        "name": "Shining Steel Lumbering Axe",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "16481",
+        "name": "Manos Lumbering Axe"
+      }
+    ]
+  },
+  {
+    "id": "1851",
+    "name": "Manos Fluid Collector",
+    "cat": "Manufacture",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4076",
+        "name": "Metal Solvent",
+        "qty": "15"
+      },
+      {
+        "id": "4915",
+        "name": "Manos Stone",
+        "qty": "5"
+      },
+      {
+        "id": "4918",
+        "name": "Magical Shard",
+        "qty": "50"
+      },
+      {
+        "id": "16112",
+        "name": "Shining Fluid Collector",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "16482",
+        "name": "Manos Fluid Collector"
+      }
+    ]
+  },
+  {
+    "id": "1852",
+    "name": "Manos Alchemist's Clothes",
+    "cat": "Manufacture",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4256",
+        "name": "Pure Gold Crystal",
+        "qty": "200"
+      },
+      {
+        "id": "4915",
+        "name": "Manos Stone",
+        "qty": "5"
+      },
+      {
+        "id": "5214",
+        "name": "Essence of Perfection",
+        "qty": "20"
+      },
+      {
+        "id": "5870",
+        "name": "Enlightened One's Cotton Fabric",
+        "qty": "15"
+      }
+    ],
+    "prod": [
+      {
+        "id": "705047",
+        "name": "Manos Alchemist's Clothes"
+      }
+    ]
+  },
+  {
+    "id": "1853",
+    "name": "Manos Cook's Clothes",
+    "cat": "Manufacture",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4492",
+        "name": "Indigo Lapis Lazuli",
+        "qty": "15"
+      },
+      {
+        "id": "4915",
+        "name": "Manos Stone",
+        "qty": "10"
+      },
+      {
+        "id": "5865",
+        "name": "Dawn Fallen Silk",
+        "qty": "15"
+      },
+      {
+        "id": "5867",
+        "name": "Fundamentals of Cooking",
+        "qty": "10"
+      }
+    ],
+    "prod": [
+      {
+        "id": "705037",
+        "name": "Manos Cook's Clothes"
+      }
+    ]
+  },
+  {
+    "id": "1854",
+    "name": "Manos Hunter's Clothes",
+    "cat": "Manufacture",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4459",
+        "name": "Gold Topaz",
+        "qty": "30"
+      },
+      {
+        "id": "4915",
+        "name": "Manos Stone",
+        "qty": "5"
+      },
+      {
+        "id": "4918",
+        "name": "Magical Shard",
+        "qty": "50"
+      },
+      {
+        "id": "5863",
+        "name": "Dusk Laden Cotton Fabric",
+        "qty": "15"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "50"
+      }
+    ],
+    "prod": [
+      {
+        "id": "705022",
+        "name": "Manos Hunter's Clothes"
+      }
+    ]
+  },
+  {
+    "id": "1855",
+    "name": "Manos Fisher's Clothes",
+    "cat": "Manufacture",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4456",
+        "name": "Ocean Sapphire",
+        "qty": "30"
+      },
+      {
+        "id": "4915",
+        "name": "Manos Stone",
+        "qty": "5"
+      },
+      {
+        "id": "4918",
+        "name": "Magical Shard",
+        "qty": "50"
+      },
+      {
+        "id": "5864",
+        "name": "Tear of the Great Ocean",
+        "qty": "30"
+      }
+    ],
+    "prod": [
+      {
+        "id": "705052",
+        "name": "Manos Fisher's Clothes"
+      }
+    ]
+  },
+  {
+    "id": "1856",
+    "name": "Manos Sailor's Clothes",
+    "cat": "Manufacture",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4456",
+        "name": "Ocean Sapphire",
+        "qty": "30"
+      },
+      {
+        "id": "4478",
+        "name": "Twilight Red Coral",
+        "qty": "3"
+      },
+      {
+        "id": "4915",
+        "name": "Manos Stone",
+        "qty": "5"
+      },
+      {
+        "id": "4918",
+        "name": "Magical Shard",
+        "qty": "50"
+      }
+    ],
+    "prod": [
+      {
+        "id": "705032",
+        "name": "Manos Sailor's Clothes"
+      }
+    ]
+  },
+  {
+    "id": "1857",
+    "name": "Manos Sailor's Clothes",
+    "cat": "Manufacture",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4456",
+        "name": "Ocean Sapphire",
+        "qty": "30"
+      },
+      {
+        "id": "4479",
+        "name": "Daybreak Blue Coral",
+        "qty": "3"
+      },
+      {
+        "id": "4915",
+        "name": "Manos Stone",
+        "qty": "5"
+      },
+      {
+        "id": "4918",
+        "name": "Magical Shard",
+        "qty": "50"
+      }
+    ],
+    "prod": [
+      {
+        "id": "705032",
+        "name": "Manos Sailor's Clothes"
+      }
+    ]
+  },
+  {
+    "id": "1858",
+    "name": "Emergency Ship Repair Kit",
+    "cat": "Manufacture",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4077",
+        "name": "Steel",
+        "qty": "5"
+      },
+      {
+        "id": "4684",
+        "name": "Plywood Hardener",
+        "qty": "10"
+      },
+      {
+        "id": "4688",
+        "name": "Ship Repair Material",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4700",
+        "name": "Emergency Ship Repair Kit"
+      }
+    ]
+  },
+  {
+    "id": "1859",
+    "name": "Eye of Desolation",
+    "cat": "Manufacture",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "752014",
+        "name": "Concentrated Boss's Aura",
+        "qty": "3"
+      },
+      {
+        "id": "43782",
+        "name": "Eye of Anguish",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "43780",
+        "name": "Eye of Desolation"
+      }
+    ]
+  },
+  {
+    "id": "1863",
+    "name": "Abyssal Brass Ingot",
+    "cat": "Manufacture",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4066",
+        "name": "Brass Ingot",
+        "qty": "2"
+      },
+      {
+        "id": "4901",
+        "name": "Black Stone Powder",
+        "qty": "10"
+      },
+      {
+        "id": "5956",
+        "name": "Trace of Savagery",
+        "qty": "7"
+      }
+    ],
+    "prod": [
+      {
+        "id": "9746",
+        "name": "Abyssal Brass Ingot"
+      }
+    ]
+  },
+  {
+    "id": "1869",
+    "name": "Griffon's Helmet",
+    "cat": "Manufacture",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4065",
+        "name": "Pure Zinc Crystal",
+        "qty": "100"
+      },
+      {
+        "id": "6031",
+        "name": "Griffon Leather",
+        "qty": "10"
+      },
+      {
+        "id": "6169",
+        "name": "Supreme Hard Hide",
+        "qty": "120"
+      },
+      {
+        "id": "6174",
+        "name": "Supreme Fancy Feather",
+        "qty": "120"
+      },
+      {
+        "id": "9773",
+        "name": "Intact Griffon's Beak",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "11101",
+        "name": "Griffon's Helmet"
+      }
+    ]
+  },
+  {
+    "id": "1892",
+    "name": "Mass of Pure Magic",
+    "cat": "Manufacture",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "16008",
+        "name": "Black Spirit's Claw",
+        "qty": "1"
+      },
+      {
+        "id": "43786",
+        "name": "Remnants of the Rift",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "752023",
+        "name": "Mass of Pure Magic"
+      }
+    ]
+  },
+  {
+    "id": "1897",
+    "name": "Manos Trainer's Clothes",
+    "cat": "Manufacture",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4915",
+        "name": "Manos Stone",
+        "qty": "5"
+      },
+      {
+        "id": "4918",
+        "name": "Magical Shard",
+        "qty": "40"
+      },
+      {
+        "id": "5863",
+        "name": "Dusk Laden Cotton Fabric",
+        "qty": "1"
+      },
+      {
+        "id": "50801",
+        "name": "Krogdalo's Origin Stone",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "705015",
+        "name": "Manos Trainer's Clothes"
+      }
+    ]
+  },
+  {
+    "id": "1898",
+    "name": "Manos Riding Crop",
+    "cat": "Manufacture",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4915",
+        "name": "Manos Stone",
+        "qty": "5"
+      },
+      {
+        "id": "4918",
+        "name": "Magical Shard",
+        "qty": "50"
+      },
+      {
+        "id": "6169",
+        "name": "Supreme Hard Hide",
+        "qty": "15"
+      },
+      {
+        "id": "50801",
+        "name": "Krogdalo's Origin Stone",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "705156",
+        "name": "Manos Riding Crop"
+      }
+    ]
+  },
+  {
+    "id": "1899",
+    "name": "Manos Necklace",
+    "cat": "Manufacture",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4083",
+        "name": "Pure Titanium Crystal",
+        "qty": "100"
+      },
+      {
+        "id": "4915",
+        "name": "Manos Stone",
+        "qty": "5"
+      },
+      {
+        "id": "5208",
+        "name": "Essence of the Sun",
+        "qty": "10"
+      },
+      {
+        "id": "5862",
+        "name": "Scorched Fragment",
+        "qty": "10"
+      }
+    ],
+    "prod": [
+      {
+        "id": "705509",
+        "name": "Manos Necklace"
+      }
+    ]
+  },
+  {
+    "id": "1900",
+    "name": "Manos Necklace",
+    "cat": "Manufacture",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4083",
+        "name": "Pure Titanium Crystal",
+        "qty": "100"
+      },
+      {
+        "id": "4915",
+        "name": "Manos Stone",
+        "qty": "5"
+      },
+      {
+        "id": "4918",
+        "name": "Magical Shard",
+        "qty": "40"
+      },
+      {
+        "id": "5208",
+        "name": "Essence of the Sun",
+        "qty": "10"
+      }
+    ],
+    "prod": [
+      {
+        "id": "705509",
+        "name": "Manos Necklace"
+      }
+    ]
+  },
+  {
+    "id": "1901",
+    "name": "Manos Earring",
+    "cat": "Manufacture",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4080",
+        "name": "Pure Vanadium Crystal",
+        "qty": "100"
+      },
+      {
+        "id": "4915",
+        "name": "Manos Stone",
+        "qty": "5"
+      },
+      {
+        "id": "5210",
+        "name": "Essence of Enchantment",
+        "qty": "10"
+      },
+      {
+        "id": "5862",
+        "name": "Scorched Fragment",
+        "qty": "10"
+      }
+    ],
+    "prod": [
+      {
+        "id": "705510",
+        "name": "Manos Earring"
+      }
+    ]
+  },
+  {
+    "id": "1902",
+    "name": "Manos Earring",
+    "cat": "Manufacture",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4080",
+        "name": "Pure Vanadium Crystal",
+        "qty": "100"
+      },
+      {
+        "id": "4915",
+        "name": "Manos Stone",
+        "qty": "5"
+      },
+      {
+        "id": "4918",
+        "name": "Magical Shard",
+        "qty": "40"
+      },
+      {
+        "id": "5210",
+        "name": "Essence of Enchantment",
+        "qty": "10"
+      }
+    ],
+    "prod": [
+      {
+        "id": "705510",
+        "name": "Manos Earring"
+      }
+    ]
+  },
+  {
+    "id": "1903",
+    "name": "Manos Ring",
+    "cat": "Manufacture",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4080",
+        "name": "Pure Vanadium Crystal",
+        "qty": "100"
+      },
+      {
+        "id": "4915",
+        "name": "Manos Stone",
+        "qty": "5"
+      },
+      {
+        "id": "5204",
+        "name": "Essence of Abundance",
+        "qty": "10"
+      },
+      {
+        "id": "5862",
+        "name": "Scorched Fragment",
+        "qty": "10"
+      }
+    ],
+    "prod": [
+      {
+        "id": "705511",
+        "name": "Manos Ring"
+      }
+    ]
+  },
+  {
+    "id": "1904",
+    "name": "Manos Ring",
+    "cat": "Manufacture",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4080",
+        "name": "Pure Vanadium Crystal",
+        "qty": "100"
+      },
+      {
+        "id": "4915",
+        "name": "Manos Stone",
+        "qty": "5"
+      },
+      {
+        "id": "4918",
+        "name": "Magical Shard",
+        "qty": "40"
+      },
+      {
+        "id": "5204",
+        "name": "Essence of Abundance",
+        "qty": "10"
+      }
+    ],
+    "prod": [
+      {
+        "id": "705511",
+        "name": "Manos Ring"
+      }
+    ]
+  },
+  {
+    "id": "1905",
+    "name": "Manos Belt",
+    "cat": "Manufacture",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4083",
+        "name": "Pure Titanium Crystal",
+        "qty": "100"
+      },
+      {
+        "id": "4915",
+        "name": "Manos Stone",
+        "qty": "5"
+      },
+      {
+        "id": "5202",
+        "name": "Essence of Crimson Flame",
+        "qty": "10"
+      },
+      {
+        "id": "5862",
+        "name": "Scorched Fragment",
+        "qty": "10"
+      }
+    ],
+    "prod": [
+      {
+        "id": "705512",
+        "name": "Manos Belt"
+      }
+    ]
+  },
+  {
+    "id": "1906",
+    "name": "Manos Belt",
+    "cat": "Manufacture",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4083",
+        "name": "Pure Titanium Crystal",
+        "qty": "100"
+      },
+      {
+        "id": "4915",
+        "name": "Manos Stone",
+        "qty": "5"
+      },
+      {
+        "id": "4918",
+        "name": "Magical Shard",
+        "qty": "40"
+      },
+      {
+        "id": "5202",
+        "name": "Essence of Crimson Flame",
+        "qty": "10"
+      }
+    ],
+    "prod": [
+      {
+        "id": "705512",
+        "name": "Manos Belt"
+      }
+    ]
+  },
+  {
+    "id": "1907",
+    "name": "Manos Gatherer's Clothes",
+    "cat": "Manufacture",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4266",
+        "name": "Moonlight Opal",
+        "qty": "30"
+      },
+      {
+        "id": "4915",
+        "name": "Manos Stone",
+        "qty": "5"
+      },
+      {
+        "id": "4918",
+        "name": "Magical Shard",
+        "qty": "50"
+      },
+      {
+        "id": "5863",
+        "name": "Dusk Laden Cotton Fabric",
+        "qty": "15"
+      }
+    ],
+    "prod": [
+      {
+        "id": "705517",
+        "name": "Manos Gatherer's Clothes"
+      }
+    ]
+  },
+  {
+    "id": "1908",
+    "name": "Manos Craftsman's Clothes",
+    "cat": "Manufacture",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4453",
+        "name": "Blood Ruby",
+        "qty": "30"
+      },
+      {
+        "id": "4915",
+        "name": "Manos Stone",
+        "qty": "5"
+      },
+      {
+        "id": "4918",
+        "name": "Magical Shard",
+        "qty": "50"
+      },
+      {
+        "id": "5861",
+        "name": "Sunset Dyed Wool",
+        "qty": "15"
+      }
+    ],
+    "prod": [
+      {
+        "id": "705518",
+        "name": "Manos Craftsman's Clothes"
+      }
+    ]
+  },
+  {
+    "id": "1909",
+    "name": "Manos Processing Stone - Lake",
+    "cat": "Manufacture",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4456",
+        "name": "Ocean Sapphire",
+        "qty": "30"
+      },
+      {
+        "id": "4481",
+        "name": "Gem Polisher",
+        "qty": "15"
+      },
+      {
+        "id": "4915",
+        "name": "Manos Stone",
+        "qty": "5"
+      },
+      {
+        "id": "4918",
+        "name": "Magical Shard",
+        "qty": "50"
+      }
+    ],
+    "prod": [
+      {
+        "id": "720501",
+        "name": "Manos Processing Stone - Lake"
+      }
+    ]
+  },
+  {
+    "id": "1910",
+    "name": "Manos Processing Stone - Vitality",
+    "cat": "Manufacture",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4462",
+        "name": "Forest Emerald",
+        "qty": "30"
+      },
+      {
+        "id": "4481",
+        "name": "Gem Polisher",
+        "qty": "15"
+      },
+      {
+        "id": "4915",
+        "name": "Manos Stone",
+        "qty": "5"
+      },
+      {
+        "id": "4918",
+        "name": "Magical Shard",
+        "qty": "50"
+      }
+    ],
+    "prod": [
+      {
+        "id": "720502",
+        "name": "Manos Processing Stone - Vitality"
+      }
+    ]
+  },
+  {
+    "id": "1911",
+    "name": "Manos Processing Stone - Energy",
+    "cat": "Manufacture",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4266",
+        "name": "Moonlight Opal",
+        "qty": "30"
+      },
+      {
+        "id": "4481",
+        "name": "Gem Polisher",
+        "qty": "15"
+      },
+      {
+        "id": "4915",
+        "name": "Manos Stone",
+        "qty": "5"
+      },
+      {
+        "id": "4918",
+        "name": "Magical Shard",
+        "qty": "50"
+      }
+    ],
+    "prod": [
+      {
+        "id": "720503",
+        "name": "Manos Processing Stone - Energy"
+      }
+    ]
+  },
+  {
+    "id": "1912",
+    "name": "Manos Processing Stone - Sun",
+    "cat": "Manufacture",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4459",
+        "name": "Gold Topaz",
+        "qty": "30"
+      },
+      {
+        "id": "4481",
+        "name": "Gem Polisher",
+        "qty": "15"
+      },
+      {
+        "id": "4915",
+        "name": "Manos Stone",
+        "qty": "5"
+      },
+      {
+        "id": "4918",
+        "name": "Magical Shard",
+        "qty": "50"
+      }
+    ],
+    "prod": [
+      {
+        "id": "720504",
+        "name": "Manos Processing Stone - Sun"
+      }
+    ]
+  },
+  {
+    "id": "1913",
+    "name": "Manos Processing Stone - Wind",
+    "cat": "Manufacture",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4465",
+        "name": "Star Diamond",
+        "qty": "30"
+      },
+      {
+        "id": "4481",
+        "name": "Gem Polisher",
+        "qty": "15"
+      },
+      {
+        "id": "4915",
+        "name": "Manos Stone",
+        "qty": "5"
+      },
+      {
+        "id": "4918",
+        "name": "Magical Shard",
+        "qty": "50"
+      }
+    ],
+    "prod": [
+      {
+        "id": "720505",
+        "name": "Manos Processing Stone - Wind"
+      }
+    ]
+  },
+  {
+    "id": "1914",
+    "name": "Manos Processing Stone - Lava",
+    "cat": "Manufacture",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4453",
+        "name": "Blood Ruby",
+        "qty": "30"
+      },
+      {
+        "id": "4481",
+        "name": "Gem Polisher",
+        "qty": "15"
+      },
+      {
+        "id": "4915",
+        "name": "Manos Stone",
+        "qty": "5"
+      },
+      {
+        "id": "4918",
+        "name": "Magical Shard",
+        "qty": "50"
+      }
+    ],
+    "prod": [
+      {
+        "id": "720506",
+        "name": "Manos Processing Stone - Lava"
+      }
+    ]
+  },
+  {
+    "id": "1920",
+    "name": "Kutum Lamp",
+    "cat": "Manufacture",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4465",
+        "name": "Star Diamond",
+        "qty": "50"
+      },
+      {
+        "id": "5952",
+        "name": "Trace of Despair",
+        "qty": "500"
+      },
+      {
+        "id": "6391",
+        "name": "Ancient Kutum's Fragment",
+        "qty": "3"
+      },
+      {
+        "id": "50803",
+        "name": "Rumbling Earth Shard",
+        "qty": "100"
+      },
+      {
+        "id": "752014",
+        "name": "Concentrated Boss's Aura",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3538",
+        "name": "Kutum Lamp"
+      }
+    ]
+  },
+  {
+    "id": "1921",
+    "name": "Nouver Statue",
+    "cat": "Manufacture",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4453",
+        "name": "Blood Ruby",
+        "qty": "50"
+      },
+      {
+        "id": "5952",
+        "name": "Trace of Despair",
+        "qty": "500"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "100"
+      },
+      {
+        "id": "6392",
+        "name": "Nouver's Hide",
+        "qty": "3"
+      },
+      {
+        "id": "752014",
+        "name": "Concentrated Boss's Aura",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3539",
+        "name": "Nouver Statue"
+      }
+    ]
+  },
+  {
+    "id": "1922",
+    "name": "Capotia Ring",
+    "cat": "Manufacture",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "44350",
+        "name": "Yona's Fragment",
+        "qty": "325"
+      },
+      {
+        "id": "42435",
+        "name": "Kzarka's Latent Aura",
+        "qty": "3"
+      },
+      {
+        "id": "6603",
+        "name": "Oil of Fortitude",
+        "qty": "5"
+      }
+    ],
+    "prod": [
+      {
+        "id": "12053",
+        "name": "Capotia Ring"
+      }
+    ]
+  },
+  {
+    "id": "1923",
+    "name": "Capotia Earring",
+    "cat": "Manufacture",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "44350",
+        "name": "Yona's Fragment",
+        "qty": "300"
+      },
+      {
+        "id": "42436",
+        "name": "Nouver's Latent Aura",
+        "qty": "3"
+      },
+      {
+        "id": "6604",
+        "name": "Oil of Corruption",
+        "qty": "5"
+      }
+    ],
+    "prod": [
+      {
+        "id": "11847",
+        "name": "Capotia Earring"
+      }
+    ]
+  },
+  {
+    "id": "1924",
+    "name": "Capotia Belt",
+    "cat": "Manufacture",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "44350",
+        "name": "Yona's Fragment",
+        "qty": "350"
+      },
+      {
+        "id": "42450",
+        "name": "Kutum's Latent Aura",
+        "qty": "3"
+      },
+      {
+        "id": "6605",
+        "name": "Oil of Tranquility",
+        "qty": "5"
+      }
+    ],
+    "prod": [
+      {
+        "id": "12245",
+        "name": "Capotia Belt"
+      }
+    ]
+  },
+  {
+    "id": "1925",
+    "name": "Capotia Necklace",
+    "cat": "Manufacture",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "44350",
+        "name": "Yona's Fragment",
+        "qty": "400"
+      },
+      {
+        "id": "42437",
+        "name": "Karanda's Latent Aura",
+        "qty": "3"
+      },
+      {
+        "id": "6602",
+        "name": "Oil of Storms",
+        "qty": "5"
+      }
+    ],
+    "prod": [
+      {
+        "id": "11648",
+        "name": "Capotia Necklace"
+      }
+    ]
+  },
+  {
+    "id": "2010",
+    "name": "Artisan's Stuffed Bear Head",
+    "cat": "Manufacture",
+    "skill": "Artisan 1",
+    "mats": [
+      {
+        "id": "3002",
+        "name": "Stuffed Bear Head",
+        "qty": "20"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7751",
+        "name": "Damaged Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3401",
+        "name": "Artisan's Stuffed Bear Head"
+      }
+    ]
+  },
+  {
+    "id": "2011",
+    "name": "Artisan's Bear Hide Carpet",
+    "cat": "Manufacture",
+    "skill": "Artisan 1",
+    "mats": [
+      {
+        "id": "3003",
+        "name": "Bear Hide Carpet",
+        "qty": "20"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7751",
+        "name": "Damaged Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3402",
+        "name": "Artisan's Bear Hide Carpet"
+      }
+    ]
+  },
+  {
+    "id": "2012",
+    "name": "Artisan's Stuffed Boar Head",
+    "cat": "Manufacture",
+    "skill": "Artisan 1",
+    "mats": [
+      {
+        "id": "3005",
+        "name": "Stuffed Boar Head",
+        "qty": "20"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7751",
+        "name": "Damaged Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3404",
+        "name": "Artisan's Stuffed Boar Head"
+      }
+    ]
+  },
+  {
+    "id": "2013",
+    "name": "Artisan's Stuffed Fox Head",
+    "cat": "Manufacture",
+    "skill": "Artisan 1",
+    "mats": [
+      {
+        "id": "3006",
+        "name": "Stuffed Fox Head",
+        "qty": "25"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7751",
+        "name": "Damaged Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3405",
+        "name": "Artisan's Stuffed Fox Head"
+      }
+    ]
+  },
+  {
+    "id": "2014",
+    "name": "Artisan's Stuffed Weasel",
+    "cat": "Manufacture",
+    "skill": "Artisan 1",
+    "mats": [
+      {
+        "id": "3017",
+        "name": "Stuffed Weasel",
+        "qty": "25"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7751",
+        "name": "Damaged Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3406",
+        "name": "Artisan's Stuffed Weasel"
+      }
+    ]
+  },
+  {
+    "id": "2015",
+    "name": "Artisan's Stuffed Gray Wolf Head",
+    "cat": "Manufacture",
+    "skill": "Artisan 1",
+    "mats": [
+      {
+        "id": "3018",
+        "name": "Stuffed Gray Wolf Head",
+        "qty": "25"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7751",
+        "name": "Damaged Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3407",
+        "name": "Artisan's Stuffed Gray Wolf Head"
+      }
+    ]
+  },
+  {
+    "id": "2016",
+    "name": "Artisan's Stuffed Wolf Head",
+    "cat": "Manufacture",
+    "skill": "Artisan 1",
+    "mats": [
+      {
+        "id": "3019",
+        "name": "Stuffed Wolf Head",
+        "qty": "20"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7751",
+        "name": "Damaged Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3408",
+        "name": "Artisan's Stuffed Wolf Head"
+      }
+    ]
+  },
+  {
+    "id": "2017",
+    "name": "Artisan's Stuffed Giant Boar Head",
+    "cat": "Manufacture",
+    "skill": "Artisan 1",
+    "mats": [
+      {
+        "id": "3053",
+        "name": "Stuffed Giant Boar Head",
+        "qty": "20"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7751",
+        "name": "Damaged Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3409",
+        "name": "Artisan's Stuffed Giant Boar Head"
+      }
+    ]
+  },
+  {
+    "id": "2018",
+    "name": "Artisan's Stuffed Elk Head",
+    "cat": "Manufacture",
+    "skill": "Artisan 1",
+    "mats": [
+      {
+        "id": "3054",
+        "name": "Stuffed Elk Head",
+        "qty": "20"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7751",
+        "name": "Damaged Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3410",
+        "name": "Artisan's Stuffed Elk Head"
+      }
+    ]
+  },
+  {
+    "id": "2019",
+    "name": "Artisan's Stuffed Valencia Mountain Sheep Head",
+    "cat": "Manufacture",
+    "skill": "Artisan 1",
+    "mats": [
+      {
+        "id": "3061",
+        "name": "Stuffed Valencia Mountain Sheep Head",
+        "qty": "30"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7751",
+        "name": "Damaged Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3411",
+        "name": "Artisan's Stuffed Valencia Mountain Sheep Head"
+      }
+    ]
+  },
+  {
+    "id": "2020",
+    "name": "Artisan's Stuffed Giant Lion Head",
+    "cat": "Manufacture",
+    "skill": "Artisan 1",
+    "mats": [
+      {
+        "id": "3062",
+        "name": "Stuffed Giant Lion Head",
+        "qty": "35"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7751",
+        "name": "Damaged Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3412",
+        "name": "Artisan's Stuffed Giant Lion Head"
+      }
+    ]
+  },
+  {
+    "id": "2021",
+    "name": "Artisan's Stuffed Valencian Lioness Head",
+    "cat": "Manufacture",
+    "skill": "Artisan 1",
+    "mats": [
+      {
+        "id": "3063",
+        "name": "Stuffed Valencian Lioness Head",
+        "qty": "30"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7751",
+        "name": "Damaged Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3413",
+        "name": "Artisan's Stuffed Valencian Lioness Head"
+      }
+    ]
+  },
+  {
+    "id": "2022",
+    "name": "Artisan's Stuffed Drieghan Male Goat Head",
+    "cat": "Manufacture",
+    "skill": "Artisan 1",
+    "mats": [
+      {
+        "id": "3073",
+        "name": "Stuffed Drieghan Male Goat Head",
+        "qty": "35"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7751",
+        "name": "Damaged Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3416",
+        "name": "Artisan's Stuffed Drieghan Male Goat Head"
+      }
+    ]
+  },
+  {
+    "id": "2023",
+    "name": "Artisan's Stuffed Drieghan Female Goat Head",
+    "cat": "Manufacture",
+    "skill": "Artisan 1",
+    "mats": [
+      {
+        "id": "3074",
+        "name": "Stuffed Drieghan Female Goat Head",
+        "qty": "35"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7751",
+        "name": "Damaged Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3417",
+        "name": "Artisan's Stuffed Drieghan Female Goat Head"
+      }
+    ]
+  },
+  {
+    "id": "2024",
+    "name": "Artisan's Stuffed Yak Head",
+    "cat": "Manufacture",
+    "skill": "Artisan 1",
+    "mats": [
+      {
+        "id": "3075",
+        "name": "Stuffed Yak Head",
+        "qty": "40"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7751",
+        "name": "Damaged Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3418",
+        "name": "Artisan's Stuffed Yak Head"
+      }
+    ]
+  },
+  {
+    "id": "2025",
+    "name": "Artisan's Stuffed Llama",
+    "cat": "Manufacture",
+    "skill": "Artisan 1",
+    "mats": [
+      {
+        "id": "3076",
+        "name": "Stuffed Llama",
+        "qty": "50"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7751",
+        "name": "Damaged Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3419",
+        "name": "Artisan's Stuffed Llama"
+      }
+    ]
+  },
+  {
+    "id": "2026",
+    "name": "Master's Stuffed Bear Head",
+    "cat": "Manufacture",
+    "skill": "Master 1",
+    "mats": [
+      {
+        "id": "3401",
+        "name": "Artisan's Stuffed Bear Head",
+        "qty": "15"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7752",
+        "name": "Usable Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3501",
+        "name": "Master's Stuffed Bear Head"
+      }
+    ]
+  },
+  {
+    "id": "2027",
+    "name": "Master's Bear Hide Carpet",
+    "cat": "Manufacture",
+    "skill": "Master 1",
+    "mats": [
+      {
+        "id": "3402",
+        "name": "Artisan's Bear Hide Carpet",
+        "qty": "15"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7752",
+        "name": "Usable Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3502",
+        "name": "Master's Bear Hide Carpet"
+      }
+    ]
+  },
+  {
+    "id": "2028",
+    "name": "Master's Stuffed Boar Head",
+    "cat": "Manufacture",
+    "skill": "Master 1",
+    "mats": [
+      {
+        "id": "3404",
+        "name": "Artisan's Stuffed Boar Head",
+        "qty": "15"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7752",
+        "name": "Usable Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3504",
+        "name": "Master's Stuffed Boar Head"
+      }
+    ]
+  },
+  {
+    "id": "2029",
+    "name": "Master's Stuffed Fox Head",
+    "cat": "Manufacture",
+    "skill": "Master 1",
+    "mats": [
+      {
+        "id": "3405",
+        "name": "Artisan's Stuffed Fox Head",
+        "qty": "20"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7752",
+        "name": "Usable Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3505",
+        "name": "Master's Stuffed Fox Head"
+      }
+    ]
+  },
+  {
+    "id": "2030",
+    "name": "Master's Stuffed Weasel",
+    "cat": "Manufacture",
+    "skill": "Master 1",
+    "mats": [
+      {
+        "id": "3406",
+        "name": "Artisan's Stuffed Weasel",
+        "qty": "20"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7752",
+        "name": "Usable Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3506",
+        "name": "Master's Stuffed Weasel"
+      }
+    ]
+  },
+  {
+    "id": "2031",
+    "name": "Master's Stuffed Gray Wolf Head",
+    "cat": "Manufacture",
+    "skill": "Master 1",
+    "mats": [
+      {
+        "id": "3407",
+        "name": "Artisan's Stuffed Gray Wolf Head",
+        "qty": "15"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7752",
+        "name": "Usable Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3507",
+        "name": "Master's Stuffed Gray Wolf Head"
+      }
+    ]
+  },
+  {
+    "id": "2032",
+    "name": "Master's Stuffed Wolf Head",
+    "cat": "Manufacture",
+    "skill": "Master 1",
+    "mats": [
+      {
+        "id": "3408",
+        "name": "Artisan's Stuffed Wolf Head",
+        "qty": "15"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7752",
+        "name": "Usable Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3508",
+        "name": "Master's Stuffed Wolf Head"
+      }
+    ]
+  },
+  {
+    "id": "2033",
+    "name": "Master's Stuffed Giant Boar Head",
+    "cat": "Manufacture",
+    "skill": "Master 1",
+    "mats": [
+      {
+        "id": "3409",
+        "name": "Artisan's Stuffed Giant Boar Head",
+        "qty": "15"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7752",
+        "name": "Usable Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3509",
+        "name": "Master's Stuffed Giant Boar Head"
+      }
+    ]
+  },
+  {
+    "id": "2034",
+    "name": "Master's Stuffed Elk Head",
+    "cat": "Manufacture",
+    "skill": "Master 1",
+    "mats": [
+      {
+        "id": "3410",
+        "name": "Artisan's Stuffed Elk Head",
+        "qty": "1"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7752",
+        "name": "Usable Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3510",
+        "name": "Master's Stuffed Elk Head"
+      }
+    ]
+  },
+  {
+    "id": "2035",
+    "name": "Master's Stuffed Valencia Mountain Sheep Head",
+    "cat": "Manufacture",
+    "skill": "Master 1",
+    "mats": [
+      {
+        "id": "3411",
+        "name": "Artisan's Stuffed Valencia Mountain Sheep Head",
+        "qty": "25"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7752",
+        "name": "Usable Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3511",
+        "name": "Master's Stuffed Valencia Mountain Sheep Head"
+      }
+    ]
+  },
+  {
+    "id": "2036",
+    "name": "Master's Stuffed Giant Lion Head",
+    "cat": "Manufacture",
+    "skill": "Master 1",
+    "mats": [
+      {
+        "id": "3412",
+        "name": "Artisan's Stuffed Giant Lion Head",
+        "qty": "30"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7752",
+        "name": "Usable Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3512",
+        "name": "Master's Stuffed Giant Lion Head"
+      }
+    ]
+  },
+  {
+    "id": "2037",
+    "name": "Master's Stuffed Valencian Lioness Head",
+    "cat": "Manufacture",
+    "skill": "Master 1",
+    "mats": [
+      {
+        "id": "3413",
+        "name": "Artisan's Stuffed Valencian Lioness Head",
+        "qty": "25"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7752",
+        "name": "Usable Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3513",
+        "name": "Master's Stuffed Valencian Lioness Head"
+      }
+    ]
+  },
+  {
+    "id": "2038",
+    "name": "Master's Stuffed Drieghan Male Goat Head",
+    "cat": "Manufacture",
+    "skill": "Master 1",
+    "mats": [
+      {
+        "id": "3416",
+        "name": "Artisan's Stuffed Drieghan Male Goat Head",
+        "qty": "20"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7752",
+        "name": "Usable Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3516",
+        "name": "Master's Stuffed Drieghan Male Goat Head"
+      }
+    ]
+  },
+  {
+    "id": "2039",
+    "name": "Master's Stuffed Drieghan Female Goat Head",
+    "cat": "Manufacture",
+    "skill": "Master 1",
+    "mats": [
+      {
+        "id": "3417",
+        "name": "Artisan's Stuffed Drieghan Female Goat Head",
+        "qty": "20"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7752",
+        "name": "Usable Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3517",
+        "name": "Master's Stuffed Drieghan Female Goat Head"
+      }
+    ]
+  },
+  {
+    "id": "2040",
+    "name": "Master's Stuffed Yak Head",
+    "cat": "Manufacture",
+    "skill": "Master 1",
+    "mats": [
+      {
+        "id": "3418",
+        "name": "Artisan's Stuffed Yak Head",
+        "qty": "30"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7752",
+        "name": "Usable Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3518",
+        "name": "Master's Stuffed Yak Head"
+      }
+    ]
+  },
+  {
+    "id": "2041",
+    "name": "Master's Stuffed Llama",
+    "cat": "Manufacture",
+    "skill": "Master 1",
+    "mats": [
+      {
+        "id": "3419",
+        "name": "Artisan's Stuffed Llama",
+        "qty": "40"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7752",
+        "name": "Usable Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3519",
+        "name": "Master's Stuffed Llama"
+      }
+    ]
+  },
+  {
+    "id": "2042",
+    "name": "Artisan's Stuffed Belladonna Elephant Head",
+    "cat": "Manufacture",
+    "skill": "Artisan 1",
+    "mats": [
+      {
+        "id": "3077",
+        "name": "Stuffed Belladonna Elephant Head",
+        "qty": "70"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7751",
+        "name": "Damaged Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3520",
+        "name": "Artisan's Stuffed Belladonna Elephant Head"
+      }
+    ]
+  },
+  {
+    "id": "2043",
+    "name": "Artisan's Stuffed Baby Belladonna Elephant Head",
+    "cat": "Manufacture",
+    "skill": "Artisan 1",
+    "mats": [
+      {
+        "id": "3078",
+        "name": "Stuffed Baby Belladonna Elephant Head",
+        "qty": "60"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7751",
+        "name": "Damaged Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3521",
+        "name": "Artisan's Stuffed Baby Belladonna Elephant Head"
+      }
+    ]
+  },
+  {
+    "id": "2044",
+    "name": "Artisan's Stuffed Gazelle Head",
+    "cat": "Manufacture",
+    "skill": "Artisan 1",
+    "mats": [
+      {
+        "id": "3079",
+        "name": "Stuffed Gazelle Head",
+        "qty": "30"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7751",
+        "name": "Damaged Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3522",
+        "name": "Artisan's Stuffed Gazelle Head"
+      }
+    ]
+  },
+  {
+    "id": "2045",
+    "name": "Artisan's Stuffed Black Leopard Head",
+    "cat": "Manufacture",
+    "skill": "Artisan 1",
+    "mats": [
+      {
+        "id": "3080",
+        "name": "Stuffed Black Leopard Head",
+        "qty": "55"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7751",
+        "name": "Damaged Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3523",
+        "name": "Artisan's Stuffed Black Leopard Head"
+      }
+    ]
+  },
+  {
+    "id": "2046",
+    "name": "Artisan's Stuffed Feather Wolf Head",
+    "cat": "Manufacture",
+    "skill": "Artisan 1",
+    "mats": [
+      {
+        "id": "3081",
+        "name": "Stuffed Feather Wolf Head",
+        "qty": "30"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7751",
+        "name": "Damaged Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3524",
+        "name": "Artisan's Stuffed Feather Wolf Head"
+      }
+    ]
+  },
+  {
+    "id": "2047",
+    "name": "Artisan's Stuffed Phnyl Head",
+    "cat": "Manufacture",
+    "skill": "Artisan 1",
+    "mats": [
+      {
+        "id": "3082",
+        "name": "Stuffed Phnyl Head",
+        "qty": "60"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7751",
+        "name": "Damaged Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3525",
+        "name": "Artisan's Stuffed Phnyl Head"
+      }
+    ]
+  },
+  {
+    "id": "2048",
+    "name": "Artisan's Stuffed Ferrica Head",
+    "cat": "Manufacture",
+    "skill": "Artisan 1",
+    "mats": [
+      {
+        "id": "3083",
+        "name": "Stuffed Ferrica Head",
+        "qty": "30"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7751",
+        "name": "Damaged Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3526",
+        "name": "Artisan's Stuffed Ferrica Head"
+      }
+    ]
+  },
+  {
+    "id": "2049",
+    "name": "Artisan's Stuffed Ferrina Head",
+    "cat": "Manufacture",
+    "skill": "Artisan 1",
+    "mats": [
+      {
+        "id": "3084",
+        "name": "Stuffed Ferrina Head",
+        "qty": "30"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7751",
+        "name": "Damaged Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3527",
+        "name": "Artisan's Stuffed Ferrina Head"
+      }
+    ]
+  },
+  {
+    "id": "2050",
+    "name": "Artisan's Stuffed Kamasylvia Weasel",
+    "cat": "Manufacture",
+    "skill": "Artisan 1",
+    "mats": [
+      {
+        "id": "3086",
+        "name": "Stuffed Kamasylvia Weasel",
+        "qty": "60"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7751",
+        "name": "Damaged Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3528",
+        "name": "Artisan's Stuffed Kamasylvia Weasel"
+      }
+    ]
+  },
+  {
+    "id": "2051",
+    "name": "Master's Stuffed Belladonna Elephant Head",
+    "cat": "Manufacture",
+    "skill": "Master 1",
+    "mats": [
+      {
+        "id": "3520",
+        "name": "Artisan's Stuffed Belladonna Elephant Head",
+        "qty": "70"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7752",
+        "name": "Usable Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3529",
+        "name": "Master's Stuffed Belladonna Elephant Head"
+      }
+    ]
+  },
+  {
+    "id": "2052",
+    "name": "Master's Stuffed Baby Belladonna Elephant Head",
+    "cat": "Manufacture",
+    "skill": "Master 1",
+    "mats": [
+      {
+        "id": "3521",
+        "name": "Artisan's Stuffed Baby Belladonna Elephant Head",
+        "qty": "60"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7752",
+        "name": "Usable Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3530",
+        "name": "Master's Stuffed Baby Belladonna Elephant Head"
+      }
+    ]
+  },
+  {
+    "id": "2053",
+    "name": "Master's Stuffed Gazelle Head",
+    "cat": "Manufacture",
+    "skill": "Master 1",
+    "mats": [
+      {
+        "id": "3522",
+        "name": "Artisan's Stuffed Gazelle Head",
+        "qty": "30"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7752",
+        "name": "Usable Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3531",
+        "name": "Master's Stuffed Gazelle Head"
+      }
+    ]
+  },
+  {
+    "id": "2054",
+    "name": "Master's Stuffed Black Leopard Head",
+    "cat": "Manufacture",
+    "skill": "Master 1",
+    "mats": [
+      {
+        "id": "3523",
+        "name": "Artisan's Stuffed Black Leopard Head",
+        "qty": "60"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7752",
+        "name": "Usable Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3532",
+        "name": "Master's Stuffed Black Leopard Head"
+      }
+    ]
+  },
+  {
+    "id": "2055",
+    "name": "Master's Stuffed Feather Wolf Head",
+    "cat": "Manufacture",
+    "skill": "Master 1",
+    "mats": [
+      {
+        "id": "3524",
+        "name": "Artisan's Stuffed Feather Wolf Head",
+        "qty": "30"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7752",
+        "name": "Usable Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3533",
+        "name": "Master's Stuffed Feather Wolf Head"
+      }
+    ]
+  },
+  {
+    "id": "2056",
+    "name": "Master's Stuffed Phnyl Head",
+    "cat": "Manufacture",
+    "skill": "Master 1",
+    "mats": [
+      {
+        "id": "3525",
+        "name": "Artisan's Stuffed Phnyl Head",
+        "qty": "50"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7752",
+        "name": "Usable Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3534",
+        "name": "Master's Stuffed Phnyl Head"
+      }
+    ]
+  },
+  {
+    "id": "2057",
+    "name": "Master's Stuffed Ferrica Head",
+    "cat": "Manufacture",
+    "skill": "Master 1",
+    "mats": [
+      {
+        "id": "3526",
+        "name": "Artisan's Stuffed Ferrica Head",
+        "qty": "40"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7752",
+        "name": "Usable Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3535",
+        "name": "Master's Stuffed Ferrica Head"
+      }
+    ]
+  },
+  {
+    "id": "2058",
+    "name": "Master's Stuffed Ferrina Head",
+    "cat": "Manufacture",
+    "skill": "Master 1",
+    "mats": [
+      {
+        "id": "3527",
+        "name": "Artisan's Stuffed Ferrina Head",
+        "qty": "40"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7752",
+        "name": "Usable Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3536",
+        "name": "Master's Stuffed Ferrina Head"
+      }
+    ]
+  },
+  {
+    "id": "2059",
+    "name": "Master's Stuffed Kamasylvia Weasel",
+    "cat": "Manufacture",
+    "skill": "Master 1",
+    "mats": [
+      {
+        "id": "3528",
+        "name": "Artisan's Stuffed Kamasylvia Weasel",
+        "qty": "100"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7752",
+        "name": "Usable Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3537",
+        "name": "Master's Stuffed Kamasylvia Weasel"
+      }
+    ]
+  },
+  {
+    "id": "2371",
+    "name": "Crow's Trade Voucher",
+    "cat": "Manufacture",
+    "skill": "Beginner 1",
+    "mats": [
+      {
+        "id": "17572",
+        "name": "Item Collection Increase Scroll (60 min)",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "320106",
+        "name": "Crow's Trade Voucher"
+      }
+    ]
+  },
+  {
+    "id": "2401",
+    "name": "Delicately Polished Support",
+    "cat": "Manufacture",
+    "skill": "Beginner 1",
+    "mats": [
+      {
+        "id": "8008",
+        "name": "Violent Sea Monster's Bone",
+        "qty": "10"
+      },
+      {
+        "id": "8023",
+        "name": "Starlight Hardener",
+        "qty": "10"
+      },
+      {
+        "id": "8022",
+        "name": "Starlight Powder",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "8020",
+        "name": "Delicately Polished Support"
+      }
+    ]
+  },
+  {
+    "id": "2402",
+    "name": "Violent Wave Plywood",
+    "cat": "Manufacture",
+    "skill": "Beginner 1",
+    "mats": [
+      {
+        "id": "8009",
+        "name": "Violent Sea Monster's Scale",
+        "qty": "10"
+      },
+      {
+        "id": "8025",
+        "name": "Saltwater Crocodile's Scale",
+        "qty": "10"
+      },
+      {
+        "id": "8022",
+        "name": "Starlight Powder",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "8019",
+        "name": "Violent Wave Plywood"
+      }
+    ]
+  },
+  {
+    "id": "2404",
+    "name": "Delicately Polished Support",
+    "cat": "Manufacture",
+    "skill": "Beginner 1",
+    "mats": [
+      {
+        "id": "8008",
+        "name": "Violent Sea Monster's Bone",
+        "qty": "1"
+      },
+      {
+        "id": "8023",
+        "name": "Starlight Hardener",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "8020",
+        "name": "Delicately Polished Support"
+      }
+    ]
+  },
+  {
+    "id": "2405",
+    "name": "Violent Wave Plywood",
+    "cat": "Manufacture",
+    "skill": "Beginner 1",
+    "mats": [
+      {
+        "id": "8009",
+        "name": "Violent Sea Monster's Scale",
+        "qty": "1"
+      },
+      {
+        "id": "8025",
+        "name": "Saltwater Crocodile's Scale",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "8019",
+        "name": "Violent Wave Plywood"
+      }
+    ]
+  },
+  {
+    "id": "2427",
+    "name": "Black Caphras Stone",
+    "cat": "Manufacture",
+    "skill": "Beginner 1",
+    "mats": [
+      {
+        "id": "721003",
+        "name": "Caphras Stone",
+        "qty": "8.26k"
+      },
+      {
+        "id": "43786",
+        "name": "Remnants of the Rift",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "752072",
+        "name": "Black Caphras Stone"
+      }
+    ]
+  },
+  {
+    "id": "2429",
+    "name": "Coral Frame Mold",
+    "cat": "Manufacture",
+    "skill": "Beginner 1",
+    "mats": [
+      {
+        "id": "6153",
+        "name": "Hard Hide",
+        "qty": "100"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "10"
+      },
+      {
+        "id": "6528",
+        "name": "Glue",
+        "qty": "1"
+      },
+      {
+        "id": "8100",
+        "name": "Coral Handicraft",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "8101",
+        "name": "Coral Frame Mold"
+      }
+    ]
+  },
+  {
+    "id": "2430",
+    "name": "Breath Imbued Whale Figurine",
+    "cat": "Manufacture",
+    "skill": "Beginner 1",
+    "mats": [
+      {
+        "id": "8096",
+        "name": "Blue Whale's Cranial Bone",
+        "qty": "1"
+      },
+      {
+        "id": "8097",
+        "name": "Blue Whale's Chest Bone",
+        "qty": "1"
+      },
+      {
+        "id": "8098",
+        "name": "Blue Whale's Tail Bone",
+        "qty": "1"
+      },
+      {
+        "id": "56221",
+        "name": "Breath of Narcion",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "8099",
+        "name": "Breath Imbued Whale Figurine"
+      }
+    ]
+  },
+  {
+    "id": "2431",
+    "name": "Master's Special Stuffed Grass Rhino Head",
+    "cat": "Manufacture",
+    "skill": "Beginner 1",
+    "mats": [
+      {
+        "id": "3550",
+        "name": "Master's Stuffed Grass Rhino Head",
+        "qty": "10"
+      },
+      {
+        "id": "5023",
+        "name": "Thornwood Sap",
+        "qty": "10"
+      },
+      {
+        "id": "5605",
+        "name": "Delotia Powder",
+        "qty": "2"
+      },
+      {
+        "id": "56221",
+        "name": "Breath of Narcion",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3560",
+        "name": "Master's Special Stuffed Grass Rhino Head"
+      }
+    ]
+  },
+  {
+    "id": "2432",
+    "name": "Master's Special Stuffed Verdure Buck",
+    "cat": "Manufacture",
+    "skill": "Beginner 1",
+    "mats": [
+      {
+        "id": "3551",
+        "name": "Master's Stuffed Verdure Buck",
+        "qty": "10"
+      },
+      {
+        "id": "5023",
+        "name": "Thornwood Sap",
+        "qty": "10"
+      },
+      {
+        "id": "5605",
+        "name": "Delotia Powder",
+        "qty": "2"
+      },
+      {
+        "id": "56221",
+        "name": "Breath of Narcion",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3561",
+        "name": "Master's Special Stuffed Verdure Buck"
+      }
+    ]
+  },
+  {
+    "id": "2433",
+    "name": "Master's Special Stuffed Verdure Doe",
+    "cat": "Manufacture",
+    "skill": "Beginner 1",
+    "mats": [
+      {
+        "id": "3552",
+        "name": "Master's Stuffed Verdure Doe",
+        "qty": "10"
+      },
+      {
+        "id": "5023",
+        "name": "Thornwood Sap",
+        "qty": "10"
+      },
+      {
+        "id": "5605",
+        "name": "Delotia Powder",
+        "qty": "2"
+      },
+      {
+        "id": "56221",
+        "name": "Breath of Narcion",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3562",
+        "name": "Master's Special Stuffed Verdure Doe"
+      }
+    ]
+  },
+  {
+    "id": "2434",
+    "name": "Master's Special Stuffed Shadow Wolf Head",
+    "cat": "Manufacture",
+    "skill": "Beginner 1",
+    "mats": [
+      {
+        "id": "3553",
+        "name": "Master's Stuffed Shadow Wolf Head",
+        "qty": "10"
+      },
+      {
+        "id": "5023",
+        "name": "Thornwood Sap",
+        "qty": "10"
+      },
+      {
+        "id": "5605",
+        "name": "Delotia Powder",
+        "qty": "2"
+      },
+      {
+        "id": "56221",
+        "name": "Breath of Narcion",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3563",
+        "name": "Master's Special Stuffed Shadow Wolf Head"
+      }
+    ]
+  },
+  {
+    "id": "2435",
+    "name": "Master's Special Stuffed Shadow Lion Head",
+    "cat": "Manufacture",
+    "skill": "Beginner 1",
+    "mats": [
+      {
+        "id": "3554",
+        "name": "Master's Stuffed Shadow Lion Head",
+        "qty": "10"
+      },
+      {
+        "id": "5023",
+        "name": "Thornwood Sap",
+        "qty": "10"
+      },
+      {
+        "id": "5605",
+        "name": "Delotia Powder",
+        "qty": "2"
+      },
+      {
+        "id": "56221",
+        "name": "Breath of Narcion",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3564",
+        "name": "Master's Special Stuffed Shadow Lion Head"
+      }
+    ]
+  },
+  {
+    "id": "2436",
+    "name": "Master's Stuffed Grass Rhino Head",
+    "cat": "Manufacture",
+    "skill": "Beginner 1",
+    "mats": [
+      {
+        "id": "3545",
+        "name": "Artisan's Stuffed Grass Rhino Head",
+        "qty": "3"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "10"
+      },
+      {
+        "id": "7752",
+        "name": "Usable Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3550",
+        "name": "Master's Stuffed Grass Rhino Head"
+      }
+    ]
+  },
+  {
+    "id": "2437",
+    "name": "Master's Stuffed Verdure Buck",
+    "cat": "Manufacture",
+    "skill": "Beginner 1",
+    "mats": [
+      {
+        "id": "3546",
+        "name": "Artisan's Stuffed Verdure Buck",
+        "qty": "3"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "20"
+      },
+      {
+        "id": "7752",
+        "name": "Usable Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3551",
+        "name": "Master's Stuffed Verdure Buck"
+      }
+    ]
+  },
+  {
+    "id": "2438",
+    "name": "Master's Stuffed Verdure Doe",
+    "cat": "Manufacture",
+    "skill": "Beginner 1",
+    "mats": [
+      {
+        "id": "3547",
+        "name": "Artisan's Stuffed Verdure Doe",
+        "qty": "3"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "20"
+      },
+      {
+        "id": "7752",
+        "name": "Usable Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3552",
+        "name": "Master's Stuffed Verdure Doe"
+      }
+    ]
+  },
+  {
+    "id": "2439",
+    "name": "Master's Stuffed Shadow Wolf Head",
+    "cat": "Manufacture",
+    "skill": "Beginner 1",
+    "mats": [
+      {
+        "id": "3548",
+        "name": "Artisan's Stuffed Shadow Wolf Head",
+        "qty": "3"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "30"
+      },
+      {
+        "id": "7752",
+        "name": "Usable Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3553",
+        "name": "Master's Stuffed Shadow Wolf Head"
+      }
+    ]
+  },
+  {
+    "id": "2440",
+    "name": "Master's Stuffed Shadow Lion Head",
+    "cat": "Manufacture",
+    "skill": "Beginner 1",
+    "mats": [
+      {
+        "id": "3549",
+        "name": "Artisan's Stuffed Shadow Lion Head",
+        "qty": "3"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "50"
+      },
+      {
+        "id": "7752",
+        "name": "Usable Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3554",
+        "name": "Master's Stuffed Shadow Lion Head"
+      }
+    ]
+  },
+  {
+    "id": "2441",
+    "name": "Artisan's Special Stuffed Grass Rhino Head",
+    "cat": "Manufacture",
+    "skill": "Beginner 1",
+    "mats": [
+      {
+        "id": "3545",
+        "name": "Artisan's Stuffed Grass Rhino Head",
+        "qty": "10"
+      },
+      {
+        "id": "5023",
+        "name": "Thornwood Sap",
+        "qty": "10"
+      },
+      {
+        "id": "5605",
+        "name": "Delotia Powder",
+        "qty": "1"
+      },
+      {
+        "id": "56221",
+        "name": "Breath of Narcion",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3555",
+        "name": "Artisan's Special Stuffed Grass Rhino Head"
+      }
+    ]
+  },
+  {
+    "id": "2442",
+    "name": "Artisan's Special Stuffed Verdure Buck",
+    "cat": "Manufacture",
+    "skill": "Beginner 1",
+    "mats": [
+      {
+        "id": "3546",
+        "name": "Artisan's Stuffed Verdure Buck",
+        "qty": "10"
+      },
+      {
+        "id": "5023",
+        "name": "Thornwood Sap",
+        "qty": "10"
+      },
+      {
+        "id": "5605",
+        "name": "Delotia Powder",
+        "qty": "1"
+      },
+      {
+        "id": "56221",
+        "name": "Breath of Narcion",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3556",
+        "name": "Artisan's Special Stuffed Verdure Buck"
+      }
+    ]
+  },
+  {
+    "id": "2443",
+    "name": "Artisan's Special Stuffed Verdure Doe",
+    "cat": "Manufacture",
+    "skill": "Beginner 1",
+    "mats": [
+      {
+        "id": "3547",
+        "name": "Artisan's Stuffed Verdure Doe",
+        "qty": "10"
+      },
+      {
+        "id": "5023",
+        "name": "Thornwood Sap",
+        "qty": "10"
+      },
+      {
+        "id": "5605",
+        "name": "Delotia Powder",
+        "qty": "1"
+      },
+      {
+        "id": "56221",
+        "name": "Breath of Narcion",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3557",
+        "name": "Artisan's Special Stuffed Verdure Doe"
+      }
+    ]
+  },
+  {
+    "id": "2444",
+    "name": "Artisan's Special Stuffed Shadow Wolf Head",
+    "cat": "Manufacture",
+    "skill": "Beginner 1",
+    "mats": [
+      {
+        "id": "3548",
+        "name": "Artisan's Stuffed Shadow Wolf Head",
+        "qty": "10"
+      },
+      {
+        "id": "5023",
+        "name": "Thornwood Sap",
+        "qty": "10"
+      },
+      {
+        "id": "5605",
+        "name": "Delotia Powder",
+        "qty": "1"
+      },
+      {
+        "id": "56221",
+        "name": "Breath of Narcion",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3558",
+        "name": "Artisan's Special Stuffed Shadow Wolf Head"
+      }
+    ]
+  },
+  {
+    "id": "2445",
+    "name": "Artisan's Special Stuffed Shadow Lion Head",
+    "cat": "Manufacture",
+    "skill": "Beginner 1",
+    "mats": [
+      {
+        "id": "3549",
+        "name": "Artisan's Stuffed Shadow Lion Head",
+        "qty": "10"
+      },
+      {
+        "id": "5023",
+        "name": "Thornwood Sap",
+        "qty": "10"
+      },
+      {
+        "id": "5605",
+        "name": "Delotia Powder",
+        "qty": "1"
+      },
+      {
+        "id": "56221",
+        "name": "Breath of Narcion",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3559",
+        "name": "Artisan's Special Stuffed Shadow Lion Head"
+      }
+    ]
+  },
+  {
+    "id": "2446",
+    "name": "Artisan's Stuffed Grass Rhino Head",
+    "cat": "Manufacture",
+    "skill": "Beginner 1",
+    "mats": [
+      {
+        "id": "3540",
+        "name": "Stuffed Grass Rhino Head",
+        "qty": "20"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7751",
+        "name": "Damaged Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3545",
+        "name": "Artisan's Stuffed Grass Rhino Head"
+      }
+    ]
+  },
+  {
+    "id": "2447",
+    "name": "Artisan's Stuffed Verdure Buck",
+    "cat": "Manufacture",
+    "skill": "Beginner 1",
+    "mats": [
+      {
+        "id": "3541",
+        "name": "Stuffed Verdure Buck",
+        "qty": "30"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7751",
+        "name": "Damaged Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3546",
+        "name": "Artisan's Stuffed Verdure Buck"
+      }
+    ]
+  },
+  {
+    "id": "2448",
+    "name": "Artisan's Stuffed Verdure Doe",
+    "cat": "Manufacture",
+    "skill": "Beginner 1",
+    "mats": [
+      {
+        "id": "3542",
+        "name": "Stuffed Verdure Doe",
+        "qty": "30"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7751",
+        "name": "Damaged Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3547",
+        "name": "Artisan's Stuffed Verdure Doe"
+      }
+    ]
+  },
+  {
+    "id": "2449",
+    "name": "Artisan's Stuffed Shadow Wolf Head",
+    "cat": "Manufacture",
+    "skill": "Beginner 1",
+    "mats": [
+      {
+        "id": "3543",
+        "name": "Stuffed Shadow Wolf Head",
+        "qty": "40"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7751",
+        "name": "Damaged Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3548",
+        "name": "Artisan's Stuffed Shadow Wolf Head"
+      }
+    ]
+  },
+  {
+    "id": "2450",
+    "name": "Artisan's Stuffed Shadow Lion Head",
+    "cat": "Manufacture",
+    "skill": "Beginner 1",
+    "mats": [
+      {
+        "id": "3544",
+        "name": "Stuffed Shadow Lion Head",
+        "qty": "60"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "1"
+      },
+      {
+        "id": "7751",
+        "name": "Damaged Hide",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "3549",
+        "name": "Artisan's Stuffed Shadow Lion Head"
+      }
+    ]
+  },
+  {
+    "id": "2458",
+    "name": "Mythical Censer",
+    "cat": "Manufacture",
+    "skill": "Beginner 1",
+    "mats": [
+      {
+        "id": "4802",
+        "name": "Powder of Flame",
+        "qty": "10"
+      },
+      {
+        "id": "6185",
+        "name": "Fire Horn",
+        "qty": "10"
+      },
+      {
+        "id": "757005",
+        "name": "Mythical Powder",
+        "qty": "10"
+      },
+      {
+        "id": "757007",
+        "name": "Old Moon Censer",
+        "qty": "10"
+      },
+      {
+        "id": "757010",
+        "name": "Mythical Feather",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "757008",
+        "name": "Mythical Censer"
+      }
+    ]
+  },
+  {
+    "id": "2459",
+    "name": "Old Moon Censer",
+    "cat": "Manufacture",
+    "skill": "Beginner 1",
+    "mats": [
+      {
+        "id": "4059",
+        "name": "Pure Copper Crystal",
+        "qty": "100"
+      },
+      {
+        "id": "4062",
+        "name": "Pure Tin Crystal",
+        "qty": "100"
+      },
+      {
+        "id": "4259",
+        "name": "Pure Platinum Crystal",
+        "qty": "100"
+      },
+      {
+        "id": "4266",
+        "name": "Moonlight Opal",
+        "qty": "100"
+      },
+      {
+        "id": "757006",
+        "name": "Old Moon Censer Mold",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "757007",
+        "name": "Old Moon Censer"
+      }
+    ]
+  },
+  {
+    "id": "2528",
+    "name": "Coral Handicraft",
+    "cat": "Manufacture",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4476",
+        "name": "Red Coral",
+        "qty": "10"
+      },
+      {
+        "id": "4477",
+        "name": "Blue Coral",
+        "qty": "10"
+      },
+      {
+        "id": "6501",
+        "name": "Coral Piece",
+        "qty": "100"
+      },
+      {
+        "id": "6504",
+        "name": "Green Coral",
+        "qty": "10"
+      },
+      {
+        "id": "6528",
+        "name": "Glue",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "8100",
+        "name": "Coral Handicraft"
+      }
+    ]
+  }
+]

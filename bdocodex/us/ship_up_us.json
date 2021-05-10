@@ -1,0 +1,694 @@
+[
+  {
+    "start": "Bartali Sailboat",
+    "end": "Epheria Sailboat",
+    "materials": [
+      {
+        "id": "49758",
+        "name": "Bartali Sailboat: Old Prow",
+        "qty": "+10"
+      },
+      {
+        "id": "49759",
+        "name": "Bartali Sailboat: Old Plating",
+        "qty": "+10"
+      },
+      {
+        "id": "49760",
+        "name": "Bartali Sailboat: Old Cannon",
+        "qty": "+10"
+      },
+      {
+        "id": "49761",
+        "name": "Bartali Sailboat: Old Wind Sail",
+        "qty": "+10"
+      },
+      {
+        "id": "4685",
+        "name": "Standardized Timber Square",
+        "qty": "800"
+      },
+      {
+        "id": "4077",
+        "name": "Steel",
+        "qty": "600"
+      },
+      {
+        "id": "4658",
+        "name": "Pine Plywood",
+        "qty": "1.5k"
+      },
+      {
+        "id": "5856",
+        "name": "Flax Fabric",
+        "qty": "300"
+      },
+      {
+        "id": "4687",
+        "name": "Hard Pillar",
+        "qty": "100"
+      },
+      {
+        "id": "49950",
+        "name": "Ship Upgrade Permit: Epheria Sailboat",
+        "qty": "1"
+      }
+    ]
+  },
+  {
+    "start": "Bartali Sailboat",
+    "end": "Epheria Frigate",
+    "materials": [
+      {
+        "id": "49758",
+        "name": "Bartali Sailboat: Old Prow",
+        "qty": "+10"
+      },
+      {
+        "id": "49759",
+        "name": "Bartali Sailboat: Old Plating",
+        "qty": "+10"
+      },
+      {
+        "id": "49760",
+        "name": "Bartali Sailboat: Old Cannon",
+        "qty": "+10"
+      },
+      {
+        "id": "49761",
+        "name": "Bartali Sailboat: Old Wind Sail",
+        "qty": "+10"
+      },
+      {
+        "id": "4685",
+        "name": "Standardized Timber Square",
+        "qty": "1000"
+      },
+      {
+        "id": "4269",
+        "name": "Jade Coral Ingot",
+        "qty": "800"
+      },
+      {
+        "id": "4691",
+        "name": "Pine Coated Plywood",
+        "qty": "1000"
+      },
+      {
+        "id": "5860",
+        "name": "Enhanced Flax Fabric",
+        "qty": "450"
+      },
+      {
+        "id": "4687",
+        "name": "Hard Pillar",
+        "qty": "100"
+      },
+      {
+        "id": "49951",
+        "name": "Ship Upgrade Permit: Epheria Frigate",
+        "qty": "1"
+      }
+    ]
+  },
+  {
+    "start": "Epheria Caravel",
+    "end": "Epheria Carrack: Advance",
+    "materials": [
+      {
+        "id": "49655",
+        "name": "Epheria Caravel: Black Dragon Prow",
+        "qty": "+10"
+      },
+      {
+        "id": "49656",
+        "name": "Epheria Caravel: Upgraded Plating",
+        "qty": "+10"
+      },
+      {
+        "id": "49657",
+        "name": "Epheria Caravel: Mayna Cannon",
+        "qty": "+10"
+      },
+      {
+        "id": "49658",
+        "name": "Epheria Caravel: Stratus Wind Sail",
+        "qty": "+10"
+      },
+      {
+        "id": "5809",
+        "name": "Moon Vein Flax Fabric",
+        "qty": "180"
+      },
+      {
+        "id": "5812",
+        "name": "Deep Tide-Dyed Standardized Timber Square",
+        "qty": "144"
+      },
+      {
+        "id": "5815",
+        "name": "Brilliant Rock Salt Ingot",
+        "qty": "35"
+      },
+      {
+        "id": "5821",
+        "name": "Tear of the Ocean",
+        "qty": "42"
+      },
+      {
+        "id": "5831",
+        "name": "Brilliant Pearl Shard",
+        "qty": "35"
+      }
+    ]
+  },
+  {
+    "start": "Epheria Caravel",
+    "end": "Epheria Carrack: Balance",
+    "materials": [
+      {
+        "id": "49655",
+        "name": "Epheria Caravel: Black Dragon Prow",
+        "qty": "+10"
+      },
+      {
+        "id": "49656",
+        "name": "Epheria Caravel: Upgraded Plating",
+        "qty": "+10"
+      },
+      {
+        "id": "49657",
+        "name": "Epheria Caravel: Mayna Cannon",
+        "qty": "+10"
+      },
+      {
+        "id": "49658",
+        "name": "Epheria Caravel: Stratus Wind Sail",
+        "qty": "+10"
+      },
+      {
+        "id": "5809",
+        "name": "Moon Vein Flax Fabric",
+        "qty": "180"
+      },
+      {
+        "id": "5812",
+        "name": "Deep Tide-Dyed Standardized Timber Square",
+        "qty": "144"
+      },
+      {
+        "id": "5815",
+        "name": "Brilliant Rock Salt Ingot",
+        "qty": "30"
+      },
+      {
+        "id": "5821",
+        "name": "Tear of the Ocean",
+        "qty": "50"
+      },
+      {
+        "id": "5831",
+        "name": "Brilliant Pearl Shard",
+        "qty": "30"
+      }
+    ]
+  },
+  {
+    "start": "Epheria Sailboat",
+    "end": "Improved Epheria Sailboat",
+    "materials": [
+      {
+        "id": "49754",
+        "name": "Epheria: Old Prow",
+        "qty": "1"
+      },
+      {
+        "id": "49755",
+        "name": "Epheria: Old Plating",
+        "qty": "1"
+      },
+      {
+        "id": "49756",
+        "name": "Epheria: Old Cannon",
+        "qty": "1"
+      },
+      {
+        "id": "49757",
+        "name": "Epheria: Old Wind Sail",
+        "qty": "1"
+      },
+      {
+        "id": "4685",
+        "name": "Standardized Timber Square",
+        "qty": "250"
+      },
+      {
+        "id": "4077",
+        "name": "Steel",
+        "qty": "200"
+      },
+      {
+        "id": "4658",
+        "name": "Pine Plywood",
+        "qty": "500"
+      },
+      {
+        "id": "5856",
+        "name": "Flax Fabric",
+        "qty": "100"
+      },
+      {
+        "id": "4687",
+        "name": "Hard Pillar",
+        "qty": "30"
+      },
+      {
+        "id": "4913",
+        "name": "Ultimate Armor Reform Stone",
+        "qty": "10"
+      }
+    ]
+  },
+  {
+    "start": "Epheria Sailboat",
+    "end": "Epheria Caravel",
+    "materials": [
+      {
+        "id": "49754",
+        "name": "Epheria: Old Prow",
+        "qty": "+10"
+      },
+      {
+        "id": "49755",
+        "name": "Epheria: Old Plating",
+        "qty": "+10"
+      },
+      {
+        "id": "49756",
+        "name": "Epheria: Old Cannon",
+        "qty": "+10"
+      },
+      {
+        "id": "49757",
+        "name": "Epheria: Old Wind Sail",
+        "qty": "+10"
+      },
+      {
+        "id": "45508",
+        "name": "Graphite Ingot for Upgrade",
+        "qty": "100"
+      },
+      {
+        "id": "45509",
+        "name": "Timber for Upgrade",
+        "qty": "100"
+      },
+      {
+        "id": "45510",
+        "name": "Adhesive for Upgrade",
+        "qty": "100"
+      },
+      {
+        "id": "5796",
+        "name": "Ship Upgrade Permit: Epheria Caravel",
+        "qty": "1"
+      },
+      {
+        "id": "5805",
+        "name": "Island Tree Coated Plywood",
+        "qty": "100"
+      },
+      {
+        "id": "5806",
+        "name": "Rock Salt Ingot",
+        "qty": "100"
+      },
+      {
+        "id": "5825",
+        "name": "Deep Sea Memory Filled Glue",
+        "qty": "4"
+      },
+      {
+        "id": "5829",
+        "name": "Seaweed Stalk",
+        "qty": "6"
+      }
+    ]
+  },
+  {
+    "start": "Epheria Galleass",
+    "end": "Epheria Carrack: Volante",
+    "materials": [
+      {
+        "id": "49667",
+        "name": "Epheria Galleass: Black Dragon Prow",
+        "qty": "+10"
+      },
+      {
+        "id": "49668",
+        "name": "Epheria Galleass: Upgraded Plating",
+        "qty": "+10"
+      },
+      {
+        "id": "49669",
+        "name": "Epheria Galleass: Mayna Cannon",
+        "qty": "+10"
+      },
+      {
+        "id": "49670",
+        "name": "Epheria Galleass: Stratus Wind Sail",
+        "qty": "+10"
+      },
+      {
+        "id": "5809",
+        "name": "Moon Vein Flax Fabric",
+        "qty": "210"
+      },
+      {
+        "id": "5812",
+        "name": "Deep Tide-Dyed Standardized Timber Square",
+        "qty": "144"
+      },
+      {
+        "id": "5815",
+        "name": "Brilliant Rock Salt Ingot",
+        "qty": "30"
+      },
+      {
+        "id": "5821",
+        "name": "Tear of the Ocean",
+        "qty": "42"
+      },
+      {
+        "id": "5831",
+        "name": "Brilliant Pearl Shard",
+        "qty": "30"
+      }
+    ]
+  },
+  {
+    "start": "Epheria Galleass",
+    "end": "Epheria Carrack: Valor",
+    "materials": [
+      {
+        "id": "49667",
+        "name": "Epheria Galleass: Black Dragon Prow",
+        "qty": "+10"
+      },
+      {
+        "id": "49668",
+        "name": "Epheria Galleass: Upgraded Plating",
+        "qty": "+10"
+      },
+      {
+        "id": "49669",
+        "name": "Epheria Galleass: Mayna Cannon",
+        "qty": "+10"
+      },
+      {
+        "id": "49670",
+        "name": "Epheria Galleass: Stratus Wind Sail",
+        "qty": "+10"
+      },
+      {
+        "id": "5809",
+        "name": "Moon Vein Flax Fabric",
+        "qty": "180"
+      },
+      {
+        "id": "5812",
+        "name": "Deep Tide-Dyed Standardized Timber Square",
+        "qty": "170"
+      },
+      {
+        "id": "5815",
+        "name": "Brilliant Rock Salt Ingot",
+        "qty": "30"
+      },
+      {
+        "id": "5821",
+        "name": "Tear of the Ocean",
+        "qty": "42"
+      },
+      {
+        "id": "5831",
+        "name": "Brilliant Pearl Shard",
+        "qty": "30"
+      }
+    ]
+  },
+  {
+    "start": "Improved Epheria Frigate",
+    "end": "Epheria Galleass",
+    "materials": [
+      {
+        "id": "49754",
+        "name": "Epheria: Old Prow",
+        "qty": "+10"
+      },
+      {
+        "id": "49755",
+        "name": "Epheria: Old Plating",
+        "qty": "+10"
+      },
+      {
+        "id": "49756",
+        "name": "Epheria: Old Cannon",
+        "qty": "+10"
+      },
+      {
+        "id": "49757",
+        "name": "Epheria: Old Wind Sail",
+        "qty": "+10"
+      },
+      {
+        "id": "45508",
+        "name": "Graphite Ingot for Upgrade",
+        "qty": "100"
+      },
+      {
+        "id": "45509",
+        "name": "Timber for Upgrade",
+        "qty": "100"
+      },
+      {
+        "id": "45510",
+        "name": "Adhesive for Upgrade",
+        "qty": "100"
+      },
+      {
+        "id": "5797",
+        "name": "Ship Upgrade Permit: Epheria Galleass",
+        "qty": "1"
+      },
+      {
+        "id": "5805",
+        "name": "Island Tree Coated Plywood",
+        "qty": "100"
+      },
+      {
+        "id": "5810",
+        "name": "Tide-Dyed Standardized Timber Square",
+        "qty": "6"
+      },
+      {
+        "id": "5819",
+        "name": "Cobalt Ingot",
+        "qty": "2"
+      },
+      {
+        "id": "5827",
+        "name": "Moon Scale Plywood",
+        "qty": "10"
+      }
+    ]
+  },
+  {
+    "start": "Epheria Frigate",
+    "end": "Improved Epheria Frigate",
+    "materials": [
+      {
+        "id": "49754",
+        "name": "Epheria: Old Prow",
+        "qty": "1"
+      },
+      {
+        "id": "49755",
+        "name": "Epheria: Old Plating",
+        "qty": "1"
+      },
+      {
+        "id": "49756",
+        "name": "Epheria: Old Cannon",
+        "qty": "1"
+      },
+      {
+        "id": "49757",
+        "name": "Epheria: Old Wind Sail",
+        "qty": "1"
+      },
+      {
+        "id": "4685",
+        "name": "Standardized Timber Square",
+        "qty": "250"
+      },
+      {
+        "id": "4077",
+        "name": "Steel",
+        "qty": "200"
+      },
+      {
+        "id": "4658",
+        "name": "Pine Plywood",
+        "qty": "500"
+      },
+      {
+        "id": "5856",
+        "name": "Flax Fabric",
+        "qty": "100"
+      },
+      {
+        "id": "4687",
+        "name": "Hard Pillar",
+        "qty": "30"
+      },
+      {
+        "id": "4912",
+        "name": "Ultimate Weapon Reform Stone",
+        "qty": "10"
+      }
+    ]
+  },
+  {
+    "start": "Epheria Frigate",
+    "end": "Epheria Galleass",
+    "materials": [
+      {
+        "id": "49754",
+        "name": "Epheria: Old Prow",
+        "qty": "+10"
+      },
+      {
+        "id": "49755",
+        "name": "Epheria: Old Plating",
+        "qty": "+10"
+      },
+      {
+        "id": "49756",
+        "name": "Epheria: Old Cannon",
+        "qty": "+10"
+      },
+      {
+        "id": "49757",
+        "name": "Epheria: Old Wind Sail",
+        "qty": "+10"
+      },
+      {
+        "id": "45508",
+        "name": "Graphite Ingot for Upgrade",
+        "qty": "100"
+      },
+      {
+        "id": "45509",
+        "name": "Timber for Upgrade",
+        "qty": "100"
+      },
+      {
+        "id": "45510",
+        "name": "Adhesive for Upgrade",
+        "qty": "100"
+      },
+      {
+        "id": "5797",
+        "name": "Ship Upgrade Permit: Epheria Galleass",
+        "qty": "1"
+      },
+      {
+        "id": "5805",
+        "name": "Island Tree Coated Plywood",
+        "qty": "100"
+      },
+      {
+        "id": "5810",
+        "name": "Tide-Dyed Standardized Timber Square",
+        "qty": "6"
+      },
+      {
+        "id": "5819",
+        "name": "Cobalt Ingot",
+        "qty": "2"
+      },
+      {
+        "id": "5827",
+        "name": "Moon Scale Plywood",
+        "qty": "10"
+      }
+    ]
+  },
+  {
+    "start": "Improved Epheria Sailboat",
+    "end": "Epheria Caravel",
+    "materials": [
+      {
+        "id": "49754",
+        "name": "Epheria: Old Prow",
+        "qty": "+10"
+      },
+      {
+        "id": "49755",
+        "name": "Epheria: Old Plating",
+        "qty": "+10"
+      },
+      {
+        "id": "49756",
+        "name": "Epheria: Old Cannon",
+        "qty": "+10"
+      },
+      {
+        "id": "49757",
+        "name": "Epheria: Old Wind Sail",
+        "qty": "+10"
+      },
+      {
+        "id": "45508",
+        "name": "Graphite Ingot for Upgrade",
+        "qty": "100"
+      },
+      {
+        "id": "45509",
+        "name": "Timber for Upgrade",
+        "qty": "100"
+      },
+      {
+        "id": "45510",
+        "name": "Adhesive for Upgrade",
+        "qty": "100"
+      },
+      {
+        "id": "5796",
+        "name": "Ship Upgrade Permit: Epheria Caravel",
+        "qty": "1"
+      },
+      {
+        "id": "5805",
+        "name": "Island Tree Coated Plywood",
+        "qty": "100"
+      },
+      {
+        "id": "5806",
+        "name": "Rock Salt Ingot",
+        "qty": "100"
+      },
+      {
+        "id": "5825",
+        "name": "Deep Sea Memory Filled Glue",
+        "qty": "4"
+      },
+      {
+        "id": "5829",
+        "name": "Seaweed Stalk",
+        "qty": "6"
+      }
+    ]
+  }
+]

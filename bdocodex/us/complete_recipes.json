@@ -1,0 +1,7886 @@
+[
+  {
+    "id": "1",
+    "name": "Elixir of Amity",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Legendary Beast's Blood",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Fire Flake Flower",
+      5,
+      0.5
+    ],
+    "mats3": [
+      "Ash Sap",
+      6,
+      0.6
+    ],
+    "mats4": [
+      "Black Stone Powder",
+      3,
+      0.3
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "3",
+    "name": "Resurrection Elixir",
+    "lvl": "Skill level: Beginner 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Clear Liquid Reagent",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Sunrise Herb",
+      3,
+      0.3
+    ],
+    "mats3": [
+      "Purified Water",
+      3,
+      0.89
+    ],
+    "mats4": [
+      "HP Potion (Small)",
+      2,
+      0.8
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "4",
+    "name": "Elixir of Human Hunt",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Clown's Blood",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Fortune Teller Mushroom",
+      4,
+      0.4
+    ],
+    "mats3": [
+      "Maple Sap",
+      4,
+      0.4
+    ],
+    "mats4": [
+      "Black Stone Powder",
+      3,
+      0.3
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "5",
+    "name": "Elixir of Frenzy",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Oil of Regeneration",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Clear Liquid Reagent",
+      5,
+      0.5
+    ],
+    "mats3": [
+      "Cedar Sap",
+      5,
+      0.5
+    ],
+    "mats4": [
+      "Trace of Battle",
+      3,
+      0.3
+    ],
+    "mats5": [
+      "Ghost Mushroom",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "6",
+    "name": "Golden Hand Elixir",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Oil of Storms",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Clear Liquid Reagent",
+      4,
+      0.4
+    ],
+    "mats3": [
+      "Fog Mushroom",
+      4,
+      0.4
+    ],
+    "mats4": [
+      "Trace of Hunting",
+      3,
+      0.3
+    ],
+    "mats5": [
+      "Fir Sap",
+      6,
+      0.6
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "7",
+    "name": "Elixir of Draining",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Oil of Fortitude",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Clear Liquid Reagent",
+      4,
+      0.4
+    ],
+    "mats3": [
+      "Hump Mushroom",
+      3,
+      0.3
+    ],
+    "mats4": [
+      "Birch Sap",
+      4,
+      0.4
+    ],
+    "mats5": [
+      "Trace of Forest",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "8",
+    "name": "Elixir of Demihuman Hunt",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Sinner's Blood",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Arrow Mushroom",
+      4,
+      0.4
+    ],
+    "mats3": [
+      "Fir Sap",
+      4,
+      0.4
+    ],
+    "mats4": [
+      "Black Stone Powder",
+      3,
+      0.3
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "9",
+    "name": "Elixir of Perforation",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Oil of Corruption",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Clear Liquid Reagent",
+      4,
+      0.4
+    ],
+    "mats3": [
+      "Bluffer Mushroom",
+      5,
+      0.5
+    ],
+    "mats4": [
+      "Pine Sap",
+      5,
+      0.5
+    ],
+    "mats5": [
+      "Trace of Violence",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "10",
+    "name": "Elixir of Energy",
+    "lvl": "Skill level: Beginner 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Pure Powder Reagent",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Blood 3",
+      4,
+      0.4
+    ],
+    "mats3": [
+      "Purified Water",
+      3,
+      0.89
+    ],
+    "mats4": [
+      "MP Potion (Small)",
+      2,
+      0.8
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "11",
+    "name": "Elixir of Wings",
+    "lvl": "Skill level: Beginner 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Silver Azalea",
+      2,
+      0.2
+    ],
+    "mats2": [
+      "Ash Sap",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Blood 4",
+      4,
+      0.4
+    ],
+    "mats4": [
+      "Purified Water",
+      5,
+      1.5
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "12",
+    "name": "Elixir of Death",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Oil of Tranquility",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Clear Liquid Reagent",
+      6,
+      0.6
+    ],
+    "mats3": [
+      "Ancient Mushroom",
+      2,
+      0.2
+    ],
+    "mats4": [
+      "Ash Sap",
+      7,
+      0.7
+    ],
+    "mats5": [
+      "Trace of Death",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "13",
+    "name": "Elixir of Wind",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Wise Man's Blood",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Fortune Teller Mushroom",
+      5,
+      0.5
+    ],
+    "mats3": [
+      "Pine Sap",
+      5,
+      0.5
+    ],
+    "mats4": [
+      "Powder of Darkness",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "14",
+    "name": "Elixir of Swiftness",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Legendary Beast's Blood",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Arrow Mushroom",
+      5,
+      0.5
+    ],
+    "mats3": [
+      "Birch Sap",
+      5,
+      0.5
+    ],
+    "mats4": [
+      "Powder of Darkness",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "15",
+    "name": "Elixir of Spells",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Tyrant's Blood",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Fire Flake Flower",
+      5,
+      0.5
+    ],
+    "mats3": [
+      "Maple Sap",
+      3,
+      0.3
+    ],
+    "mats4": [
+      "Powder of Darkness",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "16",
+    "name": "Elixir of Seal",
+    "lvl": "Skill level: Beginner 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Dwarf Mushroom",
+      3,
+      0.3
+    ],
+    "mats2": [
+      "Birch Sap",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Blood 1",
+      4,
+      0.4
+    ],
+    "mats4": [
+      "Purified Water",
+      5,
+      1.5
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "17",
+    "name": "Elixir of Assassination",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Oil of Regeneration",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Pure Powder Reagent",
+      5,
+      0.5
+    ],
+    "mats3": [
+      "Amanita Mushroom",
+      4,
+      0.4
+    ],
+    "mats4": [
+      "Red Tree Lump",
+      2,
+      0.2
+    ],
+    "mats5": [
+      "Trace of Memory",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "18",
+    "name": "Elixir of Detection",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Oil of Storms",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Pure Powder Reagent",
+      6,
+      0.6
+    ],
+    "mats3": [
+      "Truffle Mushroom",
+      3,
+      0.3
+    ],
+    "mats4": [
+      "Old Tree Bark",
+      2,
+      0.2
+    ],
+    "mats5": [
+      "Trace of Savagery",
+      3,
+      0.3
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "19",
+    "name": "Elixir of Concentration",
+    "lvl": "Skill level: Beginner 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Clear Liquid Reagent",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Cloud Mushroom",
+      3,
+      0.3
+    ],
+    "mats3": [
+      "Wild Grass",
+      2,
+      0.2
+    ],
+    "mats4": [
+      "Blood 4",
+      3,
+      0.3
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "20",
+    "name": "Elixir of Will",
+    "lvl": "Skill level: Beginner 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Pure Powder Reagent",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Sunrise Herb",
+      4,
+      0.4
+    ],
+    "mats3": [
+      "Blood 1",
+      6,
+      0.6
+    ],
+    "mats4": [
+      "Purified Water",
+      3,
+      0.89
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "21",
+    "name": "Elixir of Fury",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Dwarf Mushroom",
+      4,
+      0.4
+    ],
+    "mats2": [
+      "Ash Sap",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Blood 4",
+      4,
+      0.4
+    ],
+    "mats4": [
+      "Purified Water",
+      3,
+      0.89
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "22",
+    "name": "Elixir of Resistance",
+    "lvl": "Skill level: Beginner 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Cloud Mushroom",
+      3,
+      0.3
+    ],
+    "mats2": [
+      "Birch Sap",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Blood 1",
+      7,
+      0.7
+    ],
+    "mats4": [
+      "Purified Water",
+      3,
+      0.89
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "23",
+    "name": "Elixir of Life",
+    "lvl": "Skill level: Beginner 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Pure Powder Reagent",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Silver Azalea",
+      3,
+      0.3
+    ],
+    "mats3": [
+      "Blood 3",
+      5,
+      0.5
+    ],
+    "mats4": [
+      "HP Potion (Small)",
+      3,
+      1.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "24",
+    "name": "Elixir of Mentality",
+    "lvl": "Skill level: Beginner 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Clear Liquid Reagent",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Ash Sap",
+      4,
+      0.4
+    ],
+    "mats3": [
+      "Purified Water",
+      3,
+      0.89
+    ],
+    "mats4": [
+      "MP Potion (Small)",
+      3,
+      1.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "25",
+    "name": "Grim Reaper's Elixir",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Oil of Fortitude",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Pure Powder Reagent",
+      4,
+      0.4
+    ],
+    "mats3": [
+      "Sky Mushroom",
+      2,
+      0.2
+    ],
+    "mats4": [
+      "Monk's Branch",
+      2,
+      0.2
+    ],
+    "mats5": [
+      "Trace of Origin",
+      4,
+      0.4
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "26",
+    "name": "EXP Elixir",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Clown's Blood",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Dry Mane Grass",
+      7,
+      0.7
+    ],
+    "mats3": [
+      "Pine Sap",
+      5,
+      0.5
+    ],
+    "mats4": [
+      "Powder of Flame",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "27",
+    "name": "Defense Elixir",
+    "lvl": "Skill level: Beginner 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Clear Liquid Reagent",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Ash Sap",
+      6,
+      0.6
+    ],
+    "mats3": [
+      "Blood 2",
+      5,
+      0.5
+    ],
+    "mats4": [
+      "Purified Water",
+      3,
+      0.89
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "28",
+    "name": "Elixir of Carnage",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Oil of Corruption",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Pure Powder Reagent",
+      7,
+      0.7
+    ],
+    "mats3": [
+      "Tiger Mushroom",
+      2,
+      0.2
+    ],
+    "mats4": [
+      "Spirit's Leaf",
+      2,
+      0.2
+    ],
+    "mats5": [
+      "Trace of the Earth",
+      3,
+      0.3
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "29",
+    "name": "Elixir of Sky",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Oil of Tranquility",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Pure Powder Reagent",
+      6,
+      0.6
+    ],
+    "mats3": [
+      "Emperor Mushroom",
+      1,
+      0.1
+    ],
+    "mats4": [
+      "Bloody Tree Knot",
+      2,
+      0.2
+    ],
+    "mats5": [
+      "Trace of Ascension",
+      4,
+      0.4
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "30",
+    "name": "Elixir of Endurance",
+    "lvl": "Skill level: Beginner 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Pure Powder Reagent",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Dwarf Mushroom",
+      2,
+      0.2
+    ],
+    "mats3": [
+      "Birch Sap",
+      5,
+      0.5
+    ],
+    "mats4": [
+      "Blood 4",
+      4,
+      0.4
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "31",
+    "name": "Worker's Elixir",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Sinner's Blood",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Silver Azalea",
+      6,
+      0.6
+    ],
+    "mats3": [
+      "Ash Sap",
+      4,
+      0.4
+    ],
+    "mats4": [
+      "Powder of Flame",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "32",
+    "name": "Fisher's Elixir",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Wise Man's Blood",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Sunrise Herb",
+      6,
+      0.6
+    ],
+    "mats3": [
+      "Fir Sap",
+      3,
+      0.3
+    ],
+    "mats4": [
+      "Powder of Flame",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "33",
+    "name": "Elixir of Burn Removal",
+    "lvl": "Skill level: Beginner 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Clear Liquid Reagent",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Purified Water",
+      1,
+      0.3
+    ],
+    "mats3": [
+      "Fruits",
+      2,
+      0.2
+    ],
+    "mats4": [
+      "Wild Grass",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "34",
+    "name": "Antidote Elixir",
+    "lvl": "Skill level: Beginner 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Pure Powder Reagent",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Wild Grass",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Blood 2",
+      2,
+      0.2
+    ],
+    "mats4": [
+      "Olive Oil",
+      3,
+      0.03
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "35",
+    "name": "Elixir of Hemostasis",
+    "lvl": "Skill level: Beginner 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Pure Powder Reagent",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Cloud Mushroom",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Ash Sap",
+      1,
+      0.1
+    ],
+    "mats4": [
+      "Purified Water",
+      3,
+      0.89
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "36",
+    "name": "Metal Solvent",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Clear Liquid Reagent",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Melted Iron Shard",
+      3,
+      0.89
+    ],
+    "mats3": [
+      "Rough Stone",
+      4,
+      1.2
+    ],
+    "mats4": [
+      "Trace of Savagery",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "37",
+    "name": "Gem Polisher",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Pure Powder Reagent",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Processed Coal",
+      4,
+      1.2
+    ],
+    "mats3": [
+      "Trace of Origin",
+      2,
+      0.2
+    ],
+    "mats4": [
+      "Purified Water",
+      6,
+      1.79
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "38",
+    "name": "Plywood Hardener",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Pure Powder Reagent",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Bloody Tree Knot",
+      3,
+      0.3
+    ],
+    "mats3": [
+      "Fir Sap",
+      4,
+      0.4
+    ],
+    "mats4": [
+      "Trace of the Earth",
+      3,
+      0.3
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "39",
+    "name": "Essence of Crimson Flame",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Fruit of Crimson Flame",
+      2,
+      0.2
+    ],
+    "mats2": [
+      "Dwarf Mushroom",
+      3,
+      0.3
+    ],
+    "mats3": [
+      "Ash Sap",
+      4,
+      0.4
+    ],
+    "mats4": [
+      "Trace of Ascension",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "40",
+    "name": "Essence of Abundance",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Fruit of Abundance",
+      2,
+      0.2
+    ],
+    "mats2": [
+      "Cloud Mushroom",
+      3,
+      0.3
+    ],
+    "mats3": [
+      "Birch Sap",
+      4,
+      0.4
+    ],
+    "mats4": [
+      "Trace of Ascension",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "41",
+    "name": "Essence of Nature",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Fruit of Nature",
+      2,
+      0.2
+    ],
+    "mats2": [
+      "Fortune Teller Mushroom",
+      3,
+      0.3
+    ],
+    "mats3": [
+      "Maple Sap",
+      4,
+      0.4
+    ],
+    "mats4": [
+      "Trace of the Earth",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "42",
+    "name": "Essence of the Sun",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Fruit of the Sun",
+      2,
+      0.2
+    ],
+    "mats2": [
+      "Arrow Mushroom",
+      3,
+      0.3
+    ],
+    "mats3": [
+      "Pine Sap",
+      4,
+      0.4
+    ],
+    "mats4": [
+      "Trace of the Earth",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "43",
+    "name": "Essence of Enchantment",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Fruit of Enchantment",
+      2,
+      0.2
+    ],
+    "mats2": [
+      "Fire Flake Flower",
+      3,
+      0.3
+    ],
+    "mats3": [
+      "Ash Sap",
+      4,
+      0.4
+    ],
+    "mats4": [
+      "Powder of Darkness",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "44",
+    "name": "Essence of Magic Power",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Fruit of Magic Power",
+      2,
+      0.2
+    ],
+    "mats2": [
+      "Dry Mane Grass",
+      3,
+      0.3
+    ],
+    "mats3": [
+      "Birch Sap",
+      4,
+      0.4
+    ],
+    "mats4": [
+      "Powder of Darkness",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "45",
+    "name": "Essence of Perfection",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Fruit of Perfection",
+      2,
+      0.2
+    ],
+    "mats2": [
+      "Sunrise Herb",
+      3,
+      0.3
+    ],
+    "mats3": [
+      "Maple Sap",
+      4,
+      0.4
+    ],
+    "mats4": [
+      "Powder of Flame",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "46",
+    "name": "Essence of Destruction",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Fruit of Destruction",
+      2,
+      0.2
+    ],
+    "mats2": [
+      "Silver Azalea",
+      3,
+      0.3
+    ],
+    "mats3": [
+      "Pine Sap",
+      4,
+      0.4
+    ],
+    "mats4": [
+      "Powder of Flame",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "47",
+    "name": "Clear Liquid Reagent",
+    "lvl": "Skill level: Beginner 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Wild Grass",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Sunrise Herb",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Salt",
+      1,
+      0.01
+    ],
+    "mats4": [
+      "Purified Water",
+      1,
+      0.3
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "48",
+    "name": "Pure Powder Reagent",
+    "lvl": "Skill level: Beginner 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Wild Grass",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Silver Azalea",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Sugar",
+      1,
+      0.01
+    ],
+    "mats4": [
+      "Purified Water",
+      1,
+      0.3
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "49",
+    "name": "Herbal Poison",
+    "lvl": "Skill level: Professional 10",
+    "category": "Alchemy",
+    "mats1": [
+      "Insectivore Plant Sap",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Amanita Mushroom",
+      5,
+      0.5
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "50",
+    "name": "Herbal Gunpowder",
+    "lvl": "Skill level: Professional 10",
+    "category": "Alchemy",
+    "mats1": [
+      "Insectivore Plant Powder",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Powder of Darkness",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "51",
+    "name": "Leather Glaze",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Clear Liquid Reagent",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Maple Sap",
+      3,
+      0.3
+    ],
+    "mats3": [
+      "Trace of Ascension",
+      3,
+      0.3
+    ],
+    "mats4": [
+      "Powder of Darkness",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "52",
+    "name": "Legendary Beast's Blood",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Spirit's Leaf",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Trace of the Earth",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Pure Powder Reagent",
+      1,
+      0.1
+    ],
+    "mats4": [
+      "Blood 5",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "53",
+    "name": "Tyrant's Blood",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Monk's Branch",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Trace of Savagery",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Pure Powder Reagent",
+      1,
+      0.1
+    ],
+    "mats4": [
+      "Blood 4",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "54",
+    "name": "Clown's Blood",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Spirit's Leaf",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Powder of Darkness",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Clear Liquid Reagent",
+      1,
+      0.1
+    ],
+    "mats4": [
+      "Blood 1",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "55",
+    "name": "Sinner's Blood",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Bloody Tree Knot",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Powder of Flame",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Clear Liquid Reagent",
+      1,
+      0.1
+    ],
+    "mats4": [
+      "Blood 2",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "56",
+    "name": "Wise Man's Blood",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Monk's Branch",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Trace of Ascension",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Clear Liquid Reagent",
+      1,
+      0.1
+    ],
+    "mats4": [
+      "Blood 3",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "57",
+    "name": "Oil of Regeneration",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Legendary Beast's Blood",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Red Tree Lump",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Fruit of Crimson Flame",
+      1,
+      0.1
+    ],
+    "mats4": [
+      "Powder of Crevice",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "58",
+    "name": "Oil of Storms",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Tyrant's Blood",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Old Tree Bark",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Fruit of Abundance",
+      1,
+      0.1
+    ],
+    "mats4": [
+      "Powder of Time",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "59",
+    "name": "Oil of Fortitude",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Clown's Blood",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Monk's Branch",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Fruit of Nature",
+      1,
+      0.1
+    ],
+    "mats4": [
+      "Powder of Flame",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "60",
+    "name": "Oil of Corruption",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Sinner's Blood",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Spirit's Leaf",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Fruit of the Sun",
+      1,
+      0.1
+    ],
+    "mats4": [
+      "Powder of Darkness",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "61",
+    "name": "Oil of Tranquility",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Wise Man's Blood",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Bloody Tree Knot",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Fruit of Magic Power",
+      1,
+      0.1
+    ],
+    "mats4": [
+      "Powder of Earth",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "62",
+    "name": "Magic Crystal of Infinity - Precision",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Fruit of Crimson Flame",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Melted Iron Shard",
+      8,
+      2.4
+    ],
+    "mats4": [
+      "Blood 3",
+      5,
+      0.5
+    ],
+    "mats5": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "63",
+    "name": "Magic Crystal of Infinity - Power",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Magic Crystal of Crimson Flame - Power",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Fruit of Abundance",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Melted Lead Shard",
+      7,
+      2.1
+    ],
+    "mats4": [
+      "Blood 2",
+      4,
+      0.4
+    ],
+    "mats5": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "64",
+    "name": "Magic Crystal of Infinity - Carnage",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Magic Crystal of Crimson Flame - Carnage",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Fruit of Nature",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Melted Copper Shard",
+      9,
+      2.69
+    ],
+    "mats4": [
+      "Blood 1",
+      3,
+      0.3
+    ],
+    "mats5": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "65",
+    "name": "Magic Crystal of Infinity - Carnage",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Magic Crystal of Crimson Flame - Carnage",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Fruit of the Sun",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Melted Tin Shard",
+      8,
+      2.4
+    ],
+    "mats4": [
+      "Blood 4",
+      3,
+      0.3
+    ],
+    "mats5": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "66",
+    "name": "Magic Crystal of Infinity - Carnage",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Magic Crystal of Crimson Flame - Carnage",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Fruit of Enchantment",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Melted Zinc Shard",
+      10,
+      3.0
+    ],
+    "mats4": [
+      "Blood 5",
+      5,
+      0.5
+    ],
+    "mats5": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "67",
+    "name": "Magic Crystal of Infinity - Armor",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Magic Crystal of Abundance - Armor",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Fruit of Magic Power",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Translucent Crystal",
+      3,
+      0.89
+    ],
+    "mats4": [
+      "Ash Sap",
+      4,
+      0.4
+    ],
+    "mats5": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "68",
+    "name": "Magic Crystal of Infinity - Vigor",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Magic Crystal of Abundance - Vigor",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Fruit of Perfection",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Mud Crystal",
+      2,
+      0.6
+    ],
+    "mats4": [
+      "Maple Sap",
+      4,
+      0.4
+    ],
+    "mats5": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "69",
+    "name": "Magic Crystal of Infinity - Patience",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Magic Crystal of Abundance - Patience",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Fruit of Destruction",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Red Crystal",
+      2,
+      0.6
+    ],
+    "mats4": [
+      "Birch Sap",
+      4,
+      0.4
+    ],
+    "mats5": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "70",
+    "name": "Magic Crystal of Infinity - Heal",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Magic Crystal of Abundance - Healing",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Fruit of Crimson Flame",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Green Crystal",
+      2,
+      0.6
+    ],
+    "mats4": [
+      "Fir Sap",
+      3,
+      0.3
+    ],
+    "mats5": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "71",
+    "name": "Magic Crystal of Infinity - Resonance",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Magic Crystal of Abundance - Resonance",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Fruit of Abundance",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Melted Silver Shard",
+      2,
+      0.6
+    ],
+    "mats4": [
+      "Pine Sap",
+      3,
+      0.3
+    ],
+    "mats5": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "72",
+    "name": "Magic Crystal of Infinity - Swiftness",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Magic Crystal of Nature - Swiftness",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Fruit of the Sun",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Ruby",
+      2,
+      0.6
+    ],
+    "mats4": [
+      "Sunrise Herb",
+      5,
+      0.5
+    ],
+    "mats5": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "73",
+    "name": "Magic Crystal of Infinity - Adamantine",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Magic Crystal of Nature - Adamantine",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Fruit of Nature",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Sapphire",
+      2,
+      0.6
+    ],
+    "mats4": [
+      "Silver Azalea",
+      3,
+      0.3
+    ],
+    "mats5": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "74",
+    "name": "Magic Crystal of Infinity - Ascension",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Magic Crystal of Nature - Ascension",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Fruit of Magic Power",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Topaz",
+      1,
+      0.3
+    ],
+    "mats4": [
+      "Fire Flake Flower",
+      3,
+      0.3
+    ],
+    "mats5": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "75",
+    "name": "Magic Crystal of Infinity - Descent",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Magic Crystal of Nature - Descent",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Fruit of Enchantment",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Ruby",
+      1,
+      0.3
+    ],
+    "mats4": [
+      "Wild Grass",
+      3,
+      0.3
+    ],
+    "mats5": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "76",
+    "name": "Magic Crystal of Infinity - Endurance",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Magic Crystal of Nature - Endurance",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Fruit of Perfection",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Topaz",
+      2,
+      0.6
+    ],
+    "mats4": [
+      "Dry Mane Grass",
+      4,
+      0.4
+    ],
+    "mats5": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "77",
+    "name": "Magic Crystal of Infinity - Assault",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Magic Crystal of the Sun - Assault",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Fruit of Enchantment",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Emerald",
+      2,
+      0.6
+    ],
+    "mats4": [
+      "Blood 3",
+      5,
+      0.5
+    ],
+    "mats5": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "78",
+    "name": "Magic Crystal of Infinity - Sturdiness",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Magic Crystal of the Sun - Sturdiness",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Fruit of Perfection",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Diamond",
+      1,
+      0.3
+    ],
+    "mats4": [
+      "Blood 2",
+      3,
+      0.3
+    ],
+    "mats5": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "79",
+    "name": "Magic Crystal of Infinity - Valor",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Magic Crystal of the Sun - Valor",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Fruit of Destruction",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Translucent Crystal",
+      3,
+      0.89
+    ],
+    "mats4": [
+      "Blood 1",
+      5,
+      0.5
+    ],
+    "mats5": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "80",
+    "name": "Magic Crystal of Infinity - Precision",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Magic Crystal of the Sun - Precision",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Fruit of Destruction",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Emerald",
+      1,
+      0.3
+    ],
+    "mats4": [
+      "Silk Honey Grass",
+      3,
+      0.3
+    ],
+    "mats5": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "81",
+    "name": "Magic Crystal of Infinity - Memory",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Magic Crystal of Enchantment - Memory",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Fruit of Crimson Flame",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Mud Crystal",
+      2,
+      0.6
+    ],
+    "mats4": [
+      "Fortune Teller Mushroom",
+      3,
+      0.3
+    ],
+    "mats5": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "82",
+    "name": "Magic Crystal of Infinity - Intimidation",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Magic Crystal of Enchantment - Intimidation",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Fruit of Abundance",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Red Crystal",
+      3,
+      0.89
+    ],
+    "mats4": [
+      "Arrow Mushroom",
+      2,
+      0.2
+    ],
+    "mats5": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "83",
+    "name": "Magic Crystal of Infinity - Vision",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Magic Crystal of Enchantment - Vision",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Fruit of Nature",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Green Crystal",
+      2,
+      0.6
+    ],
+    "mats4": [
+      "Dwarf Mushroom",
+      3,
+      0.3
+    ],
+    "mats5": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "84",
+    "name": "Magic Crystal of Infinity - Agility",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Magic Crystal of Enchantment - Agility",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Fruit of the Sun",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Cloud Mushroom",
+      4,
+      0.4
+    ],
+    "mats4": [
+      "Melted Silver Shard",
+      2,
+      0.6
+    ],
+    "mats5": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "85",
+    "name": "Magic Crystal of Infinity - Durability",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Essence of Crimson Flame",
+      2,
+      0.2
+    ],
+    "mats3": [
+      "Melted Iron Shard",
+      8,
+      2.4
+    ],
+    "mats4": [
+      "Clown's Blood",
+      2,
+      0.2
+    ],
+    "mats5": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "86",
+    "name": "Magic Crystal of Infinity - Absorption",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Essence of Abundance",
+      2,
+      0.2
+    ],
+    "mats3": [
+      "Melted Lead Shard",
+      7,
+      2.1
+    ],
+    "mats4": [
+      "Wise Man's Blood",
+      2,
+      0.2
+    ],
+    "mats5": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "87",
+    "name": "Magic Crystal of Infinity - MP Recovery",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Essence of Nature",
+      2,
+      0.2
+    ],
+    "mats3": [
+      "Melted Copper Shard",
+      9,
+      2.69
+    ],
+    "mats4": [
+      "Legendary Beast's Blood",
+      2,
+      0.2
+    ],
+    "mats5": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "88",
+    "name": "Magic Crystal of Infinity - Back Attack",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Essence of the Sun",
+      2,
+      0.2
+    ],
+    "mats3": [
+      "Melted Silver Shard",
+      3,
+      0.89
+    ],
+    "mats4": [
+      "Sinner's Blood",
+      2,
+      0.2
+    ],
+    "mats5": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "89",
+    "name": "Magic Crystal of Infinity - Down Attack",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Essence of Enchantment",
+      2,
+      0.2
+    ],
+    "mats3": [
+      "Melted Gold Shard",
+      2,
+      0.6
+    ],
+    "mats4": [
+      "Tyrant's Blood",
+      2,
+      0.2
+    ],
+    "mats5": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "90",
+    "name": "Magic Crystal of Infinity - Air Attack",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Essence of Magic Power",
+      2,
+      0.2
+    ],
+    "mats3": [
+      "Melted Platinum Shard",
+      2,
+      0.6
+    ],
+    "mats4": [
+      "Wise Man's Blood",
+      2,
+      0.2
+    ],
+    "mats5": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "91",
+    "name": "Magic Crystal of Infinity - Critical Hit",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Essence of Perfection",
+      2,
+      0.2
+    ],
+    "mats3": [
+      "Polished Opal",
+      2,
+      0.6
+    ],
+    "mats4": [
+      "Legendary Beast's Blood",
+      2,
+      0.2
+    ],
+    "mats5": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "92",
+    "name": "Magic Crystal of Infinity - Speed Attack",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Essence of Destruction",
+      2,
+      0.2
+    ],
+    "mats3": [
+      "Melted Tin Shard",
+      8,
+      2.4
+    ],
+    "mats4": [
+      "Sinner's Blood",
+      2,
+      0.2
+    ],
+    "mats5": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "93",
+    "name": "Magic Crystal of Infinity - Counter Attack",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Essence of Crimson Flame",
+      2,
+      0.2
+    ],
+    "mats3": [
+      "Melted Zinc Shard",
+      6,
+      1.79
+    ],
+    "mats4": [
+      "Tyrant's Blood",
+      2,
+      0.2
+    ],
+    "mats5": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "94",
+    "name": "Magic Crystal of Infinity - Siege",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Essence of Abundance",
+      2,
+      0.2
+    ],
+    "mats3": [
+      "Translucent Crystal",
+      3,
+      0.89
+    ],
+    "mats4": [
+      "Clown's Blood",
+      2,
+      0.2
+    ],
+    "mats5": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "95",
+    "name": "Magic Crystal of Infinity - Special Evasion",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Essence of Nature",
+      2,
+      0.2
+    ],
+    "mats3": [
+      "Mud Crystal",
+      2,
+      0.6
+    ],
+    "mats4": [
+      "Clown's Blood",
+      2,
+      0.2
+    ],
+    "mats5": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "96",
+    "name": "Magic Crystal of Infinity - Melee Defense",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Essence of the Sun",
+      2,
+      0.2
+    ],
+    "mats3": [
+      "Red Crystal",
+      2,
+      0.6
+    ],
+    "mats4": [
+      "Wise Man's Blood",
+      2,
+      0.2
+    ],
+    "mats5": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "97",
+    "name": "Magic Crystal of Infinity - Ranged Defense",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Essence of Enchantment",
+      2,
+      0.2
+    ],
+    "mats3": [
+      "Green Crystal",
+      2,
+      0.6
+    ],
+    "mats4": [
+      "Legendary Beast's Blood",
+      2,
+      0.2
+    ],
+    "mats5": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "98",
+    "name": "Magic Crystal of Infinity - Magic Defense",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Essence of Magic Power",
+      2,
+      0.2
+    ],
+    "mats3": [
+      "Melted Silver Shard",
+      2,
+      0.6
+    ],
+    "mats4": [
+      "Sinner's Blood",
+      2,
+      0.2
+    ],
+    "mats5": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "99",
+    "name": "Magic Crystal of Infinity - Energy",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Essence of Perfection",
+      2,
+      0.2
+    ],
+    "mats3": [
+      "Ruby",
+      4,
+      1.2
+    ],
+    "mats4": [
+      "Tyrant's Blood",
+      2,
+      0.2
+    ],
+    "mats5": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "100",
+    "name": "Magic Crystal of Infinity - Submergence",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Essence of Destruction",
+      2,
+      0.2
+    ],
+    "mats3": [
+      "Sapphire",
+      5,
+      1.5
+    ],
+    "mats4": [
+      "Clown's Blood",
+      3,
+      0.3
+    ],
+    "mats5": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "101",
+    "name": "Magic Crystal of Infinity - Melee Attack",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Essence of Abundance",
+      2,
+      0.2
+    ],
+    "mats3": [
+      "Topaz",
+      3,
+      0.89
+    ],
+    "mats4": [
+      "Wise Man's Blood",
+      2,
+      0.2
+    ],
+    "mats5": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "102",
+    "name": "Magic Crystal of Infinity - Ranged Attack",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Essence of Nature",
+      2,
+      0.2
+    ],
+    "mats3": [
+      "Emerald",
+      3,
+      0.89
+    ],
+    "mats4": [
+      "Legendary Beast's Blood",
+      2,
+      0.2
+    ],
+    "mats5": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "103",
+    "name": "Magic Crystal of Infinity - Magic Attack",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Essence of the Sun",
+      2,
+      0.2
+    ],
+    "mats3": [
+      "Diamond",
+      3,
+      0.89
+    ],
+    "mats4": [
+      "Sinner's Blood",
+      2,
+      0.2
+    ],
+    "mats5": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "104",
+    "name": "Askasha's Repaired Magic Weapon",
+    "lvl": "Skill level: Beginner 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Askasha's Broken Magic Weapon I",
+      1,
+      0.02
+    ],
+    "mats2": [
+      "Askasha's Broken Magic Weapon II",
+      1,
+      0.02
+    ],
+    "mats3": [
+      "Askasha's Broken Magic Weapon III",
+      1,
+      0.02
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "105",
+    "name": "Ardan's Jewel",
+    "lvl": "Skill level: Beginner 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Ardan's Broken Jewel I",
+      1,
+      0.02
+    ],
+    "mats2": [
+      "Ardan's Broken Jewel II",
+      1,
+      0.02
+    ],
+    "mats3": [
+      "Ardan's Broken Jewel III",
+      1,
+      0.02
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "178",
+    "name": "Whale Tendon Potion",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Blue Whale Tendon",
+      1,
+      0.2
+    ],
+    "mats2": [
+      "HP Potion (Medium)",
+      3,
+      2.25
+    ],
+    "mats3": [
+      "MP Potion (Medium)",
+      3,
+      2.25
+    ],
+    "mats4": [
+      "Purified Water",
+      8,
+      2.4
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "179",
+    "name": "Whale Tendon Elixir",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Blue Whale Tendon",
+      1,
+      0.2
+    ],
+    "mats2": [
+      "Clown's Blood",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Ash Sap",
+      12,
+      1.2
+    ],
+    "mats4": [
+      "Purified Water",
+      5,
+      1.5
+    ],
+    "mats5": [
+      "Clear Liquid Reagent",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "180",
+    "name": "Perfume of Courage",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Blue Whale Oil",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Trace of Violence",
+      3,
+      0.3
+    ],
+    "mats3": [
+      "Bloody Tree Knot",
+      6,
+      0.6
+    ],
+    "mats4": [
+      "Purified Water",
+      4,
+      1.2
+    ],
+    "mats5": [
+      "Clear Liquid Reagent",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "181",
+    "name": "Perfume of Swiftness",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Blue Whale Oil",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Powder of Time",
+      4,
+      0.4
+    ],
+    "mats3": [
+      "Everlasting Herb",
+      6,
+      0.6
+    ],
+    "mats4": [
+      "Purified Water",
+      4,
+      1.2
+    ],
+    "mats5": [
+      "Clear Liquid Reagent",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "182",
+    "name": "Khalk's Elixir",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Fugitive Khalk's Skin",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "White Cedar Sap",
+      10,
+      1
+    ],
+    "mats3": [
+      "Trace of Chaos",
+      5,
+      0.5
+    ],
+    "mats4": [
+      "Purified Water",
+      4,
+      1.2
+    ],
+    "mats5": [
+      "Oil of Corruption",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "183",
+    "name": "Marking Reagent",
+    "lvl": "Skill level: Skilled 5",
+    "category": "Alchemy",
+    "mats1": [
+      "Sinner's Blood",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Magic Crystal of Enchantment - Vision",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Herbal Gunpowder",
+      1,
+      0.1
+    ],
+    "mats4": [
+      "Sticky Liquid",
+      1,
+      0.01
+    ],
+    "mats5": [
+      "Black Stone Powder",
+      5,
+      0.5
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "191",
+    "name": "Elixir of Training",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Legendary Beast's Blood",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Silver Azalea",
+      7,
+      0.7
+    ],
+    "mats3": [
+      "Pine Sap",
+      4,
+      0.4
+    ],
+    "mats4": [
+      "Powder of Crevice",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "192",
+    "name": "Elixir of Time",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Wise Man's Blood",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Fire Flake Flower",
+      6,
+      0.6
+    ],
+    "mats3": [
+      "Powder of Time",
+      2,
+      0.2
+    ],
+    "mats4": [
+      "Maple Sap",
+      5,
+      0.5
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "203",
+    "name": "Elixir of Shock",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Clown's Blood",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Tiger Mushroom",
+      5,
+      0.5
+    ],
+    "mats3": [
+      "Cedar Sap",
+      7,
+      0.7
+    ],
+    "mats4": [
+      "Powder of Time",
+      3,
+      0.3
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "207",
+    "name": "Elixir of Deep Sea",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Oil of the Abyss",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Coral Crystal",
+      2,
+      0.2
+    ],
+    "mats3": [
+      "Clear Liquid Reagent",
+      5,
+      0.5
+    ],
+    "mats4": [
+      "Arrow Mushroom",
+      5,
+      0.5
+    ],
+    "mats5": [
+      "White Cedar Sap",
+      5,
+      0.5
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "325",
+    "name": "Oil of the Abyss",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Tyrant's Blood",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Deep Sea Fruit",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Powder of Time",
+      2,
+      0.2
+    ],
+    "mats4": [
+      "Bloody Tree Knot",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "332",
+    "name": "Magic Crystal of Infinity - Strength",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Magic Crystal of the Sun - Boulder",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Fruit of Crimson Flame",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Maple Sap",
+      3,
+      0.3
+    ],
+    "mats4": [
+      "Diamond",
+      1,
+      0.3
+    ],
+    "mats5": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "216",
+    "name": "Spirit Perfume Elixir",
+    "lvl": "Skill level: Guru 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Dead Tree Essence",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Fruit of Nature",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Loopy Tree Sap",
+      10,
+      1
+    ],
+    "mats4": [
+      "Powder of Darkness",
+      10,
+      1
+    ],
+    "mats5": [
+      "Violet Flower",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "217",
+    "name": "Griffon's Elixir",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Griffon Claw",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Cedar Sap",
+      6,
+      0.6
+    ],
+    "mats3": [
+      "Trace of Battle",
+      3,
+      0.3
+    ],
+    "mats4": [
+      "Purified Water",
+      3,
+      0.89
+    ],
+    "mats5": [
+      "Sinner's Blood",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "218",
+    "name": "Looney Elixir",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Moss Tree Sap",
+      4,
+      0.4
+    ],
+    "mats2": [
+      "Volcanic Umbrella Mushroom",
+      2,
+      0.2
+    ],
+    "mats3": [
+      "Powder of Flame",
+      3,
+      0.3
+    ],
+    "mats4": [
+      "Red Tree Lump",
+      5,
+      0.5
+    ],
+    "mats5": [
+      "Violet Flower",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "219",
+    "name": "Weenie Elixir",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Moss Tree Sap",
+      4,
+      0.4
+    ],
+    "mats2": [
+      "Blue Umbrella Mushroom",
+      2,
+      0.2
+    ],
+    "mats3": [
+      "Powder of Time",
+      3,
+      0.3
+    ],
+    "mats4": [
+      "Monk's Branch",
+      5,
+      0.5
+    ],
+    "mats5": [
+      "Sky Blue Flower",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "220",
+    "name": "Magic Crystal of Infinity - Experience",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Gemstones",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Fruit of Abundance",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Polished Opal",
+      2,
+      0.6
+    ],
+    "mats4": [
+      "Everlasting Herb",
+      2,
+      0.2
+    ],
+    "mats5": [
+      "Magic Crystal of Enchantment - Experience",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "223",
+    "name": "Elixir of Fond Memories",
+    "lvl": "Skill level: Beginner 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Incomplete First Element",
+      1,
+      0.02
+    ],
+    "mats2": [
+      "Arenda's Special Synthesis Base",
+      1,
+      0.02
+    ],
+    "mats3": [
+      "Oil of Regeneration",
+      1,
+      0.1
+    ],
+    "mats4": [
+      "Trace of Memory",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "224",
+    "name": "Broken Alchemy Stone Shard",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Shining Powder",
+      10,
+      1
+    ],
+    "mats2": [
+      "Sinner's Blood",
+      3,
+      0.3
+    ],
+    "mats3": [
+      "Powder of Time",
+      5,
+      0.5
+    ],
+    "mats4": [
+      "Pure Powder Reagent",
+      10,
+      1
+    ],
+    "mats5": [
+      "Clear Liquid Reagent",
+      10,
+      1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "228",
+    "name": "Special Honey Jar",
+    "lvl": "Skill level: Beginner 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Top-Quality Cooking Honey",
+      2,
+      0.2
+    ],
+    "mats2": [
+      "Fruit of Abundance",
+      5,
+      0.5
+    ],
+    "mats3": [
+      "Essence of Liquor",
+      1,
+      0.1
+    ],
+    "mats4": [
+      "Purified Water",
+      2,
+      0.6
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "236",
+    "name": "Helix Elixir",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Thuja Sap",
+      6,
+      0.6
+    ],
+    "mats2": [
+      "Monk's Branch",
+      3,
+      0.3
+    ],
+    "mats3": [
+      "Clown's Blood",
+      2,
+      0.2
+    ],
+    "mats4": [
+      "Powder of Flame",
+      2,
+      0.2
+    ],
+    "mats5": [
+      "Purified Water",
+      3,
+      0.89
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "337",
+    "name": "Imperfect Alchemy Stone of Destruction",
+    "lvl": "Skill level: Beginner 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Shining Powder",
+      10,
+      1
+    ],
+    "mats2": [
+      "Sinner's Blood",
+      3,
+      0.3
+    ],
+    "mats3": [
+      "Powder of Time",
+      5,
+      0.5
+    ],
+    "mats4": [
+      "Pure Powder Reagent",
+      10,
+      1
+    ],
+    "mats5": [
+      "Clear Liquid Reagent",
+      10,
+      1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "338",
+    "name": "Imperfect Alchemy Stone of Protection",
+    "lvl": "Skill level: Beginner 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Sinner's Blood",
+      3,
+      0.3
+    ],
+    "mats2": [
+      "Shining Powder",
+      10,
+      1
+    ],
+    "mats3": [
+      "Powder of Time",
+      5,
+      0.5
+    ],
+    "mats4": [
+      "Pure Powder Reagent",
+      10,
+      1
+    ],
+    "mats5": [
+      "Clear Liquid Reagent",
+      10,
+      1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "339",
+    "name": "Imperfect Alchemy Stone of Life",
+    "lvl": "Skill level: Beginner 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Shining Powder",
+      10,
+      1
+    ],
+    "mats2": [
+      "Sinner's Blood",
+      3,
+      0.3
+    ],
+    "mats3": [
+      "Powder of Time",
+      5,
+      0.5
+    ],
+    "mats4": [
+      "Pure Powder Reagent",
+      10,
+      1
+    ],
+    "mats5": [
+      "Clear Liquid Reagent",
+      10,
+      1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "340",
+    "name": "Sharp Spirit Stone of Destruction",
+    "lvl": "Skill level: Master 10",
+    "category": "Alchemy",
+    "mats1": [
+      "Mystical Spirit Powder",
+      50,
+      5
+    ],
+    "mats2": [
+      "Flawless Spirit Stone",
+      5,
+      0.5
+    ],
+    "mats3": [
+      "Metal Solvent",
+      50,
+      15
+    ],
+    "mats4": [
+      "Cron Stone",
+      5,
+      0
+    ],
+    "mats5": [
+      "Reagent of Harmonious Spirits",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "342",
+    "name": "Tenacious Origin of Life",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Sunrise Herb",
+      50,
+      5
+    ],
+    "mats2": [
+      "Silver Azalea",
+      50,
+      5
+    ],
+    "mats3": [
+      "Fire Flake Flower",
+      50,
+      5
+    ],
+    "mats4": [
+      "Dry Mane Grass",
+      50,
+      5
+    ],
+    "mats5": [
+      "Silk Honey Grass",
+      50,
+      5
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "343",
+    "name": "Rough Opulent Crystal",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Translucent Crystal",
+      50,
+      15
+    ],
+    "mats2": [
+      "Mud Crystal",
+      50,
+      15
+    ],
+    "mats3": [
+      "Black Crystal",
+      50,
+      15
+    ],
+    "mats4": [
+      "Blue Crystal",
+      50,
+      15
+    ],
+    "mats5": [
+      "Violet Crystal",
+      50,
+      15
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "344",
+    "name": "Flawless Spirit Stone",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Oil of Tranquility",
+      10,
+      1
+    ],
+    "mats2": [
+      "Tenacious Origin of Life",
+      4,
+      0.4
+    ],
+    "mats3": [
+      "Rough Opulent Crystal",
+      4,
+      0.4
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "345",
+    "name": "Sharp Spirit Stone of Destruction",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Flawless Spirit Stone",
+      5,
+      0.5
+    ],
+    "mats2": [
+      "Mystical Spirit Powder",
+      50,
+      5
+    ],
+    "mats3": [
+      "Metal Solvent",
+      50,
+      15
+    ],
+    "mats4": [
+      "Cron Stone",
+      5,
+      0
+    ],
+    "mats5": [
+      "Reagent of Harmonious Spirits",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "346",
+    "name": "Guardian Spirit Stone",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Flawless Spirit Stone",
+      5,
+      0.5
+    ],
+    "mats2": [
+      "Mystical Spirit Powder",
+      50,
+      5
+    ],
+    "mats3": [
+      "Gem Polisher",
+      50,
+      15
+    ],
+    "mats4": [
+      "Cron Stone",
+      5,
+      0
+    ],
+    "mats5": [
+      "Reagent of Harmonious Spirits",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "350",
+    "name": "Magic Crystal of Infinity - Skill",
+    "lvl": "Skill level: Beginner 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Fruit of Destruction",
+      2,
+      0.2
+    ],
+    "mats2": [
+      "Magic Crystal of Crimson Flame - Power",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Ruby",
+      2,
+      0.6
+    ],
+    "mats4": [
+      "Everlasting Herb",
+      6,
+      0.6
+    ],
+    "mats5": [
+      "Stone of Malice",
+      1,
+      1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "365",
+    "name": "Elixir of Skill",
+    "lvl": "Skill level: Professional 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Wise Man's Blood",
+      2,
+      0.2
+    ],
+    "mats2": [
+      "Delotia",
+      5,
+      0.5
+    ],
+    "mats3": [
+      "Powder of Time",
+      2,
+      0.2
+    ],
+    "mats4": [
+      "Thornwood Sap",
+      5,
+      0.5
+    ],
+    "mats5": [
+      "Trace of Chaos",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "366",
+    "name": "Elixir of Mastery",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Oil of Tranquility",
+      2,
+      0.2
+    ],
+    "mats2": [
+      "Refined Delotia Reagent",
+      3,
+      0.3
+    ],
+    "mats3": [
+      "Thornwood Sap",
+      5,
+      0.5
+    ],
+    "mats4": [
+      "Everlasting Herb",
+      5,
+      0.5
+    ],
+    "mats5": [
+      "Trace of Forest",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "367",
+    "name": "Elixir of Labor",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Sinner's Blood",
+      2,
+      0.2
+    ],
+    "mats2": [
+      "Refined Delotia Reagent",
+      2,
+      0.2
+    ],
+    "mats3": [
+      "Powder of Time",
+      2,
+      0.2
+    ],
+    "mats4": [
+      "Thornwood Sap",
+      4,
+      0.4
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "368",
+    "name": "Elixir of Armor",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Oil of Fortitude",
+      3,
+      0.3
+    ],
+    "mats2": [
+      "Refined Delotia Reagent",
+      3,
+      0.3
+    ],
+    "mats3": [
+      "Thornwood Sap",
+      5,
+      0.5
+    ],
+    "mats4": [
+      "Thick Turo Blood",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "369",
+    "name": "Perfume of Charm",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Oil of Enchantment",
+      2,
+      0.2
+    ],
+    "mats2": [
+      "Shining Powder",
+      3,
+      0.3
+    ],
+    "mats3": [
+      "Everlasting Herb",
+      5,
+      0.5
+    ],
+    "mats4": [
+      "Delotia Essence",
+      1,
+      0.1
+    ],
+    "mats5": [
+      "Purified Water",
+      3,
+      0.89
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "370",
+    "name": "Oil of Enchantment",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Fruit of Enchantment",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Refined Delotia Reagent",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Purified Water",
+      2,
+      0.6
+    ],
+    "mats4": [
+      "Everlasting Herb",
+      2,
+      0.2
+    ],
+    "mats5": [
+      "Thick Turo Blood",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "371",
+    "name": "Refined Delotia Reagent",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Delotia Powder",
+      3,
+      0.3
+    ],
+    "mats2": [
+      "Clear Liquid Reagent",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Pure Powder Reagent",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "372",
+    "name": "Corrupt Oil of Immortality",
+    "lvl": "Skill level: Professional 6",
+    "category": "Alchemy",
+    "mats1": [
+      "Turo Heart",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Remnants of Burnt Spirits",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Oil of Regeneration",
+      20,
+      2
+    ],
+    "mats4": [
+      "Oil of Fortitude",
+      20,
+      2
+    ],
+    "mats5": [
+      "Oil of Corruption",
+      20,
+      2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "373",
+    "name": "Oil of Regeneration",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Alchemy",
+    "mats1": [
+      "Legendary Beast's Blood",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Fruit of Crimson Flame",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Powder of Crevice",
+      1,
+      0.1
+    ],
+    "mats4": [
+      "Everlasting Herb",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "106",
+    "name": "White Sauce",
+    "lvl": "Skill level: Beginner 1",
+    "category": "Cooking",
+    "mats1": [
+      "Base Sauce",
+      1,
+      0.01
+    ],
+    "mats2": [
+      "Milk",
+      1,
+      0.01
+    ],
+    "mats3": [
+      "Fruits",
+      1,
+      0.1
+    ],
+    "mats4": [
+      "Cooking Wine",
+      2,
+      0.02
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "107",
+    "name": "Red Sauce",
+    "lvl": "Skill level: Beginner 1",
+    "category": "Cooking",
+    "mats1": [
+      "Base Sauce",
+      1,
+      0.01
+    ],
+    "mats2": [
+      "Sugar",
+      2,
+      0.02
+    ],
+    "mats3": [
+      "Meat 1",
+      1,
+      0.03
+    ],
+    "mats4": [
+      "Mineral Water",
+      2,
+      0.02
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "108",
+    "name": "Dressing",
+    "lvl": "Skill level: Beginner 1",
+    "category": "Cooking",
+    "mats1": [
+      "Olive Oil",
+      1,
+      0.01
+    ],
+    "mats2": [
+      "Mineral Water",
+      1,
+      0.01
+    ],
+    "mats3": [
+      "Egg",
+      1,
+      0.01
+    ],
+    "mats4": [
+      "Salt",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "109",
+    "name": "Essence of Liquor",
+    "lvl": "Skill level: Beginner 1",
+    "category": "Cooking",
+    "mats1": [
+      "Flour",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Fruits",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Leavening Agent",
+      1,
+      0.01
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "110",
+    "name": "Vinegar",
+    "lvl": "Skill level: Beginner 1",
+    "category": "Cooking",
+    "mats1": [
+      "Cereals",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Fruits",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Leavening Agent",
+      1,
+      0.01
+    ],
+    "mats4": [
+      "Sugar",
+      1,
+      0.01
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "111",
+    "name": "Fruit Wine",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Cooking",
+    "mats1": [
+      "Exotic Herbal Wine",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Fruits",
+      5,
+      0.5
+    ],
+    "mats3": [
+      "Essence of Liquor",
+      3,
+      0.03
+    ],
+    "mats4": [
+      "Mineral Water",
+      2,
+      0.02
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "112",
+    "name": "Pickled Vegetables",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Cooking",
+    "mats1": [
+      "Vegetables",
+      8,
+      0.8
+    ],
+    "mats2": [
+      "Vinegar",
+      4,
+      0.04
+    ],
+    "mats3": [
+      "Leavening Agent",
+      2,
+      0.02
+    ],
+    "mats4": [
+      "Sugar",
+      2,
+      0.02
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "113",
+    "name": "Cheese Gratin",
+    "lvl": "Skill level: Apprentice 6",
+    "category": "Cooking",
+    "mats1": [
+      "Grilled Sausage",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Dough",
+      5,
+      0.5
+    ],
+    "mats3": [
+      "Vegetables",
+      4,
+      0.4
+    ],
+    "mats4": [
+      "Cheese",
+      3,
+      0.03
+    ],
+    "mats5": [
+      "Red Sauce",
+      3,
+      0.03
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "114",
+    "name": "Aloe Yogurt",
+    "lvl": "Skill level: Beginner 6",
+    "category": "Cooking",
+    "mats1": [
+      "Aloe",
+      5,
+      0.5
+    ],
+    "mats2": [
+      "Milk",
+      2,
+      0.02
+    ],
+    "mats3": [
+      "Sugar",
+      3,
+      0.03
+    ],
+    "mats4": [
+      "Leavening Agent",
+      3,
+      0.03
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "115",
+    "name": "Aloe Cookie",
+    "lvl": "Skill level: Beginner 6",
+    "category": "Cooking",
+    "mats1": [
+      "Aloe",
+      5,
+      0.5
+    ],
+    "mats2": [
+      "Dough",
+      7,
+      0.7
+    ],
+    "mats3": [
+      "Honey",
+      3,
+      0.3
+    ],
+    "mats4": [
+      "Sugar",
+      4,
+      0.04
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "116",
+    "name": "Honey Wine",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Cooking",
+    "mats1": [
+      "Honey",
+      3,
+      0.3
+    ],
+    "mats2": [
+      "Essence of Liquor",
+      2,
+      0.02
+    ],
+    "mats3": [
+      "Sugar",
+      2,
+      0.02
+    ],
+    "mats4": [
+      "Mineral Water",
+      6,
+      0.06
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "117",
+    "name": "Sute Tea",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Cooking",
+    "mats1": [
+      "Tea With Fine Scent",
+      2,
+      0.2
+    ],
+    "mats2": [
+      "Butter",
+      2,
+      0.02
+    ],
+    "mats3": [
+      "Milk",
+      3,
+      0.03
+    ],
+    "mats4": [
+      "Salt",
+      1,
+      0.01
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "118",
+    "name": "Fish Fillet Chips",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Cooking",
+    "mats1": [
+      "Dried fish",
+      2,
+      1
+    ],
+    "mats2": [
+      "White Sauce",
+      3,
+      0.03
+    ],
+    "mats3": [
+      "Flour",
+      7,
+      0.7
+    ],
+    "mats4": [
+      "Salt",
+      2,
+      0.02
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "119",
+    "name": "Assorted Side Dishes",
+    "lvl": "Skill level: Apprentice 6",
+    "category": "Cooking",
+    "mats1": [
+      "Fried Bird",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Seafood",
+      2,
+      2
+    ],
+    "mats3": [
+      "Cheese",
+      3,
+      0.03
+    ],
+    "mats4": [
+      "Fruits",
+      5,
+      0.5
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "120",
+    "name": "High-Quality Carrot Juice",
+    "lvl": "Skill level: Beginner 1",
+    "category": "Cooking",
+    "mats1": [
+      "High-Quality Carrot",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Flour",
+      3,
+      0.3
+    ],
+    "mats3": [
+      "Sugar",
+      3,
+      0.03
+    ],
+    "mats4": [
+      "Mineral Water",
+      4,
+      0.04
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "121",
+    "name": "Special Carrot Juice",
+    "lvl": "Skill level: Beginner 6",
+    "category": "Cooking",
+    "mats1": [
+      "Special Carrot",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Flour",
+      3,
+      0.3
+    ],
+    "mats3": [
+      "Sugar",
+      3,
+      0.03
+    ],
+    "mats4": [
+      "Mineral Water",
+      4,
+      0.04
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "122",
+    "name": "Beer",
+    "lvl": "Skill level: Beginner 1",
+    "category": "Cooking",
+    "mats1": [
+      "Cereals",
+      5,
+      0.5
+    ],
+    "mats2": [
+      "Mineral Water",
+      6,
+      0.06
+    ],
+    "mats3": [
+      "Sugar",
+      1,
+      0.01
+    ],
+    "mats4": [
+      "Leavening Agent",
+      2,
+      0.02
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "123",
+    "name": "Stir-Fried Vegetables",
+    "lvl": "Skill level: Beginner 6",
+    "category": "Cooking",
+    "mats1": [
+      "Vegetables",
+      5,
+      0.5
+    ],
+    "mats2": [
+      "Hot Pepper",
+      2,
+      0.2
+    ],
+    "mats3": [
+      "Olive Oil",
+      2,
+      0.02
+    ],
+    "mats4": [
+      "Salt",
+      1,
+      0.01
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "124",
+    "name": "Grain Soup",
+    "lvl": "Skill level: Beginner 1",
+    "category": "Cooking",
+    "mats1": [
+      "Cereals",
+      6,
+      0.6
+    ],
+    "mats2": [
+      "Purified Water",
+      1,
+      0.3
+    ],
+    "mats3": [
+      "Cooking Wine",
+      3,
+      0.03
+    ],
+    "mats4": [
+      "Salt",
+      1,
+      0.01
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "125",
+    "name": "Fried Vegetables",
+    "lvl": "Skill level: Beginner 6",
+    "category": "Cooking",
+    "mats1": [
+      "Vegetables",
+      4,
+      0.4
+    ],
+    "mats2": [
+      "Dough",
+      3,
+      0.3
+    ],
+    "mats3": [
+      "Egg",
+      2,
+      0.02
+    ],
+    "mats4": [
+      "Deep Frying Oil",
+      6,
+      0.06
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "126",
+    "name": "Fruit Juice",
+    "lvl": "Skill level: Beginner 6",
+    "category": "Cooking",
+    "mats1": [
+      "Fruits",
+      4,
+      0.4
+    ],
+    "mats2": [
+      "Sugar",
+      3,
+      0.03
+    ],
+    "mats3": [
+      "Mineral Water",
+      5,
+      0.05
+    ],
+    "mats4": [
+      "Salt",
+      1,
+      0.01
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "127",
+    "name": "Fruit and Vegetable Salad",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Cooking",
+    "mats1": [
+      "Fruits",
+      4,
+      0.4
+    ],
+    "mats2": [
+      "Vegetables",
+      4,
+      0.4
+    ],
+    "mats3": [
+      "Vinegar",
+      1,
+      0.01
+    ],
+    "mats4": [
+      "Cooking Wine",
+      2,
+      0.02
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "128",
+    "name": "Fruit Pudding",
+    "lvl": "Skill level: Beginner 6",
+    "category": "Cooking",
+    "mats1": [
+      "Fruits",
+      5,
+      0.5
+    ],
+    "mats2": [
+      "Cream",
+      1,
+      0.01
+    ],
+    "mats3": [
+      "Milk",
+      3,
+      0.03
+    ],
+    "mats4": [
+      "Sugar",
+      2,
+      0.02
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "129",
+    "name": "Soft Bread",
+    "lvl": "Skill level: Beginner 6",
+    "category": "Cooking",
+    "mats1": [
+      "Dough",
+      6,
+      0.6
+    ],
+    "mats2": [
+      "Leavening Agent",
+      2,
+      0.02
+    ],
+    "mats3": [
+      "Egg",
+      2,
+      0.02
+    ],
+    "mats4": [
+      "Milk",
+      3,
+      0.03
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "130",
+    "name": "Oatmeal",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Cooking",
+    "mats1": [
+      "Flour",
+      9,
+      0.9
+    ],
+    "mats2": [
+      "Milk",
+      3,
+      0.03
+    ],
+    "mats3": [
+      "Onion",
+      3,
+      0.3
+    ],
+    "mats4": [
+      "Honey",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "131",
+    "name": "Exotic Herbal Wine",
+    "lvl": "Skill level: Beginner 1",
+    "category": "Cooking",
+    "mats1": [
+      "Dough",
+      3,
+      0.3
+    ],
+    "mats2": [
+      "Essence of Liquor",
+      1,
+      0.01
+    ],
+    "mats3": [
+      "Mineral Water",
+      5,
+      0.05
+    ],
+    "mats4": [
+      "Leavening Agent",
+      2,
+      0.02
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "132",
+    "name": "Milk Tea",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Cooking",
+    "mats1": [
+      "Tea With Fine Scent",
+      2,
+      0.2
+    ],
+    "mats2": [
+      "Flour",
+      2,
+      0.2
+    ],
+    "mats3": [
+      "Milk",
+      3,
+      0.03
+    ],
+    "mats4": [
+      "Honey",
+      3,
+      0.3
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "133",
+    "name": "Fruit Pie",
+    "lvl": "Skill level: Apprentice 6",
+    "category": "Cooking",
+    "mats1": [
+      "Dough",
+      6,
+      0.6
+    ],
+    "mats2": [
+      "Fruits",
+      6,
+      0.6
+    ],
+    "mats3": [
+      "Cream",
+      3,
+      0.03
+    ],
+    "mats4": [
+      "Sugar",
+      4,
+      0.04
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "134",
+    "name": "Meat Pie",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Cooking",
+    "mats1": [
+      "Meat 1",
+      4,
+      0.12
+    ],
+    "mats2": [
+      "Dough",
+      6,
+      0.6
+    ],
+    "mats3": [
+      "Sugar",
+      2,
+      0.02
+    ],
+    "mats4": [
+      "Olive Oil",
+      2,
+      0.02
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "136",
+    "name": "Ham Sandwich",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Cooking",
+    "mats1": [
+      "Soft Bread",
+      2,
+      0.2
+    ],
+    "mats2": [
+      "Grilled Sausage",
+      2,
+      0.2
+    ],
+    "mats3": [
+      "Vegetables",
+      5,
+      0.5
+    ],
+    "mats4": [
+      "Egg",
+      4,
+      0.04
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "137",
+    "name": "Cheese Pie",
+    "lvl": "Skill level: Apprentice 6",
+    "category": "Cooking",
+    "mats1": [
+      "Dough",
+      4,
+      0.4
+    ],
+    "mats2": [
+      "Cheese",
+      7,
+      0.07
+    ],
+    "mats3": [
+      "Butter",
+      3,
+      0.03
+    ],
+    "mats4": [
+      "Egg",
+      3,
+      0.03
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "138",
+    "name": "Omelet",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Cooking",
+    "mats1": [
+      "Cereals",
+      5,
+      0.5
+    ],
+    "mats2": [
+      "Olive Oil",
+      2,
+      0.02
+    ],
+    "mats3": [
+      "Egg",
+      5,
+      0.05
+    ],
+    "mats4": [
+      "Salt",
+      2,
+      0.02
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "139",
+    "name": "Tea With Fine Scent",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Cooking",
+    "mats1": [
+      "Plants",
+      4,
+      0.4
+    ],
+    "mats2": [
+      "Fruits",
+      4,
+      0.4
+    ],
+    "mats3": [
+      "Mineral Water",
+      7,
+      0.07
+    ],
+    "mats4": [
+      "Honey",
+      3,
+      0.3
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "140",
+    "name": "Steak",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Cooking",
+    "mats1": [
+      "Meat 1",
+      8,
+      0.24
+    ],
+    "mats2": [
+      "Salt",
+      2,
+      0.02
+    ],
+    "mats3": [
+      "Garlic",
+      2,
+      0.2
+    ],
+    "mats4": [
+      "Red Sauce",
+      2,
+      0.02
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "141",
+    "name": "Boiled Bird Eggs",
+    "lvl": "Skill level: Beginner 6",
+    "category": "Cooking",
+    "mats1": [
+      "Egg",
+      3,
+      0.03
+    ],
+    "mats2": [
+      "Mineral Water",
+      6,
+      0.06
+    ],
+    "mats3": [
+      "Cooking Wine",
+      1,
+      0.01
+    ],
+    "mats4": [
+      "Salt",
+      1,
+      0.01
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "142",
+    "name": "Fried Bird",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Cooking",
+    "mats1": [
+      "Bird meat",
+      7,
+      0.21
+    ],
+    "mats2": [
+      "Flour",
+      4,
+      0.4
+    ],
+    "mats3": [
+      "Egg",
+      2,
+      0.02
+    ],
+    "mats4": [
+      "Pepper",
+      3,
+      0.3
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "143",
+    "name": "Meat Croquette",
+    "lvl": "Skill level: Apprentice 6",
+    "category": "Cooking",
+    "mats1": [
+      "Meat 1",
+      8,
+      0.24
+    ],
+    "mats2": [
+      "Flour",
+      5,
+      0.5
+    ],
+    "mats3": [
+      "Egg",
+      2,
+      0.02
+    ],
+    "mats4": [
+      "Cheese",
+      2,
+      0.02
+    ],
+    "mats5": [
+      "Deep Frying Oil",
+      4,
+      0.04
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "144",
+    "name": "Steamed Bird",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Cooking",
+    "mats1": [
+      "Bird meat",
+      5,
+      0.15
+    ],
+    "mats2": [
+      "Vegetables",
+      3,
+      0.3
+    ],
+    "mats3": [
+      "Vinegar",
+      2,
+      0.02
+    ],
+    "mats4": [
+      "Essence of Liquor",
+      2,
+      0.02
+    ],
+    "mats5": [
+      "Salt",
+      2,
+      0.02
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "145",
+    "name": "Lizard Kebab",
+    "lvl": "Skill level: Beginner 6",
+    "category": "Cooking",
+    "mats1": [
+      "Reptile meat",
+      6,
+      0.18
+    ],
+    "mats2": [
+      "Red Sauce",
+      2,
+      0.02
+    ],
+    "mats3": [
+      "Onion",
+      3,
+      0.3
+    ],
+    "mats4": [
+      "Cereals",
+      7,
+      0.7
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "146",
+    "name": "Fried Fish",
+    "lvl": "Skill level: Beginner 1",
+    "category": "Cooking",
+    "mats1": [
+      "Fish",
+      1,
+      1
+    ],
+    "mats2": [
+      "Flour",
+      3,
+      0.3
+    ],
+    "mats3": [
+      "Deep Frying Oil",
+      2,
+      0.02
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "147",
+    "name": "Borscht",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Cooking",
+    "mats1": [
+      "Fragrant Jerky",
+      7,
+      2.1
+    ],
+    "mats2": [
+      "Milk",
+      3,
+      0.03
+    ],
+    "mats3": [
+      "Cinnamon",
+      1,
+      0.1
+    ],
+    "mats4": [
+      "Mineral Water",
+      2,
+      0.02
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "148",
+    "name": "Steamed Fish",
+    "lvl": "Skill level: Beginner 6",
+    "category": "Cooking",
+    "mats1": [
+      "Dried fish",
+      2,
+      1
+    ],
+    "mats2": [
+      "Garlic",
+      2,
+      0.2
+    ],
+    "mats3": [
+      "Salt",
+      2,
+      0.02
+    ],
+    "mats4": [
+      "Mineral Water",
+      3,
+      0.03
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "149",
+    "name": "Desert Dumpling",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Cooking",
+    "mats1": [
+      "Reptile meat",
+      6,
+      0.18
+    ],
+    "mats2": [
+      "Dough",
+      6,
+      0.6
+    ],
+    "mats3": [
+      "Cinnamon",
+      1,
+      0.1
+    ],
+    "mats4": [
+      "Olive Oil",
+      2,
+      0.02
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "150",
+    "name": "Steamed Seafood",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Cooking",
+    "mats1": [
+      "Seafood",
+      1,
+      1
+    ],
+    "mats2": [
+      "Hot Pepper",
+      3,
+      0.3
+    ],
+    "mats3": [
+      "Mineral Water",
+      6,
+      0.06
+    ],
+    "mats4": [
+      "Salt",
+      2,
+      0.02
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "151",
+    "name": "Pickled Fish",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Cooking",
+    "mats1": [
+      "Fish",
+      1,
+      1
+    ],
+    "mats2": [
+      "Vinegar",
+      2,
+      0.02
+    ],
+    "mats3": [
+      "Salt",
+      4,
+      0.04
+    ],
+    "mats4": [
+      "Leavening Agent",
+      2,
+      0.02
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "152",
+    "name": "Seafood Pasta",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Cooking",
+    "mats1": [
+      "Seafood",
+      1,
+      1
+    ],
+    "mats2": [
+      "Dough",
+      5,
+      0.5
+    ],
+    "mats3": [
+      "Cooking Wine",
+      3,
+      0.03
+    ],
+    "mats4": [
+      "Garlic",
+      3,
+      0.3
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "153",
+    "name": "Meat Stew",
+    "lvl": "Skill level: Beginner 1",
+    "category": "Cooking",
+    "mats1": [
+      "Meat 1",
+      5,
+      0.15
+    ],
+    "mats2": [
+      "Flour",
+      2,
+      0.2
+    ],
+    "mats3": [
+      "Cooking Wine",
+      2,
+      0.02
+    ],
+    "mats4": [
+      "Mineral Water",
+      3,
+      0.03
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "154",
+    "name": "Meat Sandwich",
+    "lvl": "Skill level: Apprentice 6",
+    "category": "Cooking",
+    "mats1": [
+      "Soft Bread",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Meat 1",
+      7,
+      0.21
+    ],
+    "mats3": [
+      "Vegetables",
+      6,
+      0.6
+    ],
+    "mats4": [
+      "Cheese",
+      3,
+      0.03
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "155",
+    "name": "Meat Pasta",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Cooking",
+    "mats1": [
+      "Meat 1",
+      5,
+      0.15
+    ],
+    "mats2": [
+      "Dough",
+      4,
+      0.4
+    ],
+    "mats3": [
+      "Pepper",
+      3,
+      0.3
+    ],
+    "mats4": [
+      "Garlic",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "156",
+    "name": "Smoked Fish Steak",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Cooking",
+    "mats1": [
+      "Fish",
+      1,
+      1
+    ],
+    "mats2": [
+      "Olive Oil",
+      1,
+      0.01
+    ],
+    "mats3": [
+      "Salt",
+      2,
+      0.02
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "157",
+    "name": "Fish Soup",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Cooking",
+    "mats1": [
+      "Fish",
+      1,
+      1
+    ],
+    "mats2": [
+      "Flour",
+      3,
+      0.3
+    ],
+    "mats3": [
+      "Cream",
+      2,
+      0.02
+    ],
+    "mats4": [
+      "Mineral Water",
+      6,
+      0.06
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "158",
+    "name": "Seafood Mushroom Salad",
+    "lvl": "Skill level: Beginner 6",
+    "category": "Cooking",
+    "mats1": [
+      "Seafood",
+      1,
+      1
+    ],
+    "mats2": [
+      "Mushrooms",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Dressing",
+      2,
+      0.02
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "159",
+    "name": "Stir-Fried Seafood",
+    "lvl": "Skill level: Beginner 6",
+    "category": "Cooking",
+    "mats1": [
+      "Seafood",
+      1,
+      1
+    ],
+    "mats2": [
+      "Vegetables",
+      4,
+      0.4
+    ],
+    "mats3": [
+      "White Sauce",
+      2,
+      0.02
+    ],
+    "mats4": [
+      "Hot Pepper",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "160",
+    "name": "Seafood Grilled with Butter",
+    "lvl": "Skill level: Beginner 6",
+    "category": "Cooking",
+    "mats1": [
+      "Seafood",
+      1,
+      1
+    ],
+    "mats2": [
+      "Butter",
+      3,
+      0.03
+    ],
+    "mats3": [
+      "Salt",
+      2,
+      0.02
+    ],
+    "mats4": [
+      "Olive Oil",
+      1,
+      0.01
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "161",
+    "name": "Dark Pudding",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Cooking",
+    "mats1": [
+      "Oatmeal",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Pickled Vegetables",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Bird meat",
+      5,
+      0.15
+    ],
+    "mats4": [
+      "Blood 2",
+      7,
+      0.7
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "162",
+    "name": "Fish Fillet Salad",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Cooking",
+    "mats1": [
+      "Fish",
+      1,
+      1
+    ],
+    "mats2": [
+      "Dressing",
+      2,
+      0.02
+    ],
+    "mats3": [
+      "Onion",
+      3,
+      0.3
+    ],
+    "mats4": [
+      "Cheese",
+      2,
+      0.02
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "163",
+    "name": "Meat Soup",
+    "lvl": "Skill level: Beginner 6",
+    "category": "Cooking",
+    "mats1": [
+      "Meat 1",
+      5,
+      0.15
+    ],
+    "mats2": [
+      "Pepper",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Cream",
+      2,
+      0.02
+    ],
+    "mats4": [
+      "Mineral Water",
+      4,
+      0.04
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "164",
+    "name": "Lean Meat Salad",
+    "lvl": "Skill level: Apprentice 6",
+    "category": "Cooking",
+    "mats1": [
+      "Meat 1",
+      8,
+      0.24
+    ],
+    "mats2": [
+      "Vinegar",
+      2,
+      0.02
+    ],
+    "mats3": [
+      "Pepper",
+      3,
+      0.3
+    ],
+    "mats4": [
+      "Dressing",
+      4,
+      0.04
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "165",
+    "name": "Stir-Fried Meat",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Cooking",
+    "mats1": [
+      "Meat 1",
+      7,
+      0.21
+    ],
+    "mats2": [
+      "Base Sauce",
+      2,
+      0.02
+    ],
+    "mats3": [
+      "Onion",
+      2,
+      0.2
+    ],
+    "mats4": [
+      "Hot Pepper",
+      3,
+      0.3
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "166",
+    "name": "Grilled Sausage",
+    "lvl": "Skill level: Beginner 6",
+    "category": "Cooking",
+    "mats1": [
+      "Meat 1",
+      6,
+      0.18
+    ],
+    "mats2": [
+      "Onion",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Pepper",
+      2,
+      0.2
+    ],
+    "mats4": [
+      "Salt",
+      2,
+      0.02
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "167",
+    "name": "Steamed Whale Meat",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Cooking",
+    "mats1": [
+      "Blue Whale Meat",
+      1,
+      0.5
+    ],
+    "mats2": [
+      "Honey Wine",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Garlic",
+      4,
+      0.4
+    ],
+    "mats4": [
+      "Salt",
+      2,
+      0.02
+    ],
+    "mats5": [
+      "Mineral Water",
+      6,
+      0.06
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "168",
+    "name": "Whale Meat Salad",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Cooking",
+    "mats1": [
+      "Blue Whale Meat",
+      1,
+      0.5
+    ],
+    "mats2": [
+      "Vegetables",
+      6,
+      0.6
+    ],
+    "mats3": [
+      "Dressing",
+      2,
+      0.02
+    ],
+    "mats4": [
+      "Egg",
+      3,
+      0.03
+    ],
+    "mats5": [
+      "Pepper",
+      4,
+      0.4
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "169",
+    "name": "Balenos Meal",
+    "lvl": "Skill level: Skilled 6",
+    "category": "Cooking",
+    "mats1": [
+      "Cheese Gratin",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Meat Croquette",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Smoked Fish Steak",
+      1,
+      0.1
+    ],
+    "mats4": [
+      "Stir-Fried Vegetables",
+      2,
+      0.2
+    ],
+    "mats5": [
+      "Beer",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "170",
+    "name": "Serendia Meal",
+    "lvl": "Skill level: Skilled 6",
+    "category": "Cooking",
+    "mats1": [
+      "Ham Sandwich",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Meat Pie",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Honeycomb Cookie",
+      1,
+      0.1
+    ],
+    "mats4": [
+      "Boiled Bird Eggs",
+      2,
+      0.2
+    ],
+    "mats5": [
+      "Fruit Wine",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "171",
+    "name": "Calpheon Meal",
+    "lvl": "Skill level: Skilled 6",
+    "category": "Cooking",
+    "mats1": [
+      "Soft Bread",
+      2,
+      0.2
+    ],
+    "mats2": [
+      "Milk Tea",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Fish Fillet Salad",
+      1,
+      0.1
+    ],
+    "mats4": [
+      "Cheese Pie",
+      1,
+      0.1
+    ],
+    "mats5": [
+      "Meat Pasta",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "172",
+    "name": "Mediah Meal",
+    "lvl": "Skill level: Skilled 6",
+    "category": "Cooking",
+    "mats1": [
+      "Dark Pudding",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Oatmeal",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Grilled Sausage",
+      2,
+      0.2
+    ],
+    "mats4": [
+      "Lean Meat Salad",
+      1,
+      0.1
+    ],
+    "mats5": [
+      "Exotic Herbal Wine",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "173",
+    "name": "Knight Combat Rations",
+    "lvl": "Skill level: Skilled 6",
+    "category": "Cooking",
+    "mats1": [
+      "Dark Pudding",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Ham Sandwich",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Meat Croquette",
+      1,
+      0.1
+    ],
+    "mats4": [
+      "Fruit Wine",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "174",
+    "name": "Good Feed",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Cooking",
+    "mats1": [
+      "Meat 1",
+      6,
+      0.18
+    ],
+    "mats2": [
+      "Fish",
+      1,
+      1
+    ],
+    "mats3": [
+      "Mineral Water",
+      3,
+      0.03
+    ],
+    "mats4": [
+      "Flour",
+      4,
+      0.4
+    ],
+    "qd": 4.0
+  },
+  {
+    "id": "175",
+    "name": "Organic Feed",
+    "lvl": "Skill level: Apprentice 6",
+    "category": "Cooking",
+    "mats1": [
+      "Oatmeal",
+      2,
+      0.2
+    ],
+    "mats2": [
+      "Meat 1",
+      5,
+      0.15
+    ],
+    "mats3": [
+      "Bird meat",
+      4,
+      0.12
+    ],
+    "mats4": [
+      "Fish",
+      1,
+      1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "176",
+    "name": "Honeycomb Cookie",
+    "lvl": "Skill level: Apprentice 6",
+    "category": "Cooking",
+    "mats1": [
+      "Dough",
+      4,
+      0.4
+    ],
+    "mats2": [
+      "Honey",
+      6,
+      0.6
+    ],
+    "mats3": [
+      "Egg",
+      2,
+      0.02
+    ],
+    "mats4": [
+      "Milk",
+      4,
+      0.04
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "177",
+    "name": "Organic Feed",
+    "lvl": "Skill level: Apprentice 6",
+    "category": "Cooking",
+    "mats1": [
+      "Oatmeal",
+      2,
+      0.2
+    ],
+    "mats2": [
+      "Meat 1",
+      5,
+      0.15
+    ],
+    "mats3": [
+      "Bird meat",
+      4,
+      0.12
+    ],
+    "mats4": [
+      "Dried fish",
+      1,
+      1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "135",
+    "name": "Honeycomb Cookie",
+    "lvl": "Skill level: Apprentice 6",
+    "category": "Cooking",
+    "mats1": [
+      "Dough",
+      4,
+      0.4
+    ],
+    "mats2": [
+      "Honey",
+      6,
+      0.6
+    ],
+    "mats3": [
+      "Egg",
+      2,
+      0.02
+    ],
+    "mats4": [
+      "Milk",
+      4,
+      0.04
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "184",
+    "name": "Coconut Cocktail",
+    "lvl": "Skill level: Professional 1",
+    "category": "Cooking",
+    "mats1": [
+      "Coconut",
+      2,
+      0.2
+    ],
+    "mats2": [
+      "Exotic Herbal Wine",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Essence of Liquor",
+      2,
+      0.02
+    ],
+    "mats4": [
+      "Fruits",
+      1,
+      0.1
+    ],
+    "mats5": [
+      "Mineral Water",
+      5,
+      0.05
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "185",
+    "name": "Coconut Pasta",
+    "lvl": "Skill level: Professional 1",
+    "category": "Cooking",
+    "mats1": [
+      "Coconut",
+      2,
+      0.2
+    ],
+    "mats2": [
+      "Onion",
+      2,
+      0.2
+    ],
+    "mats3": [
+      "Dough",
+      5,
+      0.5
+    ],
+    "mats4": [
+      "Garlic",
+      4,
+      0.4
+    ],
+    "mats5": [
+      "White Sauce",
+      1,
+      0.01
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "186",
+    "name": "Coconut Fried Fish",
+    "lvl": "Skill level: Professional 1",
+    "category": "Cooking",
+    "mats1": [
+      "Coconut",
+      3,
+      0.3
+    ],
+    "mats2": [
+      "Fish",
+      1,
+      1
+    ],
+    "mats3": [
+      "Egg",
+      2,
+      0.02
+    ],
+    "mats4": [
+      "Dough",
+      3,
+      0.3
+    ],
+    "mats5": [
+      "Deep Frying Oil",
+      4,
+      0.04
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "187",
+    "name": "Hunter's Salad",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Cooking",
+    "mats1": [
+      "Soft Whale Meat",
+      1,
+      0.2
+    ],
+    "mats2": [
+      "Vinegar",
+      2,
+      0.02
+    ],
+    "mats3": [
+      "Dressing",
+      2,
+      0.02
+    ],
+    "mats4": [
+      "Garlic",
+      5,
+      0.5
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "188",
+    "name": "Khalk's Fermented Wine",
+    "lvl": "Skill level: Professional 1",
+    "category": "Cooking",
+    "mats1": [
+      "Fugitive Khalk's Horn",
+      1,
+      0.5
+    ],
+    "mats2": [
+      "Honey Wine",
+      5,
+      0.5
+    ],
+    "mats3": [
+      "Date Palm",
+      6,
+      0.6
+    ],
+    "mats4": [
+      "Leavening Agent",
+      6,
+      0.06
+    ],
+    "mats5": [
+      "Sugar",
+      6,
+      0.06
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "189",
+    "name": "Special Arehaza Meal",
+    "lvl": "Skill level: Artisan 1",
+    "category": "Cooking",
+    "mats1": [
+      "Coconut Cocktail",
+      2,
+      0.2
+    ],
+    "mats2": [
+      "Coconut Pasta",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Coconut Fried Fish",
+      1,
+      0.1
+    ],
+    "mats4": [
+      "Meat Stew",
+      1,
+      0.1
+    ],
+    "mats5": [
+      "Steak",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "190",
+    "name": "Valencia Meal",
+    "lvl": "Skill level: Professional 6",
+    "category": "Cooking",
+    "mats1": [
+      "Teff Sandwich",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "King of Jungle Hamburg",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Couscous",
+      1,
+      0.1
+    ],
+    "mats4": [
+      "Fig Pie",
+      2,
+      0.2
+    ],
+    "mats5": [
+      "Date Palm Wine",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "193",
+    "name": "King of Jungle Hamburg",
+    "lvl": "Skill level: Professional 1",
+    "category": "Cooking",
+    "mats1": [
+      "Lion Meat",
+      4,
+      0.12
+    ],
+    "mats2": [
+      "Teff Bread",
+      4,
+      0.4
+    ],
+    "mats3": [
+      "Pickled Vegetables",
+      2,
+      0.2
+    ],
+    "mats4": [
+      "Nutmeg",
+      3,
+      0.3
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "194",
+    "name": "Teff Bread",
+    "lvl": "Skill level: Beginner 6",
+    "category": "Cooking",
+    "mats1": [
+      "Teff Flour",
+      5,
+      0.5
+    ],
+    "mats2": [
+      "Mineral Water",
+      3,
+      0.03
+    ],
+    "mats3": [
+      "Salt",
+      2,
+      0.02
+    ],
+    "mats4": [
+      "Leavening Agent",
+      2,
+      0.02
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "195",
+    "name": "Couscous",
+    "lvl": "Skill level: Skilled 6",
+    "category": "Cooking",
+    "mats1": [
+      "Freekeh Snake Stew",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Teff Flour Dough",
+      6,
+      0.6
+    ],
+    "mats3": [
+      "Nutmeg",
+      3,
+      0.3
+    ],
+    "mats4": [
+      "Vegetables",
+      4,
+      0.4
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "196",
+    "name": "Teff Sandwich",
+    "lvl": "Skill level: Professional 1",
+    "category": "Cooking",
+    "mats1": [
+      "Teff Bread",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Grilled Scorpion",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Freekeh Snake Stew",
+      1,
+      0.1
+    ],
+    "mats4": [
+      "Red Sauce",
+      3,
+      0.3
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "197",
+    "name": "Grilled Scorpion",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Cooking",
+    "mats1": [
+      "Scorpion Meat",
+      3,
+      0.09
+    ],
+    "mats2": [
+      "Butter",
+      2,
+      0.02
+    ],
+    "mats3": [
+      "Nutmeg",
+      3,
+      0.3
+    ],
+    "mats4": [
+      "Hot Pepper",
+      3,
+      0.3
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "198",
+    "name": "Fig Pie",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Cooking",
+    "mats1": [
+      "Fig",
+      5,
+      0.5
+    ],
+    "mats2": [
+      "Dough",
+      3,
+      0.3
+    ],
+    "mats3": [
+      "Sugar",
+      3,
+      0.03
+    ],
+    "mats4": [
+      "Olive Oil",
+      2,
+      0.02
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "199",
+    "name": "Freekeh Snake Stew",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Cooking",
+    "mats1": [
+      "Mineral Water",
+      5,
+      0.05
+    ],
+    "mats2": [
+      "Freekeh",
+      6,
+      0.6
+    ],
+    "mats3": [
+      "Snake Meat",
+      3,
+      0.09
+    ],
+    "mats4": [
+      "Star Anise",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "200",
+    "name": "Date Palm Wine",
+    "lvl": "Skill level: Apprentice 6",
+    "category": "Cooking",
+    "mats1": [
+      "Date Palm",
+      5,
+      0.5
+    ],
+    "mats2": [
+      "Essence of Liquor",
+      2,
+      0.02
+    ],
+    "mats3": [
+      "Sugar",
+      1,
+      0.01
+    ],
+    "mats4": [
+      "Leavening Agent",
+      4,
+      0.04
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "204",
+    "name": "Beer",
+    "lvl": "Skill level: Beginner 1",
+    "category": "Cooking",
+    "mats1": [
+      "Cereals",
+      5,
+      0.5
+    ],
+    "mats2": [
+      "Mineral Water",
+      6,
+      0.06
+    ],
+    "mats3": [
+      "Sugar",
+      1,
+      0.01
+    ],
+    "mats4": [
+      "Leavening Agent",
+      2,
+      0.02
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "205",
+    "name": "Pan-Fried Oyster",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Cooking",
+    "mats1": [
+      "Oyster",
+      3,
+      0.3
+    ],
+    "mats2": [
+      "Egg",
+      2,
+      0.02
+    ],
+    "mats3": [
+      "Wheat Flour",
+      5,
+      0.5
+    ],
+    "mats4": [
+      "Vinegar",
+      2,
+      0.02
+    ],
+    "mats5": [
+      "Olive Oil",
+      3,
+      0.03
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "206",
+    "name": "Hard-Boiled Shellfish",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Cooking",
+    "mats1": [
+      "Seafood 2",
+      2,
+      1
+    ],
+    "mats2": [
+      "Essence of Liquor",
+      3,
+      0.03
+    ],
+    "mats3": [
+      "Garlic",
+      4,
+      0.4
+    ],
+    "mats4": [
+      "Hot Pepper",
+      2,
+      0.2
+    ],
+    "mats5": [
+      "Olive Oil",
+      5,
+      0.05
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "208",
+    "name": "Pistachio Fried Rice",
+    "lvl": "Skill level: Apprentice 6",
+    "category": "Cooking",
+    "mats1": [
+      "Pistachio",
+      4,
+      0.4
+    ],
+    "mats2": [
+      "Teff",
+      6,
+      0.6
+    ],
+    "mats3": [
+      "Cinnamon",
+      2,
+      0.2
+    ],
+    "mats4": [
+      "Salt",
+      2,
+      0.02
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "209",
+    "name": "Prawn Salad",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Cooking",
+    "mats1": [
+      "Shrimp",
+      2,
+      0.2
+    ],
+    "mats2": [
+      "Olive Oil",
+      3,
+      0.03
+    ],
+    "mats3": [
+      "Salt",
+      2,
+      0.02
+    ],
+    "mats4": [
+      "Egg",
+      3,
+      0.03
+    ],
+    "mats5": [
+      "Fruit and Vegetable Salad",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "210",
+    "name": "Steamed Prawn",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Cooking",
+    "mats1": [
+      "Shrimp",
+      4,
+      0.4
+    ],
+    "mats2": [
+      "Paprika",
+      3,
+      0.3
+    ],
+    "mats3": [
+      "Hot Pepper",
+      2,
+      0.2
+    ],
+    "mats4": [
+      "Cooking Wine",
+      3,
+      0.03
+    ],
+    "mats5": [
+      "Mineral Water",
+      4,
+      0.04
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "211",
+    "name": "Butter-Roasted Lobster",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Cooking",
+    "mats1": [
+      "Lobster",
+      1,
+      0.5
+    ],
+    "mats2": [
+      "Butter",
+      4,
+      0.04
+    ],
+    "mats3": [
+      "Salt",
+      5,
+      0.05
+    ],
+    "mats4": [
+      "Olive Oil",
+      5,
+      0.05
+    ],
+    "mats5": [
+      "Garlic",
+      3,
+      0.3
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "212",
+    "name": "Margoria Seafood Meal",
+    "lvl": "Skill level: Artisan 1",
+    "category": "Cooking",
+    "mats1": [
+      "Prawn Salad",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Steamed Prawn",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Pan-Fried Oyster",
+      1,
+      0.1
+    ],
+    "mats4": [
+      "Butter-Roasted Lobster",
+      1,
+      0.1
+    ],
+    "mats5": [
+      "Fruit Wine",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "331",
+    "name": "Hunter's Salad",
+    "lvl": "Skill level: Apprentice 1",
+    "category": "Cooking",
+    "mats1": [
+      "Meat 4",
+      1,
+      0.2
+    ],
+    "mats2": [
+      "Vinegar",
+      2,
+      0.02
+    ],
+    "mats3": [
+      "Dressing",
+      2,
+      0.02
+    ],
+    "mats4": [
+      "Garlic",
+      5,
+      0.5
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "213",
+    "name": "Rainbow Button Mushroom Sandwich",
+    "lvl": "Skill level: Professional 1",
+    "category": "Cooking",
+    "mats1": [
+      "Rainbow Button Mushroom",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Soft Bread",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Cream",
+      2,
+      0.02
+    ],
+    "mats4": [
+      "Onion",
+      2,
+      0.2
+    ],
+    "mats5": [
+      "Olive Oil",
+      4,
+      0.04
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "214",
+    "name": "Rainbow Button Mushroom Cheese Melt",
+    "lvl": "Skill level: Professional 1",
+    "category": "Cooking",
+    "mats1": [
+      "Rainbow Button Mushroom",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Meat 1",
+      2,
+      0.06
+    ],
+    "mats3": [
+      "Cheese",
+      2,
+      0.02
+    ],
+    "mats4": [
+      "Salt",
+      3,
+      0.03
+    ],
+    "mats5": [
+      "Olive Oil",
+      4,
+      0.04
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "215",
+    "name": "Kamasylvia Meal",
+    "lvl": "Skill level: Professional 6",
+    "category": "Cooking",
+    "mats1": [
+      "Rainbow Button Mushroom Sandwich",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Coconut Pasta",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Fig Pie",
+      1,
+      0.1
+    ],
+    "mats4": [
+      "Fruit Wine",
+      2,
+      0.2
+    ],
+    "mats5": [
+      "Rainbow Button Mushroom Cheese Melt",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "221",
+    "name": "Hard-boiled Gargoyle Leg",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Cooking",
+    "mats1": [
+      "Gargoyle Leg",
+      1,
+      0.3
+    ],
+    "mats2": [
+      "Exotic Herbal Wine",
+      2,
+      0.2
+    ],
+    "mats3": [
+      "Onion",
+      3,
+      0.3
+    ],
+    "mats4": [
+      "Garlic",
+      3,
+      0.3
+    ],
+    "mats5": [
+      "Vinegar",
+      2,
+      0.02
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "222",
+    "name": "Stir-fried Gazelle Hind Leg",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Cooking",
+    "mats1": [
+      "Gazelle Hind Leg",
+      1,
+      0.3
+    ],
+    "mats2": [
+      "Garlic",
+      3,
+      0.3
+    ],
+    "mats3": [
+      "Olive Oil",
+      5,
+      0.05
+    ],
+    "mats4": [
+      "Cabbage",
+      3,
+      0.3
+    ],
+    "mats5": [
+      "Salt",
+      5,
+      0.05
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "225",
+    "name": "Sweet Honey Wine",
+    "lvl": "Skill level: Beginner 1",
+    "category": "Cooking",
+    "mats1": [
+      "Top-Quality Cooking Honey",
+      2,
+      0.2
+    ],
+    "mats2": [
+      "Full-bodied Exotic Herbal Wine",
+      4,
+      0.4
+    ],
+    "mats3": [
+      "Sugar",
+      10,
+      0.1
+    ],
+    "mats4": [
+      "Fruits",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "226",
+    "name": "Grilled Bird Meat",
+    "lvl": "Skill level: Beginner 1",
+    "category": "Cooking",
+    "mats1": [
+      "Bird meat",
+      2,
+      0.06
+    ],
+    "mats2": [
+      "Deep Frying Oil",
+      6,
+      0.06
+    ],
+    "mats3": [
+      "Salt",
+      1,
+      0.01
+    ],
+    "mats4": [
+      "Cooking Wine",
+      2,
+      0.02
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "227",
+    "name": "Five-Grain Chicken Porridge",
+    "lvl": "Skill level: Beginner 6",
+    "category": "Cooking",
+    "mats1": [
+      "Ground Bird Meat",
+      2,
+      0.06
+    ],
+    "mats2": [
+      "Mineral Water",
+      2,
+      0.02
+    ],
+    "mats3": [
+      "Cereals",
+      3,
+      0.3
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "229",
+    "name": "Roast Marmot",
+    "lvl": "Skill level: Professional 1",
+    "category": "Cooking",
+    "mats1": [
+      "Marmot Meat",
+      5,
+      0.15
+    ],
+    "mats2": [
+      "Hot Pepper",
+      3,
+      0.3
+    ],
+    "mats3": [
+      "Salt",
+      2,
+      0.02
+    ],
+    "mats4": [
+      "Red Sauce",
+      1,
+      0.1
+    ],
+    "mats5": [
+      "Cooking Wine",
+      3,
+      0.03
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "230",
+    "name": "Ghormeh Sabzi",
+    "lvl": "Skill level: Professional 1",
+    "category": "Cooking",
+    "mats1": [
+      "Yak Meat",
+      5,
+      0.15
+    ],
+    "mats2": [
+      "Cereals",
+      2,
+      0.2
+    ],
+    "mats3": [
+      "Garlic",
+      5,
+      0.5
+    ],
+    "mats4": [
+      "Salt",
+      2,
+      0.02
+    ],
+    "mats5": [
+      "Milk",
+      1,
+      0.01
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "231",
+    "name": "Skewered Llama Cheese Melt",
+    "lvl": "Skill level: Professional 1",
+    "category": "Cooking",
+    "mats1": [
+      "Llama Meat",
+      5,
+      0.15
+    ],
+    "mats2": [
+      "Cheese",
+      4,
+      0.04
+    ],
+    "mats3": [
+      "Hot Pepper",
+      3,
+      0.3
+    ],
+    "mats4": [
+      "Pepper",
+      1,
+      0.1
+    ],
+    "mats5": [
+      "White Sauce",
+      1,
+      0.01
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "232",
+    "name": "Stir-Fried Bracken",
+    "lvl": "Skill level: Professional 1",
+    "category": "Cooking",
+    "mats1": [
+      "Bracken",
+      8,
+      0.8
+    ],
+    "mats2": [
+      "Garlic",
+      5,
+      0.5
+    ],
+    "mats3": [
+      "Salt",
+      2,
+      0.02
+    ],
+    "mats4": [
+      "Mineral Water",
+      5,
+      0.05
+    ],
+    "mats5": [
+      "Olive Oil",
+      2,
+      0.02
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "233",
+    "name": "Special Drieghanese Meal",
+    "lvl": "Skill level: Master 1",
+    "category": "Cooking",
+    "mats1": [
+      "Skewered Llama Cheese Melt",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Stir-Fried Bracken",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Roast Marmot",
+      1,
+      0.1
+    ],
+    "mats4": [
+      "Ghormeh Sabzi",
+      1,
+      0.1
+    ],
+    "mats5": [
+      "Honey Wine",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "235",
+    "name": "Special Drieghanese Meal",
+    "lvl": "Skill level: Master 1",
+    "category": "Cooking",
+    "mats1": [
+      "Skewered Llama Cheese Melt",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Savory Stir-Fried Bracken",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Roast Marmot",
+      1,
+      0.1
+    ],
+    "mats4": [
+      "Ghormeh Sabzi",
+      1,
+      0.1
+    ],
+    "mats5": [
+      "Honey Wine",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "341",
+    "name": "Savory Steak",
+    "lvl": "Skill level: Professional 1",
+    "category": "Cooking",
+    "mats1": [
+      "Lion Meat",
+      4,
+      0.12
+    ],
+    "mats2": [
+      "Fig",
+      5,
+      0.5
+    ],
+    "mats3": [
+      "Cooking Wine",
+      2,
+      0.02
+    ],
+    "mats4": [
+      "Pepper",
+      3,
+      0.3
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "347",
+    "name": "Carrot Confit",
+    "lvl": "Skill level: Beginner 6",
+    "category": "Cooking",
+    "mats1": [
+      "Special Carrot",
+      2,
+      0.2
+    ],
+    "mats2": [
+      "Purified Water",
+      3,
+      0.89
+    ],
+    "mats3": [
+      "Lump of Raw Sugar",
+      3,
+      0.3
+    ],
+    "mats4": [
+      "Salt",
+      2,
+      0.02
+    ],
+    "mats5": [
+      "Cinnamon",
+      4,
+      0.4
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "348",
+    "name": "Carrot Confit",
+    "lvl": "Skill level: Beginner 6",
+    "category": "Cooking",
+    "mats1": [
+      "Special Carrot",
+      2,
+      0.2
+    ],
+    "mats2": [
+      "Mineral Water",
+      6,
+      0.06
+    ],
+    "mats3": [
+      "Lump of Raw Sugar",
+      3,
+      0.3
+    ],
+    "mats4": [
+      "Salt",
+      2,
+      0.02
+    ],
+    "mats5": [
+      "Cinnamon",
+      4,
+      0.4
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "349",
+    "name": "Chowder",
+    "lvl": "Skill level: Professional 1",
+    "category": "Cooking",
+    "mats1": [
+      "Dried Pearl Oyster Flesh",
+      1,
+      0.5
+    ],
+    "mats2": [
+      "Pepper",
+      2,
+      0.2
+    ],
+    "mats3": [
+      "Pork",
+      2,
+      0.06
+    ],
+    "mats4": [
+      "Milk",
+      1,
+      0.01
+    ],
+    "mats5": [
+      "Teff Bread",
+      1,
+      0.1
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "351",
+    "name": "Stir-Fried Vegetables",
+    "lvl": "Skill level: Beginner 6",
+    "category": "Cooking",
+    "mats1": [
+      "Onion",
+      7,
+      0.7
+    ],
+    "mats2": [
+      "Olive Oil",
+      2,
+      0.02
+    ],
+    "mats3": [
+      "Hot Pepper",
+      2,
+      0.2
+    ],
+    "mats4": [
+      "Salt",
+      1,
+      0.01
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "352",
+    "name": "Stir-Fried Bird",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Cooking",
+    "mats1": [
+      "Chicken Meat",
+      5,
+      0.15
+    ],
+    "mats2": [
+      "Wheat",
+      5,
+      0.5
+    ],
+    "mats3": [
+      "Onion",
+      3,
+      0.3
+    ],
+    "mats4": [
+      "Deep Frying Oil",
+      2,
+      0.02
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "353",
+    "name": "Stir-Fried Bird",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Cooking",
+    "mats1": [
+      "Chicken Meat",
+      5,
+      0.15
+    ],
+    "mats2": [
+      "Wheat",
+      5,
+      0.5
+    ],
+    "mats3": [
+      "Onion",
+      3,
+      0.3
+    ],
+    "mats4": [
+      "Olive Oil",
+      2,
+      0.02
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "354",
+    "name": "Chicken Breast Salad",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Cooking",
+    "mats1": [
+      "Chicken Meat",
+      5,
+      0.15
+    ],
+    "mats2": [
+      "Apple",
+      5,
+      0.5
+    ],
+    "mats3": [
+      "Cabbage",
+      5,
+      0.5
+    ],
+    "mats4": [
+      "Vinegar",
+      1,
+      0.01
+    ],
+    "mats5": [
+      "Cooking Wine",
+      2,
+      0.02
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "355",
+    "name": "Delotia Juice",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Cooking",
+    "mats1": [
+      "Delotia",
+      4,
+      0.4
+    ],
+    "mats2": [
+      "Apple",
+      5,
+      0.5
+    ],
+    "mats3": [
+      "Sugar",
+      3,
+      0.03
+    ],
+    "mats4": [
+      "Purified Water",
+      3,
+      0.89
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "356",
+    "name": "Delotia Juice",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Cooking",
+    "mats1": [
+      "Delotia",
+      4,
+      0.4
+    ],
+    "mats2": [
+      "Apple",
+      5,
+      0.5
+    ],
+    "mats3": [
+      "Raw Sugar",
+      1,
+      0.01
+    ],
+    "mats4": [
+      "Purified Water",
+      3,
+      0.03
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "357",
+    "name": "Delotia Milk Tea",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Cooking",
+    "mats1": [
+      "Delotia",
+      4,
+      0.4
+    ],
+    "mats2": [
+      "Milk",
+      3,
+      0.03
+    ],
+    "mats3": [
+      "Cooking Honey",
+      3,
+      0.3
+    ],
+    "mats4": [
+      "Purified Water",
+      3,
+      0.89
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "358",
+    "name": "Delotia Tart",
+    "lvl": "Skill level: Skilled 1",
+    "category": "Cooking",
+    "mats1": [
+      "Delotia",
+      3,
+      0.3
+    ],
+    "mats2": [
+      "Milk",
+      2,
+      0.02
+    ],
+    "mats3": [
+      "Wheat Flour",
+      5,
+      0.5
+    ],
+    "mats4": [
+      "Egg",
+      1,
+      0.01
+    ],
+    "mats5": [
+      "Purified Water",
+      3,
+      0.89
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "359",
+    "name": "Delotia Pudding",
+    "lvl": "Skill level: Professional 1",
+    "category": "Cooking",
+    "mats1": [
+      "Delotia",
+      5,
+      0.5
+    ],
+    "mats2": [
+      "Wolf Blood",
+      7,
+      0.7
+    ],
+    "mats3": [
+      "Honey Wine",
+      2,
+      0.2
+    ],
+    "mats4": [
+      "Oatmeal",
+      1,
+      0.1
+    ],
+    "mats5": [
+      "Purified Water",
+      3,
+      0.89
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "360",
+    "name": "Frank Sandwich",
+    "lvl": "Skill level: Professional 1",
+    "category": "Cooking",
+    "mats1": [
+      "Grilled Sausage",
+      2,
+      0.2
+    ],
+    "mats2": [
+      "Soft Bread",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Cabbage",
+      2,
+      0.2
+    ],
+    "mats4": [
+      "Red Sauce",
+      1,
+      0.01
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "361",
+    "name": "Frank Sandwich",
+    "lvl": "Skill level: Professional 1",
+    "category": "Cooking",
+    "mats1": [
+      "Smoked Sausage",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Soft Bread",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Cabbage",
+      2,
+      0.2
+    ],
+    "mats4": [
+      "Red Sauce",
+      1,
+      0.01
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "362",
+    "name": "Stir-Fried Bracken and Meat",
+    "lvl": "Skill level: Professional 1",
+    "category": "Cooking",
+    "mats1": [
+      "Bracken",
+      3,
+      0.3
+    ],
+    "mats2": [
+      "Pork",
+      6,
+      0.18
+    ],
+    "mats3": [
+      "Garlic",
+      3,
+      0.3
+    ],
+    "mats4": [
+      "Olive Oil",
+      2,
+      0.02
+    ],
+    "mats5": [
+      "Mineral Water",
+      5,
+      0.05
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "363",
+    "name": "O'dyllita Meal",
+    "lvl": "Skill level: Artisan 1",
+    "category": "Cooking",
+    "mats1": [
+      "Blood Red Delotia Pudding",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Stir-Fried Bracken and Meat",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Delotia Juice",
+      2,
+      0.2
+    ],
+    "mats4": [
+      "Chicken Breast Salad",
+      2,
+      0.2
+    ],
+    "mats5": [
+      "Stir-Fried Bird",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  },
+  {
+    "id": "364",
+    "name": "O'dyllita Meal",
+    "lvl": "Skill level: Artisan 1",
+    "category": "Cooking",
+    "mats1": [
+      "Delotia Pudding",
+      1,
+      0.1
+    ],
+    "mats2": [
+      "Stir-Fried Bracken and Meat",
+      1,
+      0.1
+    ],
+    "mats3": [
+      "Delotia Juice",
+      2,
+      0.2
+    ],
+    "mats4": [
+      "Chicken Breast Salad",
+      2,
+      0.2
+    ],
+    "mats5": [
+      "Stir-Fried Bird",
+      2,
+      0.2
+    ],
+    "qd": 2.5
+  }
+]

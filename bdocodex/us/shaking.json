@@ -1,0 +1,3122 @@
+[
+  {
+    "id": "80",
+    "name": "Blood Ruby",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4452",
+        "name": "Resplendent Ruby",
+        "qty": "7"
+      },
+      {
+        "id": "4481",
+        "name": "Gem Polisher",
+        "qty": "3"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4453",
+        "name": "Blood Ruby"
+      }
+    ]
+  },
+  {
+    "id": "81",
+    "name": "Ocean Sapphire",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4455",
+        "name": "Resplendent Sapphire",
+        "qty": "7"
+      },
+      {
+        "id": "4481",
+        "name": "Gem Polisher",
+        "qty": "3"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4456",
+        "name": "Ocean Sapphire"
+      }
+    ]
+  },
+  {
+    "id": "82",
+    "name": "Gold Topaz",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4458",
+        "name": "Resplendent Topaz",
+        "qty": "7"
+      },
+      {
+        "id": "4481",
+        "name": "Gem Polisher",
+        "qty": "3"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4459",
+        "name": "Gold Topaz"
+      }
+    ]
+  },
+  {
+    "id": "83",
+    "name": "Forest Emerald",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4461",
+        "name": "Resplendent Emerald",
+        "qty": "7"
+      },
+      {
+        "id": "4481",
+        "name": "Gem Polisher",
+        "qty": "3"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4462",
+        "name": "Forest Emerald"
+      }
+    ]
+  },
+  {
+    "id": "84",
+    "name": "Star Diamond",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4464",
+        "name": "Resplendent Diamond",
+        "qty": "7"
+      },
+      {
+        "id": "4481",
+        "name": "Gem Polisher",
+        "qty": "3"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4465",
+        "name": "Star Diamond"
+      }
+    ]
+  },
+  {
+    "id": "88",
+    "name": "Indigo Lapis Lazuli",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4491",
+        "name": "Resplendent Lapis Lazuli",
+        "qty": "7"
+      },
+      {
+        "id": "4481",
+        "name": "Gem Polisher",
+        "qty": "3"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4492",
+        "name": "Indigo Lapis Lazuli"
+      }
+    ]
+  },
+  {
+    "id": "668",
+    "name": "Tough Flax Fabric",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "5856",
+        "name": "Flax Fabric",
+        "qty": "10"
+      },
+      {
+        "id": "9978",
+        "name": "[Guild] Hekaru's Spike",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "5859",
+        "name": "Tough Flax Fabric"
+      }
+    ]
+  },
+  {
+    "id": "881",
+    "name": "Supreme Soft Hide",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6159",
+        "name": "Fine Soft Hide",
+        "qty": "3"
+      },
+      {
+        "id": "6183",
+        "name": "Leather Glaze",
+        "qty": "5"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6167",
+        "name": "Supreme Soft Hide"
+      }
+    ]
+  },
+  {
+    "id": "882",
+    "name": "Supreme Tough Hide",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6160",
+        "name": "Fine Tough Hide",
+        "qty": "3"
+      },
+      {
+        "id": "6183",
+        "name": "Leather Glaze",
+        "qty": "5"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6168",
+        "name": "Supreme Tough Hide"
+      }
+    ]
+  },
+  {
+    "id": "883",
+    "name": "Supreme Hard Hide",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6161",
+        "name": "Fine Hard Hide",
+        "qty": "3"
+      },
+      {
+        "id": "6183",
+        "name": "Leather Glaze",
+        "qty": "5"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6169",
+        "name": "Supreme Hard Hide"
+      }
+    ]
+  },
+  {
+    "id": "884",
+    "name": "Supreme Thin Hide",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6162",
+        "name": "Fine Thin Hide",
+        "qty": "3"
+      },
+      {
+        "id": "6183",
+        "name": "Leather Glaze",
+        "qty": "5"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6170",
+        "name": "Supreme Thin Hide"
+      }
+    ]
+  },
+  {
+    "id": "885",
+    "name": "Supreme Thick Fur",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6163",
+        "name": "Fine Thick Fur",
+        "qty": "3"
+      },
+      {
+        "id": "6183",
+        "name": "Leather Glaze",
+        "qty": "5"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6171",
+        "name": "Supreme Thick Fur"
+      }
+    ]
+  },
+  {
+    "id": "886",
+    "name": "Supreme Fancy Reptile Skin",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6164",
+        "name": "Fine Fancy Reptile Skin",
+        "qty": "3"
+      },
+      {
+        "id": "6183",
+        "name": "Leather Glaze",
+        "qty": "5"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6172",
+        "name": "Supreme Fancy Reptile Skin"
+      }
+    ]
+  },
+  {
+    "id": "887",
+    "name": "Supreme Lightweight Plume",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6165",
+        "name": "Fine Lightweight Plume",
+        "qty": "3"
+      },
+      {
+        "id": "6183",
+        "name": "Leather Glaze",
+        "qty": "5"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6173",
+        "name": "Supreme Lightweight Plume"
+      }
+    ]
+  },
+  {
+    "id": "888",
+    "name": "Supreme Fancy Feather",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6166",
+        "name": "Fine Fancy Feather",
+        "qty": "3"
+      },
+      {
+        "id": "6183",
+        "name": "Leather Glaze",
+        "qty": "5"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6174",
+        "name": "Supreme Fancy Feather"
+      }
+    ]
+  },
+  {
+    "id": "912",
+    "name": "Wheat Dough",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "7101",
+        "name": "Wheat Flour",
+        "qty": "1"
+      },
+      {
+        "id": "9059",
+        "name": "Mineral Water",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "7201",
+        "name": "Wheat Dough"
+      }
+    ]
+  },
+  {
+    "id": "913",
+    "name": "Barley Dough",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "7102",
+        "name": "Barley Flour",
+        "qty": "1"
+      },
+      {
+        "id": "9059",
+        "name": "Mineral Water",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "7202",
+        "name": "Barley Dough"
+      }
+    ]
+  },
+  {
+    "id": "914",
+    "name": "Potato Dough",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "7103",
+        "name": "Potato Flour",
+        "qty": "1"
+      },
+      {
+        "id": "9059",
+        "name": "Mineral Water",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "7203",
+        "name": "Potato Dough"
+      }
+    ]
+  },
+  {
+    "id": "915",
+    "name": "Sweet Potato Dough",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "7104",
+        "name": "Sweet Potato Flour",
+        "qty": "1"
+      },
+      {
+        "id": "9059",
+        "name": "Mineral Water",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "7204",
+        "name": "Sweet Potato Dough"
+      }
+    ]
+  },
+  {
+    "id": "916",
+    "name": "Corn Dough",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "7105",
+        "name": "Corn Flour",
+        "qty": "1"
+      },
+      {
+        "id": "9059",
+        "name": "Mineral Water",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "7205",
+        "name": "Corn Dough"
+      }
+    ]
+  },
+  {
+    "id": "917",
+    "name": "Teff Flour Dough",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "7106",
+        "name": "Teff Flour",
+        "qty": "1"
+      },
+      {
+        "id": "9059",
+        "name": "Mineral Water",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "7206",
+        "name": "Teff Flour Dough"
+      }
+    ]
+  },
+  {
+    "id": "918",
+    "name": "Freekeh Flour Dough",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "7107",
+        "name": "Freekeh Flour",
+        "qty": "1"
+      },
+      {
+        "id": "9059",
+        "name": "Mineral Water",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "7207",
+        "name": "Freekeh Flour Dough"
+      }
+    ]
+  },
+  {
+    "id": "1127",
+    "name": "Mysterious Pepper Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6717",
+        "name": "Special Pepper Seed",
+        "qty": "1"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6851",
+        "name": "Mysterious Pepper Seed"
+      }
+    ]
+  },
+  {
+    "id": "1128",
+    "name": "Mysterious Garlic Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6718",
+        "name": "Special Garlic Seed",
+        "qty": "1"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6852",
+        "name": "Mysterious Garlic Seed"
+      }
+    ]
+  },
+  {
+    "id": "1129",
+    "name": "Mysterious Onion Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6719",
+        "name": "Special Onion Seed",
+        "qty": "1"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6853",
+        "name": "Mysterious Onion Seed"
+      }
+    ]
+  },
+  {
+    "id": "1130",
+    "name": "Mysterious Hot Pepper Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6721",
+        "name": "Special Hot Pepper Seed",
+        "qty": "1"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6854",
+        "name": "Mysterious Hot Pepper Seed"
+      }
+    ]
+  },
+  {
+    "id": "1131",
+    "name": "Mysterious Pumpkin Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6722",
+        "name": "Special Pumpkin Seed",
+        "qty": "1"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6855",
+        "name": "Mysterious Pumpkin Seed"
+      }
+    ]
+  },
+  {
+    "id": "1132",
+    "name": "Mysterious Carrot Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6723",
+        "name": "Special Carrot Seed",
+        "qty": "1"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6856",
+        "name": "Mysterious Carrot Seed"
+      }
+    ]
+  },
+  {
+    "id": "1133",
+    "name": "Mysterious Strawberry Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6709",
+        "name": "Special Strawberry Seed",
+        "qty": "1"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6857",
+        "name": "Mysterious Strawberry Seed"
+      }
+    ]
+  },
+  {
+    "id": "1134",
+    "name": "Mysterious Grape Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6821",
+        "name": "Special Grape Seed",
+        "qty": "1"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6858",
+        "name": "Mysterious Grape Seed"
+      }
+    ]
+  },
+  {
+    "id": "1135",
+    "name": "Mysterious Sunflower Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6822",
+        "name": "Special Sunflower Seed",
+        "qty": "1"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6859",
+        "name": "Mysterious Sunflower Seed"
+      }
+    ]
+  },
+  {
+    "id": "1136",
+    "name": "Mysterious Olive Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6823",
+        "name": "Special Olive Seed",
+        "qty": "1"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6860",
+        "name": "Mysterious Olive Seed"
+      }
+    ]
+  },
+  {
+    "id": "1137",
+    "name": "Mysterious Tomato Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6824",
+        "name": "Special Tomato Seed",
+        "qty": "1"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6861",
+        "name": "Mysterious Tomato Seed"
+      }
+    ]
+  },
+  {
+    "id": "1138",
+    "name": "Mysterious Paprika Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6825",
+        "name": "Special Paprika Seed",
+        "qty": "1"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6862",
+        "name": "Mysterious Paprika Seed"
+      }
+    ]
+  },
+  {
+    "id": "1139",
+    "name": "Mysterious Seed Potato",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6826",
+        "name": "Special Seed Potato",
+        "qty": "1"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6863",
+        "name": "Mysterious Seed Potato"
+      }
+    ]
+  },
+  {
+    "id": "1140",
+    "name": "Mysterious Barley Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6827",
+        "name": "Special Barley Seed",
+        "qty": "1"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6864",
+        "name": "Mysterious Barley Seed"
+      }
+    ]
+  },
+  {
+    "id": "1141",
+    "name": "Mysterious Wheat Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6828",
+        "name": "Special Wheat Seed",
+        "qty": "1"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6865",
+        "name": "Mysterious Wheat Seed"
+      }
+    ]
+  },
+  {
+    "id": "1142",
+    "name": "Mysterious Corn Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6829",
+        "name": "Special Corn Seed",
+        "qty": "1"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6866",
+        "name": "Mysterious Corn Seed"
+      }
+    ]
+  },
+  {
+    "id": "1143",
+    "name": "Mysterious Seed Sweet Potato",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6830",
+        "name": "Special Seed Sweet Potato",
+        "qty": "1"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6867",
+        "name": "Mysterious Seed Sweet Potato"
+      }
+    ]
+  },
+  {
+    "id": "1144",
+    "name": "Mysterious Fig Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6841",
+        "name": "Special Fig Seed",
+        "qty": "1"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6868",
+        "name": "Mysterious Fig Seed"
+      }
+    ]
+  },
+  {
+    "id": "1145",
+    "name": "Mysterious Star Anise Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6842",
+        "name": "Special Star Anise Seed",
+        "qty": "1"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6869",
+        "name": "Mysterious Star Anise Seed"
+      }
+    ]
+  },
+  {
+    "id": "1146",
+    "name": "Mysterious Nutmeg Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6843",
+        "name": "Special Nutmeg Seed",
+        "qty": "1"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6870",
+        "name": "Mysterious Nutmeg Seed"
+      }
+    ]
+  },
+  {
+    "id": "1147",
+    "name": "Mysterious Freekeh Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6844",
+        "name": "Special Freekeh Seed",
+        "qty": "1"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6871",
+        "name": "Mysterious Freekeh Seed"
+      }
+    ]
+  },
+  {
+    "id": "1148",
+    "name": "Mysterious Teff Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6845",
+        "name": "Special Teff Seed",
+        "qty": "1"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6872",
+        "name": "Mysterious Teff Seed"
+      }
+    ]
+  },
+  {
+    "id": "1149",
+    "name": "Mysterious Sunrise Herb Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6972",
+        "name": "Special Sunrise Herb Seed",
+        "qty": "1"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6873",
+        "name": "Mysterious Sunrise Herb Seed"
+      }
+    ]
+  },
+  {
+    "id": "1150",
+    "name": "Mysterious Silver Azalea Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6973",
+        "name": "Special Silver Azalea Seed",
+        "qty": "1"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6874",
+        "name": "Mysterious Silver Azalea Seed"
+      }
+    ]
+  },
+  {
+    "id": "1151",
+    "name": "Mysterious Fire Flake Flower Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6974",
+        "name": "Special Fire Flake Flower Seed",
+        "qty": "1"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6875",
+        "name": "Mysterious Fire Flake Flower Seed"
+      }
+    ]
+  },
+  {
+    "id": "1152",
+    "name": "Mysterious Dry Mane Grass Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6975",
+        "name": "Special Dry Mane Grass Seed",
+        "qty": "1"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6876",
+        "name": "Mysterious Dry Mane Grass Seed"
+      }
+    ]
+  },
+  {
+    "id": "1153",
+    "name": "Mysterious Silk Honey Grass Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6976",
+        "name": "Special Silk Honey Grass Seed",
+        "qty": "1"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6877",
+        "name": "Mysterious Silk Honey Grass Seed"
+      }
+    ]
+  },
+  {
+    "id": "1154",
+    "name": "Mysterious Everlasting Herb Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6977",
+        "name": "Special Everlasting Herb Seed",
+        "qty": "1"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6878",
+        "name": "Mysterious Everlasting Herb Seed"
+      }
+    ]
+  },
+  {
+    "id": "1155",
+    "name": "Mysterious Fortune Teller Mushroom Hypha",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6978",
+        "name": "Special Fortune Teller Mushroom Hypha",
+        "qty": "1"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6879",
+        "name": "Mysterious Fortune Teller Mushroom Hypha"
+      }
+    ]
+  },
+  {
+    "id": "1156",
+    "name": "Mysterious Arrow Mushroom Hypha",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6979",
+        "name": "Special Arrow Mushroom Hypha",
+        "qty": "1"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6880",
+        "name": "Mysterious Arrow Mushroom Hypha"
+      }
+    ]
+  },
+  {
+    "id": "1157",
+    "name": "Mysterious Dwarf Mushroom Hypha",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6980",
+        "name": "Special Dwarf Mushroom Hypha",
+        "qty": "1"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6881",
+        "name": "Mysterious Dwarf Mushroom Hypha"
+      }
+    ]
+  },
+  {
+    "id": "1158",
+    "name": "Mysterious Cloud Mushroom Hypha",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6981",
+        "name": "Special Cloud Mushroom Hypha",
+        "qty": "1"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6882",
+        "name": "Mysterious Cloud Mushroom Hypha"
+      }
+    ]
+  },
+  {
+    "id": "1159",
+    "name": "Mysterious Sky Mushroom Hypha",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6982",
+        "name": "Special Sky Mushroom Hypha",
+        "qty": "1"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6883",
+        "name": "Mysterious Sky Mushroom Hypha"
+      }
+    ]
+  },
+  {
+    "id": "1160",
+    "name": "Mysterious Tiger Mushroom Hypha",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6983",
+        "name": "Special Tiger Mushroom Hypha",
+        "qty": "1"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6884",
+        "name": "Mysterious Tiger Mushroom Hypha"
+      }
+    ]
+  },
+  {
+    "id": "1161",
+    "name": "Mysterious Emperor Mushroom Hypha",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6984",
+        "name": "Special Emperor Mushroom Hypha",
+        "qty": "1"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6885",
+        "name": "Mysterious Emperor Mushroom Hypha"
+      }
+    ]
+  },
+  {
+    "id": "1162",
+    "name": "Mysterious Ghost Mushroom Hypha",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6985",
+        "name": "Special Ghost Mushroom Hypha",
+        "qty": "1"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6886",
+        "name": "Mysterious Ghost Mushroom Hypha"
+      }
+    ]
+  },
+  {
+    "id": "1163",
+    "name": "Mysterious Fog Mushroom Hypha",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6986",
+        "name": "Special Fog Mushroom Hypha",
+        "qty": "1"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6887",
+        "name": "Mysterious Fog Mushroom Hypha"
+      }
+    ]
+  },
+  {
+    "id": "1164",
+    "name": "Mysterious Hump Mushroom Hypha",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6987",
+        "name": "Special Hump Mushroom Hypha",
+        "qty": "1"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6888",
+        "name": "Mysterious Hump Mushroom Hypha"
+      }
+    ]
+  },
+  {
+    "id": "1165",
+    "name": "Mysterious Bluffer Mushroom Hypha",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6988",
+        "name": "Special Bluffer Mushroom Hypha",
+        "qty": "1"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6889",
+        "name": "Mysterious Bluffer Mushroom Hypha"
+      }
+    ]
+  },
+  {
+    "id": "1166",
+    "name": "Mysterious Ancient Mushroom Hypha",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6989",
+        "name": "Special Ancient Mushroom Hypha",
+        "qty": "1"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6890",
+        "name": "Mysterious Ancient Mushroom Hypha"
+      }
+    ]
+  },
+  {
+    "id": "1167",
+    "name": "Mysterious Amanita Mushroom Hypha",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6990",
+        "name": "Special Amanita Mushroom Hypha",
+        "qty": "1"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6891",
+        "name": "Mysterious Amanita Mushroom Hypha"
+      }
+    ]
+  },
+  {
+    "id": "1168",
+    "name": "Mysterious Truffle Mushroom Hypha",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6991",
+        "name": "Special Truffle Mushroom Hypha",
+        "qty": "1"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6892",
+        "name": "Mysterious Truffle Mushroom Hypha"
+      }
+    ]
+  },
+  {
+    "id": "1169",
+    "name": "Mysterious Nolina Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6992",
+        "name": "Special Nolina Seed",
+        "qty": "1"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6893",
+        "name": "Mysterious Nolina Seed"
+      }
+    ]
+  },
+  {
+    "id": "1170",
+    "name": "Mysterious Penestraria Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6993",
+        "name": "Special Penestraria Seed",
+        "qty": "1"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6894",
+        "name": "Mysterious Penestraria Seed"
+      }
+    ]
+  },
+  {
+    "id": "1171",
+    "name": "Mysterious Dalvenia Alrea Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6994",
+        "name": "Special Dalvenia Alrea Seed",
+        "qty": "1"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6895",
+        "name": "Mysterious Dalvenia Alrea Seed"
+      }
+    ]
+  },
+  {
+    "id": "1172",
+    "name": "Mysterious Bouqet Mushroom Hypha",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6995",
+        "name": "Special Bouquet Mushroom Hypha",
+        "qty": "1"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6896",
+        "name": "Mysterious Bouqet Mushroom Hypha"
+      }
+    ]
+  },
+  {
+    "id": "1173",
+    "name": "Mysterious Leccinum Hypha",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6996",
+        "name": "Special Leccinum Hypha",
+        "qty": "1"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6897",
+        "name": "Mysterious Leccinum Hypha"
+      }
+    ]
+  },
+  {
+    "id": "1174",
+    "name": "Mysterious Purple Mushroom Hypha",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6997",
+        "name": "Special Purple Mushroom Hypha",
+        "qty": "1"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6898",
+        "name": "Mysterious Purple Mushroom Hypha"
+      }
+    ]
+  },
+  {
+    "id": "1175",
+    "name": "Mysterious Pie Mushroom Hypha",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6998",
+        "name": "Special Pie Mushroom Hypha",
+        "qty": "1"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6899",
+        "name": "Mysterious Pie Mushroom Hypha"
+      }
+    ]
+  },
+  {
+    "id": "1176",
+    "name": "Mysterious Acacia Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "7000",
+        "name": "Special Acacia Seed",
+        "qty": "1"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6900",
+        "name": "Mysterious Acacia Seed"
+      }
+    ]
+  },
+  {
+    "id": "1177",
+    "name": "Cream",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "9065",
+        "name": "Milk",
+        "qty": "1"
+      },
+      {
+        "id": "9002",
+        "name": "Sugar",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "9061",
+        "name": "Cream"
+      }
+    ]
+  },
+  {
+    "id": "1179",
+    "name": "Butter",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "9061",
+        "name": "Cream",
+        "qty": "1"
+      },
+      {
+        "id": "9001",
+        "name": "Salt",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "9063",
+        "name": "Butter"
+      }
+    ]
+  },
+  {
+    "id": "1195",
+    "name": "Byproduct Fertilizer",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "16901",
+        "name": "Inorganic Fertilizer",
+        "qty": "3"
+      },
+      {
+        "id": "9005",
+        "name": "Leavening Agent",
+        "qty": "2"
+      }
+    ],
+    "prod": [
+      {
+        "id": "16902",
+        "name": "Byproduct Fertilizer"
+      }
+    ]
+  },
+  {
+    "id": "1196",
+    "name": "Organic Fertilizer",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "16902",
+        "name": "Byproduct Fertilizer",
+        "qty": "2"
+      },
+      {
+        "id": "6651",
+        "name": "Distilled Water",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "16903",
+        "name": "Organic Fertilizer"
+      }
+    ]
+  },
+  {
+    "id": "1197",
+    "name": "Organic Fertilizer",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "16902",
+        "name": "Byproduct Fertilizer",
+        "qty": "3"
+      },
+      {
+        "id": "6652",
+        "name": "Bottle of Sea Water",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "16903",
+        "name": "Organic Fertilizer"
+      }
+    ]
+  },
+  {
+    "id": "1198",
+    "name": "Organic Fertilizer",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "16902",
+        "name": "Byproduct Fertilizer",
+        "qty": "3"
+      },
+      {
+        "id": "6653",
+        "name": "Bottle of River Water",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "16903",
+        "name": "Organic Fertilizer"
+      }
+    ]
+  },
+  {
+    "id": "1199",
+    "name": "Organic Fertilizer",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "16902",
+        "name": "Byproduct Fertilizer",
+        "qty": "3"
+      },
+      {
+        "id": "6654",
+        "name": "Bottle of Turbid Water",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "16903",
+        "name": "Organic Fertilizer"
+      }
+    ]
+  },
+  {
+    "id": "1200",
+    "name": "Organic Fertilizer",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "16902",
+        "name": "Byproduct Fertilizer",
+        "qty": "3"
+      },
+      {
+        "id": "6655",
+        "name": "Bottle of Clean Water",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "16903",
+        "name": "Organic Fertilizer"
+      }
+    ]
+  },
+  {
+    "id": "1201",
+    "name": "Organic Fertilizer",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "16902",
+        "name": "Byproduct Fertilizer",
+        "qty": "2"
+      },
+      {
+        "id": "6656",
+        "name": "Purified Water",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "16903",
+        "name": "Organic Fertilizer"
+      }
+    ]
+  },
+  {
+    "id": "1717",
+    "name": "Mysterious Silver Azalea Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6774",
+        "name": "Magical Silver Azalea Seed",
+        "qty": "5"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6874",
+        "name": "Mysterious Silver Azalea Seed"
+      }
+    ]
+  },
+  {
+    "id": "1718",
+    "name": "Mysterious Acacia Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6800",
+        "name": "Magical Acacia Seed",
+        "qty": "5"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6900",
+        "name": "Mysterious Acacia Seed"
+      }
+    ]
+  },
+  {
+    "id": "1719",
+    "name": "Mysterious Star Anise Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6769",
+        "name": "Magical Star Anise Seed",
+        "qty": "5"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6869",
+        "name": "Mysterious Star Anise Seed"
+      }
+    ]
+  },
+  {
+    "id": "1720",
+    "name": "Mysterious Seed Sweet Potato",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6767",
+        "name": "Magical Seed Sweet Potato",
+        "qty": "5"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6867",
+        "name": "Mysterious Seed Sweet Potato"
+      }
+    ]
+  },
+  {
+    "id": "1721",
+    "name": "Mysterious Grape Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6758",
+        "name": "Magical Grape Seed",
+        "qty": "5"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6858",
+        "name": "Mysterious Grape Seed"
+      }
+    ]
+  },
+  {
+    "id": "1722",
+    "name": "Mysterious Everlasting Herb Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6778",
+        "name": "Magical Everlasting Herb Seed",
+        "qty": "5"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6878",
+        "name": "Mysterious Everlasting Herb Seed"
+      }
+    ]
+  },
+  {
+    "id": "1723",
+    "name": "Mysterious Fig Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6768",
+        "name": "Magical Fig Seed",
+        "qty": "5"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6868",
+        "name": "Mysterious Fig Seed"
+      }
+    ]
+  },
+  {
+    "id": "1724",
+    "name": "Mysterious Sunrise Herb Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6773",
+        "name": "Magical Sunrise Herb Seed",
+        "qty": "5"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6873",
+        "name": "Mysterious Sunrise Herb Seed"
+      }
+    ]
+  },
+  {
+    "id": "1725",
+    "name": "Mysterious Seed Potato",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6763",
+        "name": "Magical Seed Potato",
+        "qty": "5"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6863",
+        "name": "Mysterious Seed Potato"
+      }
+    ]
+  },
+  {
+    "id": "1726",
+    "name": "Mysterious Dry Mane Grass Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6776",
+        "name": "Magical Dry Mane Grass Seed",
+        "qty": "5"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6876",
+        "name": "Mysterious Dry Mane Grass Seed"
+      }
+    ]
+  },
+  {
+    "id": "1727",
+    "name": "Mysterious Strawberry Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6757",
+        "name": "Magical Strawberry Seed",
+        "qty": "5"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6857",
+        "name": "Mysterious Strawberry Seed"
+      }
+    ]
+  },
+  {
+    "id": "1728",
+    "name": "Mysterious Hot Pepper Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6754",
+        "name": "Magical Hot Pepper Seed",
+        "qty": "5"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6854",
+        "name": "Mysterious Hot Pepper Seed"
+      }
+    ]
+  },
+  {
+    "id": "1729",
+    "name": "Mysterious Corn Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6766",
+        "name": "Magical Corn Seed",
+        "qty": "5"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6866",
+        "name": "Mysterious Corn Seed"
+      }
+    ]
+  },
+  {
+    "id": "1730",
+    "name": "Mysterious Fire Flake Flower Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6775",
+        "name": "Magical Fire Flake Flower Seed",
+        "qty": "5"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6875",
+        "name": "Mysterious Fire Flake Flower Seed"
+      }
+    ]
+  },
+  {
+    "id": "1731",
+    "name": "Mysterious Onion Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6753",
+        "name": "Magical Onion Seed",
+        "qty": "5"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6853",
+        "name": "Mysterious Onion Seed"
+      }
+    ]
+  },
+  {
+    "id": "1732",
+    "name": "Mysterious Carrot Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6756",
+        "name": "Magical Carrot Seed",
+        "qty": "5"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6856",
+        "name": "Mysterious Carrot Seed"
+      }
+    ]
+  },
+  {
+    "id": "1733",
+    "name": "Mysterious Nutmeg Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6770",
+        "name": "Magical Nutmeg Seed",
+        "qty": "5"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6870",
+        "name": "Mysterious Nutmeg Seed"
+      }
+    ]
+  },
+  {
+    "id": "1734",
+    "name": "Mysterious Nolina Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6793",
+        "name": "Magical Nolina Seed",
+        "qty": "5"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6893",
+        "name": "Mysterious Nolina Seed"
+      }
+    ]
+  },
+  {
+    "id": "1735",
+    "name": "Mysterious Olive Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6760",
+        "name": "Magical Olive Seed",
+        "qty": "5"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6860",
+        "name": "Mysterious Olive Seed"
+      }
+    ]
+  },
+  {
+    "id": "1736",
+    "name": "Mysterious Paprika Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6762",
+        "name": "Magical Paprika Seed",
+        "qty": "5"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6862",
+        "name": "Mysterious Paprika Seed"
+      }
+    ]
+  },
+  {
+    "id": "1737",
+    "name": "Mysterious Sunflower Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6759",
+        "name": "Magical Sunflower Seed",
+        "qty": "5"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6859",
+        "name": "Mysterious Sunflower Seed"
+      }
+    ]
+  },
+  {
+    "id": "1738",
+    "name": "Mysterious Wheat Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6765",
+        "name": "Magical Wheat Seed",
+        "qty": "5"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6865",
+        "name": "Mysterious Wheat Seed"
+      }
+    ]
+  },
+  {
+    "id": "1739",
+    "name": "Mysterious Penestraria Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6794",
+        "name": "Magical Penestraria Seed",
+        "qty": "5"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6894",
+        "name": "Mysterious Penestraria Seed"
+      }
+    ]
+  },
+  {
+    "id": "1740",
+    "name": "Mysterious Teff Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6772",
+        "name": "Magical Teff Seed",
+        "qty": "5"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6872",
+        "name": "Mysterious Teff Seed"
+      }
+    ]
+  },
+  {
+    "id": "1741",
+    "name": "Mysterious Tomato Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6761",
+        "name": "Magical Tomato Seed",
+        "qty": "5"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6861",
+        "name": "Mysterious Tomato Seed"
+      }
+    ]
+  },
+  {
+    "id": "1742",
+    "name": "Mysterious Pumpkin Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6755",
+        "name": "Magical Pumpkin Seed",
+        "qty": "5"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6855",
+        "name": "Mysterious Pumpkin Seed"
+      }
+    ]
+  },
+  {
+    "id": "1743",
+    "name": "Mysterious Freekeh Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6771",
+        "name": "Magical Freekeh Seed",
+        "qty": "5"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6871",
+        "name": "Mysterious Freekeh Seed"
+      }
+    ]
+  },
+  {
+    "id": "1744",
+    "name": "Mysterious Dalvenia Alrea Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6795",
+        "name": "Magical Dalvenia Alrea Seed",
+        "qty": "5"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6895",
+        "name": "Mysterious Dalvenia Alrea Seed"
+      }
+    ]
+  },
+  {
+    "id": "1745",
+    "name": "Mysterious Pepper Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6751",
+        "name": "Magical Pepper Seed",
+        "qty": "5"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6851",
+        "name": "Mysterious Pepper Seed"
+      }
+    ]
+  },
+  {
+    "id": "1746",
+    "name": "Mysterious Silk Honey Grass Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6777",
+        "name": "Magical Silk Honey Grass Seed",
+        "qty": "5"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6877",
+        "name": "Mysterious Silk Honey Grass Seed"
+      }
+    ]
+  },
+  {
+    "id": "1747",
+    "name": "Mysterious Garlic Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6752",
+        "name": "Magical Garlic Seed",
+        "qty": "5"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6852",
+        "name": "Mysterious Garlic Seed"
+      }
+    ]
+  },
+  {
+    "id": "1748",
+    "name": "Mysterious Barley Seed",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6764",
+        "name": "Magical Barley Seed",
+        "qty": "5"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6864",
+        "name": "Mysterious Barley Seed"
+      }
+    ]
+  },
+  {
+    "id": "1749",
+    "name": "Mysterious Arrow Mushroom Hypha",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6780",
+        "name": "Magical Arrow Mushroom Hypha",
+        "qty": "5"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6880",
+        "name": "Mysterious Arrow Mushroom Hypha"
+      }
+    ]
+  },
+  {
+    "id": "1750",
+    "name": "Mysterious Emperor Mushroom Hypha",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6785",
+        "name": "Magical Emperor Mushroom Hypha",
+        "qty": "5"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6885",
+        "name": "Mysterious Emperor Mushroom Hypha"
+      }
+    ]
+  },
+  {
+    "id": "1751",
+    "name": "Mysterious Sky Mushroom Hypha",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6783",
+        "name": "Magical Sky Mushroom Hypha",
+        "qty": "5"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6883",
+        "name": "Mysterious Sky Mushroom Hypha"
+      }
+    ]
+  },
+  {
+    "id": "1752",
+    "name": "Mysterious Dwarf Mushroom Hypha",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6781",
+        "name": "Magical Dwarf Mushroom Hypha",
+        "qty": "5"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6881",
+        "name": "Mysterious Dwarf Mushroom Hypha"
+      }
+    ]
+  },
+  {
+    "id": "1753",
+    "name": "Mysterious Pie Mushroom Hypha",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6799",
+        "name": "Magical Pie Mushroom Hypha",
+        "qty": "5"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6899",
+        "name": "Mysterious Pie Mushroom Hypha"
+      }
+    ]
+  },
+  {
+    "id": "1754",
+    "name": "Mysterious Ghost Mushroom Hypha",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6786",
+        "name": "Magical Ghost Mushroom Hypha",
+        "qty": "5"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6886",
+        "name": "Mysterious Ghost Mushroom Hypha"
+      }
+    ]
+  },
+  {
+    "id": "1755",
+    "name": "Mysterious Bouqet Mushroom Hypha",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6796",
+        "name": "Magical Bouquet Mushroom Hypha",
+        "qty": "5"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6896",
+        "name": "Mysterious Bouqet Mushroom Hypha"
+      }
+    ]
+  },
+  {
+    "id": "1756",
+    "name": "Mysterious Bluffer Mushroom Hypha",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6789",
+        "name": "Magical Bluffer Mushroom Hypha",
+        "qty": "5"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6889",
+        "name": "Mysterious Bluffer Mushroom Hypha"
+      }
+    ]
+  },
+  {
+    "id": "1757",
+    "name": "Mysterious Hump Mushroom Hypha",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6788",
+        "name": "Magical Hump Mushroom Hypha",
+        "qty": "5"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6888",
+        "name": "Mysterious Hump Mushroom Hypha"
+      }
+    ]
+  },
+  {
+    "id": "1758",
+    "name": "Mysterious Tiger Mushroom Hypha",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6784",
+        "name": "Magical Tiger Mushroom Hypha",
+        "qty": "5"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6884",
+        "name": "Mysterious Tiger Mushroom Hypha"
+      }
+    ]
+  },
+  {
+    "id": "1759",
+    "name": "Mysterious Ancient Mushroom Hypha",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6790",
+        "name": "Magical Ancient Mushroom Hypha",
+        "qty": "5"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6890",
+        "name": "Mysterious Ancient Mushroom Hypha"
+      }
+    ]
+  },
+  {
+    "id": "1760",
+    "name": "Mysterious Cloud Mushroom Hypha",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6782",
+        "name": "Magical Cloud Mushroom Hypha",
+        "qty": "5"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6882",
+        "name": "Mysterious Cloud Mushroom Hypha"
+      }
+    ]
+  },
+  {
+    "id": "1761",
+    "name": "Mysterious Fortune Teller Mushroom Hypha",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6779",
+        "name": "Magical Fortune Teller Mushroom Hypha",
+        "qty": "5"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6879",
+        "name": "Mysterious Fortune Teller Mushroom Hypha"
+      }
+    ]
+  },
+  {
+    "id": "1762",
+    "name": "Mysterious Amanita Mushroom Hypha",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6791",
+        "name": "Magical Amanita Mushroom Hypha",
+        "qty": "5"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6891",
+        "name": "Mysterious Amanita Mushroom Hypha"
+      }
+    ]
+  },
+  {
+    "id": "1763",
+    "name": "Mysterious Leccinum Hypha",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6797",
+        "name": "Magical Leccinum Hypha",
+        "qty": "5"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6897",
+        "name": "Mysterious Leccinum Hypha"
+      }
+    ]
+  },
+  {
+    "id": "1764",
+    "name": "Mysterious Truffle Mushroom Hypha",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6792",
+        "name": "Magical Truffle Mushroom Hypha",
+        "qty": "5"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6892",
+        "name": "Mysterious Truffle Mushroom Hypha"
+      }
+    ]
+  },
+  {
+    "id": "1765",
+    "name": "Mysterious Purple Mushroom Hypha",
+    "cat": "Shaking",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "6798",
+        "name": "Magical Purple Mushroom Hypha",
+        "qty": "5"
+      },
+      {
+        "id": "44337",
+        "name": "Mysterious Seed",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "6898",
+        "name": "Mysterious Purple Mushroom Hypha"
+      }
+    ]
+  }
+]

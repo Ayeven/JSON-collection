@@ -1,0 +1,6028 @@
+[
+  {
+    "id": "13",
+    "name": "Polished Stone",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4006",
+        "name": "Rough Stone",
+        "qty": "10"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4068",
+        "name": "Polished Stone"
+      }
+    ]
+  },
+  {
+    "id": "70",
+    "name": "Ruby",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4401",
+        "name": "Rough Ruby",
+        "qty": "5"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4451",
+        "name": "Ruby"
+      },
+      {
+        "id": "4452",
+        "name": "Resplendent Ruby"
+      }
+    ]
+  },
+  {
+    "id": "71",
+    "name": "Resplendent Ruby",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4451",
+        "name": "Ruby",
+        "qty": "5"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4452",
+        "name": "Resplendent Ruby"
+      }
+    ]
+  },
+  {
+    "id": "72",
+    "name": "Sapphire",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4402",
+        "name": "Rough Sapphire",
+        "qty": "5"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4454",
+        "name": "Sapphire"
+      },
+      {
+        "id": "4455",
+        "name": "Resplendent Sapphire"
+      }
+    ]
+  },
+  {
+    "id": "73",
+    "name": "Resplendent Sapphire",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4454",
+        "name": "Sapphire",
+        "qty": "5"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4455",
+        "name": "Resplendent Sapphire"
+      }
+    ]
+  },
+  {
+    "id": "74",
+    "name": "Topaz",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4403",
+        "name": "Rough Topaz",
+        "qty": "5"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4457",
+        "name": "Topaz"
+      },
+      {
+        "id": "4458",
+        "name": "Resplendent Topaz"
+      }
+    ]
+  },
+  {
+    "id": "75",
+    "name": "Resplendent Topaz",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4457",
+        "name": "Topaz",
+        "qty": "5"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4458",
+        "name": "Resplendent Topaz"
+      }
+    ]
+  },
+  {
+    "id": "76",
+    "name": "Emerald",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4404",
+        "name": "Rough Emerald",
+        "qty": "5"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4460",
+        "name": "Emerald"
+      },
+      {
+        "id": "4461",
+        "name": "Resplendent Emerald"
+      }
+    ]
+  },
+  {
+    "id": "77",
+    "name": "Resplendent Emerald",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4460",
+        "name": "Emerald",
+        "qty": "5"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4461",
+        "name": "Resplendent Emerald"
+      }
+    ]
+  },
+  {
+    "id": "78",
+    "name": "Diamond",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4405",
+        "name": "Rough Diamond",
+        "qty": "5"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4463",
+        "name": "Diamond"
+      },
+      {
+        "id": "4464",
+        "name": "Resplendent Diamond"
+      }
+    ]
+  },
+  {
+    "id": "79",
+    "name": "Resplendent Diamond",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4463",
+        "name": "Diamond",
+        "qty": "5"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4464",
+        "name": "Resplendent Diamond"
+      }
+    ]
+  },
+  {
+    "id": "85",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "16001",
+        "name": "Black Stone (Weapon)",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "86",
+    "name": "Lapis Lazuli",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4413",
+        "name": "Rough Lapis Lazuli",
+        "qty": "5"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4490",
+        "name": "Lapis Lazuli"
+      },
+      {
+        "id": "4491",
+        "name": "Resplendent Lapis Lazuli"
+      }
+    ]
+  },
+  {
+    "id": "87",
+    "name": "Resplendent Lapis Lazuli",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4490",
+        "name": "Lapis Lazuli",
+        "qty": "5"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4491",
+        "name": "Resplendent Lapis Lazuli"
+      }
+    ]
+  },
+  {
+    "id": "89",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "16002",
+        "name": "Black Stone (Armor)",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "90",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15034",
+        "name": "Dim Magical Crystal: Karma",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "91",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15035",
+        "name": "Dim Magical Crystal: Combat",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "92",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15036",
+        "name": "Dim Magical Crystal: Gathering",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "93",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15037",
+        "name": "Dim Magical Crystal: Fishing",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "94",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15038",
+        "name": "Dim Magical Crystal: Hunting",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "95",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15039",
+        "name": "Dim Magical Crystal: Cooking",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "96",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15040",
+        "name": "Dim Magical Crystal: Alchemy",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "97",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15041",
+        "name": "Dim Magical Crystal: Processing",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "98",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15042",
+        "name": "Dim Magical Crystal: Training",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "99",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15043",
+        "name": "Dim Magical Crystal: Trade",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "100",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15044",
+        "name": "Dim Magical Crystal: Farming",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "101",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15045",
+        "name": "Dim Magical Crystal: Sail",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "102",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15001",
+        "name": "Magic Crystal of Crimson Flame - Precision",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "103",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15002",
+        "name": "Magic Crystal of Crimson Flame - Power",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "104",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15003",
+        "name": "Magic Crystal of Crimson Flame - Carnage",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "105",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15004",
+        "name": "Magic Crystal of Crimson Flame - Carnage",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "106",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15005",
+        "name": "Magic Crystal of Crimson Flame - Carnage",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "107",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15006",
+        "name": "Magic Crystal of Abundance - Armor",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "108",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15007",
+        "name": "Magic Crystal of Abundance - Vigor",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "109",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15008",
+        "name": "Magic Crystal of Abundance - Patience",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "110",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15009",
+        "name": "Magic Crystal of Abundance - Healing",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "111",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15010",
+        "name": "Magic Crystal of Abundance - Resonance",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "112",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15011",
+        "name": "Magic Crystal of Nature - Swiftness",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "113",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15012",
+        "name": "Magic Crystal of Nature - Adamantine",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "114",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15013",
+        "name": "Magic Crystal of Nature - Ascension",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "115",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15014",
+        "name": "Magic Crystal of the Sun - Assault",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "116",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15015",
+        "name": "Magic Crystal of the Sun - Sturdiness",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "117",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15016",
+        "name": "Magic Crystal of the Sun - Valor",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "118",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15017",
+        "name": "Magic Crystal of Enchantment - Memory",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "119",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15018",
+        "name": "Magic Crystal of Enchantment - Intimidation",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "120",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15019",
+        "name": "Magic Crystal of Enchantment - Vision",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "121",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15020",
+        "name": "Magic Crystal of Enchantment - Agility",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "122",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15021",
+        "name": "Magic Crystal of Perfection",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "123",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15022",
+        "name": "Magic Crystal - Crimson Flame",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "124",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15023",
+        "name": "Magic Crystal - Enchantment",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "125",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15024",
+        "name": "Magic Crystal - Destruction",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "126",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15025",
+        "name": "Magic Crystal - Temptation",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "127",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15026",
+        "name": "Magic Crystal - Agony",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "128",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15027",
+        "name": "Magic Crystal of Nature - Descent",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "129",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15028",
+        "name": "Magic Crystal of Nature - Endurance",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "130",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15029",
+        "name": "Magic Crystal of the Sun - Precision",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "131",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15030",
+        "name": "Magic Crystal of the Sun - Boulder",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "132",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15031",
+        "name": "Magic Crystal of Enchantment - Experience",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "133",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15032",
+        "name": "Magic Crystal - Meditation",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "134",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15033",
+        "name": "Magic Crystal of Abundance - Relaxation",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "135",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15101",
+        "name": "Magic Crystal of Infinity - Precision",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "136",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15102",
+        "name": "Magic Crystal of Infinity - Power",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "137",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15103",
+        "name": "Magic Crystal of Infinity - Carnage",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "138",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15104",
+        "name": "Magic Crystal of Infinity - Carnage",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "139",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15105",
+        "name": "Magic Crystal of Infinity - Carnage",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "140",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15106",
+        "name": "Magic Crystal of Infinity - Armor",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "141",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15107",
+        "name": "Magic Crystal of Infinity - Vigor",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "142",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15108",
+        "name": "Magic Crystal of Infinity - Patience",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "143",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15109",
+        "name": "Magic Crystal of Infinity - Heal",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "144",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15110",
+        "name": "Magic Crystal of Infinity - Resonance",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "145",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15111",
+        "name": "Magic Crystal of Infinity - Swiftness",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "146",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15112",
+        "name": "Magic Crystal of Infinity - Adamantine",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "147",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15113",
+        "name": "Magic Crystal of Infinity - Ascension",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "148",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15114",
+        "name": "Magic Crystal of Infinity - Descent",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "149",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15115",
+        "name": "Magic Crystal of Infinity - Endurance",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "150",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15116",
+        "name": "Magic Crystal of Infinity - Assault",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "151",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15117",
+        "name": "Magic Crystal of Infinity - Sturdiness",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "152",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15118",
+        "name": "Magic Crystal of Infinity - Valor",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "153",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15119",
+        "name": "Magic Crystal of Infinity - Precision",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "154",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15120",
+        "name": "Magic Crystal of Infinity - Strength",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "155",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15121",
+        "name": "Magic Crystal of Infinity - Memory",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "156",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15122",
+        "name": "Magic Crystal of Infinity - Intimidation",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "157",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15123",
+        "name": "Magic Crystal of Infinity - Vision",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "158",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15124",
+        "name": "Magic Crystal of Infinity - Agility",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "159",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15125",
+        "name": "Magic Crystal of Infinity - Experience",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "160",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15126",
+        "name": "Magic Crystal of Infinity - Durability",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "161",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15127",
+        "name": "Magic Crystal of Infinity - Absorption",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "162",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15128",
+        "name": "Magic Crystal of Infinity - MP Recovery",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "163",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15129",
+        "name": "Magic Crystal of Infinity - Back Attack",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "164",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15130",
+        "name": "Magic Crystal of Infinity - Down Attack",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "165",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15131",
+        "name": "Magic Crystal of Infinity - Air Attack",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "166",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15132",
+        "name": "Magic Crystal of Infinity - Critical Hit",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "167",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15133",
+        "name": "Magic Crystal of Infinity - Speed Attack",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "168",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15134",
+        "name": "Magic Crystal of Infinity - Counter Attack",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "169",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15135",
+        "name": "Magic Crystal of Infinity - Siege",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "170",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15136",
+        "name": "Magic Crystal of Infinity - Special Evasion",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "171",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15137",
+        "name": "Magic Crystal of Infinity - Melee Defense",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "172",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15138",
+        "name": "Magic Crystal of Infinity - Ranged Defense",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "173",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15139",
+        "name": "Magic Crystal of Infinity - Magic Defense",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "174",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15146",
+        "name": "Magic Crystal of Infinity - Energy",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "175",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15147",
+        "name": "Magic Crystal of Infinity - Submergence",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "176",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15148",
+        "name": "Magic Crystal of Infinity - Melee Attack",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "177",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15149",
+        "name": "Magic Crystal of Infinity - Ranged Attack",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "178",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15150",
+        "name": "Magic Crystal of Infinity - Magic Attack",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "179",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15151",
+        "name": "Magic Crystal of Infinity - Ignore Knockback Resistance",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "180",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15152",
+        "name": "Magic Crystal of Infinity - Ignore Knockdown Resistance",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "181",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15153",
+        "name": "Magic Crystal of Infinity - Ignore Grapple Resistance",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "182",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15154",
+        "name": "Magic Crystal of Infinity - Ignore Stun Resistance",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "183",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15201",
+        "name": "Black Magic Crystal - Precision",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "184",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15202",
+        "name": "Black Magic Crystal - Power",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "185",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15203",
+        "name": "Black Magic Crystal - Carnage",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "186",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15204",
+        "name": "Black Magic Crystal - Carnage",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "187",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15205",
+        "name": "Black Magic Crystal - Carnage",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "188",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15206",
+        "name": "Black Magic Crystal - Armor",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "189",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15207",
+        "name": "Black Magic Crystal - Vigor",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "190",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15208",
+        "name": "Black Magic Crystal - Patience",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "191",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15209",
+        "name": "Black Magic Crystal - Healing",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "192",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15210",
+        "name": "Black Magic Crystal - Resonance",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "193",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15211",
+        "name": "Black Magic Crystal - Swiftness",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "194",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15212",
+        "name": "Black Magic Crystal - Adamantine",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "195",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15213",
+        "name": "Black Magic Crystal - Ascension",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "196",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15214",
+        "name": "Black Magic Crystal - Descent",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "197",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15215",
+        "name": "Black Magic Crystal - Endurance",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "198",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15216",
+        "name": "Black Magic Crystal - Assault",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "199",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15217",
+        "name": "Black Magic Crystal - Sturdiness",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "200",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15218",
+        "name": "Black Magic Crystal - Valor",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "201",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15219",
+        "name": "Black Magic Crystal - Precision",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "202",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "203",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15221",
+        "name": "Black Magic Crystal - Memory",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "204",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15222",
+        "name": "Black Magic Crystal - Intimidation",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "205",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15223",
+        "name": "Black Magic Crystal - Vision",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "206",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15224",
+        "name": "Black Magic Crystal - Agility",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "207",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "208",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15501",
+        "name": "Ancient Magic Crystal - Crimson Flame",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "209",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15502",
+        "name": "Ancient Magic Crystal - Enchantment",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "210",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15503",
+        "name": "Ancient Magic Crystal - Destruction",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "211",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15504",
+        "name": "Ancient Magic Crystal - Temptation",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "212",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15505",
+        "name": "Ancient Magic Crystal - Agony",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "213",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15601",
+        "name": "Ancient Magic Crystal - Harphia",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "214",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15602",
+        "name": "Ancient Magic Crystal - Cobelinus",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "215",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15603",
+        "name": "Ancient Magic Crystal - Viper",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "216",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15604",
+        "name": "Ancient Magic Crystal - Hystria",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "217",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15605",
+        "name": "Ancient Magic Crystal - Carmae",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "218",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15649",
+        "name": "Ancient Magic Crystal - Addis",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "219",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15606",
+        "name": "Ancient Magic Crystal of Crimson Flame - Power",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "220",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15607",
+        "name": "Ancient Magic Crystal of Crimson Flame - Demihuman",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "221",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15608",
+        "name": "Ancient Magic Crystal of Crimson Flame - Human",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "222",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15609",
+        "name": "Ancient Magic Crystal of Crimson Flame - Carnage",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "223",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15610",
+        "name": "Ancient Magic Crystal of Abundance - Armor",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "224",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15611",
+        "name": "Ancient Magic Crystal of Abundance - Vigor",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "225",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15612",
+        "name": "Ancient Magic Crystal of Abundance - Patience",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "226",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15613",
+        "name": "Ancient Magic Crystal of Abundance- Healing",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "227",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15614",
+        "name": "Ancient Magic Crystal of Abundance - Resonance",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "228",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15615",
+        "name": "Ancient Magic Crystal of Nature - Swiftness",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "229",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15616",
+        "name": "Ancient Magic Crystal of Nature - Adamantine",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "230",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15617",
+        "name": "Ancient Magic Crystal of Nature - Mass",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "231",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15618",
+        "name": "Ancient Magic Crystal of the Sun - Assault",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "232",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15619",
+        "name": "Ancient Magic Crystal of the Sun - Sturdiness",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "233",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15620",
+        "name": "Ancient Magic Crystal of the Sun - Valor",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "234",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15621",
+        "name": "Ancient Magic Crystal of the Sun - Memory",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "235",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15622",
+        "name": "Ancient Magic Crystal of Enchantment - Intimidation",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "236",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15623",
+        "name": "Ancient Magic Crystal of Enchantment - Vision",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "237",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15624",
+        "name": "Ancient Magic Crystal of Enchantment - Agility",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "238",
+    "name": "Black Stone Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "15625",
+        "name": "Ancient Magic Crystal of Perfection",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder"
+      }
+    ]
+  },
+  {
+    "id": "239",
+    "name": "Black Stone (Weapon)",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "5000",
+        "name": "Black Gem",
+        "qty": "2"
+      }
+    ],
+    "prod": [
+      {
+        "id": "16001",
+        "name": "Black Stone (Weapon)"
+      }
+    ]
+  },
+  {
+    "id": "240",
+    "name": "Black Stone (Armor)",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4999",
+        "name": "Black Gem Fragment",
+        "qty": "2"
+      }
+    ],
+    "prod": [
+      {
+        "id": "16002",
+        "name": "Black Stone (Armor)"
+      }
+    ]
+  },
+  {
+    "id": "241",
+    "name": "Black Stone (Weapon)",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4998",
+        "name": "Sharp Black Crystal Shard",
+        "qty": "2"
+      }
+    ],
+    "prod": [
+      {
+        "id": "16001",
+        "name": "Black Stone (Weapon)"
+      }
+    ]
+  },
+  {
+    "id": "242",
+    "name": "Black Stone (Armor)",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4997",
+        "name": "Hard Black Crystal Shard",
+        "qty": "2"
+      }
+    ],
+    "prod": [
+      {
+        "id": "16002",
+        "name": "Black Stone (Armor)"
+      }
+    ]
+  },
+  {
+    "id": "243",
+    "name": "Mystical Spirit Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45297",
+        "name": "Destruction Spirit Stone",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4924",
+        "name": "Mystical Spirit Powder"
+      }
+    ]
+  },
+  {
+    "id": "244",
+    "name": "Mystical Spirit Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45299",
+        "name": "Guardian Spirit Stone",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4924",
+        "name": "Mystical Spirit Powder"
+      }
+    ]
+  },
+  {
+    "id": "245",
+    "name": "Mystical Spirit Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45301",
+        "name": "Life Spirit Stone",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4924",
+        "name": "Mystical Spirit Powder"
+      }
+    ]
+  },
+  {
+    "id": "246",
+    "name": "Mystical Spirit Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45298",
+        "name": "Destruction Spirit Stone",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4924",
+        "name": "Mystical Spirit Powder"
+      }
+    ]
+  },
+  {
+    "id": "247",
+    "name": "Mystical Spirit Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45300",
+        "name": "Guardian Spirit Stone",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4924",
+        "name": "Mystical Spirit Powder"
+      }
+    ]
+  },
+  {
+    "id": "248",
+    "name": "Mystical Spirit Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45302",
+        "name": "Life Spirit Stone",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "4924",
+        "name": "Mystical Spirit Powder"
+      }
+    ]
+  },
+  {
+    "id": "249",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45201",
+        "name": "Imperfect Alchemy Stone of Destruction",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "250",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45202",
+        "name": "Imperfect Alchemy Stone of Destruction",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "251",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45203",
+        "name": "Imperfect Alchemy Stone of Destruction",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "252",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45204",
+        "name": "Imperfect Alchemy Stone of Destruction",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "253",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45205",
+        "name": "Rough Alchemy Stone of Destruction",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "254",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45206",
+        "name": "Rough Alchemy Stone of Destruction",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "255",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45207",
+        "name": "Rough Alchemy Stone of Destruction",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "256",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45208",
+        "name": "Rough Alchemy Stone of Destruction",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "257",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45209",
+        "name": "Polished Alchemy Stone of Destruction",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "258",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45210",
+        "name": "Polished Alchemy Stone of Destruction",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "259",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45211",
+        "name": "Polished Alchemy Stone of Destruction",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "260",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45212",
+        "name": "Polished Alchemy Stone of Destruction",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "261",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45213",
+        "name": "Sturdy Alchemy Stone of Destruction",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "262",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45214",
+        "name": "Sturdy Alchemy Stone of Destruction",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "263",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45215",
+        "name": "Sturdy Alchemy Stone of Destruction",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "264",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45216",
+        "name": "Sturdy Alchemy Stone of Destruction",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "265",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45217",
+        "name": "Sharp Alchemy Stone of Destruction",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "266",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45218",
+        "name": "Sharp Alchemy Stone of Destruction",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "267",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45219",
+        "name": "Sharp Alchemy Stone of Destruction",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "268",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45220",
+        "name": "Sharp Alchemy Stone of Destruction",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "269",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45221",
+        "name": "Resplendent Alchemy Stone of Destruction",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "270",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45222",
+        "name": "Resplendent Alchemy Stone of Destruction",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "271",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45223",
+        "name": "Resplendent Alchemy Stone of Destruction",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "272",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45224",
+        "name": "Resplendent Alchemy Stone of Destruction",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "273",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45225",
+        "name": "Splendid Alchemy Stone of Destruction",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "274",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45226",
+        "name": "Splendid Alchemy Stone of Destruction",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "275",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45227",
+        "name": "Splendid Alchemy Stone of Destruction",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "276",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45228",
+        "name": "Splendid Alchemy Stone of Destruction",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "277",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45229",
+        "name": "Shining Alchemy Stone of Destruction",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "278",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45230",
+        "name": "Shining Alchemy Stone of Destruction",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "279",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45231",
+        "name": "Shining Alchemy Stone of Destruction",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "280",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45232",
+        "name": "Shining Alchemy Stone of Destruction",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "281",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45233",
+        "name": "Imperfect Alchemy Stone of Protection",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "282",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45234",
+        "name": "Imperfect Alchemy Stone of Protection",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "283",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45235",
+        "name": "Imperfect Alchemy Stone of Protection",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "284",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45236",
+        "name": "Imperfect Alchemy Stone of Protection",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "285",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45237",
+        "name": "Rough Alchemy Stone of Protection",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "286",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45238",
+        "name": "Rough Alchemy Stone of Protection",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "287",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45239",
+        "name": "Rough Alchemy Stone of Protection",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "288",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45240",
+        "name": "Rough Alchemy Stone of Protection",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "289",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45241",
+        "name": "Polished Alchemy Stone of Protection",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "290",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45242",
+        "name": "Polished Alchemy Stone of Protection",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "291",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45243",
+        "name": "Polished Alchemy Stone of Protection",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "292",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45244",
+        "name": "Polished Alchemy Stone of Protection",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "293",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45245",
+        "name": "Sturdy Alchemy Stone of Protection",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "294",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45246",
+        "name": "Sturdy Alchemy Stone of Protection",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "295",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45247",
+        "name": "Sturdy Alchemy Stone of Protection",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "296",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45248",
+        "name": "Sturdy Alchemy Stone of Protection",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "297",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45249",
+        "name": "Sharp Alchemy Stone of Protection",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "298",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45250",
+        "name": "Sharp Alchemy Stone of Protection",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "299",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45251",
+        "name": "Sharp Alchemy Stone of Protection",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "300",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45252",
+        "name": "Sharp Alchemy Stone of Protection",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "301",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45253",
+        "name": "Resplendent Alchemy Stone of Protection",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "302",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45254",
+        "name": "Resplendent Alchemy Stone of Protection",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "303",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45255",
+        "name": "Resplendent Alchemy Stone of Protection",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "304",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45256",
+        "name": "Resplendent Alchemy Stone of Protection",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "305",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45257",
+        "name": "Splendid Alchemy Stone of Protection",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "306",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45258",
+        "name": "Splendid Alchemy Stone of Protection",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "307",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45259",
+        "name": "Splendid Alchemy Stone of Protection",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "308",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45260",
+        "name": "Splendid Alchemy Stone of Protection",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "309",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45261",
+        "name": "Shining Alchemy Stone of Protection",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "310",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45262",
+        "name": "Shining Alchemy Stone of Protection",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "311",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45263",
+        "name": "Shining Alchemy Stone of Protection",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "312",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45264",
+        "name": "Shining Alchemy Stone of Protection",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "313",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45265",
+        "name": "Imperfect Alchemy Stone of Life",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "314",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45266",
+        "name": "Imperfect Alchemy Stone of Life",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "315",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45267",
+        "name": "Imperfect Alchemy Stone of Life",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "316",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45268",
+        "name": "Imperfect Alchemy Stone of Life",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "317",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45269",
+        "name": "Rough Alchemy Stone of Life",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "318",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45270",
+        "name": "Rough Alchemy Stone of Life",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "319",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45271",
+        "name": "Rough Alchemy Stone of Life",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "320",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45272",
+        "name": "Rough Alchemy Stone of Life",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "321",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45273",
+        "name": "Polished Alchemy Stone of Life",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "322",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45274",
+        "name": "Polished Alchemy Stone of Life",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "323",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45275",
+        "name": "Polished Alchemy Stone of Life",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "324",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45276",
+        "name": "Polished Alchemy Stone of Life",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "325",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45277",
+        "name": "Sturdy Alchemy Stone of Life",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "326",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45278",
+        "name": "Sturdy Alchemy Stone of Life",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "327",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45279",
+        "name": "Sturdy Alchemy Stone of Life",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "328",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45280",
+        "name": "Sturdy Alchemy Stone of Life",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "329",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45281",
+        "name": "Sharp Alchemy Stone of Life",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "330",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45282",
+        "name": "Sharp Alchemy Stone of Life",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "331",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45283",
+        "name": "Sharp Alchemy Stone of Life",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "332",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45284",
+        "name": "Sharp Alchemy Stone of Life",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "333",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45285",
+        "name": "Resplendent Alchemy Stone of Life",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "334",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45286",
+        "name": "Resplendent Alchemy Stone of Life",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "335",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45287",
+        "name": "Resplendent Alchemy Stone of Life",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "336",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45288",
+        "name": "Resplendent Alchemy Stone of Life",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "337",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45289",
+        "name": "Splendid Alchemy Stone of Life",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "338",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45290",
+        "name": "Splendid Alchemy Stone of Life",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "339",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45291",
+        "name": "Splendid Alchemy Stone of Life",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "340",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45292",
+        "name": "Splendid Alchemy Stone of Life",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "341",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45293",
+        "name": "Shining Alchemy Stone of Life",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "342",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45294",
+        "name": "Shining Alchemy Stone of Life",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "343",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45295",
+        "name": "Shining Alchemy Stone of Life",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "344",
+    "name": "Alchemy Stone Shard",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "45296",
+        "name": "Shining Alchemy Stone of Life",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "44336",
+        "name": "Alchemy Stone Shard"
+      }
+    ]
+  },
+  {
+    "id": "656",
+    "name": "Insectivore Plant Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "5440",
+        "name": "Insectivore Plant Flower",
+        "qty": "5"
+      }
+    ],
+    "prod": [
+      {
+        "id": "5601",
+        "name": "Insectivore Plant Powder"
+      }
+    ]
+  },
+  {
+    "id": "657",
+    "name": "Insectivore Plant Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "5441",
+        "name": "Insectivore Plant Leaf",
+        "qty": "5"
+      }
+    ],
+    "prod": [
+      {
+        "id": "5601",
+        "name": "Insectivore Plant Powder"
+      }
+    ]
+  },
+  {
+    "id": "658",
+    "name": "Insectivore Plant Sap",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "5442",
+        "name": "Insectivore Plant Stalk",
+        "qty": "5"
+      }
+    ],
+    "prod": [
+      {
+        "id": "5602",
+        "name": "Insectivore Plant Sap"
+      }
+    ]
+  },
+  {
+    "id": "659",
+    "name": "Insectivore Plant Sap",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "5443",
+        "name": "Insectivore Plant Root",
+        "qty": "5"
+      }
+    ],
+    "prod": [
+      {
+        "id": "5602",
+        "name": "Insectivore Plant Sap"
+      }
+    ]
+  },
+  {
+    "id": "664",
+    "name": "Cotton Fabric",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "5851",
+        "name": "Cotton Yarn",
+        "qty": "10"
+      }
+    ],
+    "prod": [
+      {
+        "id": "5855",
+        "name": "Cotton Fabric"
+      }
+    ]
+  },
+  {
+    "id": "665",
+    "name": "Flax Fabric",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "5852",
+        "name": "Flax Thread",
+        "qty": "10"
+      }
+    ],
+    "prod": [
+      {
+        "id": "5856",
+        "name": "Flax Fabric"
+      }
+    ]
+  },
+  {
+    "id": "666",
+    "name": "Silk",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "5853",
+        "name": "Silk Thread",
+        "qty": "10"
+      }
+    ],
+    "prod": [
+      {
+        "id": "5857",
+        "name": "Silk"
+      }
+    ]
+  },
+  {
+    "id": "667",
+    "name": "Wool",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "5854",
+        "name": "Knitting Yarn",
+        "qty": "10"
+      }
+    ],
+    "prod": [
+      {
+        "id": "5858",
+        "name": "Wool"
+      }
+    ]
+  },
+  {
+    "id": "670",
+    "name": "Enhanced Flax Fabric",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "5856",
+        "name": "Flax Fabric",
+        "qty": "5"
+      },
+      {
+        "id": "9733",
+        "name": "Shining Powder",
+        "qty": "5"
+      }
+    ],
+    "prod": [
+      {
+        "id": "5860",
+        "name": "Enhanced Flax Fabric"
+      }
+    ]
+  },
+  {
+    "id": "890",
+    "name": "Chicken Feed",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4006",
+        "name": "Rough Stone",
+        "qty": "20"
+      },
+      {
+        "id": "7002",
+        "name": "Barley",
+        "qty": "100"
+      }
+    ],
+    "prod": [
+      {
+        "id": "7028",
+        "name": "Chicken Feed"
+      }
+    ]
+  },
+  {
+    "id": "891",
+    "name": "Wheat Flour",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "7001",
+        "name": "Wheat",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "7101",
+        "name": "Wheat Flour"
+      }
+    ]
+  },
+  {
+    "id": "892",
+    "name": "Barley Flour",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "7002",
+        "name": "Barley",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "7102",
+        "name": "Barley Flour"
+      }
+    ]
+  },
+  {
+    "id": "893",
+    "name": "Potato Flour",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "7003",
+        "name": "Potato",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "7103",
+        "name": "Potato Flour"
+      }
+    ]
+  },
+  {
+    "id": "894",
+    "name": "Sweet Potato Flour",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "7004",
+        "name": "Sweet Potato",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "7104",
+        "name": "Sweet Potato Flour"
+      }
+    ]
+  },
+  {
+    "id": "895",
+    "name": "Corn Flour",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "7005",
+        "name": "Corn",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "7105",
+        "name": "Corn Flour"
+      }
+    ]
+  },
+  {
+    "id": "896",
+    "name": "Wheat Flour",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "7006",
+        "name": "High-Quality Wheat",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "7101",
+        "name": "Wheat Flour"
+      }
+    ]
+  },
+  {
+    "id": "897",
+    "name": "Barley Flour",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "7007",
+        "name": "High-Quality Barley",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "7102",
+        "name": "Barley Flour"
+      }
+    ]
+  },
+  {
+    "id": "898",
+    "name": "Potato Flour",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "7008",
+        "name": "High-Quality Potato",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "7103",
+        "name": "Potato Flour"
+      }
+    ]
+  },
+  {
+    "id": "899",
+    "name": "Sweet Potato Flour",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "7009",
+        "name": "High-Quality Sweet Potato",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "7104",
+        "name": "Sweet Potato Flour"
+      }
+    ]
+  },
+  {
+    "id": "900",
+    "name": "Corn Flour",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "7010",
+        "name": "High-Quality Corn",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "7105",
+        "name": "Corn Flour"
+      }
+    ]
+  },
+  {
+    "id": "901",
+    "name": "Wheat Flour",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "7011",
+        "name": "Special Wheat",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "7101",
+        "name": "Wheat Flour"
+      }
+    ]
+  },
+  {
+    "id": "902",
+    "name": "Barley Flour",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "7012",
+        "name": "Special Barley",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "7102",
+        "name": "Barley Flour"
+      }
+    ]
+  },
+  {
+    "id": "903",
+    "name": "Potato Flour",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "7013",
+        "name": "Special Potato",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "7103",
+        "name": "Potato Flour"
+      }
+    ]
+  },
+  {
+    "id": "904",
+    "name": "Sweet Potato Flour",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "7014",
+        "name": "Special Sweet Potato",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "7104",
+        "name": "Sweet Potato Flour"
+      }
+    ]
+  },
+  {
+    "id": "905",
+    "name": "Corn Flour",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "7015",
+        "name": "Special Corn",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "7105",
+        "name": "Corn Flour"
+      }
+    ]
+  },
+  {
+    "id": "906",
+    "name": "Teff Flour",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "7022",
+        "name": "Teff",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "7106",
+        "name": "Teff Flour"
+      }
+    ]
+  },
+  {
+    "id": "907",
+    "name": "Teff Flour",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "7353",
+        "name": "High-Quality Teff",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "7106",
+        "name": "Teff Flour"
+      }
+    ]
+  },
+  {
+    "id": "908",
+    "name": "Teff Flour",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "7358",
+        "name": "Special Teff",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "7106",
+        "name": "Teff Flour"
+      }
+    ]
+  },
+  {
+    "id": "909",
+    "name": "Freekeh Flour",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "7021",
+        "name": "Freekeh",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "7107",
+        "name": "Freekeh Flour"
+      }
+    ]
+  },
+  {
+    "id": "910",
+    "name": "Freekeh Flour",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "7352",
+        "name": "High-Quality Freekeh",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "7107",
+        "name": "Freekeh Flour"
+      }
+    ]
+  },
+  {
+    "id": "911",
+    "name": "Freekeh Flour",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "7357",
+        "name": "Special Freekeh",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "7107",
+        "name": "Freekeh Flour"
+      }
+    ]
+  },
+  {
+    "id": "1081",
+    "name": "[Simple Cooking] Cacao Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "7359",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "7108",
+        "name": "[Simple Cooking] Cacao Powder"
+      }
+    ]
+  },
+  {
+    "id": "1086",
+    "name": "Cooking Honey",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "7701",
+        "name": "Wild Beehive",
+        "qty": "3"
+      }
+    ],
+    "prod": [
+      {
+        "id": "7702",
+        "name": "Cooking Honey"
+      },
+      {
+        "id": "7703",
+        "name": "High-Quality Cooking Honey"
+      }
+    ]
+  },
+  {
+    "id": "1698",
+    "name": "[Simple Cooking] Cacao Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "750039",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "750038",
+        "name": "[Simple Cooking] Cacao Powder"
+      }
+    ]
+  },
+  {
+    "id": "1766",
+    "name": "Ground Bird Meat",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "7958",
+        "name": "Ground Bird Meat"
+      }
+    ]
+  },
+  {
+    "id": "1865",
+    "name": "Mystical Cleaning Oil",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "4076",
+        "name": "Metal Solvent",
+        "qty": "3"
+      }
+    ],
+    "prod": [
+      {
+        "id": "9748",
+        "name": "Mystical Cleaning Oil"
+      }
+    ]
+  },
+  {
+    "id": "1890",
+    "name": "Mass of Pure Magic",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "16001",
+        "name": "Black Stone (Weapon)",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "752023",
+        "name": "Mass of Pure Magic"
+      }
+    ]
+  },
+  {
+    "id": "1891",
+    "name": "Mass of Pure Magic",
+    "cat": "Grinding",
+    "skill": "Beginner 0",
+    "mats": [
+      {
+        "id": "16002",
+        "name": "Black Stone (Armor)",
+        "qty": "1"
+      }
+    ],
+    "prod": [
+      {
+        "id": "752023",
+        "name": "Mass of Pure Magic"
+      }
+    ]
+  },
+  {
+    "id": "2062",
+    "name": "Dusk Laden Cotton Fabric",
+    "cat": "Grinding",
+    "skill": "Beginner 1",
+    "mats": [
+      {
+        "id": "5855",
+        "name": "Cotton Fabric",
+        "qty": "50"
+      },
+      {
+        "id": "6603",
+        "name": "Oil of Fortitude",
+        "qty": "50"
+      }
+    ],
+    "prod": [
+      {
+        "id": "5863",
+        "name": "Dusk Laden Cotton Fabric"
+      }
+    ]
+  },
+  {
+    "id": "2063",
+    "name": "Dawn Fallen Silk",
+    "cat": "Grinding",
+    "skill": "Beginner 1",
+    "mats": [
+      {
+        "id": "5857",
+        "name": "Silk",
+        "qty": "50"
+      },
+      {
+        "id": "6602",
+        "name": "Oil of Storms",
+        "qty": "50"
+      }
+    ],
+    "prod": [
+      {
+        "id": "5865",
+        "name": "Dawn Fallen Silk"
+      }
+    ]
+  },
+  {
+    "id": "2410",
+    "name": "Delotia Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 1",
+    "mats": [
+      {
+        "id": "5536",
+        "name": "High Quality Delotia",
+        "qty": "3"
+      }
+    ],
+    "prod": [
+      {
+        "id": "5605",
+        "name": "Delotia Powder"
+      }
+    ]
+  },
+  {
+    "id": "2411",
+    "name": "Delotia Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 1",
+    "mats": [
+      {
+        "id": "5537",
+        "name": "Special Delotia",
+        "qty": "3"
+      }
+    ],
+    "prod": [
+      {
+        "id": "5605",
+        "name": "Delotia Powder"
+      }
+    ]
+  },
+  {
+    "id": "2412",
+    "name": "Delotia Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 1",
+    "mats": [
+      {
+        "id": "5538",
+        "name": "Delotia",
+        "qty": "3"
+      }
+    ],
+    "prod": [
+      {
+        "id": "5605",
+        "name": "Delotia Powder"
+      }
+    ]
+  },
+  {
+    "id": "2460",
+    "name": "Mythical Powder",
+    "cat": "Grinding",
+    "skill": "Beginner 1",
+    "mats": [
+      {
+        "id": "4901",
+        "name": "Black Stone Powder",
+        "qty": "10"
+      },
+      {
+        "id": "5209",
+        "name": "Fruit of Enchantment",
+        "qty": "10"
+      },
+      {
+        "id": "5406",
+        "name": "Everlasting Herb",
+        "qty": "10"
+      },
+      {
+        "id": "757003",
+        "name": "Flower of Oblivion",
+        "qty": "10"
+      },
+      {
+        "id": "757004",
+        "name": "Royal Fern Root",
+        "qty": "10"
+      }
+    ],
+    "prod": [
+      {
+        "id": "757005",
+        "name": "Mythical Powder"
+      }
+    ]
+  }
+]
