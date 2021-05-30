@@ -10446,7 +10446,7 @@
   },
   {
     "id": "1871",
-    "name": "Ultimate Delphad Castillion's Carnage Crescent Pendulum",
+    "name": "Ultimate Delphad Castillion's Carnage crescent pendulum",
     "cat": "Heating",
     "skill": "Beginner 0",
     "mats": [
@@ -10464,7 +10464,7 @@
     "prod": [
       {
         "id": "13486",
-        "name": "Ultimate Delphad Castillion's Carnage Crescent Pendulum"
+        "name": "Ultimate Delphad Castillion's Carnage crescent pendulum"
       }
     ]
   },

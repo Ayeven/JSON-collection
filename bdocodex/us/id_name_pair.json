@@ -157,7 +157,7 @@
   },
   {
     "id": "800082",
-    "name": "Piece of a Lifeless Morning Star"
+    "name": "Piece of a Lifeless morning star"
   },
   {
     "id": "800081",
@@ -418,6 +418,602 @@
   {
     "id": "800016",
     "name": "[Level 2] Cron Castle Gold Coin"
+  },
+  {
+    "id": "604815",
+    "name": "[Shai] Twinkle Star Florang"
+  },
+  {
+    "id": "604814",
+    "name": "[Shai] Twinkle Star Shoes"
+  },
+  {
+    "id": "604813",
+    "name": "[Shai] Twinkle Star Clothes"
+  },
+  {
+    "id": "604812",
+    "name": "[Shai] Twinkle Star Hood"
+  },
+  {
+    "id": "604811",
+    "name": "[Shai] Twinkle Star Classic Set"
+  },
+  {
+    "id": "604810",
+    "name": "[Sage] Contular Classic Set B"
+  },
+  {
+    "id": "604809",
+    "name": "[Sage] Contular Armor B"
+  },
+  {
+    "id": "604808",
+    "name": "[Sage] Contular Talisman"
+  },
+  {
+    "id": "604807",
+    "name": "[Sage] Contular Kyve"
+  },
+  {
+    "id": "604806",
+    "name": "[Sage] Contular Gloves"
+  },
+  {
+    "id": "604805",
+    "name": "[Sage] Contular Helmet"
+  },
+  {
+    "id": "604804",
+    "name": "[Nova] Adamant Classic Set"
+  },
+  {
+    "id": "604803",
+    "name": "[Nova] Adamant Quoratum"
+  },
+  {
+    "id": "604802",
+    "name": "[Nova] Adamant Morning Star"
+  },
+  {
+    "id": "604801",
+    "name": "[Nova] Adamant Armor"
+  },
+  {
+    "id": "604800",
+    "name": "[Nova] Adamant Helmet"
+  },
+  {
+    "id": "604821",
+    "name": "[Archer] Ignis Classic Set"
+  },
+  {
+    "id": "604820",
+    "name": "[Archer] Ignis Ra'ghon"
+  },
+  {
+    "id": "604819",
+    "name": "[Archer] Ignis Crossbow"
+  },
+  {
+    "id": "604818",
+    "name": "[Archer] Ignis Armor"
+  },
+  {
+    "id": "604817",
+    "name": "[Archer] Ignis Helmet"
+  },
+  {
+    "id": "604816",
+    "name": "[Shai] Twinkle Star Vitclari"
+  },
+  {
+    "id": "604783",
+    "name": "[Lahn] Ruby Floretta Clothes"
+  },
+  {
+    "id": "604782",
+    "name": "[Lahn] Ruby Floretta Headpiece"
+  },
+  {
+    "id": "604781",
+    "name": "[Mystic] Khamsin Classic Set"
+  },
+  {
+    "id": "604780",
+    "name": "[Mystic] Khamsin Vambrace"
+  },
+  {
+    "id": "604779",
+    "name": "[Mystic] Khamsin Gauntlet"
+  },
+  {
+    "id": "604778",
+    "name": "[Mystic] Khamsin Shoes"
+  },
+  {
+    "id": "604777",
+    "name": "[Mystic] Khamsin Clothes"
+  },
+  {
+    "id": "604776",
+    "name": "[Mystic] Khamsin Headpiece"
+  },
+  {
+    "id": "604775",
+    "name": "[Striker] Darkbane Classic Set"
+  },
+  {
+    "id": "604774",
+    "name": "[Striker] Darkbane Vambrace"
+  },
+  {
+    "id": "604773",
+    "name": "[Striker] Darkbane Gauntlet"
+  },
+  {
+    "id": "604772",
+    "name": "[Striker] Darkbane Gloves"
+  },
+  {
+    "id": "604771",
+    "name": "[Striker] Darkbane Armor"
+  },
+  {
+    "id": "604770",
+    "name": "[Striker] Darkbane Headpiece"
+  },
+  {
+    "id": "604769",
+    "name": "[Dark Knight] Ataraxia Classic Set"
+  },
+  {
+    "id": "604768",
+    "name": "[Dark Knight] Ataraxia Ornamental Knot"
+  },
+  {
+    "id": "604799",
+    "name": "[Hashashin] Mezari Classic Set"
+  },
+  {
+    "id": "604798",
+    "name": "[Hashashin] Mezari Haladie"
+  },
+  {
+    "id": "604797",
+    "name": "[Hashashin] Mezari Shamshir"
+  },
+  {
+    "id": "604796",
+    "name": "[Hashashin] Mezari Shoes"
+  },
+  {
+    "id": "604795",
+    "name": "[Hashashin] Mezari Gloves"
+  },
+  {
+    "id": "604794",
+    "name": "[Hashashin] Mezari Armor"
+  },
+  {
+    "id": "604793",
+    "name": "[Hashashin] Mezari Helmet"
+  },
+  {
+    "id": "604792",
+    "name": "[Guardian] Kharoxia Classic Set"
+  },
+  {
+    "id": "604791",
+    "name": "[Guardian] Kharoxia Shoes"
+  },
+  {
+    "id": "604790",
+    "name": "[Guardian] Kharoxia Clothes"
+  },
+  {
+    "id": "604789",
+    "name": "[Guardian] Kharoxia Headpiece"
+  },
+  {
+    "id": "604788",
+    "name": "[Guardian] Kharoxia Shield"
+  },
+  {
+    "id": "604787",
+    "name": "[Guardian] Kharoxia Battle Axe"
+  },
+  {
+    "id": "604786",
+    "name": "[Lahn] Ruby Floretta Classic Set"
+  },
+  {
+    "id": "604785",
+    "name": "[Lahn] Ruby Floretta Noble Sword"
+  },
+  {
+    "id": "604784",
+    "name": "[Lahn] Ruby Floretta Crescent Pendulum"
+  },
+  {
+    "id": "604751",
+    "name": "[Witch] Arcanis Classic Set"
+  },
+  {
+    "id": "604750",
+    "name": "[Witch] Arcanis Dagger"
+  },
+  {
+    "id": "604749",
+    "name": "[Witch] Arcanis Staff"
+  },
+  {
+    "id": "604748",
+    "name": "[Witch] Arcanis Robe"
+  },
+  {
+    "id": "604747",
+    "name": "[Witch] Arcanis Hat"
+  },
+  {
+    "id": "604746",
+    "name": "[Wizard] Tempyrion Classic Set"
+  },
+  {
+    "id": "604745",
+    "name": "[Wizard] Tempyrion Dagger"
+  },
+  {
+    "id": "604744",
+    "name": "[Wizard] Tempyrion Staff"
+  },
+  {
+    "id": "604743",
+    "name": "[Wizard] Tempyrion Robe"
+  },
+  {
+    "id": "604742",
+    "name": "[Maehwa] Te'enah Classic Set"
+  },
+  {
+    "id": "604741",
+    "name": "[Maehwa] Te'enah Horn Bow"
+  },
+  {
+    "id": "604740",
+    "name": "[Maehwa] Te'enah Blade"
+  },
+  {
+    "id": "604739",
+    "name": "[Maehwa] Te'enah Clothes"
+  },
+  {
+    "id": "604738",
+    "name": "[Maehwa] Te'enah Headpiece"
+  },
+  {
+    "id": "604737",
+    "name": "[Valkyrie] Solaria Classic Set"
+  },
+  {
+    "id": "604736",
+    "name": "[Valkyrie] Solaria Shield"
+  },
+  {
+    "id": "604767",
+    "name": "[Dark Knight] Ataraxia Kriegsmesser"
+  },
+  {
+    "id": "604766",
+    "name": "[Dark Knight] Ataraxia Shoes"
+  },
+  {
+    "id": "604765",
+    "name": "[Dark Knight] Ataraxia Gloves"
+  },
+  {
+    "id": "604764",
+    "name": "[Dark Knight] Ataraxia Clothes"
+  },
+  {
+    "id": "604763",
+    "name": "[Dark Knight] Ataraxia Headpiece"
+  },
+  {
+    "id": "604762",
+    "name": "[Ninja] Bloodfiend Classic Set"
+  },
+  {
+    "id": "604761",
+    "name": "[Ninja] Bloodfiend Kunai"
+  },
+  {
+    "id": "604760",
+    "name": "[Ninja] Bloodfiend Shortsword"
+  },
+  {
+    "id": "604759",
+    "name": "[Ninja] Bloodfiend Armor"
+  },
+  {
+    "id": "604758",
+    "name": "[Ninja] Bloodfiend Helmet"
+  },
+  {
+    "id": "604757",
+    "name": "[Kunoichi] Giha Classic Set"
+  },
+  {
+    "id": "604756",
+    "name": "[Kunoichi] Giha Kunai"
+  },
+  {
+    "id": "604755",
+    "name": "[Kunoichi] Giha Shortsword"
+  },
+  {
+    "id": "604754",
+    "name": "[Kunoichi] Giha Shoes"
+  },
+  {
+    "id": "604753",
+    "name": "[Kunoichi] Giha Clothes"
+  },
+  {
+    "id": "604752",
+    "name": "[Kunoichi] Giha Headpiece"
+  },
+  {
+    "id": "604719",
+    "name": "[Berserker] Bractus Ornamental Knot"
+  },
+  {
+    "id": "604718",
+    "name": "[Berserker] Bractus Axe"
+  },
+  {
+    "id": "604717",
+    "name": "[Berserker] Bractus Armor"
+  },
+  {
+    "id": "604716",
+    "name": "[Berserker] Bractus Helmet"
+  },
+  {
+    "id": "604715",
+    "name": "[Sorceress] Iron Thorn Classic Set"
+  },
+  {
+    "id": "604714",
+    "name": "[Sorceress] Iron Thorn Talisman"
+  },
+  {
+    "id": "604713",
+    "name": "[Sorceress] Iron Thorn Amulet"
+  },
+  {
+    "id": "604712",
+    "name": "[Sorceress] Iron Thorn Shoes"
+  },
+  {
+    "id": "604711",
+    "name": "[Sorceress] Iron Thorn Clothes"
+  },
+  {
+    "id": "604710",
+    "name": "[Sorceress] Iron Thorn Headpiece"
+  },
+  {
+    "id": "604709",
+    "name": "[Ranger] Lephria Classic Set"
+  },
+  {
+    "id": "604708",
+    "name": "[Ranger] Lephria Dagger"
+  },
+  {
+    "id": "604707",
+    "name": "[Ranger] Lephria Longbow"
+  },
+  {
+    "id": "604706",
+    "name": "[Ranger] Lephria Shoes"
+  },
+  {
+    "id": "604705",
+    "name": "[Ranger] Lephria Armor"
+  },
+  {
+    "id": "604704",
+    "name": "[Ranger] Lephria Helmet"
+  },
+  {
+    "id": "604735",
+    "name": "[Valkyrie] Solaria Longsword"
+  },
+  {
+    "id": "604734",
+    "name": "[Valkyrie] Solaria Shoes"
+  },
+  {
+    "id": "604733",
+    "name": "[Valkyrie] Solaria Armor"
+  },
+  {
+    "id": "604732",
+    "name": "[Valkyrie] Solaria Helmet"
+  },
+  {
+    "id": "604731",
+    "name": "[Musa] Tundra Warden Classic Set"
+  },
+  {
+    "id": "604730",
+    "name": "[Musa] Tundra Warden Horn Bow"
+  },
+  {
+    "id": "604729",
+    "name": "[Musa] Tundra Warden Blade"
+  },
+  {
+    "id": "604728",
+    "name": "[Musa] Tundra Warden Armor"
+  },
+  {
+    "id": "604727",
+    "name": "[Musa] Tundra Warden Helmet"
+  },
+  {
+    "id": "604726",
+    "name": "[Tamer] Moonlight Faerie Classic Set"
+  },
+  {
+    "id": "604725",
+    "name": "[Tamer] Moonlight Faerie Trinket"
+  },
+  {
+    "id": "604724",
+    "name": "[Tamer] Moonlight Faerie Shortsword"
+  },
+  {
+    "id": "604723",
+    "name": "[Tamer] Moonlight Faerie Shoes"
+  },
+  {
+    "id": "604722",
+    "name": "[Tamer] Moonlight Faerie Armor"
+  },
+  {
+    "id": "604721",
+    "name": "[Tamer] Moonlight Faerie Headpiece"
+  },
+  {
+    "id": "604720",
+    "name": "[Berserker] Bractus Classic Set"
+  },
+  {
+    "id": "604687",
+    "name": "[Lahn] Nouverikant Helmet"
+  },
+  {
+    "id": "604686",
+    "name": "[Mystic] Nouverikant Armor"
+  },
+  {
+    "id": "604685",
+    "name": "[Mystic] Nouverikant Helmet"
+  },
+  {
+    "id": "604684",
+    "name": "[Striker] Nouverikant Armor"
+  },
+  {
+    "id": "604683",
+    "name": "[Striker] Nouverikant Helmet"
+  },
+  {
+    "id": "604682",
+    "name": "[Dark Knight] Nouverikant Armor"
+  },
+  {
+    "id": "604681",
+    "name": "[Dark Knight] Nouverikant Helmet"
+  },
+  {
+    "id": "604680",
+    "name": "[Shai] Nouverikant Armor"
+  },
+  {
+    "id": "604679",
+    "name": "[Shai] Nouverikant Helmet"
+  },
+  {
+    "id": "604678",
+    "name": "[Kunoichi] Nouverikant Armor"
+  },
+  {
+    "id": "604677",
+    "name": "[Kunoichi] Nouverikant Helmet"
+  },
+  {
+    "id": "604676",
+    "name": "[Ninja] Nouverikant Armor"
+  },
+  {
+    "id": "604675",
+    "name": "[Ninja] Nouverikant Helmet"
+  },
+  {
+    "id": "604674",
+    "name": "[Guardian] Nouverikant Armor"
+  },
+  {
+    "id": "604673",
+    "name": "[Guardian] Nouverikant Helmet"
+  },
+  {
+    "id": "604672",
+    "name": "[Archer] Nouverikant Armor"
+  },
+  {
+    "id": "604703",
+    "name": "[Warrior] Cornelius Classic Set"
+  },
+  {
+    "id": "604702",
+    "name": "[Warrior] Cornelius Shield"
+  },
+  {
+    "id": "604701",
+    "name": "[Warrior] Cornelius Longsword"
+  },
+  {
+    "id": "604700",
+    "name": "[Warrior] Cornelius Gloves"
+  },
+  {
+    "id": "604699",
+    "name": "[Warrior] Cornelius Armor"
+  },
+  {
+    "id": "604698",
+    "name": "[Warrior] Cornelius Helmet"
+  },
+  {
+    "id": "604696",
+    "name": "[Sage] Nouverikant Armor"
+  },
+  {
+    "id": "604695",
+    "name": "[Sage] Nouverikant Helmet"
+  },
+  {
+    "id": "604694",
+    "name": "[Nova] Nouverikant Armor"
+  },
+  {
+    "id": "604693",
+    "name": "[Nova] Nouverikant Helmet"
+  },
+  {
+    "id": "604692",
+    "name": "[Maehwa] Nouverikant Armor"
+  },
+  {
+    "id": "604691",
+    "name": "[Maehwa] Nouverikant Helmet"
+  },
+  {
+    "id": "604690",
+    "name": "[Hashashin] Nouverikant Armor"
+  },
+  {
+    "id": "604689",
+    "name": "[Hashashin] Nouverikant Helmet"
+  },
+  {
+    "id": "604688",
+    "name": "[Lahn] Nouverikant Armor"
   },
   {
     "id": "604399",
@@ -1352,6 +1948,54 @@
     "name": "[Berserker] Mountain Guardian Spirit Outfit Set"
   },
   {
+    "id": "604655",
+    "name": "[Valkyrie] Nouverikant Helmet"
+  },
+  {
+    "id": "604654",
+    "name": "[Warrior] Nouverikant Armor"
+  },
+  {
+    "id": "604653",
+    "name": "[Warrior] Nouverikant Helmet"
+  },
+  {
+    "id": "604652",
+    "name": "[Sage] Montem Boxer Briefs"
+  },
+  {
+    "id": "604651",
+    "name": "[Hashashin] Montem Boxer Briefs"
+  },
+  {
+    "id": "604650",
+    "name": "[Archer] Montem Boxer Briefs"
+  },
+  {
+    "id": "604649",
+    "name": "[Ninja] Montem Boxer Briefs"
+  },
+  {
+    "id": "604648",
+    "name": "[Striker] Montem Boxer Briefs"
+  },
+  {
+    "id": "604647",
+    "name": "[Wizard] Montem Boxer Briefs"
+  },
+  {
+    "id": "604646",
+    "name": "[Musa] Montem Boxer Briefs"
+  },
+  {
+    "id": "604645",
+    "name": "[Berserker] Montem Boxer Briefs"
+  },
+  {
+    "id": "604644",
+    "name": "[Warrior] Montem Boxer Briefs"
+  },
+  {
     "id": "604643",
     "name": "[Archer] Willow Breeze Shoes"
   },
@@ -1366,6 +2010,70 @@
   {
     "id": "604640",
     "name": "[Hashashin] Willow Breeze Robe"
+  },
+  {
+    "id": "604671",
+    "name": "[Archer] Nouverikant Helmet"
+  },
+  {
+    "id": "604670",
+    "name": "[Witch] Nouverikant Armor"
+  },
+  {
+    "id": "604669",
+    "name": "[Witch] Nouverikant Helmet"
+  },
+  {
+    "id": "604668",
+    "name": "[Wizard] Nouverikant Armor"
+  },
+  {
+    "id": "604667",
+    "name": "[Wizard] Nouverikant Helmet"
+  },
+  {
+    "id": "604666",
+    "name": "[Musa] Nouverikant Armor"
+  },
+  {
+    "id": "604665",
+    "name": "[Musa] Nouverikant Helmet"
+  },
+  {
+    "id": "604664",
+    "name": "[Tamer] Nouverikant Armor"
+  },
+  {
+    "id": "604663",
+    "name": "[Tamer] Nouverikant Helmet"
+  },
+  {
+    "id": "604662",
+    "name": "[Berserker] Nouverikant Armor"
+  },
+  {
+    "id": "604661",
+    "name": "[Berserker] Nouverikant Helmet"
+  },
+  {
+    "id": "604660",
+    "name": "[Ranger] Nouverikant Armor"
+  },
+  {
+    "id": "604659",
+    "name": "[Ranger] Nouverikant Helmet"
+  },
+  {
+    "id": "604658",
+    "name": "[Sorceress] Nouverikant Armor"
+  },
+  {
+    "id": "604657",
+    "name": "[Sorceress] Nouverikant Helmet"
+  },
+  {
+    "id": "604656",
+    "name": "[Valkyrie] Nouverikant Armor"
   },
   {
     "id": "604623",
@@ -1572,6 +2280,42 @@
     "name": "[Sage] La Orzeca Helmet Box"
   },
   {
+    "id": "604495",
+    "name": "[Sage] Shudad Black Kibelius"
+  },
+  {
+    "id": "604494",
+    "name": "[Sage] Shudad Black Armor"
+  },
+  {
+    "id": "604493",
+    "name": "[Sage] Shudad Black Helmet"
+  },
+  {
+    "id": "604492",
+    "name": "[Sage] Shudad Classic Set"
+  },
+  {
+    "id": "604491",
+    "name": "[Sage] Shudad Talisman"
+  },
+  {
+    "id": "604490",
+    "name": "[Sage] Shudad Kyve"
+  },
+  {
+    "id": "604489",
+    "name": "[Sage] Shudad Kibelius"
+  },
+  {
+    "id": "604488",
+    "name": "[Sage] Shudad Armor"
+  },
+  {
+    "id": "604487",
+    "name": "[Sage] Shudad Helmet"
+  },
+  {
     "id": "604486",
     "name": "[Sage] Exclatus Awakening Set"
   },
@@ -1598,6 +2342,66 @@
   {
     "id": "604480",
     "name": "[Sage] Exclatus Armor"
+  },
+  {
+    "id": "604510",
+    "name": "[Sage] Glorious Shudad Outfit Set"
+  },
+  {
+    "id": "604509",
+    "name": "[Sage] Glorious Shudad Awakening Set"
+  },
+  {
+    "id": "604508",
+    "name": "[Sage] Glorious Shudad Classic Set"
+  },
+  {
+    "id": "604507",
+    "name": "[Sage] Glorious Shudad Premium Set"
+  },
+  {
+    "id": "604506",
+    "name": "[Sage] Glorious Shudad Talisman"
+  },
+  {
+    "id": "604505",
+    "name": "[Sage] Glorious Shudad Kyve"
+  },
+  {
+    "id": "604504",
+    "name": "[Sage] Glorious Shudad Kibelius"
+  },
+  {
+    "id": "604503",
+    "name": "[Sage] Glorious Shudad Armor"
+  },
+  {
+    "id": "604502",
+    "name": "[Sage] Glorious Shudad Helmet"
+  },
+  {
+    "id": "604501",
+    "name": "[Sage] Shudad Black Premium Set"
+  },
+  {
+    "id": "604500",
+    "name": "[Sage] Shudad Black Outfit Set"
+  },
+  {
+    "id": "604499",
+    "name": "[Sage] Shudad Black Awakening Set"
+  },
+  {
+    "id": "604498",
+    "name": "[Sage] Shudad Black Classic Set"
+  },
+  {
+    "id": "604497",
+    "name": "[Sage] Shudad Black Talisman"
+  },
+  {
+    "id": "604496",
+    "name": "[Sage] Shudad Black Kyve"
   },
   {
     "id": "604463",
@@ -2816,6 +3620,14 @@
     "name": "Extra Skill EXP Scroll"
   },
   {
+    "id": "602209",
+    "name": "[Hashashin] White Viper of Bahrahit Awakening Set"
+  },
+  {
+    "id": "602208",
+    "name": "[Hashashin] White Viper of Bahrahit Classic Set"
+  },
+  {
     "id": "602191",
     "name": "[Hashashin] Karlstein Armor"
   },
@@ -2878,6 +3690,58 @@
   {
     "id": "602176",
     "name": "[Hashashin] Shudad Black Shamshir"
+  },
+  {
+    "id": "602207",
+    "name": "[Hashashin] White Viper of Bahrahit Premium Set"
+  },
+  {
+    "id": "602206",
+    "name": "[Hashashin] White Viper of Bahrahit Haladie"
+  },
+  {
+    "id": "602205",
+    "name": "[Hashashin] White Viper of Bahrahit Shamshir"
+  },
+  {
+    "id": "602204",
+    "name": "[Hashashin] White Viper of Bahrahit Dual Glaives"
+  },
+  {
+    "id": "602203",
+    "name": "[Hashashin] White Viper of Bahrahit Armor"
+  },
+  {
+    "id": "602202",
+    "name": "[Hashashin] White Viper of Bahrahit Helmet"
+  },
+  {
+    "id": "602201",
+    "name": "[Hashashin] Corvicanus Awakening Set"
+  },
+  {
+    "id": "602200",
+    "name": "[Hashashin] Corvicanus Premium Set"
+  },
+  {
+    "id": "602199",
+    "name": "[Hashashin] Corvicanus Classic Set"
+  },
+  {
+    "id": "602198",
+    "name": "[Hashashin] Corvicanus Dual Glaives"
+  },
+  {
+    "id": "602197",
+    "name": "[Hashashin] Corvicanus Haladie"
+  },
+  {
+    "id": "602196",
+    "name": "[Hashashin] Corvicanus Shamshir"
+  },
+  {
+    "id": "602195",
+    "name": "[Hashashin] Corvicanus Robe"
   },
   {
     "id": "602194",
@@ -4325,11 +5189,11 @@
   },
   {
     "id": "601221",
-    "name": "[PHGuardian]"
+    "name": "[Guardian] Velvia Underwear"
   },
   {
     "id": "601220",
-    "name": "[PHGuardian]"
+    "name": "[Guardian] Silev Underwear"
   },
   {
     "id": "601219",
@@ -4458,6 +5322,42 @@
   {
     "id": "601152",
     "name": "[Guardian] Mountain Guardian Spirit Helmet"
+  },
+  {
+    "id": "601181",
+    "name": "[Guardian] Leporem Awakening Set"
+  },
+  {
+    "id": "601180",
+    "name": "[Guardian] Leporem Premium Set"
+  },
+  {
+    "id": "601179",
+    "name": "[Guardian] Leporem Classic Set"
+  },
+  {
+    "id": "601178",
+    "name": "[Guardian] Leporem Shield"
+  },
+  {
+    "id": "601177",
+    "name": "[Guardian] Leporem Battle Axe"
+  },
+  {
+    "id": "601176",
+    "name": "[Guardian] Leporem Jordun"
+  },
+  {
+    "id": "601175",
+    "name": "[Guardian] Leporem Shoes"
+  },
+  {
+    "id": "601174",
+    "name": "[Guardian] Leporem Armor"
+  },
+  {
+    "id": "601173",
+    "name": "[Guardian] Leporem Helmet"
   },
   {
     "id": "601172",
@@ -9688,6 +10588,42 @@
     "name": "Da-Dum Da-Dum Fishing Chair"
   },
   {
+    "id": "560143",
+    "name": "[Archer] Derictus Awakening Set"
+  },
+  {
+    "id": "560142",
+    "name": "[Archer] Derictus Premium Set"
+  },
+  {
+    "id": "560141",
+    "name": "[Archer] Derictus Classic Set"
+  },
+  {
+    "id": "560140",
+    "name": "[Archer] Derictus Greatbow"
+  },
+  {
+    "id": "560139",
+    "name": "[Archer] Derictus Ra'ghon"
+  },
+  {
+    "id": "560138",
+    "name": "[Archer] Derictus Crossbow"
+  },
+  {
+    "id": "560137",
+    "name": "[Archer] Derictus Gloves"
+  },
+  {
+    "id": "560136",
+    "name": "[Archer] Derictus Armor"
+  },
+  {
+    "id": "560135",
+    "name": "[Archer] Derictus Helmet"
+  },
+  {
     "id": "560134",
     "name": "[Archer] Corvicanus Awakening Set"
   },
@@ -11865,7 +12801,7 @@
   },
   {
     "id": "550723",
-    "name": "[Lahn] Lahr Arcien Underwear A (No Stockings)"
+    "name": "[Lahn] Lahr Arcien Underwear (No Stockings)"
   },
   {
     "id": "550722",
@@ -12536,8 +13472,60 @@
     "name": "Serni Sea Crystal"
   },
   {
+    "id": "757226",
+    "name": "Dormant Nouverikant Armor"
+  },
+  {
+    "id": "757225",
+    "name": "Dormant Nouverikant Helmet"
+  },
+  {
+    "id": "757224",
+    "name": "Bloodstorm Black Stone"
+  },
+  {
+    "id": "757223",
+    "name": "Bloodlit Eye of the Desert"
+  },
+  {
+    "id": "757222",
+    "name": "Concentrated Nouver's Aura"
+  },
+  {
+    "id": "757221",
+    "name": "Bloodstorm Nouver's Ragged Wing"
+  },
+  {
+    "id": "757220",
+    "name": "Bloodstorm Nouver's Split Horn"
+  },
+  {
     "id": "757219",
     "name": "Gold Arsha Coin"
+  },
+  {
+    "id": "757218",
+    "name": "[Title] Gosu"
+  },
+  {
+    "id": "757217",
+    "name": "[Title] Gosu"
+  },
+  {
+    "id": "757216",
+    "name": "[Title] Godlike"
+  },
+  {
+    "id": "757215",
+    "name": "[Title] Godlike"
+  },
+  {
+    "id": "757214",
+    "name": "[Title] Unrivaled"
+  },
+  {
+    "id": "757213",
+    "name": "[Title] Unrivaled"
   },
   {
     "id": "757159",
@@ -12558,6 +13546,10 @@
   {
     "id": "757154",
     "name": "Concentrated Boss's Fortune"
+  },
+  {
+    "id": "757152",
+    "name": "Memory Fragment Bundle"
   },
   {
     "id": "757150",
@@ -14754,6 +15746,14 @@
   {
     "id": "755053",
     "name": "Stormbringer Karanda Reward Bundle (Advanced)"
+  },
+  {
+    "id": "755052",
+    "name": "Thundercloud Kutum Reward Bundle (Intermediate)"
+  },
+  {
+    "id": "755051",
+    "name": "Thundercloud Kutum Reward Bundle (Advanced)"
   },
   {
     "id": "755050",
@@ -17316,104 +18316,164 @@
     "name": "Naru Staff"
   },
   {
+    "id": "724040",
+    "name": "[Secret Book] Knight's Defense V"
+  },
+  {
+    "id": "724039",
+    "name": "[Secret Book] Knight's Defense IV"
+  },
+  {
+    "id": "724038",
+    "name": "[Secret Book] Knight's Defense III"
+  },
+  {
+    "id": "724037",
+    "name": "[Secret Book] Knight's Defense II"
+  },
+  {
+    "id": "724036",
+    "name": "[Secret Book] Knight's Defense I"
+  },
+  {
+    "id": "724035",
+    "name": "[Secret Book] Pilgrim's Steps V"
+  },
+  {
+    "id": "724034",
+    "name": "[Secret Book] Pilgrim's Steps IV"
+  },
+  {
+    "id": "724033",
+    "name": "[Secret Book] Pilgrim's Steps III"
+  },
+  {
+    "id": "724032",
+    "name": "[Secret Book] Pilgrim's Steps II"
+  },
+  {
     "id": "724015",
-    "name": "Hashashin Skill Book - Succession: Dark Tornado"
+    "name": "Hashashin Secret Book - Succession: Dark Tornado"
   },
   {
     "id": "724014",
-    "name": "Hashashin Skill Book - Awakening: Qabal's Dual Glaives"
+    "name": "Hashashin Secret Book - Awakening: Qabal's Dual Glaives"
   },
   {
     "id": "724013",
-    "name": "Guardian Skill Book - Succession: Guardian's Glory"
+    "name": "Guardian Secret Book - Succession: Guardian's Glory"
   },
   {
     "id": "724012",
-    "name": "Guardian Skill Book - Awakening: Frost Slide"
+    "name": "Guardian Secret Book - Awakening: Frost Slide"
   },
   {
     "id": "724011",
-    "name": "Guardian Skill Book - Awakening: Glorious Advance"
+    "name": "Guardian Secret Book - Awakening: Glorious Advance"
   },
   {
     "id": "724010",
-    "name": "Guardian Skill Book - Awakening: Bahitram's Jordun"
+    "name": "Guardian Secret Book - Awakening: Bahitram's Jordun"
   },
   {
     "id": "724009",
-    "name": "Mystic Skill Book - Succession: Mystic's Force"
+    "name": "Mystic Secret Book - Succession: Mystic's Force"
   },
   {
     "id": "724008",
-    "name": "Striker Skill Book - Succession: Striker's Vigor"
+    "name": "Striker Secret Book - Succession: Striker's Vigor"
   },
   {
     "id": "724007",
-    "name": "Lahn Skill Book - Succession: Heavenly Waltz"
+    "name": "Lahn Secret Book - Succession: Heavenly Waltz"
   },
   {
     "id": "724006",
-    "name": "Wizard Skill Book - Succession: Elemental Revelation"
+    "name": "Wizard Secret Book - Succession: Elemental Revelation"
   },
   {
     "id": "724005",
-    "name": "Witch Skill Book - Succession: Elemental Revelation"
+    "name": "Witch Secret Book - Succession: Elemental Revelation"
   },
   {
     "id": "724004",
-    "name": "Berserker Skill Book - Succession: Feral Roar"
+    "name": "Berserker Secret Book - Succession: Feral Roar"
   },
   {
     "id": "724003",
-    "name": "Ninja Skill Book - Succession: Shadow of Darkness"
+    "name": "Ninja Secret Book - Succession: Shadow of Darkness"
   },
   {
     "id": "724002",
-    "name": "Kunoichi Skill Book - Succession: Lament of Silence"
+    "name": "Kunoichi Secret Book - Succession: Lament of Silence"
   },
   {
     "id": "724001",
-    "name": "Musa Skill Book - Succession: Musa's Resolve"
+    "name": "Musa Secret Book - Succession: Musa's Resolve"
+  },
+  {
+    "id": "724031",
+    "name": "[Secret Book] Pilgrim's Steps I"
+  },
+  {
+    "id": "724030",
+    "name": "[Secret Book] Yianaros's Light V"
+  },
+  {
+    "id": "724029",
+    "name": "[Secret Book] Yianaros's Light IV"
+  },
+  {
+    "id": "724028",
+    "name": "[Secret Book] Yianaros's Light III"
+  },
+  {
+    "id": "724027",
+    "name": "[Secret Book] Yianaros's Light II"
+  },
+  {
+    "id": "724026",
+    "name": "[Secret Book] Yianaros's Light I"
   },
   {
     "id": "724025",
-    "name": "Sage Skill Book - Succession: Ator's Fury"
+    "name": "Sage Secret Book - Succession: Ator's Fury"
   },
   {
     "id": "724024",
-    "name": "Sage Skill Book - Awakening: Spear Bolt I"
+    "name": "Sage Secret Book - Awakening: Spear Bolt"
   },
   {
     "id": "724023",
-    "name": "Sage Skill Book - Awakening: Electrify"
+    "name": "Sage Secret Book - Awakening: Electrify"
   },
   {
     "id": "724022",
-    "name": "Sage Skill Book - Awakening: Absolute Wisdom"
+    "name": "Sage Secret Book - Awakening: Absolute Wisdom"
   },
   {
     "id": "724021",
-    "name": "Nova Skill Book - Awakening: Royal Fencing: Remise"
+    "name": "Nova Secret Book - Awakening: Royal Fencing: Remise"
   },
   {
     "id": "724020",
-    "name": "Nova Skill Book - Awakening: En Garde"
+    "name": "Nova Secret Book - Awakening: En Garde"
   },
   {
     "id": "724019",
-    "name": "Nova Skill Book - Succession: Ancient Echo"
+    "name": "Nova Secret Book - Succession: Ancient Echo"
   },
   {
     "id": "724018",
-    "name": "Nova Skill Book - Awakening: Rising Star"
+    "name": "Nova Secret Book - Awakening: Rising Star"
   },
   {
     "id": "724017",
-    "name": "Hashashin Skill Book - Awakening: Sin Splitter"
+    "name": "Hashashin Secret Book - Awakening: Sin Splitter"
   },
   {
     "id": "724016",
-    "name": "Hashashin Skill Book - Awakening: Inquisition"
+    "name": "Hashashin Secret Book - Awakening: Inquisition"
   },
   {
     "id": "722026",
@@ -17545,15 +18605,15 @@
   },
   {
     "id": "721516",
-    "name": "Arsha's Sub-Weapon Box (Evasion)"
+    "name": "Arsha's Sub-weapon Box (Evasion)"
   },
   {
     "id": "721515",
-    "name": "Arsha's Sub-Weapon Box (Balance)"
+    "name": "Arsha's Sub-weapon Box (Balance)"
   },
   {
     "id": "721514",
-    "name": "Arsha's Sub-Weapon Box (AP)"
+    "name": "Arsha's Sub-weapon Box (AP)"
   },
   {
     "id": "721513",
@@ -17682,6 +18742,22 @@
   {
     "id": "721824",
     "name": "[Warrior] Arsha Gear Support Box (1 Day)"
+  },
+  {
+    "id": "721847",
+    "name": "Arsha's Awakening Weapon Box II"
+  },
+  {
+    "id": "721846",
+    "name": "Arsha's Sub-weapon Box II (AP)"
+  },
+  {
+    "id": "721845",
+    "name": "Arsha's Main Weapon Box II (AP)"
+  },
+  {
+    "id": "721844",
+    "name": "Arsha's Chest II"
   },
   {
     "id": "721842",
@@ -18520,6 +19596,10 @@
     "name": "Guild Skill EXP (7,500)"
   },
   {
+    "id": "750997",
+    "name": "Fine Magic Crystal Box"
+  },
+  {
     "id": "750925",
     "name": "Golden Elephant Statue"
   },
@@ -18729,7 +19809,7 @@
   },
   {
     "id": "750231",
-    "name": "Cliff's Sub-Weapon (+15) Box"
+    "name": "Cliff's Sub-weapon (+15) Box"
   },
   {
     "id": "750230",
@@ -19268,6 +20348,22 @@
     "name": "[Lahn] Arsha Outfit (Movement Speed)"
   },
   {
+    "id": "703715",
+    "name": "Arsha's Belt II (AP)"
+  },
+  {
+    "id": "703714",
+    "name": "Arsha's Ring II (AP)"
+  },
+  {
+    "id": "703713",
+    "name": "Arsha's Earring II (AP)"
+  },
+  {
+    "id": "703712",
+    "name": "Arsha's Necklace II (AP)"
+  },
+  {
     "id": "703711",
     "name": "Arsha's Earring (Accuracy)"
   },
@@ -19316,6 +20412,22 @@
     "name": "Arsha's Necklace (AP)"
   },
   {
+    "id": "703663",
+    "name": "Arsha's Shoes II (Damage Reduction, Stamina)"
+  },
+  {
+    "id": "703662",
+    "name": "Arsha's Gloves II (Accuracy)"
+  },
+  {
+    "id": "703661",
+    "name": "Arsha's Armor II (Damage Reduction)"
+  },
+  {
+    "id": "703660",
+    "name": "Arsha's Helmet II (Damage Reduction)"
+  },
+  {
     "id": "703659",
     "name": "Arsha's Armor (Resistance)"
   },
@@ -19356,8 +20468,108 @@
     "name": "Arsha's Helmet (Evasion)"
   },
   {
+    "id": "703631",
+    "name": "Arsha's Cestus II"
+  },
+  {
+    "id": "703630",
+    "name": "Arsha's Gardbrace II"
+  },
+  {
+    "id": "703629",
+    "name": "Arsha's Vediant II"
+  },
+  {
+    "id": "703628",
+    "name": "Arsha's Godr Sphera II"
+  },
+  {
+    "id": "703627",
+    "name": "Arsha's Aad Sphera II"
+  },
+  {
+    "id": "703626",
+    "name": "Arsha's Sah Chakram II"
+  },
+  {
+    "id": "703625",
+    "name": "Arsha's Sura Katana II"
+  },
+  {
+    "id": "703624",
+    "name": "Arsha's Kerispear II"
+  },
+  {
+    "id": "703623",
+    "name": "Arsha's Crescent Blade II"
+  },
+  {
+    "id": "703622",
+    "name": "Arsha's Lancia II"
+  },
+  {
+    "id": "703621",
+    "name": "Arsha's Celestial Bo Staff II"
+  },
+  {
+    "id": "703620",
+    "name": "Arsha's Kamasylven Sword II"
+  },
+  {
+    "id": "703619",
+    "name": "Arsha's Iron Buster II"
+  },
+  {
+    "id": "703618",
+    "name": "Arsha's Scythe II"
+  },
+  {
+    "id": "703617",
+    "name": "Arsha's Great Sword II"
+  },
+  {
     "id": "703616",
     "name": "Arsha's Jordun"
+  },
+  {
+    "id": "703638",
+    "name": "Arsha's Kibelius II"
+  },
+  {
+    "id": "703637",
+    "name": "Arsha's Sting II"
+  },
+  {
+    "id": "703636",
+    "name": "Arsha's Dual Glaives II"
+  },
+  {
+    "id": "703635",
+    "name": "Arsha's Jordun II"
+  },
+  {
+    "id": "703634",
+    "name": "Arsha's Sol II"
+  },
+  {
+    "id": "703633",
+    "name": "Arsha's Greatbow II"
+  },
+  {
+    "id": "703632",
+    "name": "Arsha's Crimson Glaives II"
+  },
+  {
+    "id": "703586",
+    "name": "Arsha's Kyve II (AP)"
+  },
+  {
+    "id": "703585",
+    "name": "Arsha's Quoratum II (AP)"
+  },
+  {
+    "id": "703584",
+    "name": "Arsha's Morning Star II (AP)"
   },
   {
     "id": "703615",
@@ -19424,6 +20636,50 @@
     "name": "Arsha's Great Sword"
   },
   {
+    "id": "703567",
+    "name": "Arsha's Blade II (AP)"
+  },
+  {
+    "id": "703566",
+    "name": "Arsha's Trinket II (AP)"
+  },
+  {
+    "id": "703565",
+    "name": "Arsha's Shortsword II (AP)"
+  },
+  {
+    "id": "703564",
+    "name": "Arsha's Ornamental Knot II (AP)"
+  },
+  {
+    "id": "703563",
+    "name": "Arsha's Axe II (AP)"
+  },
+  {
+    "id": "703562",
+    "name": "Arsha's Talisman II (AP)"
+  },
+  {
+    "id": "703561",
+    "name": "Arsha's Amulet II (AP)"
+  },
+  {
+    "id": "703560",
+    "name": "Arsha's Dagger II (AP)"
+  },
+  {
+    "id": "703559",
+    "name": "Arsha's Longbow II (AP)"
+  },
+  {
+    "id": "703558",
+    "name": "Arsha's Shield II (AP)"
+  },
+  {
+    "id": "703557",
+    "name": "Arsha's Longsword II (AP)"
+  },
+  {
     "id": "703556",
     "name": "Arsha's Crossbow (Accuracy)"
   },
@@ -19442,6 +20698,70 @@
   {
     "id": "703552",
     "name": "Arsha's Ra'ghon (AP)"
+  },
+  {
+    "id": "703583",
+    "name": "Arsha's Haladie II (AP)"
+  },
+  {
+    "id": "703582",
+    "name": "Arsha's Shamshir II (AP)"
+  },
+  {
+    "id": "703581",
+    "name": "Arsha's Battle Axe II (AP)"
+  },
+  {
+    "id": "703580",
+    "name": "Arsha's Vitclari II (AP)"
+  },
+  {
+    "id": "703579",
+    "name": "Arsha's Florang II (AP)"
+  },
+  {
+    "id": "703578",
+    "name": "Arsha's Ra'ghon II (AP)"
+  },
+  {
+    "id": "703577",
+    "name": "Arsha's Crossbow II (AP)"
+  },
+  {
+    "id": "703576",
+    "name": "Arsha's Noble Sword II (AP)"
+  },
+  {
+    "id": "703575",
+    "name": "Arsha's Crescent Pendulum II (AP)"
+  },
+  {
+    "id": "703574",
+    "name": "Arsha's Vambrace II (AP)"
+  },
+  {
+    "id": "703573",
+    "name": "Arsha's Gauntlet II (AP)"
+  },
+  {
+    "id": "703572",
+    "name": "Arsha's Kriegsmesser II (AP)"
+  },
+  {
+    "id": "703571",
+    "name": "Arsha's Shuriken II (AP)"
+  },
+  {
+    "id": "703570",
+    "name": "Arsha's Kunai II (AP)"
+  },
+  {
+    "id": "703569",
+    "name": "Arsha's Staff II (AP)"
+  },
+  {
+    "id": "703568",
+    "name": "Arsha's Horn Bow II (AP)"
   },
   {
     "id": "703535",
@@ -20029,7 +21349,7 @@
   },
   {
     "id": "701100",
-    "name": "Fiery Noble Sword of Kutum"
+    "name": "Fiery Kutum Noble Sword"
   },
   {
     "id": "701099",
@@ -30341,7 +31661,7 @@
   },
   {
     "id": "320010",
-    "name": "Sub-Weapon Exchange Coupon"
+    "name": "Sub-weapon Exchange Coupon"
   },
   {
     "id": "320009",
@@ -30385,7 +31705,7 @@
   },
   {
     "id": "320027",
-    "name": "Sub-Weapon Exchange Coupon (21 Days)"
+    "name": "Sub-weapon Exchange Coupon (21 Days)"
   },
   {
     "id": "320026",
@@ -32588,6 +33908,14 @@
     "name": "[Dark Knight] Kibelius Shoes (15 Days)"
   },
   {
+    "id": "510049",
+    "name": "[Ninja] White Wildcat Awakening Set"
+  },
+  {
+    "id": "510048",
+    "name": "[Ninja] White Wildcat Premium Set"
+  },
+  {
     "id": "510031",
     "name": "[Ninja] New Outfit Set (PH)"
   },
@@ -32650,6 +33978,34 @@
   {
     "id": "510016",
     "name": "[Ninja] Kibelius Helmet (15 Days)"
+  },
+  {
+    "id": "510047",
+    "name": "[Ninja] White Wildcat Classic Set"
+  },
+  {
+    "id": "510046",
+    "name": "[Ninja] White Wildcat Sura Katana"
+  },
+  {
+    "id": "510045",
+    "name": "[Ninja] White Wildcat Kunai"
+  },
+  {
+    "id": "510044",
+    "name": "[Ninja] White Wildcat Shortsword"
+  },
+  {
+    "id": "510043",
+    "name": "[Ninja] White Wildcat Outfit Set"
+  },
+  {
+    "id": "510042",
+    "name": "[Ninja] White Wildcat Armor"
+  },
+  {
+    "id": "510041",
+    "name": "[Ninja] White Wildcat Helmet"
   },
   {
     "id": "510040",
@@ -34744,6 +36100,18 @@
     "name": "Orders: Imprisonment"
   },
   {
+    "id": "65786",
+    "name": "Clouded Orb"
+  },
+  {
+    "id": "65785",
+    "name": "Clouded Shard"
+  },
+  {
+    "id": "65784",
+    "name": "Clouded Shard"
+  },
+  {
     "id": "65782",
     "name": "Ascension Ritual Oath"
   },
@@ -35440,6 +36808,18 @@
     "name": "Light-wrapped Pole"
   },
   {
+    "id": "65975",
+    "name": "Good Magnifying Lens"
+  },
+  {
+    "id": "65974",
+    "name": "Shiny Glass"
+  },
+  {
+    "id": "65973",
+    "name": "Useful Wooden Handle"
+  },
+  {
     "id": "65972",
     "name": "Rough Lustrous Gem"
   },
@@ -35886,6 +37266,22 @@
   {
     "id": "49008",
     "name": "[Guild] Ship License: Galley"
+  },
+  {
+    "id": "48189",
+    "name": "Loyalty 30% DC Coupon"
+  },
+  {
+    "id": "48188",
+    "name": "Loyalty 20% DC Coupon"
+  },
+  {
+    "id": "48187",
+    "name": "Loyalty 10% DC Coupon"
+  },
+  {
+    "id": "48186",
+    "name": "Apparel 50% DC Coupon"
   },
   {
     "id": "47855",
@@ -36870,6 +38266,14 @@
   {
     "id": "47968",
     "name": "Celestial Horse Calling Horn (Permanent)"
+  },
+  {
+    "id": "47985",
+    "name": "Nouvermon"
+  },
+  {
+    "id": "47984",
+    "name": "Weekly Update 1st Birthday Cake"
   },
   {
     "id": "47951",
@@ -43972,6 +45376,14 @@
     "name": "Golden Galley Figurine"
   },
   {
+    "id": "45144",
+    "name": "Sealed Nouverikant Armor"
+  },
+  {
+    "id": "45143",
+    "name": "Sealed Nouverikant Helmet"
+  },
+  {
     "id": "45142",
     "name": "Hunting Skill EXP"
   },
@@ -44064,6 +45476,26 @@
     "name": "J's Hammer of Loyalty"
   },
   {
+    "id": "45076",
+    "name": "TET (IV) Kutum's Sealed Sub-weapon Box"
+  },
+  {
+    "id": "45075",
+    "name": "TRI (III) Kutum's Sealed Sub-weapon Box"
+  },
+  {
+    "id": "45074",
+    "name": "DUO (II) Kutum's Sealed Sub-weapon Box"
+  },
+  {
+    "id": "45073",
+    "name": "PRI (I) Kutum's Sealed Sub-weapon Box"
+  },
+  {
+    "id": "45072",
+    "name": "Thundercloud Kutum Box"
+  },
+  {
     "id": "45514",
     "name": "Khan's Heart: Life"
   },
@@ -44146,6 +45578,10 @@
   {
     "id": "45408",
     "name": "Professional Cook's Meal"
+  },
+  {
+    "id": "45381",
+    "name": "Kutum's Power Stone"
   },
   {
     "id": "45407",
@@ -46645,7 +48081,7 @@
   },
   {
     "id": "44345",
-    "name": "Sub-Weapon Covered in Black Ash"
+    "name": "Sub-weapon Covered in Black Ash"
   },
   {
     "id": "44344",
@@ -46825,11 +48261,11 @@
   },
   {
     "id": "43749",
-    "name": "[Fame] Skill EXP +30% (60 min.)"
+    "name": "[Fame] Skill EXP +30% (60 min)"
   },
   {
     "id": "43748",
-    "name": "[Fame] Skill EXP +20% (60 min.)"
+    "name": "[Fame] Skill EXP +20% (60 min)"
   },
   {
     "id": "43747",
@@ -46857,23 +48293,23 @@
   },
   {
     "id": "43742",
-    "name": "[Fame] Combat EXP +100% (60 min.)"
+    "name": "[Fame] Combat EXP +100% (60 min)"
   },
   {
     "id": "43741",
-    "name": "[Fame] Combat EXP +80% (60 min.)"
+    "name": "[Fame] Combat EXP +80% (60 min)"
   },
   {
     "id": "43740",
-    "name": "[Fame] Combat EXP +60% (60 min.)"
+    "name": "[Fame] Combat EXP +60% (60 min)"
   },
   {
     "id": "43739",
-    "name": "[Fame] Combat EXP +40% (60 min.)"
+    "name": "[Fame] Combat EXP +40% (60 min)"
   },
   {
     "id": "43738",
-    "name": "[Fame] Combat EXP +20% (60 min.)"
+    "name": "[Fame] Combat EXP +20% (60 min)"
   },
   {
     "id": "43737",
@@ -46889,27 +48325,27 @@
   },
   {
     "id": "43706",
-    "name": "[Villa] Body Enhancement (180 min.)"
+    "name": "[Villa] Body Enhancement (180 min)"
   },
   {
     "id": "43705",
-    "name": "[Villa] Skill and Experience (180 min.)"
+    "name": "[Villa] Skill and Experience (180 min)"
   },
   {
     "id": "43704",
-    "name": "[Villa] Turning Gates (180 min.)"
+    "name": "[Villa] Turning Gates (180 min)"
   },
   {
     "id": "43703",
-    "name": "[Villa] Body Enhancement (90 min.)"
+    "name": "[Villa] Body Enhancement (90 min)"
   },
   {
     "id": "43702",
-    "name": "[Villa] Skill and Experience (90 min.)"
+    "name": "[Villa] Skill and Experience (90 min)"
   },
   {
     "id": "43701",
-    "name": "[Villa] Turning Gates (90 min.)"
+    "name": "[Villa] Turning Gates (90 min)"
   },
   {
     "id": "44015",
@@ -63317,7 +64753,7 @@
   },
   {
     "id": "36152",
-    "name": "Where's Doc and Dopie?"
+    "name": "Where's Doc and Dopey?"
   },
   {
     "id": "36151",
@@ -70697,7 +72133,7 @@
   },
   {
     "id": "65124",
-    "name": "Kydict's Sub-Weapon Box"
+    "name": "Kydict's Sub-weapon Box"
   },
   {
     "id": "65123",
@@ -79677,7 +81113,7 @@
   },
   {
     "id": "56181",
-    "name": "Black Crystal Cannon"
+    "name": "Black Crystal Cannonball"
   },
   {
     "id": "56178",
@@ -85661,7 +87097,7 @@
   },
   {
     "id": "16100",
-    "name": "GM's Blessing 3 (24h)"
+    "name": "GM's Blessing 3 (24 hr)"
   },
   {
     "id": "16099",
@@ -85801,7 +87237,7 @@
   },
   {
     "id": "16095",
-    "name": "GM's Blessing 2 (24h)"
+    "name": "GM's Blessing 2 (24 hr)"
   },
   {
     "id": "16094",
@@ -85821,7 +87257,7 @@
   },
   {
     "id": "16090",
-    "name": "GM's Blessing 1 (24h)"
+    "name": "GM's Blessing 1 (24 hr)"
   },
   {
     "id": "16089",
@@ -87166,6 +88602,62 @@
   {
     "id": "15801",
     "name": "JIN Magic Crystal - Harphia"
+  },
+  {
+    "id": "15695",
+    "name": "WON Glorious Crystal of Courage - Ignore Knockback Resistance"
+  },
+  {
+    "id": "15693",
+    "name": "Essence of Courage"
+  },
+  {
+    "id": "15692",
+    "name": "Resplendent Medal of Honor"
+  },
+  {
+    "id": "15706",
+    "name": "JIN Glorious Crystal of Courage - Ignore Stun Resistance"
+  },
+  {
+    "id": "15705",
+    "name": "BON Glorious Crystal of Courage - Ignore Stun Resistance"
+  },
+  {
+    "id": "15704",
+    "name": "WON Glorious Crystal of Courage - Ignore Stun Resistance"
+  },
+  {
+    "id": "15703",
+    "name": "JIN Glorious Crystal of Courage - Ignore Grapple Resistance"
+  },
+  {
+    "id": "15702",
+    "name": "BON Glorious Crystal of Courage - Ignore Grapple Resistance"
+  },
+  {
+    "id": "15701",
+    "name": "WON Glorious Crystal of Courage - Ignore Grapple Resistance"
+  },
+  {
+    "id": "15700",
+    "name": "JIN Glorious Crystal of Courage - Ignore Knockdown Resistance"
+  },
+  {
+    "id": "15699",
+    "name": "BON Glorious Crystal of Courage - Ignore Knockdown Resistance"
+  },
+  {
+    "id": "15698",
+    "name": "WON Glorious Crystal of Courage - Ignore Knockdown Resistance"
+  },
+  {
+    "id": "15697",
+    "name": "JIN Glorious Crystal of Courage - Ignore Knockback Resistance"
+  },
+  {
+    "id": "15696",
+    "name": "BON Glorious Crystal of Courage - Ignore Knockback Resistance"
   },
   {
     "id": "15663",
@@ -91089,7 +92581,7 @@
   },
   {
     "id": "13486",
-    "name": "Ultimate Delphad Castillion's Carnage Crescent Pendulum"
+    "name": "Ultimate Delphad Castillion's Carnage crescent pendulum"
   },
   {
     "id": "13485",
@@ -113461,19 +114953,19 @@
   },
   {
     "id": "841",
-    "name": "Skill EXP +8% (30 min.)"
+    "name": "Skill EXP +8% (30 min)"
   },
   {
     "id": "840",
-    "name": "Combat EXP +20% (30 min.)"
+    "name": "Combat EXP +20% (30 min)"
   },
   {
     "id": "839",
-    "name": "Skill EXP +8% (60 min.)"
+    "name": "Skill EXP +8% (60 min)"
   },
   {
     "id": "838",
-    "name": "Combat EXP +20% (60 min.)"
+    "name": "Combat EXP +20% (60 min)"
   },
   {
     "id": "837",
@@ -113921,35 +115413,35 @@
   },
   {
     "id": "199",
-    "name": "Dark Knight Skill Book - Succession: Wrath of Vedir"
+    "name": "Dark Knight Secret Book - Succession: Wrath of Vedir"
   },
   {
     "id": "198",
-    "name": "Maehwa Skill Book - Succession: Maehwa's Conviction"
+    "name": "Maehwa Secret Book - Succession: Maehwa's Conviction"
   },
   {
     "id": "197",
-    "name": "Tamer Skill Book - Succession: Power of the Beast"
+    "name": "Tamer Secret Book - Succession: Power of the Beast"
   },
   {
     "id": "196",
-    "name": "Sorceress Skill Book - Succession: Abyssal Contract"
+    "name": "Sorceress Secret Book - Succession: Abyssal Contract"
   },
   {
     "id": "195",
-    "name": "Shai Skill Book - Tuning"
+    "name": "Shai Secret Book - Tuning"
   },
   {
     "id": "194",
-    "name": "Valkyrie Skill Book - Succession: Valkyrie's Vow"
+    "name": "Valkyrie Secret Book - Succession: Valkyrie's Vow"
   },
   {
     "id": "193",
-    "name": "Ranger Skill Book - Succession: Feathers of Lemoria"
+    "name": "Ranger Secret Book - Succession: Feathers of Lemoria"
   },
   {
     "id": "192",
-    "name": "Shai Skill Book - Talent: Melody of Light"
+    "name": "Shai Secret Book - Talent: Melody of Light"
   },
   {
     "id": "223",
@@ -114017,367 +115509,367 @@
   },
   {
     "id": "175",
-    "name": "Wizard Skill Book - Awakening: Lord Red's Godr Sphera"
+    "name": "Wizard Secret Book - Awakening: Lord Red's Godr Sphera"
   },
   {
     "id": "174",
-    "name": "Witch Skill Book - Awakening: Fissure Wave"
+    "name": "Witch Secret Book - Awakening: Fissure Wave"
   },
   {
     "id": "173",
-    "name": "Witch Skill Book - Awakening: Psyche of Aad Sphera"
+    "name": "Witch Secret Book - Awakening: Psyche of Aad Sphera"
   },
   {
     "id": "172",
-    "name": "Witch Skill Book - Awakening: Aad Sphera of Deneve"
+    "name": "Witch Secret Book - Awakening: Aad Sphera of Deneve"
   },
   {
     "id": "171",
-    "name": "Kunoichi Skill Book - Awakening: Half Moon Slash"
+    "name": "Kunoichi Secret Book - Awakening: Half Moon Slash"
   },
   {
     "id": "170",
-    "name": "Kunoichi Skill Book - Awakening: Crimson Eclipse"
+    "name": "Kunoichi Secret Book - Awakening: Crimson Eclipse"
   },
   {
     "id": "169",
-    "name": "Kunoichi Skill Book - Awakening: Crimson Sah Chakram"
+    "name": "Kunoichi Secret Book - Awakening: Crimson Sah Chakram"
   },
   {
     "id": "168",
-    "name": "Ninja Skill Book - Awakening: Asura"
+    "name": "Ninja Secret Book - Awakening: Asura"
   },
   {
     "id": "167",
-    "name": "Ninja Skill Book - Awakening: Corrupt Sword Dance"
+    "name": "Ninja Secret Book - Awakening: Corrupt Sword Dance"
   },
   {
     "id": "166",
-    "name": "Ninja Skill Book - Awakening: Narusawa's Sura Katana"
+    "name": "Ninja Secret Book - Awakening: Narusawa's Sura Katana"
   },
   {
     "id": "165",
-    "name": "Maehwa Skill Book - Awakening: Tenacious Edge"
+    "name": "Maehwa Secret Book - Awakening: Tenacious Edge"
   },
   {
     "id": "164",
-    "name": "Maehwa Skill Book - Awakening: General Apricot"
+    "name": "Maehwa Secret Book - Awakening: General Apricot"
   },
   {
     "id": "163",
-    "name": "Maehwa Skill Book - Awakening: Maehwa's Kerispear"
+    "name": "Maehwa Secret Book - Awakening: Maehwa's Kerispear"
   },
   {
     "id": "162",
-    "name": "Musa Skill Book - Awakening: Spinner"
+    "name": "Musa Secret Book - Awakening: Spinner"
   },
   {
     "id": "161",
-    "name": "Musa Skill Book - Awakening: Musa's Soul"
+    "name": "Musa Secret Book - Awakening: Musa's Soul"
   },
   {
     "id": "160",
-    "name": "Musa Skill Book - Awakening: Haeam's Crescent Blade"
+    "name": "Musa Secret Book - Awakening: Haeam's Crescent Blade"
   },
   {
     "id": "191",
-    "name": "Warrior Skill Book - Succession: Warrior's Spirit"
+    "name": "Warrior Secret Book - Succession: Warrior's Spirit"
   },
   {
     "id": "190",
-    "name": "Archer Skill Book - Ascension: Watcher"
+    "name": "Archer Secret Book - Ascension: Watcher"
   },
   {
     "id": "189",
-    "name": "Lahn Skill Book - Awakening: Annihilator"
+    "name": "Lahn Secret Book - Awakening: Annihilator"
   },
   {
     "id": "188",
-    "name": "Lahn Skill Book - Awakening: Earthly Pain"
+    "name": "Lahn Secret Book - Awakening: Earthly Pain"
   },
   {
     "id": "187",
-    "name": "Lahn Skill Book - Awakening: Crimson Glaives of Antiquity"
+    "name": "Lahn Secret Book - Awakening: Crimson Glaives of Antiquity"
   },
   {
     "id": "186",
-    "name": "Mystic Skill Book - Awakening: Tidal Burst"
+    "name": "Mystic Secret Book - Awakening: Tidal Burst"
   },
   {
     "id": "185",
-    "name": "Mystic Skill Book - Awakening: Dragonize"
+    "name": "Mystic Secret Book - Awakening: Dragonize"
   },
   {
     "id": "184",
-    "name": "Mystic Skill Book - Awakening: Banha's Cestus"
+    "name": "Mystic Secret Book - Awakening: Banha's Cestus"
   },
   {
     "id": "183",
-    "name": "Striker Skill Book - Awakening: Descent of Fury"
+    "name": "Striker Secret Book - Awakening: Descent of Fury"
   },
   {
     "id": "182",
-    "name": "Striker Skill Book - Awakening: Ultimate Crush"
+    "name": "Striker Secret Book - Awakening: Ultimate Crush"
   },
   {
     "id": "181",
-    "name": "Striker Skill Book - Awakening: Enlightened Gardbrace"
+    "name": "Striker Secret Book - Awakening: Enlightened Gardbrace"
   },
   {
     "id": "180",
-    "name": "Dark Knight Skill Book - Awakening: Overlord"
+    "name": "Dark Knight Secret Book - Awakening: Overlord"
   },
   {
     "id": "179",
-    "name": "Dark Knight Skill Book - Awakening: Touch of Exploitation"
+    "name": "Dark Knight Secret Book - Awakening: Touch of Exploitation"
   },
   {
     "id": "178",
-    "name": "Dark Knight Skill Book - Awakening: Imperious Vediant"
+    "name": "Dark Knight Secret Book - Awakening: Imperious Vediant"
   },
   {
     "id": "177",
-    "name": "Wizard Skill Book - Awakening: Aqua Jail Explosion"
+    "name": "Wizard Secret Book - Awakening: Aqua Jail Explosion"
   },
   {
     "id": "176",
-    "name": "Wizard Skill Book - Awakening: Controlled Madness"
+    "name": "Wizard Secret Book - Awakening: Controlled Madness"
   },
   {
     "id": "143",
-    "name": "Warrior Skill Book - Executioner"
+    "name": "Warrior Secret Book - Executioner"
   },
   {
     "id": "142",
-    "name": "Warrior Skill Book - Awakening: Goyen's Great Sword"
+    "name": "Warrior Secret Book - Awakening: Goyen's Great Sword"
   },
   {
     "id": "141",
-    "name": "Kunoichi/Ninja Skill Book - Shining Blade"
+    "name": "Kunoichi/Ninja Secret Book - Shining Blade"
   },
   {
     "id": "140",
-    "name": "Kunoichi/Ninja Skill Book - Ninjutsu: Block Jump"
+    "name": "Kunoichi/Ninja Secret Book - Ninjutsu: Block Jump"
   },
   {
     "id": "139",
-    "name": "Kunoichi/Ninja Skill Book - Ninjutsu: Shadow Stomp"
+    "name": "Kunoichi/Ninja Secret Book - Ninjutsu: Shadow Stomp"
   },
   {
     "id": "138",
-    "name": "Kunoichi/Ninja Skill Book - Ankle Cutter"
+    "name": "Kunoichi/Ninja Secret Book - Ankle Cutter"
   },
   {
     "id": "137",
-    "name": "Wizard/Witch Skill Book - Magical Power Boost"
+    "name": "Wizard/Witch Secret Book - Magical Power Boost"
   },
   {
     "id": "136",
-    "name": "Wizard/Witch Skill Book - Meteor Shower"
+    "name": "Wizard/Witch Secret Book - Meteor Shower"
   },
   {
     "id": "135",
-    "name": "Wizard/Witch Skill Book - Lightning Chain"
+    "name": "Wizard/Witch Secret Book - Lightning Chain"
   },
   {
     "id": "134",
-    "name": "Wizard/Witch Skill Book - Mana Absorption"
+    "name": "Wizard/Witch Secret Book - Mana Absorption"
   },
   {
     "id": "133",
-    "name": "Maehwa Skill Book - Force of the Sword"
+    "name": "Maehwa Secret Book - Force of the Sword"
   },
   {
     "id": "132",
-    "name": "Maehwa Skill Book - Chaos: Red Moon"
+    "name": "Maehwa Secret Book - Chaos: Red Moon"
   },
   {
     "id": "131",
-    "name": "Maehwa Skill Book - Retaliation"
+    "name": "Maehwa Secret Book - Retaliation"
   },
   {
     "id": "130",
-    "name": "Maehwa Skill Book - Blind Thrust"
+    "name": "Maehwa Secret Book - Blind Thrust"
   },
   {
     "id": "129",
-    "name": "Valkyrie Skill Book - Noble Vow"
+    "name": "Valkyrie Secret Book - Noble Vow"
   },
   {
     "id": "128",
-    "name": "Valkyrie Skill Book - Righteous Charge"
+    "name": "Valkyrie Secret Book - Righteous Charge"
   },
   {
     "id": "159",
-    "name": "Valkyrie Skill Book - Sacrum Ferit"
+    "name": "Valkyrie Secret Book - Sacrum Ferit"
   },
   {
     "id": "158",
-    "name": "Valkyrie Skill Book - Noble Spirit"
+    "name": "Valkyrie Secret Book - Noble Spirit"
   },
   {
     "id": "157",
-    "name": "Valkyrie Skill Book - Awakening: Holy Lancia"
+    "name": "Valkyrie Secret Book - Awakening: Holy Lancia"
   },
   {
     "id": "156",
-    "name": "Tamer Skill Book - Beast Rampage"
+    "name": "Tamer Secret Book - Beast Rampage"
   },
   {
     "id": "155",
-    "name": "Tamer Skill Book - Heilang: Berserk"
+    "name": "Tamer Secret Book - Heilang: Berserk"
   },
   {
     "id": "154",
-    "name": "Tamer Skill Book - Awakening: Daru's Celestial Bo Staff"
+    "name": "Tamer Secret Book - Awakening: Daru's Celestial Bo Staff"
   },
   {
     "id": "153",
-    "name": "Ranger Skill Book - Awakening: Guardian"
+    "name": "Ranger Secret Book - Awakening: Guardian"
   },
   {
     "id": "152",
-    "name": "Ranger Skill Book - Awakening: Cold Blade"
+    "name": "Ranger Secret Book - Awakening: Cold Blade"
   },
   {
     "id": "151",
-    "name": "Ranger Skill Book - Awakening: Kamasylven Sword"
+    "name": "Ranger Secret Book - Awakening: Kamasylven Sword"
   },
   {
     "id": "150",
-    "name": "Berserker Skill Book - Titan Syndrome"
+    "name": "Berserker Secret Book - Titan Syndrome"
   },
   {
     "id": "149",
-    "name": "Berserker Skill Book - Devastation"
+    "name": "Berserker Secret Book - Devastation"
   },
   {
     "id": "148",
-    "name": "Berserker Skill Book - Awakening: Tantu's Iron Buster"
+    "name": "Berserker Secret Book - Awakening: Tantu's Iron Buster"
   },
   {
     "id": "147",
-    "name": "Sorceress Skill Book - Grim Reaper"
+    "name": "Sorceress Secret Book - Grim Reaper"
   },
   {
     "id": "146",
-    "name": "Sorceress Skill Book - Dead Hunt"
+    "name": "Sorceress Secret Book - Dead Hunt"
   },
   {
     "id": "145",
-    "name": "Sorceress Skill Book - Awakening: Cartian's Scythe"
+    "name": "Sorceress Secret Book - Awakening: Cartian's Scythe"
   },
   {
     "id": "144",
-    "name": "Warrior Skill Book - Merciless"
+    "name": "Warrior Secret Book - Merciless"
   },
   {
     "id": "111",
-    "name": "Berserker Skill Book - Predatory Hunt"
+    "name": "Berserker Secret Book - Predatory Hunt"
   },
   {
     "id": "110",
-    "name": "Berserker Skill Book - Shake Off"
+    "name": "Berserker Secret Book - Shake Off"
   },
   {
     "id": "109",
-    "name": "Sorceress Skill Book - Shard Explosion"
+    "name": "Sorceress Secret Book - Shard Explosion"
   },
   {
     "id": "108",
-    "name": "Sorceress Skill Book - Mark of the Shadow"
+    "name": "Sorceress Secret Book - Mark of the Shadow"
   },
   {
     "id": "107",
-    "name": "Sorceress Skill Book - Claws of Darkness"
+    "name": "Sorceress Secret Book - Claws of Darkness"
   },
   {
     "id": "106",
-    "name": "Ranger Skill Book - Razor Wind"
+    "name": "Ranger Secret Book - Razor Wind"
   },
   {
     "id": "105",
-    "name": "Ranger Skill Book - Evasive Shot (Right)"
+    "name": "Ranger Secret Book - Evasive Shot (Right)"
   },
   {
     "id": "104",
-    "name": "Ranger Skill Book - Evasive Shot II"
+    "name": "Ranger Secret Book - Evasive Shot II"
   },
   {
     "id": "103",
-    "name": "Warrior Skill Book - Spinning Slash"
+    "name": "Warrior Secret Book - Spinning Slash"
   },
   {
     "id": "102",
-    "name": "Warrior Skill Book - Charging Thrust"
+    "name": "Warrior Secret Book - Charging Thrust"
   },
   {
     "id": "101",
-    "name": "Warrior Skill Book - Chopping Kick"
+    "name": "Warrior Secret Book - Chopping Kick"
   },
   {
     "id": "127",
-    "name": "Valkyrie Skill Book - Sword of Judgment"
+    "name": "Valkyrie Secret Book - Sword of Judgment"
   },
   {
     "id": "126",
-    "name": "Valkyrie Skill Book - Breath of Elion"
+    "name": "Valkyrie Secret Book - Breath of Elion"
   },
   {
     "id": "125",
-    "name": "Tamer Skill Book - Fortune's Blessing"
+    "name": "Tamer Secret Book - Fortune's Blessing"
   },
   {
     "id": "124",
-    "name": "Musa Skill Book - Force of the Sword"
+    "name": "Musa Secret Book - Force of the Sword"
   },
   {
     "id": "123",
-    "name": "Warrior Skill Book - Increase Grip"
+    "name": "Warrior Secret Book - Increase Grip"
   },
   {
     "id": "122",
-    "name": "Musa Skill Book - Rising Storm"
+    "name": "Musa Secret Book - Rising Storm"
   },
   {
     "id": "121",
-    "name": "Musa Skill Book - Retaliation"
+    "name": "Musa Secret Book - Retaliation"
   },
   {
     "id": "120",
-    "name": "Musa Skill Book - Blind Thrust"
+    "name": "Musa Secret Book - Blind Thrust"
   },
   {
     "id": "119",
-    "name": "Tamer Skill Book - Heilang: Roaring"
+    "name": "Tamer Secret Book - Heilang: Roaring"
   },
   {
     "id": "118",
-    "name": "Tamer Skill Book - Heilang: Scratch"
+    "name": "Tamer Secret Book - Heilang: Scratch"
   },
   {
     "id": "117",
-    "name": "Tamer Skill Book - Heilang: Lightning of Earth"
+    "name": "Tamer Secret Book - Heilang: Lightning of Earth"
   },
   {
     "id": "116",
-    "name": "Berserker Skill Book - Fort of Giant"
+    "name": "Berserker Secret Book - Fort of Giant"
   },
   {
     "id": "115",
-    "name": "Sorceress Skill Book - Dark Bound"
+    "name": "Sorceress Secret Book - Dark Bound"
   },
   {
     "id": "114",
-    "name": "Ranger Skill Book - Wind of the Spirit"
+    "name": "Ranger Secret Book - Wind of the Spirit"
   },
   {
     "id": "113",
-    "name": "Warrior Skill Book - Soul of Warrior"
+    "name": "Warrior Secret Book - Soul of Warrior"
   },
   {
     "id": "112",
-    "name": "Berserker Skill Book - Raging Thunder"
+    "name": "Berserker Secret Book - Raging Thunder"
   },
   {
     "id": "79",
@@ -122273,7 +123765,7 @@
   },
   {
     "id": "26723",
-    "name": "[Mystic] Lahr Arcien Underwear A (No Stockings)"
+    "name": "[Mystic] Lahr Arcien Underwear (No Stockings)"
   },
   {
     "id": "26722",
@@ -135857,7 +137349,7 @@
   },
   {
     "id": "19175",
-    "name": "[Sorceress] Nude Basic Underwear"
+    "name": "[Sorceress] Nude Deep Black Underwear"
   },
   {
     "id": "19174",
@@ -138673,7 +140165,7 @@
   },
   {
     "id": "18858",
-    "name": "Compass (120 min.)"
+    "name": "Compass (120 min)"
   },
   {
     "id": "18857",
@@ -139689,7 +141181,7 @@
   },
   {
     "id": "17991",
-    "name": "Sub-Weapon Exchange Coupon (7 Days)"
+    "name": "Sub-weapon Exchange Coupon (7 Days)"
   },
   {
     "id": "17990",
@@ -139705,7 +141197,7 @@
   },
   {
     "id": "17987",
-    "name": "Sub-Weapon Exchange Coupon (7 Days)"
+    "name": "Sub-weapon Exchange Coupon (7 Days)"
   },
   {
     "id": "17986",
@@ -142037,7 +143529,7 @@
   },
   {
     "id": "17693",
-    "name": "Sealed Compass (120 min.)"
+    "name": "Sealed Compass (120 min)"
   },
   {
     "id": "17692",
@@ -143768,10 +145260,6 @@
     "name": "GS25 스폐셜 도시락 이벤트 패키지"
   },
   {
-    "id": "16491",
-    "name": "[Eveny] PC Cafe VIP SPECIAL Package"
-  },
-  {
     "id": "16488",
     "name": "[이벤트] 검은사막 FESTA 패키지"
   },
@@ -144253,7 +145741,7 @@
   },
   {
     "id": "16663",
-    "name": "Suppressed Kutum Sub-Weapon Box"
+    "name": "Suppressed Kutum Sub-weapon Box"
   },
   {
     "id": "16662",
